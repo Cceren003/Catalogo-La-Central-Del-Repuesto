@@ -367,9 +367,9 @@ function renderizar() {
     const st = stock>10?'En stock':stock>0?`Solo ${stock} uds.`:'Agotado';
     const iniciales = (p.Categoria||'PR').substring(0,2).toUpperCase();
     const precioMostrar = getPrecio(p);
-    const imgTag = p.Foto ? `<img src="${p.Foto}" onerror="this.style.display='none';this.nextSibling.style.display='flex'">
-      <div class="card-img-placeholder" style="display:none">${iniciales}</div>` 
-      : `<div class="card-img-placeholder">${iniciales}</div>`;
+    const fotoUrl = p.Foto || IMG_BASE + p.SKU + '.jpg';
+    const imgTag = `<img src="${fotoUrl}" onerror="this.style.display='none';this.nextSibling.style.display='flex'">
+      <div class="card-img-placeholder" style="display:none">${iniciales}</div>`;
     return `<div class="card" style="animation-delay:${i*0.02}s" onclick="abrirModal(${todos.indexOf(p)})">
       <div class="card-img">
         ${imgTag}
@@ -431,9 +431,8 @@ function abrirModal(idx) {
   document.getElementById('modal-sku').textContent = `SKU: ${p.SKU} · ${p.Categoria} · ${p.Proveedor}`;
   
   const iniciales = (p.Categoria||'PR').substring(0,2).toUpperCase();
-  const imgSection = p.Foto ? 
-    `<div class="modal-img"><img src="${p.Foto}" onerror="this.parentElement.innerHTML='<div class=modal-img-ph>${iniciales}</div>'"></div>` :
-    `<div class="modal-img"><div class="modal-img-ph">${iniciales}</div></div>`;
+  const fotoModal = p.Foto || IMG_BASE + p.SKU + '.jpg';
+  const imgSection = `<div class="modal-img"><img src="${fotoModal}" onerror="this.parentElement.innerHTML='<div class=modal-img-ph>${iniciales}</div>'"></div>`;
 
   const preciosHTML = `
     <div class="precios-grid">
