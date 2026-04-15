@@ -597,7 +597,78 @@ document.getElementById('buscar').addEventListener('input',filtrar);
 document.getElementById('filtro-proveedor').addEventListener('change',filtrar);
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){cerrarModal();cerrarLogin();document.getElementById('modal-carrito').classList.remove('open');}});
 
+// ── CONEXIÓN GOOGLE SHEETS ─────────────────────────────
+const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSVbWwU_9TPZ0vNyVv2faAoYzRy_jsjWS8mU4V_8-oEV3BmA0FWzXoaWmkgYypCai7sbzBzHmsNz1hS/pub?output=csv';
+
+function parseFila(linea) {
+  const res = []; let cur = ''; let dentro = false;
+  for (let i = 0; i < linea.length; i++) {
+    const c = linea[i];
+    if (c === '"') { dentro = !dentro; continue; }
+    if (c === ',' && !dentro) { res.push(cur); cur = ''; continue; }
+    cur += c;
+  }
+  res.push(cur);
+  return res;
+}
+
+function parseCSV(txt) {
+  const lineas = txt.trim().split('\n');
+  if (lineas.length < 2) return [];
+  const headers = parseFila(lineas[0]);
+  return lineas.slice(1).map(l => {
+    const raw = {};
+    parseFila(l).forEach((v, i) => raw[(headers[i]||'').trim()] = v.trim());
+    return {
+      SKU:          raw['SKU'] || '',
+      Nombre:       raw['Nombre'] || '',
+      Categoria:    raw['Categoria'] || '',
+      Proveedor:    raw['Proveedor'] || '',
+      CodProv:      raw['CodProv'] || '',
+      Marca:        raw['Marca'] || '',
+      Descripcion:  raw['Descripcion'] || '',
+      Presentacion: raw['Presentacion'] || '',
+      MarcaMoto:    raw['MarcaMoto'] || '',
+      Modelo:       raw['Modelo'] || '',
+      P1:           parseFloat(raw['P1']||0),
+      P4:           parseFloat(raw['P4']||0),
+      P7:           parseFloat(raw['P7']||0),
+      Costo:        parseFloat(raw['Costo']||0),
+      Stock:        parseInt(raw['Stock']||0),
+      Foto:         raw['Foto'] || '',
+      Equivalencias:raw['Equivalencias'] || '',
+      Estado:       raw['Estado'] || 'Activo'
+    };
+  }).filter(p => p.SKU);
+}
+
+async function cargarDesdeSheets() {
+  const proxies = [
+    () => fetch(`https://corsproxy.io/?${encodeURIComponent(CSV_URL)}`).then(r => r.text()),
+    () => fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(CSV_URL)}`).then(r => r.json()).then(d => d.contents),
+  ];
+  for (const proxy of proxies) {
+    try {
+      const txt = await proxy();
+      if (txt && txt.includes(',')) {
+        const data = parseCSV(txt);
+        if (data.length > 100) {
+          todos = data;
+          document.getElementById('cnt-total').textContent = todos.length;
+          construirTabs();
+          filtrar();
+          console.log('✓ Datos desde Google Sheets:', data.length);
+          return true;
+        }
+      }
+    } catch(e) { continue; }
+  }
+  return false;
+}
+
 init();
+// Intentar actualizar desde Sheets en segundo plano
+cargarDesdeSheets();
 </script>
 </body>
 </html>
