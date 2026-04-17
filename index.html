@@ -474,8 +474,8 @@ const CONFIG = {
     asesor: { num: '50370005678', label: 'Asesor 1' }
   },
   login: {
-    DIST2024: { level: 'distribuidor', label: 'Distribuidor', priceKey: 'precio_6' },
-    MAYOR2024: { level: 'mayoreo', label: 'Mayoreo', priceKey: 'precio_4' }
+    DIST2024: { level: 'distribuidor', label: 'Distribuidor', priceKey: 'distribuidor' },
+    MAYOR2024: { level: 'taller', label: 'Taller', priceKey: 'taller' }
   },
   pageSize: 60
 };
@@ -485,7 +485,7 @@ const CONFIG = {
 // ═══════════════════════════════════════════
 let catalog = [];
 let filtered = [];
-let userLevel = null; // null | 'distribuidor' | 'mayoreo'
+let userLevel = null; // null | 'distribuidor' | 'taller'
 let currentPage = 1;
 let activeCategory = 'all';
 let isLoading = false;
@@ -497,7 +497,8 @@ async function loadCatalog() {
   try {
     const res = await fetch(CONFIG.dataUrl);
     if (!res.ok) throw new Error('No se pudo cargar el catálogo');
-    catalog = await res.json();
+    const data = await res.json();
+    catalog = Array.isArray(data) ? data : (data.productos || []);
     initUI();
   } catch (err) {
     document.getElementById('productsGrid').innerHTML = `
@@ -620,11 +621,11 @@ function renderProducts() {
 function getDisplayPrice(p) {
   if (userLevel) {
     const cfg = Object.values(CONFIG.login).find(l => l.level === userLevel);
-    if (cfg && p.precio_niveles && p.precio_niveles[cfg.priceKey]) {
-      return '$' + p.precio_niveles[cfg.priceKey].toFixed(2);
-    }
+    const v = cfg && p.precios ? p.precios[cfg.priceKey] : null;
+    if (v != null) return '$' + v.toFixed(2);
   }
-  return p.precio_publico ? '$' + p.precio_publico.toFixed(2) : '—';
+  const pub = p.precios?.publico;
+  return pub != null ? '$' + pub.toFixed(2) : '—';
 }
 
 // ═══════════════════════════════════════════
@@ -655,23 +656,25 @@ function showDetail(sku) {
   const overlay = document.getElementById('detailOverlay');
   const card = document.getElementById('detailCard');
 
+  const pr = p.precios || {};
+  const fmt = v => v != null ? '$' + v.toFixed(2) : '—';
   let priceRows = `
     <div class="detail-info-item">
       <div class="detail-info-label">PRECIO PÚBLICO</div>
-      <div class="detail-info-value">${p.precio_publico ? '$' + p.precio_publico.toFixed(2) : '—'}</div>
+      <div class="detail-info-value">${fmt(pr.publico)}</div>
     </div>`;
 
-  if (userLevel === 'distribuidor' && p.precio_niveles) {
+  if (userLevel === 'distribuidor') {
     priceRows += `
     <div class="detail-info-item">
       <div class="detail-info-label">DISTRIBUIDOR</div>
-      <div class="detail-info-value" style="color:#66bb6a">${p.precio_niveles.precio_6 ? '$' + p.precio_niveles.precio_6.toFixed(2) : '—'}</div>
+      <div class="detail-info-value" style="color:#66bb6a">${fmt(pr.distribuidor)}</div>
     </div>`;
-  } else if (userLevel === 'mayoreo' && p.precio_niveles) {
+  } else if (userLevel === 'taller') {
     priceRows += `
     <div class="detail-info-item">
-      <div class="detail-info-label">MAYOREO</div>
-      <div class="detail-info-value" style="color:#66bb6a">${p.precio_niveles.precio_4 ? '$' + p.precio_niveles.precio_4.toFixed(2) : '—'}</div>
+      <div class="detail-info-label">TALLER</div>
+      <div class="detail-info-value" style="color:#66bb6a">${fmt(pr.taller)}</div>
     </div>`;
   } else {
     priceRows += `
@@ -696,8 +699,8 @@ function showDetail(sku) {
       <div class="detail-info">
         ${priceRows}
         <div class="detail-info-item">
-          <div class="detail-info-label">MAYOREO</div>
-          <div class="detail-info-value">${userLevel === 'mayoreo' && p.precio_niveles?.precio_4 ? '$' + p.precio_niveles.precio_4.toFixed(2) : '<span class="price-locked">Requiere acceso</span>'}</div>
+          <div class="detail-info-label">TALLER</div>
+          <div class="detail-info-value">${userLevel === 'taller' && pr.taller != null ? fmt(pr.taller) : '<span class="price-locked">Requiere acceso</span>'}</div>
         </div>
         <div class="detail-info-item">
           <div class="detail-info-label">STOCK</div>

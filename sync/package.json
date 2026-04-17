@@ -1,0 +1,21 @@
+{
+  "name": "lcr-catalogo-sync",
+  "version": "0.1.0",
+  "description": "Sync del inventario de La Central del Repuesto (dev.oss.com.sv) hacia catalogo.json para GitHub Pages.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node sync.js",
+    "sync": "node sync.js",
+    "dry-run": "node sync.js --dry-run"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "axios-cookiejar-support": "^5.0.3",
+    "tough-cookie": "^5.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

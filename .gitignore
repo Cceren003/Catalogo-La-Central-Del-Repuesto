@@ -1,0 +1,13 @@
+# Credenciales del sync (NUNCA subir)
+sync/config.json
+sync/reporte_inventario_sample.xls
+sync/downloads/
+sync/*.xls
+sync/*.xlsx
+
+# Dependencias
+sync/node_modules/
+sync/package-lock.json
+
+# Logs
+sync/*.log

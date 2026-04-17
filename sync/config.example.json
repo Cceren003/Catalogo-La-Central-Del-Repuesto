@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://dev.oss.com.sv/central_repuestos",
+  "username": "TU_USUARIO_LCR",
+  "password": "TU_PASSWORD_LCR",
+  "sucursal": 0,
+  "output": "../catalogo.json"
+}
