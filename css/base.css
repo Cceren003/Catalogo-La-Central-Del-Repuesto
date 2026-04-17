@@ -1,0 +1,78 @@
+/* ═══════════════════════════════════════════
+   LCR — Base CSS
+   Design tokens, reset, typography, utilities
+   ═══════════════════════════════════════════ */
+
+:root {
+  --lcr-black:       #0D0D0D;
+  --lcr-red:         #C0192A;
+  --lcr-red-dark:    #8B1120;
+  --lcr-red-light:   #E02334;
+  --lcr-white:       #FFFFFF;
+  --lcr-gray:        #1A1A1A;
+  --lcr-gray2:       #2A2A2A;
+  --lcr-gray3:       #3D3D3D;
+  --lcr-muted:       #888780;
+  --lcr-surface:     #141414;
+
+  --lcr-green:       #2E8B3E;
+  --lcr-amber:       #C58A2A;
+  --lcr-wa:          #25D366;
+
+  --radius-sm: 4px;
+  --radius:    8px;
+  --radius-lg: 12px;
+
+  --shadow-sm: 0 1px 4px rgba(0,0,0,0.3);
+  --shadow:    0 4px 16px rgba(0,0,0,0.45);
+  --shadow-lg: 0 12px 40px rgba(0,0,0,0.6);
+
+  --nav-h: 64px;
+
+  --ff-sans: 'Barlow', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --ff-cond: 'Barlow Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --ff-display: 'Bebas Neue', 'Barlow Condensed', sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--ff-sans);
+  background: var(--lcr-black);
+  color: var(--lcr-white);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+  color: inherit;
+}
+
+button { cursor: pointer; border: none; background: none; }
+
+input, select { outline: none; }
+
+a { color: inherit; text-decoration: none; }
+
+img { max-width: 100%; display: block; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--lcr-gray); }
+::-webkit-scrollbar-thumb { background: var(--lcr-gray3); border-radius: 5px; }
+::-webkit-scrollbar-thumb:hover { background: #555; }
+
+/* Utilities */
+.container { max-width: 1440px; margin: 0 auto; padding: 0 24px; }
+.red { color: var(--lcr-red); }
+.hidden { display: none !important; }
+.visually-hidden {
+  position: absolute; width: 1px; height: 1px; padding: 0;
+  margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+}

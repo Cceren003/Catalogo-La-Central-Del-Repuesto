@@ -70,3 +70,16 @@ DEBUG=1 node sync.js
 ```
 
 Los campos `imagenes` y `compatibilidades` quedan vacíos en Fase 2 — se enriquecen en Fase 3/4.
+
+## Bodega central (productos "a pedido")
+
+El proveedor envía periódicamente un listado de SKUs que están disponibles en su bodega aunque LCR no los tenga en stock local. Para que aparezcan como "A pedido" en el catálogo web:
+
+1. Guardá el archivo del proveedor en `sync/bodega_central.csv` (también acepta `.xlsx` o `.xls`).
+2. El archivo debe tener una columna llamada `sku` (o `codigo` / `code` / `cod`) con los códigos internos LCR. El resto de columnas se ignoran.
+3. Corré `node sync.js` — el reporte cargará cuántos SKUs se marcaron como "a pedido".
+4. En el sitio, esos productos (si tienen stock local 0) aparecen con badge azul "A pedido" y un CTA "Consultar tiempo por WhatsApp" que abre un chat con Sala de Ventas.
+
+Sin archivo `bodega_central.*`, el sync funciona normal y ningún producto se marca como "a pedido".
+
+**Nota:** actualmente el flujo asume que los SKUs del archivo ya existen en el sistema LCR (están en el reporte de inventario). SKUs que el proveedor ofrezca pero LCR no stockee aún, quedan fuera del catálogo web hasta que se den de alta en el sistema LCR.

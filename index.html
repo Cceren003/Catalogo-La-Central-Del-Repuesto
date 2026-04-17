@@ -1,796 +1,180 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>La Central del Repuesto — Catálogo</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
-<style>
-:root {
-  --bg-dark: #0f0f0f;
-  --bg-card: #1a1a1a;
-  --bg-card-hover: #222;
-  --accent-red: #c62828;
-  --accent-red-light: #e53935;
-  --accent-green: #2e7d32;
-  --text-primary: #f5f5f5;
-  --text-secondary: #aaa;
-  --text-muted: #666;
-  --border: #2a2a2a;
-  --border-light: #333;
-  --whatsapp: #25d366;
-  --shadow: 0 2px 12px rgba(0,0,0,0.4);
-  --radius: 8px;
-  --header-h: 64px;
-}
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
-body {
-  font-family: 'Barlow', sans-serif;
-  background: var(--bg-dark);
-  color: var(--text-primary);
-  min-height: 100vh;
-  -webkit-font-smoothing: antialiased;
-}
-
-/* ── HEADER ── */
-.header {
-  position: sticky; top: 0; z-index: 100;
-  background: rgba(15,15,15,0.95);
-  backdrop-filter: blur(12px);
-  border-bottom: 1px solid var(--border);
-  height: var(--header-h);
-  display: flex; align-items: center; justify-content: space-between;
-  padding: 0 24px;
-}
-.header-logo { height: 40px; }
-.header-right { display: flex; align-items: center; gap: 12px; }
-.header-count {
-  font-family: 'Barlow Condensed', sans-serif;
-  font-size: 13px; color: var(--text-muted);
-  letter-spacing: 0.5px;
-}
-.login-btn {
-  background: var(--accent-red);
-  color: white; border: none;
-  padding: 8px 18px; border-radius: 6px;
-  font-family: 'Barlow', sans-serif;
-  font-weight: 600; font-size: 13px;
-  cursor: pointer; transition: background 0.2s;
-  letter-spacing: 0.3px;
-}
-.login-btn:hover { background: var(--accent-red-light); }
-
-/* ── LOGIN MODAL ── */
-.modal-overlay {
-  position: fixed; inset: 0; z-index: 200;
-  background: rgba(0,0,0,0.7);
-  backdrop-filter: blur(6px);
-  display: none; align-items: center; justify-content: center;
-}
-.modal-overlay.active { display: flex; }
-.modal {
-  background: var(--bg-card);
-  border: 1px solid var(--border-light);
-  border-radius: 12px; padding: 32px;
-  width: 90%; max-width: 380px;
-  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
-}
-.modal h2 {
-  font-family: 'Bebas Neue', sans-serif;
-  font-size: 24px; letter-spacing: 2px;
-  margin-bottom: 20px; text-align: center;
-}
-.modal input {
-  width: 100%; padding: 12px 14px;
-  background: var(--bg-dark); border: 1px solid var(--border-light);
-  border-radius: 6px; color: var(--text-primary);
-  font-family: 'Barlow', sans-serif; font-size: 14px;
-  margin-bottom: 12px; outline: none; transition: border 0.2s;
-}
-.modal input:focus { border-color: var(--accent-red); }
-.modal-actions { display: flex; gap: 10px; margin-top: 8px; }
-.modal-actions button {
-  flex: 1; padding: 12px; border: none; border-radius: 6px;
-  font-family: 'Barlow', sans-serif; font-weight: 600; font-size: 14px;
-  cursor: pointer; transition: 0.2s;
-}
-.modal .btn-primary { background: var(--accent-red); color: white; }
-.modal .btn-primary:hover { background: var(--accent-red-light); }
-.modal .btn-secondary { background: var(--border-light); color: var(--text-secondary); }
-.modal .btn-secondary:hover { background: #444; }
-.modal-error { color: var(--accent-red-light); font-size: 13px; text-align: center; min-height: 18px; margin-bottom: 4px; }
-
-/* ── TOOLBAR ── */
-.toolbar {
-  position: sticky; top: var(--header-h); z-index: 90;
-  background: rgba(15,15,15,0.92);
-  backdrop-filter: blur(10px);
-  border-bottom: 1px solid var(--border);
-  padding: 12px 24px;
-}
-.toolbar-inner {
-  max-width: 1400px; margin: 0 auto;
-  display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
-}
-.search-box {
-  flex: 1; min-width: 200px; position: relative;
-}
-.search-box input {
-  width: 100%; padding: 10px 14px 10px 38px;
-  background: var(--bg-card); border: 1px solid var(--border-light);
-  border-radius: 6px; color: var(--text-primary);
-  font-family: 'Barlow', sans-serif; font-size: 14px;
-  outline: none; transition: border 0.2s;
-}
-.search-box input:focus { border-color: var(--accent-red); }
-.search-box svg {
-  position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
-  width: 16px; height: 16px; color: var(--text-muted);
-}
-.filter-select {
-  padding: 10px 14px; background: var(--bg-card);
-  border: 1px solid var(--border-light); border-radius: 6px;
-  color: var(--text-primary); font-family: 'Barlow', sans-serif;
-  font-size: 14px; outline: none; cursor: pointer; min-width: 160px;
-}
-.filter-select:focus { border-color: var(--accent-red); }
-
-/* ── CATEGORY CHIPS ── */
-.cat-chips {
-  max-width: 1400px; margin: 0 auto;
-  padding: 12px 24px 0;
-  display: flex; gap: 8px; flex-wrap: wrap;
-}
-.cat-chip {
-  padding: 6px 14px; border-radius: 20px;
-  background: var(--bg-card); border: 1px solid var(--border-light);
-  color: var(--text-secondary); font-size: 13px; font-weight: 500;
-  cursor: pointer; transition: 0.2s; white-space: nowrap;
-  font-family: 'Barlow Condensed', sans-serif;
-  letter-spacing: 0.5px;
-}
-.cat-chip:hover { border-color: var(--accent-red); color: var(--text-primary); }
-.cat-chip.active {
-  background: var(--accent-red); border-color: var(--accent-red);
-  color: white;
-}
-.cat-chip .chip-count {
-  font-size: 11px; opacity: 0.7; margin-left: 4px;
-}
-
-/* ── GRID ── */
-.grid-container {
-  max-width: 1400px; margin: 0 auto; padding: 20px 24px 80px;
-}
-.products-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 16px;
-}
-
-/* ── CARD ── */
-.card {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  overflow: hidden; cursor: pointer;
-  transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
-}
-.card:hover {
-  transform: translateY(-3px);
-  border-color: var(--border-light);
-  box-shadow: var(--shadow);
-}
-.card-img {
-  width: 100%; height: 180px;
-  background: #111; display: flex; align-items: center; justify-content: center;
-  overflow: hidden; position: relative;
-}
-.card-img img {
-  max-width: 90%; max-height: 90%; object-fit: contain;
-}
-.card-img .no-img {
-  color: var(--text-muted); font-size: 13px;
-  font-family: 'Barlow Condensed', sans-serif;
-}
-.card-badge {
-  position: absolute; top: 8px; left: 8px;
-  background: var(--accent-red); color: white;
-  font-size: 10px; font-weight: 700;
-  padding: 3px 8px; border-radius: 4px;
-  font-family: 'Barlow Condensed', sans-serif;
-  letter-spacing: 0.5px; text-transform: uppercase;
-}
-.card-body { padding: 14px; }
-.card-marca {
-  font-family: 'Barlow Condensed', sans-serif;
-  font-size: 11px; color: var(--accent-red-light);
-  letter-spacing: 1px; text-transform: uppercase;
-  margin-bottom: 4px; font-weight: 600;
-}
-.card-nombre {
-  font-family: 'Barlow Condensed', sans-serif;
-  font-size: 14px; font-weight: 600;
-  line-height: 1.3; margin-bottom: 10px;
-  color: var(--text-primary);
-  display: -webkit-box; -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical; overflow: hidden;
-}
-.card-footer {
-  display: flex; align-items: center; justify-content: space-between;
-}
-.card-precio {
-  font-family: 'Bebas Neue', sans-serif;
-  font-size: 22px; letter-spacing: 1px;
-}
-.card-stock {
-  font-size: 11px; font-weight: 600;
-  padding: 3px 8px; border-radius: 4px;
-  font-family: 'Barlow Condensed', sans-serif;
-}
-.stock-si { background: rgba(46,125,50,0.2); color: #66bb6a; }
-.stock-no { background: rgba(198,40,40,0.15); color: #ef5350; }
-
-/* ── DETAIL MODAL ── */
-.detail-overlay {
-  position: fixed; inset: 0; z-index: 300;
-  background: rgba(0,0,0,0.8);
-  backdrop-filter: blur(8px);
-  display: none; align-items: flex-start; justify-content: center;
-  overflow-y: auto; padding: 40px 16px;
-}
-.detail-overlay.active { display: flex; }
-.detail-card {
-  background: var(--bg-card);
-  border: 1px solid var(--border-light);
-  border-radius: 12px;
-  width: 100%; max-width: 700px;
-  box-shadow: 0 30px 80px rgba(0,0,0,0.6);
-  animation: slideUp 0.25s ease;
-}
-@keyframes slideUp {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-.detail-close {
-  position: absolute; top: 16px; right: 16px;
-  background: rgba(0,0,0,0.5); border: none;
-  color: white; width: 36px; height: 36px;
-  border-radius: 50%; cursor: pointer;
-  font-size: 18px; display: flex; align-items: center; justify-content: center;
-  transition: background 0.2s; z-index: 10;
-}
-.detail-close:hover { background: var(--accent-red); }
-.detail-img {
-  width: 100%; height: 300px; background: #111;
-  display: flex; align-items: center; justify-content: center;
-  position: relative; border-radius: 12px 12px 0 0; overflow: hidden;
-}
-.detail-img img { max-width: 85%; max-height: 85%; object-fit: contain; }
-.detail-body { padding: 24px; }
-.detail-marca {
-  font-family: 'Barlow Condensed', sans-serif;
-  color: var(--accent-red-light); font-size: 13px;
-  font-weight: 600; letter-spacing: 1.5px;
-  text-transform: uppercase; margin-bottom: 6px;
-}
-.detail-nombre {
-  font-family: 'Bebas Neue', sans-serif;
-  font-size: 28px; letter-spacing: 1px;
-  line-height: 1.2; margin-bottom: 16px;
-}
-.detail-info {
-  display: grid; grid-template-columns: 1fr 1fr;
-  gap: 1px; background: var(--border);
-  border-radius: 8px; overflow: hidden; margin-bottom: 20px;
-}
-.detail-info-item {
-  background: var(--bg-dark); padding: 14px 16px;
-}
-.detail-info-label {
-  font-family: 'Barlow Condensed', sans-serif;
-  font-size: 10px; color: var(--text-muted);
-  letter-spacing: 1.5px; text-transform: uppercase;
-  margin-bottom: 4px;
-}
-.detail-info-value {
-  font-family: 'Bebas Neue', sans-serif;
-  font-size: 22px; letter-spacing: 0.5px;
-}
-.detail-info-value.small {
-  font-family: 'Barlow', sans-serif;
-  font-size: 14px; font-weight: 500;
-}
-.price-locked {
-  color: var(--text-muted); font-style: italic;
-  font-family: 'Barlow', sans-serif; font-size: 13px;
-}
-
-/* Equivalencias / SKU */
-.detail-sku {
-  font-family: 'Barlow Condensed', sans-serif;
-  font-size: 12px; color: var(--text-muted);
-  letter-spacing: 1px; margin-bottom: 16px;
-}
-
-/* WhatsApp buttons */
-.wa-buttons {
-  display: flex; gap: 10px; margin-top: 16px;
-}
-.wa-btn {
-  flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px;
-  padding: 14px; border: none; border-radius: 8px;
-  background: var(--whatsapp); color: white;
-  font-family: 'Barlow', sans-serif; font-weight: 700; font-size: 14px;
-  cursor: pointer; text-decoration: none; transition: 0.2s;
-}
-.wa-btn:hover { background: #1ebe57; transform: translateY(-1px); }
-.wa-btn svg { width: 18px; height: 18px; }
-
-/* ── NO RESULTS ── */
-.no-results {
-  text-align: center; padding: 80px 20px;
-  color: var(--text-muted);
-}
-.no-results h3 {
-  font-family: 'Bebas Neue', sans-serif;
-  font-size: 28px; letter-spacing: 2px;
-  margin-bottom: 8px; color: var(--text-secondary);
-}
-
-/* ── LOADING ── */
-.loading {
-  display: flex; align-items: center; justify-content: center;
-  padding: 80px; flex-direction: column; gap: 16px;
-}
-.spinner {
-  width: 40px; height: 40px;
-  border: 3px solid var(--border-light);
-  border-top-color: var(--accent-red);
-  border-radius: 50%;
-  animation: spin 0.8s linear infinite;
-}
-@keyframes spin { to { transform: rotate(360deg); } }
-
-/* ── SCROLL TOP ── */
-.scroll-top {
-  position: fixed; bottom: 24px; right: 24px;
-  width: 44px; height: 44px;
-  background: var(--accent-red); border: none;
-  border-radius: 50%; color: white;
-  cursor: pointer; opacity: 0; transition: 0.3s;
-  box-shadow: 0 4px 16px rgba(198,40,40,0.4);
-  display: flex; align-items: center; justify-content: center;
-  z-index: 50;
-}
-.scroll-top.visible { opacity: 1; }
-.scroll-top:hover { background: var(--accent-red-light); transform: translateY(-2px); }
-
-/* ── RESPONSIVE ── */
-@media (max-width: 768px) {
-  .header { padding: 0 16px; }
-  .toolbar { padding: 10px 16px; }
-  .toolbar-inner { gap: 8px; }
-  .filter-select { min-width: 120px; font-size: 13px; }
-  .grid-container { padding: 16px 12px 80px; }
-  .products-grid {
-    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-    gap: 10px;
-  }
-  .card-img { height: 140px; }
-  .card-body { padding: 10px; }
-  .card-nombre { font-size: 12px; }
-  .card-precio { font-size: 18px; }
-  .cat-chips { padding: 10px 12px 0; gap: 6px; overflow-x: auto; flex-wrap: nowrap; }
-  .cat-chip { font-size: 12px; padding: 5px 10px; }
-  .detail-card { border-radius: 12px; }
-  .detail-img { height: 220px; }
-  .detail-nombre { font-size: 22px; }
-  .wa-buttons { flex-direction: column; }
-}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>La Central del Repuesto — Catálogo</title>
+  <meta name="description" content="Catálogo profesional de repuestos para motos. Envíos a todo El Salvador.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css?v=8">
+  <link rel="stylesheet" href="css/components.css?v=8">
 </head>
 <body>
 
-<!-- HEADER -->
-<header class="header">
-  <img src="img/logo.png" alt="La Central del Repuesto" class="header-logo"
-       onerror="this.style.display='none';this.nextElementSibling.style.display='block'">
-  <span style="display:none;font-family:'Bebas Neue',sans-serif;font-size:20px;letter-spacing:2px;">
-    LA <span style="color:var(--accent-red)">CENTRAL</span> DEL REPUESTO
-  </span>
-  <div class="header-right">
-    <span class="header-count" id="totalCount"></span>
-    <button class="login-btn" id="loginBtn">INICIAR SESIÓN</button>
+<!-- ═══════════════════════════════════════════
+     NAVBAR
+     ═══════════════════════════════════════════ -->
+<header class="navbar">
+  <div class="navbar-inner">
+    <a href="#" class="navbar-brand">LA <span class="red">CENTRAL</span> DEL REPUESTO</a>
+
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+      </svg>
+      <input id="searchInput" type="search" placeholder="Buscar por nombre, código o marca…" autocomplete="off">
+    </div>
+
+    <div class="nav-actions">
+      <button class="cart-btn" id="cartToggleBtn" title="Carrito">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/>
+          <path d="M1 1h4l2.7 13.4a2 2 0 0 0 2 1.6h9.7a2 2 0 0 0 2-1.6L23 6H6"/>
+        </svg>
+        <span>Carrito</span>
+        <span class="cart-count zero" id="cartCount">0</span>
+      </button>
+      <button class="btn btn-primary" id="loginBtn">Iniciar sesión</button>
+    </div>
   </div>
 </header>
 
-<!-- TOOLBAR -->
-<div class="toolbar">
-  <div class="toolbar-inner">
-    <div class="search-box">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
-      </svg>
-      <input type="text" id="searchInput" placeholder="Buscar por nombre, código o marca...">
+<!-- ═══════════════════════════════════════════
+     HERO
+     ═══════════════════════════════════════════ -->
+<section class="hero">
+  <div class="hero-inner">
+    <div>
+      <h1 class="hero-title">REPUESTOS PARA<span class="red">TU MOTO</span></h1>
+      <div class="hero-brands">
+        <span class="brand">HONDA</span>·<span class="brand">FREEDOM</span>·<span class="brand">AKT</span>·<span class="brand">TVS</span>·<span class="brand">DAYUN</span>·<span class="brand">HERO</span>·<span class="brand">KATANA</span>·<span class="brand">SERPENTO</span>·<span class="brand">BAJAJ</span>·<span class="brand">YAMAHA</span>·<span class="brand">SUZUKI</span>·<span class="brand">UM</span>
+      </div>
     </div>
-    <select class="filter-select" id="marcaFilter">
-      <option value="all">Todas las marcas</option>
-    </select>
-    <select class="filter-select" id="stockFilter">
-      <option value="all">Todo el stock</option>
-      <option value="available">Con stock</option>
-      <option value="out">Sin stock</option>
-    </select>
+
+    <div class="hero-compat">
+      <h3>BUSCAR COMPATIBILIDAD</h3>
+      <select class="select-field" id="compatMarca">
+        <option value="">Selecciona la marca</option>
+      </select>
+      <select class="select-field" id="compatModelo" disabled>
+        <option value="">Modelo de moto</option>
+      </select>
+      <select class="select-field" id="compatAnio" disabled>
+        <option value="">Año</option>
+      </select>
+      <button class="btn btn-primary" id="compatBtn">Ver piezas compatibles</button>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════
+     CATEGORY PILLS
+     ═══════════════════════════════════════════ -->
+<nav class="cat-pills-wrap">
+  <div class="cat-pills" id="catPills"></div>
+</nav>
+
+<!-- ═══════════════════════════════════════════
+     MAIN LAYOUT
+     ═══════════════════════════════════════════ -->
+<main class="main">
+  <!-- Filters sidebar -->
+  <aside class="filters">
+    <h4>FILTRAR</h4>
+
+    <div class="filter-block">
+      <div class="filter-label">Marca de moto</div>
+      <div class="chip-group" id="filterMarcaMoto"></div>
+    </div>
+
+    <div class="filter-block">
+      <div class="filter-label">Marca del repuesto</div>
+      <div class="chip-group" id="filterMarcaRepuesto"></div>
+    </div>
+
+    <div class="filter-block">
+      <div class="filter-label">Disponibilidad</div>
+      <div class="chip-group" id="filterStock"></div>
+    </div>
+  </aside>
+
+  <!-- Product grid -->
+  <section>
+    <div class="products-header">
+      <div class="products-count"><strong id="totalCount">0</strong> productos encontrados</div>
+      <select class="sort-field" id="sortBy">
+        <option value="relevance">Más relevantes</option>
+        <option value="price-asc">Precio: menor a mayor</option>
+        <option value="price-desc">Precio: mayor a menor</option>
+        <option value="alpha">Alfabético (A → Z)</option>
+      </select>
+    </div>
+    <div class="grid" id="grid"></div>
+  </section>
+
+  <!-- Cart panel -->
+  <aside class="cart-panel">
+    <h4>
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/>
+        <path d="M1 1h4l2.7 13.4a2 2 0 0 0 2 1.6h9.7a2 2 0 0 0 2-1.6L23 6H6"/>
+      </svg>
+      MI CARRITO
+    </h4>
+    <div class="cart-items" id="cartItems"></div>
+    <div class="cart-total-row">
+      <span>Total</span>
+      <span class="amount" id="cartTotal">$0.00</span>
+    </div>
+    <div class="cart-actions">
+      <button class="btn btn-wa block" id="cartWaBtn">Enviar pedido por WhatsApp</button>
+      <button class="btn btn-ghost block sm" id="cartClearBtn">Vaciar carrito</button>
+    </div>
+  </aside>
+</main>
+
+<!-- ═══════════════════════════════════════════
+     DETAIL MODAL
+     ═══════════════════════════════════════════ -->
+<div class="modal-overlay detail" id="detailOverlay">
+  <div class="modal-detail">
+    <button class="modal-close" id="detailClose" aria-label="Cerrar">×</button>
+    <div class="detail-img" id="detailImg"></div>
+    <div class="detail-body" id="detailBody"></div>
   </div>
 </div>
 
-<!-- CATEGORY CHIPS -->
-<div class="cat-chips" id="catChips"></div>
-
-<!-- PRODUCTS GRID -->
-<div class="grid-container">
-  <div id="productsGrid" class="products-grid">
-    <div class="loading"><div class="spinner"></div><span style="color:var(--text-muted)">Cargando catálogo...</span></div>
-  </div>
-</div>
-
-<!-- DETAIL MODAL -->
-<div class="detail-overlay" id="detailOverlay">
-  <div class="detail-card" id="detailCard"></div>
-</div>
-
-<!-- LOGIN MODAL -->
+<!-- ═══════════════════════════════════════════
+     LOGIN MODAL
+     ═══════════════════════════════════════════ -->
 <div class="modal-overlay" id="loginModal">
   <div class="modal">
-    <h2>ACCESO PRECIOS ESPECIALES</h2>
-    <div class="modal-error" id="loginError"></div>
-    <input type="text" id="loginUser" placeholder="Usuario">
-    <input type="password" id="loginPass" placeholder="Contraseña">
-    <div class="modal-actions">
-      <button class="btn-secondary" onclick="closeLogin()">Cancelar</button>
-      <button class="btn-primary" onclick="doLogin()">Entrar</button>
-    </div>
+    <button class="modal-close" id="loginClose" aria-label="Cerrar">×</button>
+    <h2>ACCESO</h2>
+    <form id="loginForm">
+      <input class="input-field" id="loginPass" type="password" placeholder="Contraseña" autocomplete="current-password" required>
+      <div class="form-error" id="loginError"></div>
+      <button class="btn btn-primary block" type="submit">Entrar</button>
+    </form>
+    <p style="text-align:center;margin-top:14px;font-size:12px;color:var(--lcr-muted);">
+      ¿No tenés acceso? <a href="https://wa.me/50370301941?text=Hola%2C%20quiero%20solicitar%20acceso%20al%20cat%C3%A1logo" target="_blank" style="color:var(--lcr-red-light);">Solicitar por WhatsApp</a>
+    </p>
   </div>
 </div>
 
-<!-- SCROLL TOP -->
-<button class="scroll-top" id="scrollTop" onclick="window.scrollTo({top:0})">
+<!-- Scroll top -->
+<button class="scroll-top" id="scrollTop" aria-label="Subir">
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
     <path d="M18 15l-6-6-6 6"/>
   </svg>
 </button>
 
-<script>
-// ═══════════════════════════════════════════
-// CONFIG
-// ═══════════════════════════════════════════
-const CONFIG = {
-  dataUrl: 'catalogo.json',
-  whatsapp: {
-    sala: { num: '50370001234', label: 'Sala de Ventas' },
-    asesor: { num: '50370005678', label: 'Asesor 1' }
-  },
-  login: {
-    DIST2024: { level: 'distribuidor', label: 'Distribuidor', priceKey: 'distribuidor' },
-    MAYOR2024: { level: 'taller', label: 'Taller', priceKey: 'taller' }
-  },
-  pageSize: 60
-};
+<!-- Scripts (v3 — cache bust) -->
+<script src="js/auth.js?v=8"></script>
+<script src="js/carrito.js?v=8"></script>
+<script src="js/catalogo.js?v=8"></script>
 
-// ═══════════════════════════════════════════
-// STATE
-// ═══════════════════════════════════════════
-let catalog = [];
-let filtered = [];
-let userLevel = null; // null | 'distribuidor' | 'taller'
-let currentPage = 1;
-let activeCategory = 'all';
-let isLoading = false;
-
-// ═══════════════════════════════════════════
-// LOAD DATA
-// ═══════════════════════════════════════════
-async function loadCatalog() {
-  try {
-    const res = await fetch(CONFIG.dataUrl);
-    if (!res.ok) throw new Error('No se pudo cargar el catálogo');
-    const data = await res.json();
-    catalog = Array.isArray(data) ? data : (data.productos || []);
-    initUI();
-  } catch (err) {
-    document.getElementById('productsGrid').innerHTML = `
-      <div class="no-results">
-        <h3>Error al cargar</h3>
-        <p>${err.message}</p>
-        <p style="margin-top:12px;font-size:13px;">Asegurate de que <code>catalogo.json</code> esté en la misma carpeta.</p>
-      </div>`;
-  }
-}
-
-function initUI() {
-  populateCategories();
-  populateMarcas();
-  applyFilters();
-  updateCount();
-}
-
-// ═══════════════════════════════════════════
-// CATEGORIES
-// ═══════════════════════════════════════════
-function populateCategories() {
-  const counts = {};
-  catalog.forEach(p => { counts[p.categoria] = (counts[p.categoria] || 0) + 1; });
-  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
-
-  const container = document.getElementById('catChips');
-  container.innerHTML = `<span class="cat-chip active" data-cat="all" onclick="selectCategory(this)">TODOS<span class="chip-count">${catalog.length}</span></span>`;
-  sorted.forEach(([cat, count]) => {
-    container.innerHTML += `<span class="cat-chip" data-cat="${cat}" onclick="selectCategory(this)">${cat}<span class="chip-count">${count}</span></span>`;
-  });
-}
-
-function selectCategory(el) {
-  document.querySelectorAll('.cat-chip').forEach(c => c.classList.remove('active'));
-  el.classList.add('active');
-  activeCategory = el.dataset.cat;
-  currentPage = 1;
-  applyFilters();
-}
-
-// ═══════════════════════════════════════════
-// MARCAS
-// ═══════════════════════════════════════════
-function populateMarcas() {
-  const marcas = new Set();
-  catalog.forEach(p => { if (p.marca) marcas.add(p.marca); });
-  const sel = document.getElementById('marcaFilter');
-  [...marcas].sort().forEach(m => {
-    const o = document.createElement('option');
-    o.value = m; o.textContent = m;
-    sel.appendChild(o);
-  });
-}
-
-// ═══════════════════════════════════════════
-// FILTERS
-// ═══════════════════════════════════════════
-function applyFilters() {
-  const q = document.getElementById('searchInput').value.toLowerCase().trim();
-  const marca = document.getElementById('marcaFilter').value;
-  const stock = document.getElementById('stockFilter').value;
-
-  filtered = catalog.filter(p => {
-    if (activeCategory !== 'all' && p.categoria !== activeCategory) return false;
-    if (marca !== 'all' && p.marca !== marca) return false;
-    if (stock === 'available' && !p.disponible) return false;
-    if (stock === 'out' && p.disponible) return false;
-    if (q) {
-      const hay = (p.nombre && p.nombre.toLowerCase().includes(q))
-        || (p.sku && p.sku.toLowerCase().includes(q))
-        || (p.marca && p.marca.toLowerCase().includes(q));
-      if (!hay) return false;
-    }
-    return true;
-  });
-
-  currentPage = 1;
-  renderProducts();
-  updateCount();
-}
-
-function updateCount() {
-  document.getElementById('totalCount').textContent = `${filtered.length} productos`;
-}
-
-// ═══════════════════════════════════════════
-// RENDER
-// ═══════════════════════════════════════════
-function renderProducts() {
-  const grid = document.getElementById('productsGrid');
-  const items = filtered.slice(0, currentPage * CONFIG.pageSize);
-
-  if (items.length === 0) {
-    grid.innerHTML = `<div class="no-results" style="grid-column:1/-1"><h3>Sin resultados</h3><p>Probá con otros filtros o palabras clave</p></div>`;
-    return;
-  }
-
-  grid.innerHTML = items.map(p => {
-    const precio = getDisplayPrice(p);
-    return `
-    <div class="card" onclick="showDetail('${p.sku}')">
-      <div class="card-img">
-        <img src="${p.imagen}" alt="${p.nombre}" loading="lazy"
-             onerror="this.style.display='none';this.parentElement.innerHTML='<span class=no-img>Sin imagen</span>'">
-        ${p.marca ? `<span class="card-badge">${p.marca}</span>` : ''}
-      </div>
-      <div class="card-body">
-        <div class="card-marca">${p.categoria}</div>
-        <div class="card-nombre">${p.nombre}</div>
-        <div class="card-footer">
-          <span class="card-precio">${precio}</span>
-          <span class="card-stock ${p.disponible ? 'stock-si' : 'stock-no'}">${p.disponible ? `${p.stock}` : 'Agotado'}</span>
-        </div>
-      </div>
-    </div>`;
-  }).join('');
-}
-
-function getDisplayPrice(p) {
-  if (userLevel) {
-    const cfg = Object.values(CONFIG.login).find(l => l.level === userLevel);
-    const v = cfg && p.precios ? p.precios[cfg.priceKey] : null;
-    if (v != null) return '$' + v.toFixed(2);
-  }
-  const pub = p.precios?.publico;
-  return pub != null ? '$' + pub.toFixed(2) : '—';
-}
-
-// ═══════════════════════════════════════════
-// INFINITE SCROLL
-// ═══════════════════════════════════════════
-window.addEventListener('scroll', () => {
-  const st = document.getElementById('scrollTop');
-  st.classList.toggle('visible', window.scrollY > 400);
-
-  if (isLoading) return;
-  const shown = currentPage * CONFIG.pageSize;
-  if (shown >= filtered.length) return;
-  if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 400) {
-    isLoading = true;
-    currentPage++;
-    renderProducts();
-    isLoading = false;
-  }
-});
-
-// ═══════════════════════════════════════════
-// DETAIL
-// ═══════════════════════════════════════════
-function showDetail(sku) {
-  const p = catalog.find(i => i.sku === sku);
-  if (!p) return;
-
-  const overlay = document.getElementById('detailOverlay');
-  const card = document.getElementById('detailCard');
-
-  const pr = p.precios || {};
-  const fmt = v => v != null ? '$' + v.toFixed(2) : '—';
-  let priceRows = `
-    <div class="detail-info-item">
-      <div class="detail-info-label">PRECIO PÚBLICO</div>
-      <div class="detail-info-value">${fmt(pr.publico)}</div>
-    </div>`;
-
-  if (userLevel === 'distribuidor') {
-    priceRows += `
-    <div class="detail-info-item">
-      <div class="detail-info-label">DISTRIBUIDOR</div>
-      <div class="detail-info-value" style="color:#66bb6a">${fmt(pr.distribuidor)}</div>
-    </div>`;
-  } else if (userLevel === 'taller') {
-    priceRows += `
-    <div class="detail-info-item">
-      <div class="detail-info-label">TALLER</div>
-      <div class="detail-info-value" style="color:#66bb6a">${fmt(pr.taller)}</div>
-    </div>`;
-  } else {
-    priceRows += `
-    <div class="detail-info-item">
-      <div class="detail-info-label">DISTRIBUIDOR</div>
-      <div class="detail-info-value"><span class="price-locked">Requiere acceso</span></div>
-    </div>`;
-  }
-
-  const waMsg = encodeURIComponent(`Hola, me interesa: ${p.nombre} (${p.sku}). ¿Disponible?`);
-
-  card.innerHTML = `
-    <button class="detail-close" onclick="closeDetail()">&times;</button>
-    <div class="detail-img">
-      <img src="${p.imagen}" alt="${p.nombre}"
-           onerror="this.style.display='none';this.parentElement.innerHTML='<span class=no-img style=font-size:16px>Sin imagen</span>'">
-    </div>
-    <div class="detail-body">
-      <div class="detail-marca">${p.marca || ''}</div>
-      <div class="detail-nombre">${p.nombre}</div>
-      <div class="detail-sku">SKU: ${p.sku}${p.presentacion ? ' · ' + p.presentacion : ''}${p.ubicacion ? ' · 📍 ' + p.ubicacion : ''}</div>
-      <div class="detail-info">
-        ${priceRows}
-        <div class="detail-info-item">
-          <div class="detail-info-label">TALLER</div>
-          <div class="detail-info-value">${userLevel === 'taller' && pr.taller != null ? fmt(pr.taller) : '<span class="price-locked">Requiere acceso</span>'}</div>
-        </div>
-        <div class="detail-info-item">
-          <div class="detail-info-label">STOCK</div>
-          <div class="detail-info-value">${p.stock}</div>
-        </div>
-      </div>
-      <div class="wa-buttons">
-        <a class="wa-btn" href="https://wa.me/${CONFIG.whatsapp.sala.num}?text=${waMsg}" target="_blank">
-          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492l4.638-1.467A11.932 11.932 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818c-2.168 0-4.19-.582-5.938-1.598l-.424-.254-2.752.87.883-2.681-.277-.44A9.776 9.776 0 012.182 12c0-5.42 4.398-9.818 9.818-9.818 5.42 0 9.818 4.398 9.818 9.818 0 5.42-4.398 9.818-9.818 9.818z"/></svg>
-          ${CONFIG.whatsapp.sala.label}
-        </a>
-        <a class="wa-btn" href="https://wa.me/${CONFIG.whatsapp.asesor.num}?text=${waMsg}" target="_blank" style="background:#1a8f3f">
-          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492l4.638-1.467A11.932 11.932 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818c-2.168 0-4.19-.582-5.938-1.598l-.424-.254-2.752.87.883-2.681-.277-.44A9.776 9.776 0 012.182 12c0-5.42 4.398-9.818 9.818-9.818 5.42 0 9.818 4.398 9.818 9.818 0 5.42-4.398 9.818-9.818 9.818z"/></svg>
-          ${CONFIG.whatsapp.asesor.label}
-        </a>
-      </div>
-    </div>`;
-
-  overlay.classList.add('active');
-  document.body.style.overflow = 'hidden';
-}
-
-function closeDetail() {
-  document.getElementById('detailOverlay').classList.remove('active');
-  document.body.style.overflow = '';
-}
-
-// ═══════════════════════════════════════════
-// LOGIN
-// ═══════════════════════════════════════════
-document.getElementById('loginBtn').addEventListener('click', () => {
-  if (userLevel) {
-    userLevel = null;
-    document.getElementById('loginBtn').textContent = 'INICIAR SESIÓN';
-    applyFilters();
-    return;
-  }
-  document.getElementById('loginModal').classList.add('active');
-  document.getElementById('loginUser').focus();
-});
-
-function closeLogin() {
-  document.getElementById('loginModal').classList.remove('active');
-  document.getElementById('loginError').textContent = '';
-  document.getElementById('loginUser').value = '';
-  document.getElementById('loginPass').value = '';
-}
-
-function doLogin() {
-  const pass = document.getElementById('loginPass').value.trim();
-  const match = CONFIG.login[pass];
-  if (match) {
-    userLevel = match.level;
-    document.getElementById('loginBtn').textContent = `${match.label.toUpperCase()} ✓`;
-    closeLogin();
-    applyFilters();
-  } else {
-    document.getElementById('loginError').textContent = 'Credenciales incorrectas';
-  }
-}
-
-document.getElementById('loginPass').addEventListener('keydown', e => {
-  if (e.key === 'Enter') doLogin();
-});
-
-// ═══════════════════════════════════════════
-// EVENT LISTENERS
-// ═══════════════════════════════════════════
-let searchTimer;
-document.getElementById('searchInput').addEventListener('input', () => {
-  clearTimeout(searchTimer);
-  searchTimer = setTimeout(applyFilters, 250);
-});
-document.getElementById('marcaFilter').addEventListener('change', applyFilters);
-document.getElementById('stockFilter').addEventListener('change', applyFilters);
-
-document.getElementById('detailOverlay').addEventListener('click', e => {
-  if (e.target === e.currentTarget) closeDetail();
-});
-document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') {
-    closeDetail();
-    closeLogin();
-  }
-});
-
-// ═══════════════════════════════════════════
-// INIT
-// ═══════════════════════════════════════════
-loadCatalog();
-</script>
 </body>
 </html>

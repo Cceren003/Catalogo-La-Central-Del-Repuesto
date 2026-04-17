@@ -20,6 +20,34 @@ function loadConfig() {
   return JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf8'));
 }
 
+// Lee el archivo de bodega central del proveedor si existe.
+// Soporta .csv (columna "sku" o "codigo"), .xlsx y .xls.
+// Retorna un Set de SKUs (uppercase) disponibles en bodega central.
+function loadBodegaCentral() {
+  const candidates = ['bodega_central.csv', 'bodega_central.xlsx', 'bodega_central.xls'];
+  for (const name of candidates) {
+    const p = path.join(__dirname, name);
+    if (!fs.existsSync(p)) continue;
+    console.log(`→ Leyendo bodega central desde ${name}`);
+    const wb = XLSX.readFile(p);
+    const ws = wb.Sheets[wb.SheetNames[0]];
+    const rows = XLSX.utils.sheet_to_json(ws, { raw: false, defval: '' });
+    const skus = new Set();
+    for (const r of rows) {
+      // Busca columna sku / codigo / code (case-insensitive)
+      const keys = Object.keys(r);
+      const k = keys.find(k => /^(sku|codigo|code|cod)$/i.test(k.trim()));
+      if (!k) continue;
+      const v = (r[k] || '').toString().trim().toUpperCase();
+      if (v) skus.add(v);
+    }
+    console.log(`✓ ${skus.size} SKUs marcados como bodega central`);
+    return skus;
+  }
+  console.log('ℹ No hay archivo bodega_central.{csv,xlsx,xls} — ningún producto se marca como "a pedido"');
+  return new Set();
+}
+
 function round2(n) {
   if (n === null || n === undefined || n === '' || isNaN(n)) return null;
   return Math.round(parseFloat(n) * 100) / 100;
@@ -30,6 +58,184 @@ function stockStatus(n) {
   if (isNaN(s) || s <= 0) return 'out_of_stock';
   if (s <= 5) return 'low_stock';
   return 'in_stock';
+}
+
+// "NRP - JPN" → "NRP" — toma la primera palabra antes de separador
+function cleanMarca(s) {
+  return (s || '').toString().split(/[\-\/,]/)[0].trim().toUpperCase();
+}
+
+// Parsea "$59.65" o " $ 59.65 " o "59.65" → 59.65
+function parseMoney(v) {
+  if (v === null || v === undefined || v === '') return null;
+  const s = v.toString().replace(/[\$\s,]/g, '');
+  const n = parseFloat(s);
+  return isNaN(n) ? null : n;
+}
+
+// Infiere categoría del nombre del producto con reglas regex.
+// Cubre ~80% de los casos. Default REPUESTOS.
+function inferCategoria(nombre) {
+  const n = (nombre || '').toString().toUpperCase();
+  const rules = [
+    [/\b(ACEITE|LUBRICANTE|ATF)\b/, 'ACEITES'],
+    [/\bFILTRO\b/, 'FILTROS'],
+    [/\b(ZAPATA|PASTILLA|BALATA|DISCO DE FRENO|CALIPER|BOMBIN DE FRENO|BANDA DE FRENO)\b/, 'FRENOS'],
+    [/\b(CASCO|VISOR|MICA DE CASCO)\b/, 'CASCOS'],
+    [/\b(BUJIA|BUJ[IÍ]A)\b/, 'BUJIAS'],
+    [/\b(BATER[IÍ]A|ACUMULADOR)\b/, 'BATERIAS'],
+    [/\b(FOCO|BOMBILLO|BOMBILLA|L[AÁ]MPARA|LED|HALOGENO|REFLECTOR|CHICOTE|CLAXON|BOCINA|CDI|REGULADOR|RECTIFICADOR|STATOR|BOBINA|SENSOR|RELAY|REL[EÉ])\b/, 'ELECTRICOS'],
+    [/\b(CADENA|PI[ÑN][OÓ]N|CATARINA|KIT DE ARRASTRE|EMBRAGUE|CLUTCH|DISCO DE CLUTCH)\b/, 'TRANSMISION'],
+    [/\b(LLANTA|NEUM[AÁ]TICO|C[AÁ]MARA DE LLANTA|RIN|ARO)\b/, 'LLANTAS'],
+    [/\bCABLE\b/, 'CABLES'],
+    [/\b(ESPEJO|RETROVISOR)\b/, 'ESPEJOS'],
+    [/\b(MOFLE|ESCAPE|SILENCIADOR|SILENC)\b/, 'ESCAPES'],
+    [/\b(CARBURADOR|INYECTOR|PIST[OÓ]N|ANILLO DE PIST|BIELA|CIG[ÜU]E[ÑN]AL|CAMISA|V[AÁ]LVULA|EMPAQUE DE CABEZA|JUNTA DE CULATA|ARBOL DE LEVAS|BALANCIN|MUELLE DE VALVULA|RETEN|SELLO)\b/, 'MOTOR'],
+    [/\b(AMORTIGUADOR|HORQUILLA|RESORTE DE SUSPENSION|BARRA DE DIRECCI[OÓ]N|CONO DE DIRECCION|TIJA)\b/, 'SUSPENSION'],
+    [/\b(MANUBRIO|MANILLAR|EMPU[ÑN]ADURA|PU[ÑN]O|PERILLA|ACELERADOR)\b/, 'MANUBRIOS'],
+    [/\b(TORNILLO|TUERCA|PERNO|ARANDELA|SEEGER|GRAPA|HEBILLA)\b/, 'TORNILLERIA'],
+    [/\b(RODAJE|BALINERA|RODAMIENTO|RETEN|SELLO DE |COLL[AÁ]R)\b/, 'REPUESTOS MOTOR'],
+    [/\b(GUANTE|CHUMPA|CHALECO|ZAPATO|RODILLERA|CODERA|PROTECTOR|COLUMPIO DE )\b/, 'EQUIPAMIENTO'],
+    [/\b(ABRILLANTADOR|LIMPIADOR|DESENGRASANTE|LUSTRADOR)\b/, 'LIMPIEZA'],
+    [/\b(KIT DE HERRAMIENTA|LLAVE ALLEN|LLAVE T|DESTORNILLADOR|ALICATE|PINZA|MARTILLO|CALIPER DIGITAL|EXTRACTOR)\b/, 'HERRAMIENTA'],
+    [/\b(STICKER|CALCOMAN[IÍ]A|EMBLEMA|LOGO|ETIQUETA)\b/, 'ACCESORIOS'],
+    [/\bACCESORIO\b/, 'ACCESORIOS'],
+  ];
+  for (const [rx, cat] of rules) if (rx.test(n)) return cat;
+  return 'REPUESTOS';
+}
+
+// Parsea archivo NRP (Moto Partes): sku = col C (CÓDIGO CORTO), precio = col L (GRAL)
+function parseNRP(filePath) {
+  if (!fs.existsSync(filePath)) {
+    console.log(`ℹ No existe ${path.basename(filePath)} — se omite`);
+    return [];
+  }
+  console.log(`→ Parseando ${path.basename(filePath)}`);
+  const wb = XLSX.readFile(filePath);
+  const ws = wb.Sheets[wb.SheetNames[0]];
+  const rows = XLSX.utils.sheet_to_json(ws, { header: 1, raw: false, defval: '' });
+
+  const productos = [];
+  // Headers en fila 4 (idx 3), data desde fila 5 (idx 4)
+  for (let r = 4; r < rows.length; r++) {
+    const row = rows[r];
+    const sku = (row[2] || '').toString().trim(); // col C = CÓDIGO CORTO
+    if (!sku) continue;
+    const nombre = (row[3] || '').toString().trim();
+    if (!nombre) continue;
+    const subgrupo = (row[4] || '').toString().trim();
+    const marca = cleanMarca(row[5]);              // col F = MARCA
+    const precio = parseMoney(row[11]);            // col L = GRAL
+    if (!precio) continue;                          // sin precio no publico
+
+    productos.push({
+      sku,
+      nombre,
+      marca,
+      categoria: inferCategoria(nombre) || subgrupo.split(/\s*-\s*/)[0].toUpperCase() || 'REPUESTOS',
+      presentacion: (row[6] || 'UND').toString().trim(),
+      empaque: '',
+      precios: {
+        publico: round2(precio),
+        taller: round2(precio),
+        distribuidor: round2(precio),
+      },
+      stock: 0,
+      stock_status: 'out_of_stock',
+      disponible: false,
+      bodega_central: true,
+      disponibilidad: 'a_pedido',
+      fuente: 'NRP',
+      imagen: '',
+      activo: true,
+    });
+  }
+  console.log(`✓ ${productos.length} productos NRP "a pedido"`);
+  return productos;
+}
+
+// Parsea archivo VINI: sku = col B, costo = col G. Aplica margen 1.7 → precio público.
+function parseVINI(filePath, margen = 1.7) {
+  if (!fs.existsSync(filePath)) {
+    console.log(`ℹ No existe ${path.basename(filePath)} — se omite`);
+    return [];
+  }
+  console.log(`→ Parseando ${path.basename(filePath)} (margen x${margen})`);
+  const wb = XLSX.readFile(filePath);
+  const ws = wb.Sheets[wb.SheetNames[0]];
+  const rows = XLSX.utils.sheet_to_json(ws, { header: 1, raw: false, defval: '' });
+
+  const productos = [];
+  // Data desde fila 13 (idx 12). Entre productos hay filas en blanco.
+  for (let r = 12; r < rows.length; r++) {
+    const row = rows[r];
+    const sku = (row[1] || '').toString().trim();       // col B = Codigo
+    if (!sku) continue;
+    // Skip filas de pie de reporte ("Usuario:", "VALOR DE INVENTARIO", "PAG...")
+    if (/^(usuario|pag|valor)/i.test(sku)) continue;
+    const nombre = (row[2] || '').toString().trim();    // descripción (merged C)
+    if (!nombre) continue;
+    const costo = parseMoney(row[6]);                    // col G = Costo
+    if (!costo || costo <= 0) continue;
+    const precio = costo * margen;
+
+    productos.push({
+      sku,
+      nombre,
+      marca: 'VINI',
+      categoria: inferCategoria(nombre),
+      presentacion: 'UND',
+      empaque: '',
+      precios: {
+        publico: round2(precio),
+        taller: round2(precio),
+        distribuidor: round2(precio),
+      },
+      stock: 0,
+      stock_status: 'out_of_stock',
+      disponible: false,
+      bodega_central: true,
+      disponibilidad: 'a_pedido',
+      fuente: 'VINI',
+      imagen: '',
+      activo: true,
+    });
+  }
+  console.log(`✓ ${productos.length} productos VINI "a pedido"`);
+  return productos;
+}
+
+// Fusiona local + proveedores:
+//  - SKUs en LCR: se mantienen con data LCR, pero se les setea bodega_central=true si también están en proveedor.
+//  - SKUs solo en proveedor: se agregan como productos nuevos "a pedido".
+//  - Si mismo SKU está en varios proveedores: gana el primero (NRP antes que VINI por orden).
+function mergeProductos(local, proveedores /* array de arrays */) {
+  const lcrSkus = new Set(local.map(p => p.sku.toUpperCase()));
+  const flat = proveedores.flat();
+  const proveedorSkus = new Set(flat.map(p => p.sku.toUpperCase()));
+
+  // 1. Marcar productos LCR que también están en proveedor como bodega_central
+  for (const p of local) {
+    if (proveedorSkus.has(p.sku.toUpperCase())) {
+      p.bodega_central = true;
+      if (p.stock === 0) {
+        p.disponibilidad = 'a_pedido';
+        p.stock_status = 'out_of_stock'; // visual sigue siendo "a pedido" via disponibilidad
+      }
+    }
+  }
+
+  // 2. Agregar SKUs solo-proveedor (dedup entre proveedores)
+  const added = new Set(lcrSkus);
+  const extra = [];
+  for (const p of flat) {
+    const k = p.sku.toUpperCase();
+    if (added.has(k)) continue;
+    added.add(k);
+    extra.push(p);
+  }
+  return { productos: [...local, ...extra], extraCount: extra.length };
 }
 
 async function makeClient(baseUrl) {
@@ -89,7 +295,7 @@ async function downloadExcel(client, sucursal) {
   return buf;
 }
 
-function parseExcel(buf) {
+function parseExcel(buf, bodegaSet = new Set()) {
   const wb = XLSX.read(buf, { type: 'buffer' });
   const ws = wb.Sheets[wb.SheetNames[0]];
   // Lee como array de arrays para controlar los headers y saltar filas meta (1-4)
@@ -117,6 +323,7 @@ function parseExcel(buf) {
 
     const stock = parseInt(row[8], 10) || 0;     // EXISTENCIA = col I
 
+    const enBodegaCentral = bodegaSet.has(codigo.toUpperCase());
     productos.push({
       sku: codigo,
       nombre: (row[1] || '').toString().trim(),
@@ -132,6 +339,9 @@ function parseExcel(buf) {
       stock,
       stock_status: stockStatus(stock),
       disponible: stock > 0,
+      bodega_central: enBodegaCentral,
+      // 3 estados: 'inmediato' (stock > 0), 'a_pedido' (stock=0 y bodega_central=true), 'agotado' (stock=0 y !bodega_central)
+      disponibilidad: stock > 0 ? 'inmediato' : (enBodegaCentral ? 'a_pedido' : 'agotado'),
       imagen: `img/${codigo}.jpg`,
       activo: true,
     });
@@ -161,9 +371,18 @@ async function main() {
     console.log(`✓ Guardado Excel crudo en ${dbgPath} (dry-run)`);
   }
 
-  console.log('→ Parseando Excel');
-  const productos = parseExcel(buf);
-  console.log(`✓ ${productos.length} productos parseados`);
+  const bodegaSet = loadBodegaCentral();
+  console.log('→ Parseando Excel LCR');
+  const localProductos = parseExcel(buf, bodegaSet);
+  console.log(`✓ ${localProductos.length} productos locales (LCR)`);
+
+  // Proveedores externos — archivos Excel dropeados en sync/
+  const nrpList = parseNRP(path.join(__dirname, 'inventario_nrp.xlsx'));
+  const viniList = parseVINI(path.join(__dirname, 'inventario_vini.XLS'));
+
+  const { productos, extraCount } = mergeProductos(localProductos, [nrpList, viniList]);
+  const aPedido = productos.filter(p => p.disponibilidad === 'a_pedido').length;
+  console.log(`✓ Merge: ${localProductos.length} LCR + ${extraCount} nuevos de proveedor = ${productos.length} total (${aPedido} "a pedido")`);
 
   const catalog = buildCatalog(productos);
   const outPath = path.resolve(__dirname, cfg.output || '../catalogo.json');
