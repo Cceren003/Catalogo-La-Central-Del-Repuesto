@@ -53,6 +53,30 @@ function round2(n) {
   return Math.round(parseFloat(n) * 100) / 100;
 }
 
+// Carga el índice de imágenes disponibles en ../imagenes/ (sin extensión).
+// Se llama una vez al arrancar el sync y se reusa para matching O(1).
+let _imgIndex = null;
+function getImgIndex() {
+  if (_imgIndex) return _imgIndex;
+  const imgDir = path.join(__dirname, '..', 'imagenes');
+  if (!fs.existsSync(imgDir)) { _imgIndex = new Map(); return _imgIndex; }
+  const files = fs.readdirSync(imgDir);
+  _imgIndex = new Map();
+  for (const f of files) {
+    const m = f.match(/^(.+)\.(jpg|jpeg|png|webp)$/i);
+    if (!m) continue;
+    _imgIndex.set(m[1].toUpperCase(), `imagenes/${f}`);
+  }
+  console.log(`→ Índice de imágenes: ${_imgIndex.size} archivos en imagenes/`);
+  return _imgIndex;
+}
+
+// Devuelve la ruta relativa a la imagen si existe un archivo imagenes/<sku>.(jpg|png|webp), o '' si no.
+function findImage(sku) {
+  const idx = getImgIndex();
+  return idx.get((sku || '').toString().trim().toUpperCase()) || '';
+}
+
 function stockStatus(n) {
   const s = parseInt(n, 10);
   if (isNaN(s) || s <= 0) return 'out_of_stock';
@@ -147,7 +171,7 @@ function parseNRP(filePath) {
       bodega_central: true,
       disponibilidad: 'a_pedido',
       fuente: 'NRP',
-      imagen: '',
+      imagen: findImage(sku),
       activo: true,
     });
   }
@@ -198,12 +222,128 @@ function parseVINI(filePath, margen = 1.7) {
       bodega_central: true,
       disponibilidad: 'a_pedido',
       fuente: 'VINI',
-      imagen: '',
+      imagen: findImage(sku),
       activo: true,
     });
   }
   console.log(`✓ ${productos.length} productos VINI "a pedido"`);
   return productos;
+}
+
+// Mapeo MEK "GRUPO" → categoría del catálogo web
+const MEK_GRUPO_TO_CATEGORIA = {
+  'MotorA': 'MOTOR', 'MotorB': 'MOTOR',
+  'Electrico': 'ELECTRICOS', 'Luces': 'ELECTRICOS',
+  'Freno': 'FRENOS',
+  'Filtros': 'FILTROS',
+  'Cable': 'CABLES',
+  'Traccion': 'TRANSMISION', 'Transmisión': 'TRANSMISION',
+  'Balinera': 'REPUESTOS MOTOR',
+  'Sellos': 'REPUESTOS MOTOR',
+  'Accesorios': 'ACCESORIOS',
+  'Carroceria': 'CARROCERIA',
+  'Control': 'CONTROLES',
+};
+
+// Parsea inventario MEK (Excel): sku=col A, descripcion=col E, grupo=col D
+function parseMEK(filePath) {
+  if (!fs.existsSync(filePath)) {
+    console.log(`ℹ No existe ${path.basename(filePath)} — se omite`);
+    return [];
+  }
+  console.log(`→ Parseando ${path.basename(filePath)}`);
+  const wb = XLSX.readFile(filePath);
+  const ws = wb.Sheets['REPUESTOS'] || wb.Sheets[wb.SheetNames[0]];
+  const rows = XLSX.utils.sheet_to_json(ws, { header: 1, raw: false, defval: '' });
+
+  const productos = [];
+  // Data desde fila 3 (índice 2). Rows 1-2 son headers.
+  for (let r = 2; r < rows.length; r++) {
+    const sku = (rows[r][0] || '').toString().trim();
+    const grupo = (rows[r][3] || '').toString().trim();
+    const nombre = (rows[r][4] || '').toString().trim();
+    if (!sku || !nombre) continue;
+    // SKU MEK es numérico (ej. "1001205")
+    if (!/^\d+$/.test(sku.replace(/\s/g, ''))) continue;
+
+    productos.push({
+      sku,
+      nombre,
+      marca: 'MEK',
+      categoria: MEK_GRUPO_TO_CATEGORIA[grupo] || inferCategoria(nombre) || 'REPUESTOS',
+      presentacion: 'UND',
+      empaque: '',
+      // Sin precios visibles (decisión del usuario: a_pedido no muestra precio)
+      precios: { publico: null, taller: null, distribuidor: null },
+      stock: 0,
+      stock_status: 'out_of_stock',
+      disponible: false,
+      bodega_central: true,
+      disponibilidad: 'a_pedido',
+      fuente: 'MEK',
+      imagen: findImage(sku),
+      activo: true,
+    });
+  }
+  console.log(`✓ ${productos.length} productos MEK "a pedido"`);
+  return productos;
+}
+
+// Parsea catálogo AXUS (PDF MOV Llantas): extrae SKU LA*-*-* + descripción siguiente
+function parseAXUS(pdfPath) {
+  if (!fs.existsSync(pdfPath)) {
+    console.log(`ℹ No existe ${path.basename(pdfPath)} — se omite`);
+    return [];
+  }
+  console.log(`→ Parseando ${path.basename(pdfPath)}`);
+  // pdf-parse es async, pero para mantener sync.js como está, retornamos la promesa al caller
+  return new Promise((resolve, reject) => {
+    const pdf = require('pdf-parse');
+    pdf(fs.readFileSync(pdfPath)).then(data => {
+      const productos = [];
+      const lines = data.text.split('\n');
+      const skuLineRx = /^(LA[0-9][A-Z]?-\d+-\d+)\s+(\d+)\s+(\S+)\s+(\S+)/;
+      const stopRx = /^(Δ\s*)?(\d+\+?|\$\s*[\d.,]+|\d+%|[\d.,]+%)/;
+
+      for (let i = 0; i < lines.length; i++) {
+        const m = lines[i].match(skuLineRx);
+        if (!m) continue;
+        const sku = m[1];
+        // Recolectar líneas de descripción (siguientes 1-5 líneas hasta que empiece con stock/precio)
+        const descParts = [];
+        for (let j = i + 1; j < Math.min(i + 6, lines.length); j++) {
+          const l = lines[j].trim();
+          if (!l) continue;
+          if (stopRx.test(l)) break;
+          if (skuLineRx.test(l)) break; // otro SKU
+          descParts.push(l);
+          if (descParts.length >= 4) break;
+        }
+        const descripcion = descParts.join(' ').replace(/\s+/g, ' ').trim();
+        if (!descripcion) continue;
+
+        productos.push({
+          sku,
+          nombre: descripcion,
+          marca: 'AXUS',
+          categoria: 'LLANTAS',
+          presentacion: 'UND',
+          empaque: '',
+          precios: { publico: null, taller: null, distribuidor: null },
+          stock: 0,
+          stock_status: 'out_of_stock',
+          disponible: false,
+          bodega_central: true,
+          disponibilidad: 'a_pedido',
+          fuente: 'AXUS',
+          imagen: findImage(sku),
+          activo: true,
+        });
+      }
+      console.log(`✓ ${productos.length} productos AXUS "a pedido"`);
+      resolve(productos);
+    }).catch(reject);
+  });
 }
 
 // Fusiona local + proveedores:
@@ -342,7 +482,7 @@ function parseExcel(buf, bodegaSet = new Set()) {
       bodega_central: enBodegaCentral,
       // 3 estados: 'inmediato' (stock > 0), 'a_pedido' (stock=0 y bodega_central=true), 'agotado' (stock=0 y !bodega_central)
       disponibilidad: stock > 0 ? 'inmediato' : (enBodegaCentral ? 'a_pedido' : 'agotado'),
-      imagen: `img/${codigo}.jpg`,
+      imagen: findImage(codigo),
       activo: true,
     });
   }
@@ -379,8 +519,10 @@ async function main() {
   // Proveedores externos — archivos Excel dropeados en sync/
   const nrpList = parseNRP(path.join(__dirname, 'inventario_nrp.xlsx'));
   const viniList = parseVINI(path.join(__dirname, 'inventario_vini.XLS'));
+  const mekList = parseMEK(path.join(__dirname, 'inventario_mek.xlsx'));
+  const axusList = await parseAXUS(path.join(__dirname, 'inventario_axus.pdf'));
 
-  const { productos, extraCount } = mergeProductos(localProductos, [nrpList, viniList]);
+  const { productos, extraCount } = mergeProductos(localProductos, [nrpList, viniList, mekList, axusList]);
   const aPedido = productos.filter(p => p.disponibilidad === 'a_pedido').length;
   console.log(`✓ Merge: ${localProductos.length} LCR + ${extraCount} nuevos de proveedor = ${productos.length} total (${aPedido} "a pedido")`);
 

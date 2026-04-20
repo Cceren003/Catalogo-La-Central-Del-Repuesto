@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "catalogo",
+      "runtimeExecutable": ".claude\\start-serve.cmd",
+      "runtimeArgs": [],
+      "port": 8123
+    }
+  ]
+}

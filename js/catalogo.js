@@ -166,7 +166,12 @@ function sortFiltered() {
   if (s === 'price-asc') state.filtered.sort((a,b) => (key(a) ?? Infinity) - (key(b) ?? Infinity));
   else if (s === 'price-desc') state.filtered.sort((a,b) => (key(b) ?? -Infinity) - (key(a) ?? -Infinity));
   else if (s === 'alpha') state.filtered.sort((a,b) => (a.nombre || '').localeCompare(b.nombre || ''));
-  // 'relevance' = orden original
+  else {
+    // 'relevance' (default): productos CON imagen primero, resto despúes, preservando orden interno
+    const conImagen = state.filtered.filter(p => p.imagen);
+    const sinImagen = state.filtered.filter(p => !p.imagen);
+    state.filtered = [...conImagen, ...sinImagen];
+  }
 }
 
 function updateCount() {

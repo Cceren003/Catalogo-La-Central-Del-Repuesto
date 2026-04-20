@@ -1,13 +1,23 @@
 # Credenciales del sync (NUNCA subir)
 sync/config.json
+sync/removebg.config.json
+sync/*.secret.*
+
+# Archivos de proveedor (se bajan/comparten aparte del repo)
 sync/reporte_inventario_sample.xls
+sync/last_download.xls
 sync/downloads/
 sync/*.xls
 sync/*.xlsx
+sync/*.pdf
+sync/*.csv
 
-# Dependencias
+# Dependencias Node
 sync/node_modules/
 sync/package-lock.json
 
 # Logs
 sync/*.log
+
+# Estado local de Claude Code (privado a cada dev)
+.claude/settings.local.json
