@@ -268,7 +268,7 @@ function buildPdf() {
     },
     columnStyles: {
       0: { cellWidth: 24, halign: 'center' },
-      1: { cellWidth: 70 },
+      1: { cellWidth: 88, overflow: 'visible' }, // ancho para SKUs EAN de 12 dígitos en 1 línea
       2: { cellWidth: 'auto' },
       3: { cellWidth: 40, halign: 'center' },
       4: { cellWidth: 60, halign: 'right' },
@@ -394,17 +394,59 @@ function enviarWhatsApp() {
   const filename = `cotizacion_${r.numero}.pdf`;
   r.doc.save(filename);
 
-  // Construir mensaje WhatsApp
+  const c = r.cliente;
   const items = Carrito.items;
-  const lineas = items.map(i => `• ${i.qty}× ${i.nombre} (${i.sku}) — ${fmt(i.precio * i.qty)}`).join('\n');
-  const msg = encodeURIComponent(
-    `Hola, soy ${r.cliente.nombre}.\n\n` +
-    `Adjunto mi cotización N° ${r.numero} con los siguientes productos:\n\n` +
-    `${lineas}\n\n` +
-    `*Total: ${fmt(Carrito.total())}*\n\n` +
-    `(PDF descargado en mi dispositivo, lo envío a continuación)`
-  );
-  window.open(`https://wa.me/${WA_VENTAS}?text=${msg}`, '_blank');
+
+  // ── Encabezado cliente ──
+  const header = [
+    `*Cotización N° ${r.numero}*`,
+    '',
+    `Cliente: ${c.nombre}`,
+    `Teléfono: ${c.tel}`,
+    `Tipo: ${c.tipo.toUpperCase()}`,
+  ];
+  if (c.tipo === 'Crédito Fiscal') {
+    header.push(
+      `NIT: ${c.nit}`,
+      `NRC: ${c.nrc}`,
+      `Giro: ${c.giro}`,
+      `Dirección fiscal: ${c.dir}`,
+      `Email: ${c.email}`,
+    );
+  }
+
+  // ── Lista de productos ──
+  const lineas = items.map(i => `• ${i.qty}× ${i.nombre} (${i.sku}) — ${fmt(i.precio * i.qty)}`);
+
+  // ── Totales ──
+  const totalConIva = Carrito.total();
+  const totales = [];
+  if (c.tipo === 'Crédito Fiscal') {
+    const IVA_RATE = 0.13;
+    const subtotalSinIva = totalConIva / (1 + IVA_RATE);
+    const ivaMonto = totalConIva - subtotalSinIva;
+    totales.push(
+      `Subtotal (sin IVA): ${fmt(subtotalSinIva)}`,
+      `IVA 13%: ${fmt(ivaMonto)}`,
+      `*Total: ${fmt(totalConIva)}*`,
+    );
+  } else {
+    totales.push(`*Total: ${fmt(totalConIva)}*`);
+  }
+
+  // ── Armado final ──
+  const texto = [
+    ...header,
+    '',
+    '*Productos:*',
+    ...lineas,
+    '',
+    ...totales,
+    '',
+    '(PDF descargado en mi dispositivo, lo adjunto a continuación)',
+  ].join('\n');
+
+  window.open(`https://wa.me/${WA_VENTAS}?text=${encodeURIComponent(texto)}`, '_blank');
 }
 
 // ═══════════════════════════════════════════
