@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cotización — La Central del Repuesto</title>
+  <meta name="description" content="Generador de cotización en PDF con los productos de tu carrito.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css?v=22">
+  <link rel="stylesheet" href="css/components.css?v=22">
+</head>
+<body>
+
+<!-- NAVBAR -->
+<header class="navbar">
+  <div class="navbar-inner">
+    <a href="index.html" class="navbar-brand">LA <span class="red">CENTRAL</span> DEL REPUESTO</a>
+    <div></div>
+    <div class="nav-actions">
+      <a href="index.html" class="btn btn-outline">← Volver al catálogo</a>
+    </div>
+  </div>
+</header>
+
+<main class="cot-main">
+  <div class="cot-wrapper">
+
+    <!-- Form de datos del cliente -->
+    <section class="cot-card">
+      <h1 class="cot-title">Generar cotización</h1>
+      <p class="cot-subtitle">Completá tus datos y generá el PDF con los productos de tu carrito.</p>
+
+      <form id="cotForm" class="cot-form">
+        <div class="cot-row">
+          <label>
+            <span>Nombre o empresa *</span>
+            <input class="input-field" id="clienteNombre" required placeholder="Ej. Taller Motos García">
+          </label>
+          <label>
+            <span>Teléfono *</span>
+            <input class="input-field" id="clienteTel" required placeholder="Ej. 7030 1941" inputmode="tel">
+          </label>
+        </div>
+        <div class="cot-row">
+          <label>
+            <span>Tipo de comprobante *</span>
+            <select class="input-field select-field" id="tipoComprobante" required>
+              <option value="">Seleccioná una opción…</option>
+              <option value="Consumidor Final">Consumidor Final</option>
+              <option value="Crédito Fiscal">Crédito Fiscal (CCF)</option>
+            </select>
+          </label>
+          <label>
+            <span>Fecha</span>
+            <input class="input-field" id="cotFecha" type="date">
+          </label>
+        </div>
+
+        <!-- Bloque Crédito Fiscal: aparece/desaparece con animación slide -->
+        <div class="cot-fiscal-block" id="fiscalBlock" aria-hidden="true">
+          <div class="cot-fiscal-inner">
+            <div class="cot-row">
+              <label>
+                <span>NIT *</span>
+                <input class="input-field" id="clienteNIT" placeholder="Ej. 0614-010203-101-2">
+              </label>
+              <label>
+                <span>NRC *</span>
+                <input class="input-field" id="clienteNRC" placeholder="Ej. 123456-7">
+              </label>
+            </div>
+            <div class="cot-row">
+              <label>
+                <span>Giro / Actividad económica *</span>
+                <input class="input-field" id="clienteGiro" placeholder="Ej. Venta de repuestos de moto">
+              </label>
+              <label>
+                <span>Dirección fiscal *</span>
+                <input class="input-field" id="clienteDir" placeholder="Ej. Col. Escalón, San Salvador">
+              </label>
+            </div>
+            <label>
+              <span>Email *</span>
+              <input class="input-field" id="clienteEmail" type="email" placeholder="Ej. contacto@cliente.com">
+            </label>
+          </div>
+        </div>
+
+        <label>
+          <span>Notas / observaciones (opcional)</span>
+          <textarea class="input-field" id="cotNotas" rows="2" placeholder="Ej. Entrega en la ferretería, necesito factura a nombre de…"></textarea>
+        </label>
+      </form>
+    </section>
+
+    <!-- Lista de productos del carrito -->
+    <section class="cot-card">
+      <h2 class="cot-h2">Productos <span class="cot-muted" id="itemCount">(0)</span></h2>
+      <div id="cotItems" class="cot-items"></div>
+
+      <div class="cot-totals" id="cotTotals">
+        <div><span>Subtotal</span><span id="subtotal">$0.00</span></div>
+        <div><span>Total</span><span id="total" class="cot-total-amount">$0.00</span></div>
+      </div>
+    </section>
+
+    <!-- Acciones -->
+    <section class="cot-actions">
+      <button class="btn btn-primary" id="btnGenerar" type="button">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/>
+        </svg>
+        Descargar PDF
+      </button>
+      <button class="btn btn-wa" id="btnWhatsApp" type="button">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+          <path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492l4.638-1.467A11.932 11.932 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818c-2.168 0-4.19-.582-5.938-1.598l-.424-.254-2.752.87.883-2.681-.277-.44A9.776 9.776 0 012.182 12c0-5.42 4.398-9.818 9.818-9.818 5.42 0 9.818 4.398 9.818 9.818 0 5.42-4.398 9.818-9.818 9.818z"/>
+        </svg>
+        Enviar por WhatsApp
+      </button>
+      <button class="btn btn-ghost" id="btnVaciar" type="button">Vaciar carrito</button>
+    </section>
+
+    <p class="cot-footnote">
+      La cotización se guarda como PDF en tu dispositivo. Al enviar por WhatsApp abrimos el chat de Sala de Ventas con el detalle del pedido — adjuntá el PDF descargado en el chat.
+    </p>
+
+  </div>
+</main>
+
+<!-- jsPDF + AutoTable CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js"></script>
+
+<!-- App scripts -->
+<script src="js/auth.js?v=22"></script>
+<script src="js/carrito.js?v=22"></script>
+<script src="js/cotizacion.js?v=22"></script>
+
+</body>
+</html>

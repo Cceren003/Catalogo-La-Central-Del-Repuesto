@@ -8,8 +8,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/base.css?v=17">
-  <link rel="stylesheet" href="css/components.css?v=17">
+  <link rel="stylesheet" href="css/base.css?v=20">
+  <link rel="stylesheet" href="css/components.css?v=20">
 </head>
 <body>
 
@@ -28,14 +28,14 @@
     </div>
 
     <div class="nav-actions">
-      <button class="cart-btn" id="cartToggleBtn" title="Carrito">
+      <a class="cart-btn" href="cotizacion.html" title="Ver carrito / generar cotización">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/>
           <path d="M1 1h4l2.7 13.4a2 2 0 0 0 2 1.6h9.7a2 2 0 0 0 2-1.6L23 6H6"/>
         </svg>
         <span>Carrito</span>
         <span class="cart-count zero" id="cartCount">0</span>
-      </button>
+      </a>
       <button class="btn btn-primary" id="loginBtn">Iniciar sesión</button>
     </div>
   </div>
@@ -129,6 +129,7 @@
       <span class="amount" id="cartTotal">$0.00</span>
     </div>
     <div class="cart-actions">
+      <a class="btn btn-primary block" href="cotizacion.html">Generar cotización PDF</a>
       <button class="btn btn-wa block" id="cartWaBtn">Enviar pedido por WhatsApp</button>
       <button class="btn btn-ghost block sm" id="cartClearBtn">Vaciar carrito</button>
     </div>
@@ -172,9 +173,9 @@
 </button>
 
 <!-- Scripts (v3 — cache bust) -->
-<script src="js/auth.js?v=17"></script>
-<script src="js/carrito.js?v=17"></script>
-<script src="js/catalogo.js?v=17"></script>
+<script src="js/auth.js?v=20"></script>
+<script src="js/carrito.js?v=20"></script>
+<script src="js/catalogo.js?v=20"></script>
 
 </body>
 </html>

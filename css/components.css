@@ -602,6 +602,105 @@
   border-radius: 6px; color: white; font-size: 14px; font-weight: 600;
 }
 
+/* ═══════════════════════════════════════════
+   COTIZACION.HTML
+   ═══════════════════════════════════════════ */
+.cot-main { max-width: 900px; margin: 0 auto; padding: 32px 24px 80px; }
+.cot-wrapper { display: flex; flex-direction: column; gap: 20px; }
+.cot-card {
+  background: var(--lcr-surface);
+  border: 1px solid var(--lcr-gray2);
+  border-radius: var(--radius-lg);
+  padding: 28px;
+}
+.cot-title { font-family: var(--ff-display); font-size: 32px; letter-spacing: 1px; margin-bottom: 4px; }
+.cot-subtitle { color: var(--lcr-muted); font-size: 13px; margin-bottom: 20px; }
+.cot-h2 { font-family: var(--ff-cond); font-size: 16px; font-weight: 700; letter-spacing: 1.5px; margin-bottom: 14px; }
+.cot-muted { color: var(--lcr-muted); font-size: 13px; font-weight: 400; margin-left: 6px; }
+
+.cot-form { display: flex; flex-direction: column; gap: 12px; }
+.cot-form label { display: flex; flex-direction: column; gap: 6px; font-size: 12px; letter-spacing: 0.5px; color: var(--lcr-muted); text-transform: uppercase; font-weight: 600; }
+.cot-form textarea.input-field { height: 56px; padding: 10px 14px; resize: vertical; min-height: 44px; font-family: inherit; }
+.cot-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+
+/* Bloque fiscal animado: slide + fade */
+.cot-fiscal-block {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows .4s ease, opacity .3s ease;
+  opacity: 0;
+}
+.cot-fiscal-block > .cot-fiscal-inner {
+  min-height: 0;
+  overflow: hidden;
+  display: flex; flex-direction: column; gap: 12px;
+}
+.cot-fiscal-block.open {
+  grid-template-rows: 1fr;
+  opacity: 1;
+  /* small top border to separate visually cuando se abre */
+  margin-top: 4px;
+  padding-top: 4px;
+  border-top: 1px dashed var(--lcr-gray2);
+}
+.cot-fiscal-block:not(.open) {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  pointer-events: none;
+}
+/* Fallback para browsers sin soporte de grid-template-rows transition */
+@supports not (grid-template-rows: 1fr) {
+  .cot-fiscal-block { max-height: 0; overflow: hidden; transition: max-height .4s ease, opacity .3s ease; }
+  .cot-fiscal-block.open { max-height: 700px; }
+}
+
+.cot-items { display: flex; flex-direction: column; gap: 10px; }
+.cot-empty { text-align: center; padding: 30px 12px; color: var(--lcr-muted); font-size: 14px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 12px; }
+.cot-item {
+  display: grid; grid-template-columns: 1fr auto;
+  gap: 16px; align-items: center;
+  padding: 14px 0; border-bottom: 1px solid var(--lcr-gray2);
+}
+.cot-item:last-child { border-bottom: 0; }
+.cot-item-name { font-weight: 600; color: var(--lcr-white); line-height: 1.3; margin-bottom: 4px; }
+.cot-item-meta { font-size: 11px; color: var(--lcr-muted); font-family: var(--ff-cond); letter-spacing: 0.5px; }
+.cot-item-qty { display: inline-flex; align-items: center; gap: 6px; margin-top: 8px; }
+.cot-item-qty .qty-input { width: 54px; height: 28px; text-align: center; background: var(--lcr-gray); border: 1px solid var(--lcr-gray2); border-radius: 4px; color: white; font-size: 13px; }
+.cot-item-qty .qty-btn { width: 24px; height: 24px; font-size: 15px; background: var(--lcr-gray2); color: white; border-radius: 4px; }
+.cot-item-qty .cot-item-remove { margin-left: 6px; color: var(--lcr-muted); padding: 2px 6px; font-size: 18px; line-height: 1; }
+.cot-item-qty .cot-item-remove:hover { color: var(--lcr-red); }
+.cot-item-totals { text-align: right; }
+.cot-item-price { font-family: var(--ff-display); font-size: 18px; color: var(--lcr-white); line-height: 1; }
+.cot-item-each { font-size: 11px; color: var(--lcr-muted); margin-top: 4px; }
+
+.cot-totals {
+  margin-top: 18px; padding-top: 18px;
+  border-top: 1px solid var(--lcr-gray2);
+  display: flex; flex-direction: column; gap: 8px;
+}
+.cot-totals div { display: flex; justify-content: space-between; font-size: 14px; color: var(--lcr-muted); }
+.cot-totals div:last-child { font-size: 16px; color: var(--lcr-white); font-weight: 600; margin-top: 4px; }
+.cot-total-amount { font-family: var(--ff-display); font-size: 28px !important; color: var(--lcr-red) !important; letter-spacing: 0.5px; }
+
+.cot-actions {
+  display: flex; gap: 12px; flex-wrap: wrap;
+  padding: 10px 4px 0;
+}
+.cot-actions .btn { flex: 1; min-width: 180px; }
+
+.cot-footnote {
+  font-size: 12px; color: var(--lcr-muted); line-height: 1.5;
+  text-align: center; padding: 0 20px;
+}
+
+@media (max-width: 720px) {
+  .cot-main { padding: 20px 12px 60px; }
+  .cot-card { padding: 20px; }
+  .cot-row { grid-template-columns: 1fr; }
+  .cot-actions .btn { width: 100%; min-width: unset; }
+}
+
 /* ── RESPONSIVE ── */
 @media (max-width: 1100px) {
   .main { grid-template-columns: 200px 1fr; }
