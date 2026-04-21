@@ -370,8 +370,8 @@ function showDetail(sku) {
         <span class="detail-price-label">Precio público</span>
         <span class="detail-price-value">${fmtPrice(p.precios?.publico)}</span>
       </div>
-      ${detailPriceRow('Precio taller', p.precios?.taller, role === 'taller')}
-      ${detailPriceRow('Precio distribuidor', p.precios?.distribuidor, role === 'distribuidor')}
+      ${(role === 'taller' || role === 'distribuidor') ? detailPriceRow('Precio taller', p.precios?.taller, role === 'taller') : ''}
+      ${role === 'distribuidor' ? detailPriceRow('Precio distribuidor', p.precios?.distribuidor, true) : ''}
     </div>
     <div class="detail-qty-row" style="display:flex;align-items:center;gap:12px;">
       <div class="detail-qty">
