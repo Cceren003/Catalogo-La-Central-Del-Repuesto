@@ -10,7 +10,8 @@
     "dry-run": "node sync.js --dry-run",
     "reindex-imagenes": "node reindex-imagenes.js",
     "template-enriquecidos": "node create-template.js",
-    "build-enriquecidos": "node build-enriquecidos.js"
+    "build-enriquecidos": "node build-enriquecidos.js",
+    "publish-enriquecidos": "node publish-enriquecidos.js"
   },
   "dependencies": {
     "axios": "^1.7.7",

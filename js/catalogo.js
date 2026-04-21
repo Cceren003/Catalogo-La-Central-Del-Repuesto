@@ -63,10 +63,12 @@ function dispoOf(p) {
 // ═══════════════════════════════════════════
 async function loadCatalog() {
   try {
-    // Carga catálogo (generado por sync) + enriquecidos (editable a mano) en paralelo
+    // Carga catálogo (generado por sync) + enriquecidos (editable a mano) en paralelo.
+    // cache: 'no-cache' fuerza revalidación con el servidor → el browser no
+    // sirve una versión vieja después de actualizar el JSON.
     const [resCat, resEnr] = await Promise.all([
-      fetch(CONFIG.dataUrl),
-      fetch('data/enriquecidos.json').catch(() => null),
+      fetch(CONFIG.dataUrl, { cache: 'no-cache' }),
+      fetch('data/enriquecidos.json', { cache: 'no-cache' }).catch(() => null),
     ]);
     if (!resCat.ok) throw new Error('No se pudo cargar el catálogo');
     const data = await resCat.json();
