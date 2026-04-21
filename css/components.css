@@ -730,6 +730,15 @@
   border-radius: 3px;
 }
 .equiv-chip-name { line-height: 1.2; }
+.equiv-chip-note {
+  color: var(--lcr-muted);
+  font-size: 11px;
+  opacity: 0.75;
+}
+.equiv-chip:hover .equiv-chip-note {
+  color: var(--lcr-red);
+  opacity: 1;
+}
 
 /* Relacionados */
 .related-grid {

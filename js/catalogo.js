@@ -538,15 +538,23 @@ function renderCompatibilidades(p) {
 }
 
 function renderEquivalencias(p) {
-  const skus = getEnrichment(p.sku).equivalencias;
-  if (!Array.isArray(skus) || skus.length === 0) return '';
-  const chips = skus.map(sku => {
+  const raw = getEnrichment(p.sku).equivalencias;
+  if (!Array.isArray(raw) || raw.length === 0) return '';
+  // Soporta 2 formatos:
+  //   - Array de strings:  ["SKU1", "SKU2"]
+  //   - Array de objetos:  [{ sku: "SKU1", nota: "..." }, { sku: "SKU2" }]
+  const items = raw
+    .map(x => typeof x === 'string' ? { sku: x } : x)
+    .filter(x => x && x.sku);
+  const chips = items.map(({ sku, nota }) => {
     const eq = state.all.find(x => x.sku === sku);
     if (!eq) return '';
+    const tooltip = nota ? `${eq.nombre}\n\n${nota}` : eq.nombre;
     return `
-      <button type="button" class="equiv-chip" data-sku="${esc(sku)}" title="${esc(eq.nombre)}">
+      <button type="button" class="equiv-chip" data-sku="${esc(sku)}" title="${esc(tooltip)}">
         <span class="equiv-chip-sku">${esc(sku)}</span>
         <span class="equiv-chip-name">${esc(eq.nombre)}</span>
+        ${nota ? '<span class="equiv-chip-note" aria-label="Ver nota">ⓘ</span>' : ''}
       </button>`;
   }).filter(Boolean).join('');
   if (!chips) return '';

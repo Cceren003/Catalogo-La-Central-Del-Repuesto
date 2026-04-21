@@ -110,18 +110,38 @@ function main() {
     compatCount++;
   }
 
-  // ─── Equivalencias ─────────────────────────────────────────────
+  // ─── Equivalencias (bidireccional) ─────────────────────────────
+  // Si Excel tiene A → B (con nota opcional en la dirección original):
+  //   - A.equivalencias incluye { sku: B, nota? }
+  //   - B.equivalencias incluye { sku: A }   ← SIN nota (es la inversa)
+  // Dedup por SKU destino. Si el Excel ya declara B → A explícitamente,
+  // gana la versión con nota del Excel (no se sobrescribe con la inversa).
   const equivRows = readSheet(wb, 'Equivalencias');
-  let equivCount = 0, equivSkipped = 0;
+  let equivForward = 0, equivInverse = 0, equivSkipped = 0;
+
+  function upsertEquiv(fromSku, toSku, nota, isOriginal) {
+    const arr = slot(fromSku).equivalencias;
+    const existing = arr.find(e => e.sku === toSku);
+    if (existing) {
+      // Ya existe. Solo actualiza nota si viene del Excel original y no había.
+      if (isOriginal && nota && !existing.nota) existing.nota = nota;
+      return false;
+    }
+    const entry = { sku: toSku };
+    if (isOriginal && nota) entry.nota = nota;
+    arr.push(entry);
+    return true;
+  }
+
   for (const r of equivRows) {
     if (isComment(r)) continue;
-    const sku = norm(col(r, ['SKU', 'sku']));
-    const eq  = norm(col(r, ['SKU_Equivalente', 'SKU equivalente', 'Equivalente']));
+    const sku  = norm(col(r, ['SKU', 'sku']));
+    const eq   = norm(col(r, ['SKU_Equivalente', 'SKU equivalente', 'Equivalente']));
+    const nota = norm(col(r, ['Nota', 'nota', 'Nota (opcional)']));
     if (!sku || !eq) { equivSkipped++; continue; }
-    if (!slot(sku).equivalencias.includes(eq)) {
-      slot(sku).equivalencias.push(eq);
-      equivCount++;
-    }
+    if (sku === eq) { equivSkipped++; continue; } // auto-referencia
+    if (upsertEquiv(sku, eq, nota, true))  equivForward++;
+    if (upsertEquiv(eq, sku, '',   false)) equivInverse++;
   }
 
   // ─── Relacionados ──────────────────────────────────────────────
@@ -164,7 +184,7 @@ function main() {
   console.log(`✓ ${OUT}`);
   console.log(`  · ${Object.keys(clean).length} productos enriquecidos`);
   console.log(`  · ${compatCount} compatibilidades (omitidas: ${compatSkipped})`);
-  console.log(`  · ${equivCount} equivalencias    (omitidas: ${equivSkipped})`);
+  console.log(`  · ${equivForward} equivalencias + ${equivInverse} inversas auto-generadas (omitidas: ${equivSkipped})`);
   console.log(`  · ${relCount} relacionados     (omitidas: ${relSkipped})`);
 }
 

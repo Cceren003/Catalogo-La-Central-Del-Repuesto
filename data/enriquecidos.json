@@ -1,8 +1,36 @@
 {
+  "1001283": {
+    "equivalencias": [
+      {
+        "sku": "741540111510"
+      }
+    ]
+  },
+  "1003574": {
+    "equivalencias": [
+      {
+        "sku": "741540188247"
+      }
+    ]
+  },
+  "1004512": {
+    "equivalencias": [
+      {
+        "sku": "741540111510"
+      }
+    ]
+  },
+  "1005584": {
+    "equivalencias": [
+      {
+        "sku": "741540188247"
+      }
+    ]
+  },
   "_formato": {
-    "generado_en": "2026-04-21T18:37:11.104Z",
+    "generado_en": "2026-04-21T19:00:15.382Z",
     "origen": "sync/enriquecidos.xlsx (vía sync/build-enriquecidos.js)",
-    "cantidad_productos": 3,
+    "cantidad_productos": 7,
     "advertencia": "NO editar a mano. Se regenera desde el Excel. Para cambios, editá sync/enriquecidos.xlsx y corré build-enriquecidos.js."
   },
   "741540189145": {
@@ -38,14 +66,26 @@
   },
   "741540188247": {
     "equivalencias": [
-      "1005584",
-      "1003574"
+      {
+        "sku": "1005584",
+        "nota": "Misma pieza, proveedor distinto"
+      },
+      {
+        "sku": "1003574",
+        "nota": "Misma pieza, proveedor distinto"
+      }
     ]
   },
   "741540111510": {
     "equivalencias": [
-      "1004512",
-      "1001283"
+      {
+        "sku": "1004512",
+        "nota": "Misma pieza, proveedor distinto"
+      },
+      {
+        "sku": "1001283",
+        "nota": "73 dientes, pero de 4 pernos 5 discos"
+      }
     ]
   }
 }
