@@ -178,7 +178,18 @@ function renderMarcaRepuestoFilter() {
     [...brands].sort().map(m =>
       `<button class="chip" data-v="${esc(m)}">${esc(m)}</button>`
     ).join('');
-  chipGroupHandler(el, v => { state.marcaRepuesto = v; });
+  chipGroupHandler(el, v => {
+    state.marcaRepuesto = v;
+    // Al cambiar de marca, limpiamos el filtro de categoría (pill del carrusel)
+    // para evitar combinaciones vacías (ej. "CABLES" + "MOTUL" = 0 resultados).
+    state.cat = 'all';
+    const catEl = document.getElementById('catPills');
+    if (catEl) {
+      catEl.querySelectorAll('.pill').forEach(p =>
+        p.classList.toggle('active', p.dataset.cat === 'all')
+      );
+    }
+  });
 }
 
 function renderStockFilter() {
