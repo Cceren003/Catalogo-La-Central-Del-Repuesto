@@ -28,20 +28,16 @@ const state = {
   mode: 'filters',      // 'filters' | 'search' — el último que el usuario tocó
 };
 
-// Al activar modo búsqueda, limpia TODOS los filtros (query queda intacto).
+// Al activar modo búsqueda, limpia categoría y marca del repuesto.
+// Disponibilidad es MASTER filter y se respeta siempre, NO se toca.
 function switchToSearchMode() {
   state.mode = 'search';
   state.cat = 'all';
   state.marcaRepuesto = 'all';
-  state.dispo = 'all';
-  // Sincronizar UI: desactivar pills/chips y activar 'all'
   document.querySelectorAll('#catPills .pill').forEach(p =>
     p.classList.toggle('active', p.dataset.cat === 'all')
   );
   document.querySelectorAll('#filterMarcaRepuesto .chip').forEach(c =>
-    c.classList.toggle('active', c.dataset.v === 'all')
-  );
-  document.querySelectorAll('#filterStock .chip').forEach(c =>
     c.classList.toggle('active', c.dataset.v === 'all')
   );
 }
@@ -164,14 +160,17 @@ function renderStockFilter() {
     <button class="chip active" data-v="all">Todos</button>
     <button class="chip" data-v="inmediato">Entrega inmediata <span class="chip-count">${inmediato}</span></button>
     <button class="chip" data-v="a_pedido">A pedido <span class="chip-count">${aPedido}</span></button>`;
-  chipGroupHandler(el, v => { state.dispo = v; });
+  // Disponibilidad = master filter: NO cambia de modo, coexiste con todo
+  chipGroupHandler(el, v => { state.dispo = v; }, { master: true });
 }
 
-function chipGroupHandler(root, onChange) {
+function chipGroupHandler(root, onChange, opts = {}) {
   root.addEventListener('click', e => {
     const btn = e.target.closest('.chip');
     if (!btn) return;
-    switchToFiltersMode();           // al tocar filtro, limpia query
+    // Master filters (como disponibilidad) NO cambian el modo — coexisten
+    // con texto o con otros filtros. Chips "normales" cambian a modo filtros.
+    if (!opts.master) switchToFiltersMode();
     root.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c === btn));
     onChange(btn.dataset.v);
     applyFilters();
@@ -184,21 +183,24 @@ function chipGroupHandler(root, onChange) {
 function applyFilters() {
   const q = state.query.trim().toLowerCase();
   state.filtered = state.all.filter(p => {
-    // Agotados definitivos se ocultan siempre, independientemente del modo
+    // Agotados definitivos se ocultan siempre
     if (dispoOf(p) === 'agotado') return false;
 
+    // Disponibilidad — MASTER filter: aplica siempre que no sea 'all',
+    // independientemente del modo (search o filters).
+    if (state.dispo !== 'all' && dispoOf(p) !== state.dispo) return false;
+
     if (state.mode === 'search') {
-      // Modo búsqueda: SOLO por texto (ignora filtros categorías/marca/disp)
-      if (!q) return true; // sin query = mostrar todo
+      // Modo búsqueda: SOLO texto (+ disponibilidad ya aplicada arriba)
+      if (!q) return true;
       return (p.nombre || '').toLowerCase().includes(q)
           || (p.sku || '').toLowerCase().includes(q)
           || (p.marca || '').toLowerCase().includes(q);
     }
 
-    // Modo filtros: SOLO por filtros (ignora query)
+    // Modo filtros: categoría + marca (+ disponibilidad ya aplicada arriba)
     if (state.cat !== 'all' && p.categoria !== state.cat) return false;
     if (state.marcaRepuesto !== 'all' && p.marca !== state.marcaRepuesto) return false;
-    if (state.dispo !== 'all' && dispoOf(p) !== state.dispo) return false;
     return true;
   });
   sortFiltered();
