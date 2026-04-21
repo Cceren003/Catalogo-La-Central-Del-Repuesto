@@ -397,8 +397,8 @@ function enviarWhatsApp() {
   const c = r.cliente;
   const items = Carrito.items;
 
-  // ── Saludo inicial (usa nombre y tel del form) ──
-  const saludo = `Hola, soy ${c.nombre}. Quiero realizar el siguiente pedido. Puedes comunicarte conmigo al ${c.tel}.`;
+  // ── Saludo inicial (solo nombre, sin tel — la línea de contacto va al final) ──
+  const saludo = `Hola, soy ${c.nombre}. Quiero realizar el siguiente pedido.`;
 
   // ── Encabezado cliente ──
   const header = [
@@ -448,7 +448,7 @@ function enviarWhatsApp() {
     '',
     ...totales,
     '',
-    `Puedes comunicarte conmigo al ${c.tel}.`,
+    'Puedes comunicarte conmigo?',
     '',
     '(PDF descargado en mi dispositivo, lo adjunto a continuación)',
   ].join('\n');
