@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T00:52:25.544Z",
+  "generated_at": "2026-04-21T15:37:05.033Z",
   "count": 5697,
   "productos": [
     {
@@ -72787,8 +72787,8 @@
       "bodega_central": true,
       "disponibilidad": "a_pedido",
       "fuente": "VINI",
-      "imagen": "imagenes/741540189257.png",
-      "imagen_size": 450895,
+      "imagen": "imagenes/741540189257.jpg",
+      "imagen_size": 10557,
       "activo": true
     },
     {
@@ -87307,8 +87307,8 @@
       "bodega_central": true,
       "disponibilidad": "a_pedido",
       "fuente": "VINI",
-      "imagen": "imagenes/741540188144.png",
-      "imagen_size": 78295,
+      "imagen": "imagenes/741540188144.jpg",
+      "imagen_size": 5455,
       "activo": true
     },
     {
@@ -91443,8 +91443,8 @@
       "bodega_central": true,
       "disponibilidad": "a_pedido",
       "fuente": "VINI",
-      "imagen": "imagenes/741540187939.png",
-      "imagen_size": 356533,
+      "imagen": "imagenes/741540187939.jpg",
+      "imagen_size": 10400,
       "activo": true
     },
     {
@@ -101607,8 +101607,8 @@
       "bodega_central": true,
       "disponibilidad": "a_pedido",
       "fuente": "VINI",
-      "imagen": "imagenes/741540187977.png",
-      "imagen_size": 426606,
+      "imagen": "imagenes/741540187977.jpg",
+      "imagen_size": 12160,
       "activo": true
     },
     {
