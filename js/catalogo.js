@@ -584,10 +584,9 @@ function renderRelacionados(p) {
         <div class="related-card-price">${precio != null ? fmtPrice(precio) : '<span class="related-card-consult">Consultar</span>'}</div>
       </button>`;
   }).join('');
-  const titulo = p.categoria ? `Productos del mismo sistema (${esc(p.categoria)})` : 'Productos relacionados';
   return `
     <div class="detail-section">
-      <div class="detail-section-title">${titulo}</div>
+      <div class="detail-section-title">Productos relacionados</div>
       <div class="related-grid">${cards}</div>
     </div>`;
 }
