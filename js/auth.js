@@ -10,8 +10,8 @@
 
   // Tabla password → rol. Cambiar en config centralizada cuando haya backend.
   const PASSWORDS = {
-    'MAYOR2024': { level: 'taller',       label: 'Taller'       },
-    'DIST2024':  { level: 'distribuidor', label: 'Distribuidor' },
+    'MAYOR2024':   { level: 'taller',       label: 'Taller'       },
+    'CENTRAL2026': { level: 'distribuidor', label: 'Distribuidor' },
   };
 
   function load() {
