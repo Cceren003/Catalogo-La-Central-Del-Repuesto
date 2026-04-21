@@ -528,6 +528,37 @@
 }
 .input-field:focus { border-color: var(--lcr-red); }
 
+/* Wrapper para campos de contraseña con botón de mostrar/ocultar */
+.pw-wrap {
+  position: relative;
+  margin-bottom: 10px;
+}
+.pw-wrap .input-field {
+  margin-bottom: 0;
+  padding-right: 44px; /* espacio para el botón del ojo */
+}
+.pw-toggle {
+  position: absolute;
+  right: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 36px; height: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  color: var(--lcr-muted);
+  transition: color 0.15s ease;
+}
+.pw-toggle:hover { color: var(--lcr-white); }
+.pw-toggle:focus-visible { color: var(--lcr-red); outline: none; }
+.pw-toggle .pw-eye-off { display: none; }
+.pw-toggle.visible .pw-eye-open { display: none; }
+.pw-toggle.visible .pw-eye-off { display: block; }
+
 .form-error {
   color: var(--lcr-red-light); font-size: 12px; min-height: 16px;
   margin: 4px 0;

@@ -790,4 +790,16 @@ function wireAuth() {
     if (r.ok) loginModal.classList.remove('active');
     else loginError.textContent = r.error;
   };
+
+  // Toggle ojito: mostrar / ocultar contraseña
+  const passToggle = document.getElementById('loginPassToggle');
+  if (passToggle) {
+    passToggle.onclick = () => {
+      const showing = loginPass.type === 'password';
+      loginPass.type = showing ? 'text' : 'password';
+      passToggle.classList.toggle('visible', showing);
+      passToggle.setAttribute('aria-label', showing ? 'Ocultar contraseña' : 'Mostrar contraseña');
+      loginPass.focus();
+    };
+  }
 }
