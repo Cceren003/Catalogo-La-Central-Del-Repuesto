@@ -5,18 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cotización — La Central del Repuesto</title>
   <meta name="description" content="Generador de cotización en PDF con los productos de tu carrito.">
+  <link rel="icon" type="image/png" href="assets/logo.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/base.css?v=27">
-  <link rel="stylesheet" href="css/components.css?v=27">
+  <link rel="stylesheet" href="css/base.css?v=34">
+  <link rel="stylesheet" href="css/components.css?v=34">
 </head>
 <body>
 
 <!-- NAVBAR -->
 <header class="navbar">
   <div class="navbar-inner">
-    <a href="index.html" class="navbar-brand">LA <span class="red">CENTRAL</span> DEL REPUESTO</a>
+    <a href="index.html" class="navbar-brand" aria-label="La Central del Repuesto">
+      <img src="assets/logo-dark.png?v=2" alt="La Central del Repuesto" class="logo-global"
+           onerror="this.replaceWith(Object.assign(document.createElement('span'),{innerHTML:'LA <span class=&quot;red&quot;>CENTRAL</span> DEL REPUESTO'}))">
+    </a>
     <div></div>
     <div class="nav-actions">
       <a href="index.html" class="btn btn-outline">← Volver al catálogo</a>
@@ -136,9 +140,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js"></script>
 
 <!-- App scripts -->
-<script src="js/auth.js?v=27"></script>
-<script src="js/carrito.js?v=27"></script>
-<script src="js/cotizacion.js?v=27"></script>
+<script src="js/auth.js?v=34"></script>
+<script src="js/carrito.js?v=34"></script>
+<script src="js/cotizacion.js?v=34"></script>
 
 </body>
 </html>

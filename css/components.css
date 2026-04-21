@@ -22,8 +22,27 @@
   font-family: var(--ff-display);
   font-size: 22px; letter-spacing: 1.5px;
   user-select: none; line-height: 1;
+  display: inline-flex; align-items: center;
 }
 .navbar-brand .red { color: var(--lcr-red); }
+
+/* ── LOGO GLOBAL ──
+   Clase reutilizable en navbar, login, admin, etc.
+   Fallback: si la imagen falla, el alt text queda visible. */
+.logo-global {
+  max-width: 160px;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+.logo-global.lg  { max-width: 180px; }
+.logo-global.xl  { max-width: 220px; }
+
+/* Logo centrado en el modal de login */
+.modal .logo-global {
+  margin: 0 auto 18px;
+  max-width: 180px;
+}
 
 .search-box {
   position: relative; max-width: 520px; width: 100%; justify-self: center;

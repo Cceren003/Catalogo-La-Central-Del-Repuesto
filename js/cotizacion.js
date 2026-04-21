@@ -17,6 +17,31 @@ function fmt(v) { return v != null ? '$' + (+v).toFixed(2) : '—'; }
 function esc(s) { return String(s ?? ''); }
 
 // ═══════════════════════════════════════════
+// LOGO: precargar assets/logo.png como dataURL para embeberlo en el PDF.
+// Usamos logo-light (fondo transparente, texto negro) porque el PDF es fondo blanco.
+// Si falla la carga, buildPdf() cae de vuelta al render de texto.
+// ═══════════════════════════════════════════
+let LOGO_DATA = null; // { dataUrl, w, h } cuando cargó OK
+function preloadLogo() {
+  return new Promise((resolve) => {
+    const img = new Image();
+    img.crossOrigin = 'anonymous';
+    img.onload = () => {
+      try {
+        const c = document.createElement('canvas');
+        c.width = img.naturalWidth;
+        c.height = img.naturalHeight;
+        c.getContext('2d').drawImage(img, 0, 0);
+        LOGO_DATA = { dataUrl: c.toDataURL('image/png'), w: img.naturalWidth, h: img.naturalHeight };
+      } catch (e) { LOGO_DATA = null; }
+      resolve();
+    };
+    img.onerror = () => { LOGO_DATA = null; resolve(); };
+    img.src = 'assets/logo-light.png';
+  });
+}
+
+// ═══════════════════════════════════════════
 // STATE: leer carrito
 // ═══════════════════════════════════════════
 function renderCart() {
@@ -159,17 +184,28 @@ function buildPdf() {
   doc.setFillColor(192, 25, 42);
   doc.rect(0, 0, 8, pageH, 'F');
 
-  // Logo texto
-  doc.setFont('helvetica', 'bold');
-  doc.setFontSize(22);
-  doc.setTextColor(13, 13, 13);
-  doc.text('LA ', marginX, y);
-  const xAfterLa = marginX + doc.getTextWidth('LA ');
-  doc.setTextColor(192, 25, 42);
-  doc.text('CENTRAL', xAfterLa, y);
-  const xAfterCentral = xAfterLa + doc.getTextWidth('CENTRAL');
-  doc.setTextColor(13, 13, 13);
-  doc.text(' DEL REPUESTO', xAfterCentral, y);
+  // Logo imagen (si se precargó correctamente) o fallback a texto
+  if (LOGO_DATA) {
+    const maxW = 150; // máx. ancho según spec
+    const maxH = 50;
+    const ratio = LOGO_DATA.w / LOGO_DATA.h;
+    let w = maxW, h = maxW / ratio;
+    if (h > maxH) { h = maxH; w = maxH * ratio; }
+    doc.addImage(LOGO_DATA.dataUrl, 'PNG', marginX, y - 22, w, h);
+    y = y - 22 + h; // posicionar siguiente bloque debajo del logo
+  } else {
+    // Fallback: logo texto
+    doc.setFont('helvetica', 'bold');
+    doc.setFontSize(22);
+    doc.setTextColor(13, 13, 13);
+    doc.text('LA ', marginX, y);
+    const xAfterLa = marginX + doc.getTextWidth('LA ');
+    doc.setTextColor(192, 25, 42);
+    doc.text('CENTRAL', xAfterLa, y);
+    const xAfterCentral = xAfterLa + doc.getTextWidth('CENTRAL');
+    doc.setTextColor(13, 13, 13);
+    doc.text(' DEL REPUESTO', xAfterCentral, y);
+  }
 
   // Dirección + contactos
   y += 18;
@@ -460,6 +496,9 @@ function enviarWhatsApp() {
 // BOOT
 // ═══════════════════════════════════════════
 document.addEventListener('DOMContentLoaded', () => {
+  // Precargar logo en background (no bloquea render; si llega tarde, el 1er PDF usará fallback texto)
+  preloadLogo();
+
   // Fecha default = hoy
   $('#cotFecha').value = new Date().toISOString().slice(0, 10);
 

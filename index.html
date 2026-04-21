@@ -5,11 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>La Central del Repuesto — Catálogo</title>
   <meta name="description" content="Catálogo profesional de repuestos para motos. Envíos a todo El Salvador.">
+  <link rel="icon" type="image/png" href="assets/logo.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/base.css?v=32">
-  <link rel="stylesheet" href="css/components.css?v=32">
+  <link rel="stylesheet" href="css/base.css?v=34">
+  <link rel="stylesheet" href="css/components.css?v=34">
 </head>
 <body>
 
@@ -18,7 +19,10 @@
      ═══════════════════════════════════════════ -->
 <header class="navbar">
   <div class="navbar-inner">
-    <a href="#" class="navbar-brand">LA <span class="red">CENTRAL</span> DEL REPUESTO</a>
+    <a href="index.html" class="navbar-brand" aria-label="La Central del Repuesto">
+      <img src="assets/logo-dark.png?v=2" alt="La Central del Repuesto" class="logo-global"
+           onerror="this.replaceWith(Object.assign(document.createElement('span'),{innerHTML:'LA <span class=&quot;red&quot;>CENTRAL</span> DEL REPUESTO'}))">
+    </a>
 
     <div class="search-box">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -154,6 +158,8 @@
 <div class="modal-overlay" id="loginModal">
   <div class="modal">
     <button class="modal-close" id="loginClose" aria-label="Cerrar">×</button>
+    <img src="assets/logo-dark.png?v=2" alt="La Central del Repuesto" class="logo-global lg"
+         onerror="this.style.display='none'">
     <h2>ACCESO</h2>
     <form id="loginForm">
       <input class="input-field" id="loginPass" type="password" placeholder="Contraseña" autocomplete="current-password" required>
@@ -174,9 +180,9 @@
 </button>
 
 <!-- Scripts (v3 — cache bust) -->
-<script src="js/auth.js?v=32"></script>
-<script src="js/carrito.js?v=32"></script>
-<script src="js/catalogo.js?v=32"></script>
+<script src="js/auth.js?v=34"></script>
+<script src="js/carrito.js?v=34"></script>
+<script src="js/catalogo.js?v=34"></script>
 
 </body>
 </html>
