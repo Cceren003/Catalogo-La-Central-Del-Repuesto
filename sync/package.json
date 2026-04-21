@@ -7,7 +7,10 @@
   "scripts": {
     "start": "node sync.js",
     "sync": "node sync.js",
-    "dry-run": "node sync.js --dry-run"
+    "dry-run": "node sync.js --dry-run",
+    "reindex-imagenes": "node reindex-imagenes.js",
+    "template-enriquecidos": "node create-template.js",
+    "build-enriquecidos": "node build-enriquecidos.js"
   },
   "dependencies": {
     "axios": "^1.7.7",

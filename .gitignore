@@ -11,6 +11,8 @@ sync/*.xls
 sync/*.xlsx
 sync/*.pdf
 sync/*.csv
+# Excepción: la plantilla de enriquecimientos SÍ va al repo
+!sync/enriquecidos-template.xlsx
 
 # Dependencias Node
 sync/node_modules/
