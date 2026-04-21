@@ -1,8 +1,8 @@
 {
   "_formato": {
-    "generado_en": "2026-04-21T17:43:42.230Z",
+    "generado_en": "2026-04-21T18:37:11.104Z",
     "origen": "sync/enriquecidos.xlsx (vía sync/build-enriquecidos.js)",
-    "cantidad_productos": 1,
+    "cantidad_productos": 3,
     "advertencia": "NO editar a mano. Se regenera desde el Excel. Para cambios, editá sync/enriquecidos.xlsx y corré build-enriquecidos.js."
   },
   "741540189145": {
@@ -34,6 +34,18 @@
           2023
         ]
       }
+    ]
+  },
+  "741540188247": {
+    "equivalencias": [
+      "1005584",
+      "1003574"
+    ]
+  },
+  "741540111510": {
+    "equivalencias": [
+      "1004512",
+      "1001283"
     ]
   }
 }
