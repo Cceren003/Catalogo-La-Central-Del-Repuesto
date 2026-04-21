@@ -13,11 +13,24 @@ const DRY_RUN = process.argv.includes('--dry-run');
 const CONFIG_PATH = path.join(__dirname, 'config.json');
 
 function loadConfig() {
-  if (!fs.existsSync(CONFIG_PATH)) {
-    console.error(`ERROR: falta ${CONFIG_PATH}. Copia config.example.json → config.json y llena tus credenciales.`);
-    process.exit(1);
+  // 1. config.json local (preferido para dev)
+  if (fs.existsSync(CONFIG_PATH)) {
+    return JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf8'));
   }
-  return JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf8'));
+  // 2. Env vars (usado por GitHub Actions / CI)
+  if (process.env.LCR_USER && process.env.LCR_PASS) {
+    return {
+      baseUrl:  process.env.LCR_BASE_URL || 'https://dev.oss.com.sv/central_repuestos',
+      username: process.env.LCR_USER,
+      password: process.env.LCR_PASS,
+      sucursal: Number(process.env.LCR_SUCURSAL || 0),
+      output:   process.env.LCR_OUTPUT   || '../catalogo.json',
+    };
+  }
+  console.error(`ERROR: falta ${CONFIG_PATH} y no hay env vars LCR_USER/LCR_PASS.`);
+  console.error('  Dev local:  copia config.example.json → config.json y llená tus credenciales.');
+  console.error('  CI:         definí secrets LCR_USER y LCR_PASS en GitHub.');
+  process.exit(1);
 }
 
 // Lee el archivo de bodega central del proveedor si existe.

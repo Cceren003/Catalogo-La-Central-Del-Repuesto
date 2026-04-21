@@ -1,0 +1,69 @@
+name: Sync inventario LCR
+
+# Corre el sync del inventario desde el sistema LCR 3 veces al día.
+# Horarios en UTC (GitHub Actions usa UTC):
+#   13:00 UTC = 07:00 hora El Salvador (UTC-6)
+#   19:00 UTC = 13:00 hora El Salvador
+#   01:00 UTC = 19:00 hora El Salvador
+#
+# Requiere en Settings → Secrets and variables → Actions:
+#   - LCR_USER    (usuario del sistema dev.oss.com.sv)
+#   - LCR_PASS    (contraseña)
+
+on:
+  schedule:
+    - cron: '0 1,13,19 * * *'
+  # Permite correr a mano desde la pestaña Actions
+  workflow_dispatch:
+
+# Evita correr el mismo workflow 2 veces en paralelo
+concurrency:
+  group: sync-inventario
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install sync dependencies
+        working-directory: sync
+        run: npm install --no-audit --no-fund
+
+      - name: Run sync
+        working-directory: sync
+        env:
+          LCR_USER: ${{ secrets.LCR_USER }}
+          LCR_PASS: ${{ secrets.LCR_PASS }}
+        run: node sync.js
+
+      - name: Check for changes and commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add catalogo.json
+
+          if git diff --cached --quiet; then
+            echo "✓ Sin cambios en catalogo.json — no se hace commit"
+            exit 0
+          fi
+
+          FECHA=$(date -u '+%Y-%m-%d %H:%M UTC')
+          git commit -m "chore(sync): actualizar catalogo.json ($FECHA) [skip ci]
+
+          Ejecutado automáticamente por GitHub Actions.
+          Ver .github/workflows/sync-inventario.yml"
+
+          git push
+          echo "✓ catalogo.json actualizado y pusheado"

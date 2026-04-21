@@ -11,7 +11,8 @@
     "reindex-imagenes": "node reindex-imagenes.js",
     "template-enriquecidos": "node create-template.js",
     "build-enriquecidos": "node build-enriquecidos.js",
-    "publish-enriquecidos": "node publish-enriquecidos.js"
+    "publish-enriquecidos": "node publish-enriquecidos.js",
+    "publish-all": "node publish-all.js"
   },
   "dependencies": {
     "axios": "^1.7.7",
