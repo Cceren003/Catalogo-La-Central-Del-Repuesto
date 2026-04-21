@@ -25,7 +25,34 @@ const state = {
   dispo: 'all',         // 'all' | 'inmediato' | 'a_pedido'
   query: '',
   sort: 'relevance',
+  mode: 'filters',      // 'filters' | 'search' — el último que el usuario tocó
 };
+
+// Al activar modo búsqueda, limpia TODOS los filtros (query queda intacto).
+function switchToSearchMode() {
+  state.mode = 'search';
+  state.cat = 'all';
+  state.marcaRepuesto = 'all';
+  state.dispo = 'all';
+  // Sincronizar UI: desactivar pills/chips y activar 'all'
+  document.querySelectorAll('#catPills .pill').forEach(p =>
+    p.classList.toggle('active', p.dataset.cat === 'all')
+  );
+  document.querySelectorAll('#filterMarcaRepuesto .chip').forEach(c =>
+    c.classList.toggle('active', c.dataset.v === 'all')
+  );
+  document.querySelectorAll('#filterStock .chip').forEach(c =>
+    c.classList.toggle('active', c.dataset.v === 'all')
+  );
+}
+
+// Al activar modo filtros, limpia el query del buscador.
+function switchToFiltersMode() {
+  state.mode = 'filters';
+  state.query = '';
+  const input = document.getElementById('searchInput');
+  if (input) input.value = '';
+}
 
 // Deriva disponibilidad si el producto viene de un catalogo.json viejo sin el campo.
 function dispoOf(p) {
@@ -92,6 +119,7 @@ function renderCategoryPills() {
   el.addEventListener('click', e => {
     const btn = e.target.closest('.pill');
     if (!btn) return;
+    switchToFiltersMode();           // al tocar filtro, limpia query
     state.cat = btn.dataset.cat;
     el.querySelectorAll('.pill').forEach(p => p.classList.toggle('active', p === btn));
     applyFilters();
@@ -143,6 +171,7 @@ function chipGroupHandler(root, onChange) {
   root.addEventListener('click', e => {
     const btn = e.target.closest('.chip');
     if (!btn) return;
+    switchToFiltersMode();           // al tocar filtro, limpia query
     root.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c === btn));
     onChange(btn.dataset.v);
     applyFilters();
@@ -155,19 +184,21 @@ function chipGroupHandler(root, onChange) {
 function applyFilters() {
   const q = state.query.trim().toLowerCase();
   state.filtered = state.all.filter(p => {
+    // Agotados definitivos se ocultan siempre, independientemente del modo
+    if (dispoOf(p) === 'agotado') return false;
+
+    if (state.mode === 'search') {
+      // Modo búsqueda: SOLO por texto (ignora filtros categorías/marca/disp)
+      if (!q) return true; // sin query = mostrar todo
+      return (p.nombre || '').toLowerCase().includes(q)
+          || (p.sku || '').toLowerCase().includes(q)
+          || (p.marca || '').toLowerCase().includes(q);
+    }
+
+    // Modo filtros: SOLO por filtros (ignora query)
     if (state.cat !== 'all' && p.categoria !== state.cat) return false;
     if (state.marcaRepuesto !== 'all' && p.marca !== state.marcaRepuesto) return false;
     if (state.dispo !== 'all' && dispoOf(p) !== state.dispo) return false;
-    // Oculta agotados definitivos siempre (no tiene sentido mostrarlos nunca)
-    if (dispoOf(p) === 'agotado') return false;
-    // TODO: filtrar por marca/modelo/año de moto cuando tengamos data de compatibilidades
-    //       (usaría los selects del hero: compatMarca / compatModelo / compatAnio).
-    if (q) {
-      const hay = (p.nombre || '').toLowerCase().includes(q)
-        || (p.sku || '').toLowerCase().includes(q)
-        || (p.marca || '').toLowerCase().includes(q);
-      if (!hay) return false;
-    }
     return true;
   });
   sortFiltered();
@@ -445,12 +476,16 @@ function fmtPrice(v) { return v != null ? '$' + (+v).toFixed(2) : '—'; }
 // EVENTS
 // ═══════════════════════════════════════════
 function wireEvents() {
-  // Search
+  // Search — al escribir, entra en modo 'search' y limpia TODOS los filtros
   const searchInput = document.getElementById('searchInput');
   let t;
   searchInput.addEventListener('input', () => {
     clearTimeout(t);
-    t = setTimeout(() => { state.query = searchInput.value; applyFilters(); }, 150);
+    t = setTimeout(() => {
+      switchToSearchMode();          // desactiva filtros, activa 'Todos' en UI
+      state.query = searchInput.value;
+      applyFilters();
+    }, 150);
   });
 
   // Sort
