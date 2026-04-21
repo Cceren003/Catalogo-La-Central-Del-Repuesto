@@ -63,12 +63,29 @@ function dispoOf(p) {
 // ═══════════════════════════════════════════
 async function loadCatalog() {
   try {
-    const res = await fetch(CONFIG.dataUrl);
-    if (!res.ok) throw new Error('No se pudo cargar el catálogo');
-    const data = await res.json();
+    // Carga catálogo (generado por sync) + enriquecidos (editable a mano) en paralelo
+    const [resCat, resEnr] = await Promise.all([
+      fetch(CONFIG.dataUrl),
+      fetch('data/enriquecidos.json').catch(() => null),
+    ]);
+    if (!resCat.ok) throw new Error('No se pudo cargar el catálogo');
+    const data = await resCat.json();
     const raw = Array.isArray(data) ? data : (data.productos || []);
     const blacklist = new Set(CONFIG.brandBlacklist.map(s => s.toUpperCase()));
     state.all = raw.filter(p => !blacklist.has((p.marca || '').toUpperCase()));
+
+    // Enriquecidos (compatibilidades, equivalencias, relacionados). Opcional.
+    state.enriched = new Map();
+    if (resEnr && resEnr.ok) {
+      try {
+        const enr = await resEnr.json();
+        for (const [sku, ext] of Object.entries(enr)) {
+          if (sku.startsWith('_')) continue; // metadata
+          state.enriched.set(sku, ext);
+        }
+      } catch (e) { console.warn('enriquecidos.json inválido:', e.message); }
+    }
+
     initUI();
   } catch (err) {
     document.getElementById('grid').innerHTML = `
@@ -420,7 +437,22 @@ function showDetail(sku) {
       <a class="btn btn-primary block" href="https://wa.me/${CONFIG.whatsappTaller}?text=${encodeURIComponent('Hola, quisiera cotizar la instalación y agendar una cita para:\n\n' + p.nombre + '\nSKU: ' + p.sku)}" target="_blank">
         Cotizar y agendar instalación
       </a>
-    </div>`;
+    </div>
+    ${renderCompatibilidades(p)}
+    ${renderEquivalencias(p)}
+    ${renderRelacionados(p)}`;
+
+  // Click handlers en las secciones enriquecidas (equivalencias + relacionados):
+  // al clickear un producto, cierra el modal actual y abre el otro.
+  body.querySelectorAll('.equiv-chip[data-sku], .related-card[data-sku]').forEach(el => {
+    el.onclick = (ev) => {
+      const targetSku = ev.currentTarget.dataset.sku;
+      if (!targetSku) return;
+      closeDetail();
+      // Delay breve para que el modal cierre suave antes de reabrir con otro producto
+      setTimeout(() => showDetail(targetSku), 120);
+    };
+  });
 
   // Quantity handlers (solo para productos en stock inmediato)
   const qtyInput = body.querySelector('#qtyInput');
@@ -473,6 +505,92 @@ function detailPriceRow(label, value, highlight) {
     </div>`;
 }
 function fmtPrice(v) { return v != null ? '$' + (+v).toFixed(2) : '—'; }
+
+// ═══════════════════════════════════════════
+// ENRICHED SECTIONS (compatibilidades, equivalencias, relacionados)
+// Datos vienen de data/enriquecidos.json (editable a mano por el admin)
+// ═══════════════════════════════════════════
+function getEnrichment(sku) {
+  return (state.enriched && state.enriched.get(sku)) || {};
+}
+
+function renderCompatibilidades(p) {
+  const list = getEnrichment(p.sku).compatibilidades;
+  if (!Array.isArray(list) || list.length === 0) return '';
+  const cards = list.map(c => {
+    const modelo = `${c.marca || ''} ${c.modelo || ''}`.trim();
+    const anios = Array.isArray(c.anios) && c.anios.length > 0 ? c.anios.join(' · ') : '';
+    return `
+      <div class="compat-card">
+        <div class="compat-card-body">
+          <div class="compat-card-modelo">${esc(modelo || '—')}</div>
+          ${anios ? `<div class="compat-card-anios">${esc(anios)}</div>` : ''}
+        </div>
+      </div>`;
+  }).join('');
+  return `
+    <div class="detail-section">
+      <div class="detail-section-title">Compatibilidades verificadas</div>
+      <div class="compat-grid">${cards}</div>
+    </div>`;
+}
+
+function renderEquivalencias(p) {
+  const skus = getEnrichment(p.sku).equivalencias;
+  if (!Array.isArray(skus) || skus.length === 0) return '';
+  const chips = skus.map(sku => {
+    const eq = state.all.find(x => x.sku === sku);
+    if (!eq) return '';
+    return `
+      <button type="button" class="equiv-chip" data-sku="${esc(sku)}" title="${esc(eq.nombre)}">
+        <span class="equiv-chip-sku">${esc(sku)}</span>
+        <span class="equiv-chip-name">${esc(eq.nombre)}</span>
+      </button>`;
+  }).filter(Boolean).join('');
+  if (!chips) return '';
+  return `
+    <div class="detail-section">
+      <div class="detail-section-title">Equivalencias</div>
+      <div class="equiv-list">${chips}</div>
+    </div>`;
+}
+
+function renderRelacionados(p) {
+  const manual = getEnrichment(p.sku).relacionados;
+  let items = [];
+  if (Array.isArray(manual) && manual.length > 0) {
+    items = manual.map(sku => state.all.find(x => x.sku === sku)).filter(Boolean).slice(0, 4);
+  }
+  // Auto-fill: completa hasta 4 con productos de la misma categoría (priorizados por imagen)
+  if (items.length < 4 && p.categoria) {
+    const seen = new Set([p.sku, ...items.map(x => x.sku)]);
+    const auto = state.all
+      .filter(x => !seen.has(x.sku) && x.categoria === p.categoria && dispoOf(x) !== 'agotado')
+      .sort((a, b) => (b.imagen_size || 0) - (a.imagen_size || 0))
+      .slice(0, 4 - items.length);
+    items = [...items, ...auto];
+  }
+  if (items.length === 0) return '';
+  const role = Auth.currentLevel;
+  const cards = items.map(r => {
+    const precio = r.precios?.[role] ?? r.precios?.publico;
+    const img = r.imagen
+      ? `<img class="related-card-img" src="${esc(r.imagen)}" alt="${esc(r.nombre)}" loading="lazy">`
+      : `<div class="related-card-img related-card-img-ph">Sin imagen</div>`;
+    return `
+      <button type="button" class="related-card" data-sku="${esc(r.sku)}" title="${esc(r.nombre)}">
+        ${img}
+        <div class="related-card-name">${esc(r.nombre)}</div>
+        <div class="related-card-price">${precio != null ? fmtPrice(precio) : '<span class="related-card-consult">Consultar</span>'}</div>
+      </button>`;
+  }).join('');
+  const titulo = p.categoria ? `Productos del mismo sistema (${esc(p.categoria)})` : 'Productos relacionados';
+  return `
+    <div class="detail-section">
+      <div class="detail-section-title">${titulo}</div>
+      <div class="related-grid">${cards}</div>
+    </div>`;
+}
 
 // ═══════════════════════════════════════════
 // EVENTS

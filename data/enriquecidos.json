@@ -1,0 +1,21 @@
+{
+  "_formato": {
+    "descripcion": "Datos enriquecidos manualmente por SKU. Este archivo NO se sobreescribe por el sync — editalo libremente.",
+    "como_agregar": "Agregá una entrada con la clave = SKU del producto. Todos los campos son opcionales.",
+    "campos": {
+      "compatibilidades": "Array de { marca, modelo, anios: [año, año, ...] }. Se muestra en la ficha como cards agrupadas.",
+      "equivalencias": "Array de SKUs de otros productos equivalentes. Aparecen como chips clickeables que abren la otra ficha.",
+      "relacionados": "Array de SKUs de productos relacionados manualmente curados. Si está vacío o no existe, el sistema auto-genera 4 productos de la misma categoría (con imagen y disponibles). Útil para productos importantes donde querés elegir a mano qué cross-sell mostrar."
+    },
+    "ejemplo_minimo": "{ \"MI-SKU\": { \"compatibilidades\": [{ \"marca\": \"Honda\", \"modelo\": \"CG 125\", \"anios\": [2020, 2021, 2022] }] } }"
+  },
+
+  "741540189145": {
+    "compatibilidades": [
+      { "marca": "Hero", "modelo": "Glamour 125", "anios": [2018, 2019, 2020, 2021, 2022, 2023] },
+      { "marca": "Hero", "modelo": "Splendor 125", "anios": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023] }
+    ],
+    "equivalencias": [],
+    "relacionados": []
+  }
+}
