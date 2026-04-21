@@ -12,6 +12,10 @@ const XLSX = require('xlsx');
 const DRY_RUN = process.argv.includes('--dry-run');
 const CONFIG_PATH = path.join(__dirname, 'config.json');
 
+// Carpeta de catálogos de proveedores (VINI, NRP, MEK, AXUS).
+// Está en la raíz del repo, gitignored.
+const PROVEEDORES_DIR = path.join(__dirname, '..', 'catalogos-proveedores');
+
 function loadConfig() {
   // 1. config.json local (preferido para dev)
   if (fs.existsSync(CONFIG_PATH)) {
@@ -169,9 +173,8 @@ function parseNRP(filePath) {
     if (!nombre) continue;
     const subgrupo = (row[4] || '').toString().trim();
     const marca = cleanMarca(row[5]);              // col F = MARCA
-    const precio = parseMoney(row[11]);            // col L = GRAL
-    if (!precio) continue;                          // sin precio no publico
-
+    // Nota: precios NO se publican para productos de proveedores.
+    // Quedan como "a pedido", el cliente consulta por WhatsApp.
     productos.push({
       sku,
       nombre,
@@ -179,11 +182,7 @@ function parseNRP(filePath) {
       categoria: inferCategoria(nombre) || subgrupo.split(/\s*-\s*/)[0].toUpperCase() || 'REPUESTOS',
       presentacion: (row[6] || 'UND').toString().trim(),
       empaque: '',
-      precios: {
-        publico: round2(precio),
-        taller: round2(precio),
-        distribuidor: round2(precio),
-      },
+      precios: { publico: null, taller: null, distribuidor: null },
       stock: 0,
       stock_status: 'out_of_stock',
       disponible: false,
@@ -205,24 +204,24 @@ function parseVINI(filePath, margen = 1.7) {
     console.log(`ℹ No existe ${path.basename(filePath)} — se omite`);
     return [];
   }
-  console.log(`→ Parseando ${path.basename(filePath)} (margen x${margen})`);
+  console.log(`→ Parseando ${path.basename(filePath)}`);
   const wb = XLSX.readFile(filePath);
   const ws = wb.Sheets[wb.SheetNames[0]];
   const rows = XLSX.utils.sheet_to_json(ws, { header: 1, raw: false, defval: '' });
 
   const productos = [];
   // Data desde fila 13 (idx 12). Entre productos hay filas en blanco.
+  // Nota: precios NO se publican para productos de proveedores — todos "a pedido".
   for (let r = 12; r < rows.length; r++) {
     const row = rows[r];
     const sku = (row[1] || '').toString().trim();       // col B = Codigo
     if (!sku) continue;
     // Skip filas de pie de reporte ("Usuario:", "VALOR DE INVENTARIO", "PAG...")
-    if (/^(usuario|pag|valor)/i.test(sku)) continue;
+    if (/^(usuario|pag|valor|no\.?$)/i.test(sku)) continue;
+    // SKU debe parecer un código (no solo texto como "Descripción")
+    if (!/[\d-]/.test(sku)) continue;
     const nombre = (row[2] || '').toString().trim();    // descripción (merged C)
     if (!nombre) continue;
-    const costo = parseMoney(row[6]);                    // col G = Costo
-    if (!costo || costo <= 0) continue;
-    const precio = costo * margen;
 
     productos.push({
       sku,
@@ -231,11 +230,7 @@ function parseVINI(filePath, margen = 1.7) {
       categoria: inferCategoria(nombre),
       presentacion: 'UND',
       empaque: '',
-      precios: {
-        publico: round2(precio),
-        taller: round2(precio),
-        distribuidor: round2(precio),
-      },
+      precios: { publico: null, taller: null, distribuidor: null },
       stock: 0,
       stock_status: 'out_of_stock',
       disponible: false,
@@ -267,48 +262,105 @@ const MEK_GRUPO_TO_CATEGORIA = {
 };
 
 // Parsea inventario MEK (Excel): sku=col A, descripcion=col E, grupo=col D
-function parseMEK(filePath) {
-  if (!fs.existsSync(filePath)) {
-    console.log(`ℹ No existe ${path.basename(filePath)} — se omite`);
-    return [];
+// Parsea catálogo MEK (PDF MOV Importador Repuestos):
+// Tabla: CODIGO | IMAGEN | ANOTACIONES | GRUPO | DESCRIPCION | STOCK | PRECIO | IMPORTADOR
+// pdf-parse extrae texto línea por línea; cada producto puede estar en 1 línea
+// (formato compacto) o en N líneas (cuando tiene anotaciones técnicas).
+function parseMEK(pdfPath) {
+  if (!fs.existsSync(pdfPath)) {
+    console.log(`ℹ No existe ${path.basename(pdfPath)} — se omite`);
+    return Promise.resolve([]);
   }
-  console.log(`→ Parseando ${path.basename(filePath)}`);
-  const wb = XLSX.readFile(filePath);
-  const ws = wb.Sheets['REPUESTOS'] || wb.Sheets[wb.SheetNames[0]];
-  const rows = XLSX.utils.sheet_to_json(ws, { header: 1, raw: false, defval: '' });
+  console.log(`→ Parseando ${path.basename(pdfPath)}`);
+  return new Promise((resolve, reject) => {
+    const pdf = require('pdf-parse');
+    pdf(fs.readFileSync(pdfPath)).then(data => {
+      const productos = [];
+      const seen = new Set();
+      const rawLines = data.text.split('\n').map(l => l.trim()).filter(Boolean);
 
-  const productos = [];
-  // Data desde fila 3 (índice 2). Rows 1-2 son headers.
-  for (let r = 2; r < rows.length; r++) {
-    const sku = (rows[r][0] || '').toString().trim();
-    const grupo = (rows[r][3] || '').toString().trim();
-    const nombre = (rows[r][4] || '').toString().trim();
-    if (!sku || !nombre) continue;
-    // SKU MEK es numérico (ej. "1001205")
-    if (!/^\d+$/.test(sku.replace(/\s/g, ''))) continue;
+      // Ruido de headers/footers de cada página (aparecen repetidamente)
+      const noiseRx = /^(IMPORTADOR|FEBRERO|MARZO|ABRIL|MAYO|JUNIO|JULIO|AGOSTO|SEPTIEMBRE|OCTUBRE|NOVIEMBRE|DICIEMBRE|ENERO|PRECIO\s*STOCK|CODIGO\s*IMAGEN|Actualización|MOVESA|MEK PRO|mek)$/i;
+      // Precio / stock / anotaciones técnicas — a descartar del texto descriptivo
+      const priceRx = /^\s*\$[\s\d.,]+$/;
+      const stockRx = /^\d+\+?$/;
+      const annotRx = /^(BUSH\s|DIAMETRO|LARGO|CALIPER|ALTO|ANCHO|ASPID\/FIRE|COMPATIBLE\s)/i;
+      const badgeRx = /^(¡MÁS VENDIDO!|Δ)$/i;
+      // SKU al inicio de línea — 7 dígitos O alfanumérico corto (ej. 36JL0014)
+      const skuPrefixRx = /^(\d{7}|\d{2,3}[A-Z]{1,3}\d{3,6})(.*)$/;
 
-    productos.push({
-      sku,
-      nombre,
-      marca: 'MEK',
-      categoria: MEK_GRUPO_TO_CATEGORIA[grupo] || inferCategoria(nombre) || 'REPUESTOS',
-      presentacion: 'UND',
-      empaque: '',
-      // Sin precios visibles (decisión del usuario: a_pedido no muestra precio)
-      precios: { publico: null, taller: null, distribuidor: null },
-      stock: 0,
-      stock_status: 'out_of_stock',
-      disponible: false,
-      bodega_central: true,
-      disponibilidad: 'a_pedido',
-      fuente: 'MEK',
-      imagen: findImage(sku),
-      imagen_size: findImageSize(sku),
-      activo: true,
-    });
-  }
-  console.log(`✓ ${productos.length} productos MEK "a pedido"`);
-  return productos;
+      // Grupos conocidos del PDF (columna GRUPO)
+      const grupos = ['Carroceria', 'Cable', 'Luces', 'Electrico', 'Eléctrico', 'Control',
+        'Accesorios', 'Motor', 'MotorA', 'MotorB', 'Freno', 'Filtros', 'Traccion',
+        'Transmisión', 'Balinera', 'Sellos'];
+      const gruposLower = new Set(grupos.map(g => g.toLowerCase()));
+
+      function flushBlock(sku, linesOfBlock) {
+        if (!sku || seen.has(sku)) return;
+        let grupo = null;
+        const descParts = [];
+        for (let l of linesOfBlock) {
+          l = l.replace(/^Δ\s*/, '').trim();
+          if (!l) continue;
+          if (priceRx.test(l) || stockRx.test(l) || annotRx.test(l) || badgeRx.test(l)) continue;
+          if (noiseRx.test(l)) continue;
+          // "Carroceria                 Kit Amortiguador Aire GAS25+" — grupo + descripción pegados
+          const firstTok = l.split(/\s+/)[0];
+          if (gruposLower.has(firstTok.toLowerCase())) {
+            if (!grupo) grupo = firstTok;
+            const resto = l.slice(firstTok.length).replace(/\d+\+?$/, '').trim();
+            if (resto) descParts.push(resto);
+            continue;
+          }
+          // "Rin trasero CR150+" — texto con stock pegado al final
+          descParts.push(l.replace(/\d+\+?$/, '').trim());
+        }
+        let nombre = descParts.join(' ').replace(/\s+/g, ' ').trim();
+        // Remueve marker residual "ASPID/FIRE", etc. al inicio
+        nombre = nombre.replace(/^(ASPID\/FIRE|¡MÁS VENDIDO!|Δ)\s*/i, '').trim();
+        if (!nombre || nombre.length < 3) return;
+
+        seen.add(sku);
+        productos.push({
+          sku,
+          nombre,
+          marca: 'MEK',
+          categoria: MEK_GRUPO_TO_CATEGORIA[grupo] || inferCategoria(nombre) || 'REPUESTOS',
+          presentacion: 'UND',
+          empaque: '',
+          precios: { publico: null, taller: null, distribuidor: null },
+          stock: 0,
+          stock_status: 'out_of_stock',
+          disponible: false,
+          bodega_central: true,
+          disponibilidad: 'a_pedido',
+          fuente: 'MEK',
+          imagen: findImage(sku),
+          imagen_size: findImageSize(sku),
+          activo: true,
+        });
+      }
+
+      let curSku = null;
+      let curBlock = [];
+      for (const line of rawLines) {
+        if (noiseRx.test(line)) continue;
+        const m = line.match(skuPrefixRx);
+        if (m) {
+          flushBlock(curSku, curBlock);
+          curSku = m[1];
+          const rest = (m[2] || '').trim();
+          curBlock = rest ? [rest] : [];
+        } else if (curSku) {
+          curBlock.push(line);
+        }
+      }
+      flushBlock(curSku, curBlock);
+
+      console.log(`✓ ${productos.length} productos MEK "a pedido"`);
+      resolve(productos);
+    }).catch(reject);
+  });
 }
 
 // Parsea catálogo AXUS (PDF MOV Llantas): extrae SKU LA*-*-* + descripción siguiente
@@ -540,11 +592,11 @@ async function main() {
   const localProductos = parseExcel(buf, bodegaSet);
   console.log(`✓ ${localProductos.length} productos locales (LCR)`);
 
-  // Proveedores externos — archivos Excel dropeados en sync/
-  const nrpList = parseNRP(path.join(__dirname, 'inventario_nrp.xlsx'));
-  const viniList = parseVINI(path.join(__dirname, 'inventario_vini.XLS'));
-  const mekList = parseMEK(path.join(__dirname, 'inventario_mek.xlsx'));
-  const axusList = await parseAXUS(path.join(__dirname, 'inventario_axus.pdf'));
+  // Proveedores externos — archivos en catalogos-proveedores/ (gitignored)
+  const nrpList = parseNRP(path.join(PROVEEDORES_DIR, 'NRP.xlsx'));
+  const viniList = parseVINI(path.join(PROVEEDORES_DIR, 'VINI.XLS'));
+  const mekList = await parseMEK(path.join(PROVEEDORES_DIR, 'MEK.pdf'));
+  const axusList = await parseAXUS(path.join(PROVEEDORES_DIR, 'AXUS.pdf'));
 
   let providerLists = [nrpList, viniList, mekList, axusList];
   const totalProvider = providerLists.reduce((a, l) => a + l.length, 0);
@@ -588,7 +640,12 @@ async function main() {
   console.log(`✓ Escrito ${outPath} (${productos.length} productos)`);
 }
 
-main().catch(err => {
+// Export parsers para testing (solo corre main si este archivo es el entry point).
+module.exports = { parseNRP, parseVINI, parseMEK, parseAXUS, mergeProductos };
+
+if (require.main !== module) {
+  // Cargado como módulo, no corre main
+} else main().catch(err => {
   console.error('\n✗ ERROR:', err.message);
   if (process.env.DEBUG) console.error(err.stack);
   process.exit(1);

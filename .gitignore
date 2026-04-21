@@ -18,6 +18,9 @@ sync/*.csv
 sync/node_modules/
 sync/package-lock.json
 
+# Catálogos de proveedores (archivos pesados, locales del admin)
+catalogos-proveedores/
+
 # Logs
 sync/*.log
 
