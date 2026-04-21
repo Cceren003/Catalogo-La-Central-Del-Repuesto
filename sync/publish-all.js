@@ -7,20 +7,21 @@
 //   4. git add + commit + push de lo que cambió
 //
 // Uso:
-//   node sync/publish-all.js              # imágenes + enriquecidos (recomendado)
-//   node sync/publish-all.js --full       # incluye sync LCR (requiere credenciales)
-//   node sync/publish-all.js --dry-run    # muestra qué haría sin commitear
-//   node sync/publish-all.js --no-push    # commit local, sin push
-//   node sync/publish-all.js --full --no-push
+//   node sync/publish-all.js                 # imágenes + enriquecidos (recomendado)
+//   node sync/publish-all.js --proveedores   # actualiza proveedores (VINI/NRP/MEK/AXUS) SIN LCR
+//   node sync/publish-all.js --full          # LCR + proveedores + imágenes + enriquecidos (requiere credenciales)
+//   node sync/publish-all.js --dry-run       # muestra qué haría sin commitear
+//   node sync/publish-all.js --no-push       # commit local, sin push
 
 const { execSync } = require('child_process');
 const path = require('path');
 const fs = require('fs');
 
 const ROOT = path.join(__dirname, '..');
-const FULL     = process.argv.includes('--full') || process.argv.includes('--sync');
-const NO_PUSH  = process.argv.includes('--no-push');
-const DRY_RUN  = process.argv.includes('--dry-run');
+const FULL         = process.argv.includes('--full') || process.argv.includes('--sync');
+const PROVEEDORES  = process.argv.includes('--proveedores') && !FULL;
+const NO_PUSH      = process.argv.includes('--no-push');
+const DRY_RUN      = process.argv.includes('--dry-run');
 
 function run(cmd, opts = {}) {
   return execSync(cmd, { cwd: ROOT, stdio: 'inherit', ...opts });
@@ -34,7 +35,7 @@ function section(label) {
   console.log(`\n${bar}\n  ${label}\n${bar}`);
 }
 
-const flags = [DRY_RUN && 'DRY RUN', NO_PUSH && '--no-push', FULL && '--full']
+const flags = [DRY_RUN && 'DRY RUN', NO_PUSH && '--no-push', FULL && '--full', PROVEEDORES && '--proveedores']
   .filter(Boolean).join(' · ');
 console.log(`Publish-all${flags ? '  (' + flags + ')' : ''}`);
 
@@ -42,19 +43,26 @@ const branch = capture('git rev-parse --abbrev-ref HEAD');
 console.log(`→ Branch: ${branch}`);
 
 let steps = 0;
-const total = FULL ? 3 : 2;
+const total = (FULL || PROVEEDORES) ? 3 : 2;
 
-// ═══ 1. Sync LCR (opcional) ═══════════════════════════════════════
-if (FULL) {
-  section(`${++steps}/${total}  Sync de inventario LCR`);
+// ═══ 1. Sync LCR o solo proveedores (opcional) ═══════════════════
+if (FULL || PROVEEDORES) {
+  const label = FULL ? 'Sync inventario LCR + proveedores' : 'Sync solo proveedores (sin LCR)';
+  section(`${++steps}/${total}  ${label}`);
+  const syncCmd = `node "${path.join(__dirname, 'sync.js')}"${PROVEEDORES ? ' --sin-lcr' : ''}`;
   try {
-    run(`node "${path.join(__dirname, 'sync.js')}"`);
+    run(syncCmd);
   } catch (e) {
-    console.error('\n✗ Falló el sync. Posibles causas:');
-    console.error('  - No hay config.json ni env vars LCR_USER/LCR_PASS');
-    console.error('  - Credenciales incorrectas');
-    console.error('  - Red / servidor LCR caído');
-    console.error('\n  Si no tenés credenciales, corré sin --full:  node sync/publish-all.js');
+    console.error('\n✗ Falló el sync.');
+    if (FULL) {
+      console.error('  Causas comunes de --full:');
+      console.error('    - No hay config.json ni env vars LCR_USER/LCR_PASS');
+      console.error('    - Credenciales incorrectas');
+      console.error('    - Red / servidor LCR caído');
+      console.error('\n  Si no tenés credenciales LCR, usá:  npm run publish-all -- --proveedores');
+    } else {
+      console.error('  Revisá que catalogos-proveedores/ tenga los archivos correctos.');
+    }
     process.exit(1);
   }
 }

@@ -10,6 +10,9 @@ const { CookieJar } = require('tough-cookie');
 const XLSX = require('xlsx');
 
 const DRY_RUN = process.argv.includes('--dry-run');
+// --sin-lcr: saltea el login a LCR y reutiliza los productos LCR del catálogo
+// previo. Útil cuando solo querés actualizar proveedores sin credenciales LCR.
+const SIN_LCR  = process.argv.includes('--sin-lcr');
 const CONFIG_PATH = path.join(__dirname, 'config.json');
 
 // Carpeta de catálogos de proveedores (VINI, NRP, MEK, AXUS).
@@ -574,23 +577,38 @@ function buildCatalog(productos) {
 }
 
 async function main() {
-  const cfg = loadConfig();
-  console.log(`Sync LCR → catalogo.json${DRY_RUN ? ' (DRY RUN)' : ''}`);
+  const cfg = SIN_LCR ? { output: '../catalogo.json' } : loadConfig();
+  const modo = SIN_LCR ? ' (sin LCR — solo proveedores)' : '';
+  console.log(`Sync LCR → catalogo.json${DRY_RUN ? ' (DRY RUN)' : ''}${modo}`);
 
-  const { client } = await makeClient(cfg.baseUrl);
-  await login(client, cfg.username, cfg.password);
-  const buf = await downloadExcel(client, cfg.sucursal ?? 0);
+  let localProductos;
+  if (SIN_LCR) {
+    // Modo "--sin-lcr": no hace login. Reutiliza los productos LCR del
+    // catálogo previo (los que NO tienen campo `fuente`).
+    const prevPath = path.resolve(__dirname, cfg.output || '../catalogo.json');
+    if (!fs.existsSync(prevPath)) {
+      console.error(`✗ --sin-lcr requiere un catálogo previo en ${prevPath}`);
+      process.exit(1);
+    }
+    const prev = JSON.parse(fs.readFileSync(prevPath, 'utf8'));
+    localProductos = (prev.productos || []).filter(p => !p.fuente);
+    console.log(`→ Usando ${localProductos.length} productos LCR del catálogo previo`);
+  } else {
+    const { client } = await makeClient(cfg.baseUrl);
+    await login(client, cfg.username, cfg.password);
+    const buf = await downloadExcel(client, cfg.sucursal ?? 0);
 
-  if (DRY_RUN) {
-    const dbgPath = path.join(__dirname, 'last_download.xls');
-    fs.writeFileSync(dbgPath, buf);
-    console.log(`✓ Guardado Excel crudo en ${dbgPath} (dry-run)`);
+    if (DRY_RUN) {
+      const dbgPath = path.join(__dirname, 'last_download.xls');
+      fs.writeFileSync(dbgPath, buf);
+      console.log(`✓ Guardado Excel crudo en ${dbgPath} (dry-run)`);
+    }
+
+    const bodegaSet = loadBodegaCentral();
+    console.log('→ Parseando Excel LCR');
+    localProductos = parseExcel(buf, bodegaSet);
+    console.log(`✓ ${localProductos.length} productos locales (LCR)`);
   }
-
-  const bodegaSet = loadBodegaCentral();
-  console.log('→ Parseando Excel LCR');
-  const localProductos = parseExcel(buf, bodegaSet);
-  console.log(`✓ ${localProductos.length} productos locales (LCR)`);
 
   // Proveedores externos — archivos en catalogos-proveedores/ (gitignored)
   const nrpList = parseNRP(path.join(PROVEEDORES_DIR, 'NRP.xlsx'));
