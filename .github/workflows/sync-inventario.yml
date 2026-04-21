@@ -2,9 +2,9 @@ name: Sync inventario LCR
 
 # Corre el sync del inventario desde el sistema LCR 3 veces al día.
 # Horarios en UTC (GitHub Actions usa UTC):
-#   13:00 UTC = 07:00 hora El Salvador (UTC-6)
-#   19:00 UTC = 13:00 hora El Salvador
-#   01:00 UTC = 19:00 hora El Salvador
+#   13:00 UTC = 07:00 AM  hora El Salvador (UTC-6)
+#   17:00 UTC = 11:00 AM  hora El Salvador
+#   21:00 UTC = 03:00 PM  hora El Salvador
 #
 # Requiere en Settings → Secrets and variables → Actions:
 #   - LCR_USER    (usuario del sistema dev.oss.com.sv)
@@ -12,7 +12,7 @@ name: Sync inventario LCR
 
 on:
   schedule:
-    - cron: '0 1,13,19 * * *'
+    - cron: '0 13,17,21 * * *'
   # Permite correr a mano desde la pestaña Actions
   workflow_dispatch:
 
