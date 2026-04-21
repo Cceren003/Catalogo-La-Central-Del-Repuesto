@@ -136,7 +136,17 @@ function renderCategoryPills() {
     if (!btn) return;
     switchToFiltersMode();           // al tocar filtro, limpia query
     state.cat = btn.dataset.cat;
+    // Al cambiar de categoría, limpiamos el filtro de marca para evitar
+    // combinaciones vacías (ej. "MOTUL" + "CABLES" = 0 resultados).
+    state.marcaRepuesto = 'all';
     el.querySelectorAll('.pill').forEach(p => p.classList.toggle('active', p === btn));
+    // Reset visual: marca "Todas" como activa en el filtro lateral
+    const marcaEl = document.getElementById('filterMarcaRepuesto');
+    if (marcaEl) {
+      marcaEl.querySelectorAll('.chip').forEach(c =>
+        c.classList.toggle('active', c.dataset.v === 'all')
+      );
+    }
     applyFilters();
   });
 
