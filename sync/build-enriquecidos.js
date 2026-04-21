@@ -93,7 +93,7 @@ function main() {
   console.log(`→ Hojas encontradas: ${wb.SheetNames.join(', ')}`);
 
   const out = {};
-  const slot = sku => (out[sku] ??= { compatibilidades: [], equivalencias: [], relacionados: [] });
+  const slot = sku => (out[sku] ??= { compatibilidades: [], equivalencias: [], relacionados: [], especificaciones: {} });
 
   // ─── Compatibilidades ──────────────────────────────────────────
   const compatRows = readSheet(wb, 'Compatibilidades');
@@ -158,13 +158,40 @@ function main() {
     }
   }
 
-  // ─── Limpieza: quita arrays vacíos del output ──────────────────
+  // ─── Especificaciones técnicas ─────────────────────────────────
+  // Una fila por SKU. Celdas vacías se omiten (no quedan en el JSON).
+  const specCols = [
+    { key: 'dientes',                names: ['DIENTES', 'Dientes'] },
+    { key: 'diametro_centro',        names: ['DIAMETRO_CENTRO', 'Diametro_centro', 'Diámetro centro'] },
+    { key: 'pernos_cantidad',        names: ['PERNOS_CANTIDAD', 'Pernos_cantidad', 'Cantidad de pernos'] },
+    { key: 'diametro_perno',         names: ['DIAMETRO_PERNO', 'Diametro_perno', 'Diámetro perno'] },
+    { key: 'diametro_perno_a_perno', names: ['DIAMETRO_PERNO_A_PERNO', 'Diametro_perno_a_perno', 'Diámetro perno a perno'] },
+    { key: 'tipo_de_paso',           names: ['TIPO_DE_PASO', 'Tipo_de_paso', 'Tipo de paso'] },
+  ];
+  const specRows = readSheet(wb, 'Especificaciones');
+  let specCount = 0, specSkipped = 0;
+  for (const r of specRows) {
+    if (isComment(r)) continue;
+    const sku = norm(col(r, ['SKU', 'sku']));
+    if (!sku) { specSkipped++; continue; }
+    const specs = {};
+    for (const s of specCols) {
+      const v = norm(col(r, s.names));
+      if (v) specs[s.key] = v;
+    }
+    if (Object.keys(specs).length === 0) { specSkipped++; continue; }
+    slot(sku).especificaciones = { ...(slot(sku).especificaciones || {}), ...specs };
+    specCount++;
+  }
+
+  // ─── Limpieza: quita arrays/objetos vacíos del output ──────────
   const clean = {};
   for (const [sku, data] of Object.entries(out)) {
     const c = {};
-    if (data.compatibilidades.length) c.compatibilidades = data.compatibilidades;
-    if (data.equivalencias.length)    c.equivalencias    = data.equivalencias;
-    if (data.relacionados.length)     c.relacionados     = data.relacionados;
+    if (data.compatibilidades.length)               c.compatibilidades  = data.compatibilidades;
+    if (data.equivalencias.length)                  c.equivalencias     = data.equivalencias;
+    if (data.relacionados.length)                   c.relacionados      = data.relacionados;
+    if (Object.keys(data.especificaciones).length)  c.especificaciones  = data.especificaciones;
     if (Object.keys(c).length > 0) clean[sku] = c;
   }
 
@@ -186,6 +213,7 @@ function main() {
   console.log(`  · ${compatCount} compatibilidades (omitidas: ${compatSkipped})`);
   console.log(`  · ${equivForward} equivalencias + ${equivInverse} inversas auto-generadas (omitidas: ${equivSkipped})`);
   console.log(`  · ${relCount} relacionados     (omitidas: ${relSkipped})`);
+  console.log(`  · ${specCount} especificaciones técnicas (omitidas: ${specSkipped})`);
 
   // ─── Validación vs catalogo.json (si existe) ───────────────────
   // Detecta SKUs escritos en el Excel que ya no están en el catálogo actual

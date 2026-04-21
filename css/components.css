@@ -691,6 +691,34 @@
   margin-bottom: 12px;
 }
 
+/* Especificaciones técnicas */
+.specs-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+.spec-card {
+  padding: 12px 14px;
+  background: var(--lcr-gray);
+  border: 1px solid var(--lcr-gray2);
+  border-radius: 6px;
+}
+.spec-label {
+  font-size: 10px;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: var(--lcr-muted);
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.spec-value {
+  font-size: 14px;
+  color: var(--lcr-white);
+  font-weight: 600;
+  line-height: 1.2;
+  word-break: break-word;
+}
+
 /* Compatibilidades */
 .compat-grid {
   display: grid;
@@ -835,6 +863,7 @@
 }
 
 @media (max-width: 600px) {
+  .specs-grid { grid-template-columns: 1fr; }
   .compat-grid { grid-template-columns: 1fr; }
   .related-grid { grid-template-columns: repeat(2, 1fr); }
 }

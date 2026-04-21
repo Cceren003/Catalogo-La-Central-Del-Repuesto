@@ -1,10 +1,12 @@
 #!/usr/bin/env node
 // sync/create-template.js
-// Genera la plantilla Excel (sync/enriquecidos-template.xlsx) con 4 hojas:
+// Genera la plantilla Excel (sync/enriquecidos-template.xlsx) con 5 hojas:
 //   - Instrucciones (cómo llenar el archivo)
 //   - Compatibilidades (SKU | Marca | Modelo | Años)
 //   - Equivalencias   (SKU | SKU_Equivalente)
 //   - Relacionados    (SKU | SKU_Relacionado)
+//   - Especificaciones (SKU | DIENTES | DIAMETRO_CENTRO | PERNOS_CANTIDAD |
+//                       DIAMETRO_PERNO | DIAMETRO_PERNO_A_PERNO | TIPO_DE_PASO)
 //
 // Correr:  node sync/create-template.js
 //          npm run template-enriquecidos (desde sync/)
@@ -59,6 +61,14 @@ const wsInstr = aoa([
   ['      productos de la misma categoría. Usá esta hoja solo cuando quieras'],
   ['      forzar qué cross-sell aparece para un producto importante.'],
   [],
+  ['  Especificaciones:'],
+  ['    - UNA fila por SKU (distinto a las otras hojas).'],
+  ['    - Dejá vacías las columnas que no aplican al producto.'],
+  ['    - Columnas: DIENTES, DIAMETRO_CENTRO, PERNOS_CANTIDAD,'],
+  ['      DIAMETRO_PERNO, DIAMETRO_PERNO_A_PERNO, TIPO_DE_PASO'],
+  ['    - Si todas las columnas están vacías, la sección no aparece en la ficha.'],
+  ['    - Pensado para catarinas, discos, prensas, rodamientos, etc.'],
+  [],
   ['¿DÓNDE GUARDAR?'],
   ['  - Plantilla (este archivo):  sync/enriquecidos-template.xlsx   (va al repo)'],
   ['  - Tu copia editada:          sync/enriquecidos.xlsx            (NO va al repo)'],
@@ -103,6 +113,21 @@ const wsRel = aoa([
 ]);
 setWidths(wsRel, [18, 22, 40]);
 XLSX.utils.book_append_sheet(wb, wsRel, 'Relacionados');
+
+// ─── Hoja 4: Especificaciones ──────────────────────────────────────────
+// Una fila por SKU. Cada celda vacía se omite en el JSON final.
+// Pensado para piezas donde las dimensiones técnicas son críticas (catarinas,
+// prensas, discos, rodamientos, etc.).
+const wsSpecs = aoa([
+  ['SKU', 'DIENTES', 'DIAMETRO_CENTRO', 'PERNOS_CANTIDAD', 'DIAMETRO_PERNO', 'DIAMETRO_PERNO_A_PERNO', 'TIPO_DE_PASO'],
+  ['', '', '', '', '', '', ''],
+  ['// EJEMPLOS (borrá los // y poné tu SKU real). Dejá vacías las specs que no aplican.', '', '', '', '', '', ''],
+  ['// CATARINA-HONDA-14T', '14T',  '20 mm', '5', '8 mm', '42 mm', '428H'],
+  ['// CATARINA-BAJAJ-45T', '45T',  '58 mm', '5', '8 mm', '58 mm', '520'],
+  ['// DISCO-FRENO-220',    '',     '', '5', '10.5 mm', '', ''],
+]);
+setWidths(wsSpecs, [28, 10, 16, 16, 16, 22, 14]);
+XLSX.utils.book_append_sheet(wb, wsSpecs, 'Especificaciones');
 
 XLSX.writeFile(wb, OUT);
 console.log(`✓ Generado ${OUT}`);

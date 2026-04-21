@@ -461,6 +461,7 @@ function showDetail(sku) {
         Cotizar y agendar instalación
       </a>
     </div>
+    ${renderEspecificaciones(p)}
     ${renderCompatibilidades(p)}
     ${renderEquivalencias(p)}
     ${renderRelacionados(p)}`;
@@ -535,6 +536,35 @@ function fmtPrice(v) { return v != null ? '$' + (+v).toFixed(2) : '—'; }
 // ═══════════════════════════════════════════
 function getEnrichment(sku) {
   return (state.enriched && state.enriched.get(sku)) || {};
+}
+
+// Orden y label legible de las specs técnicas. Solo se renderizan las que tienen
+// valor — se omiten silenciosamente los campos vacíos.
+const SPEC_LABELS = [
+  ['dientes',                'Dientes'],
+  ['diametro_centro',        'Diámetro centro'],
+  ['pernos_cantidad',        'Cantidad de pernos'],
+  ['diametro_perno',         'Diámetro perno'],
+  ['diametro_perno_a_perno', 'Diámetro perno a perno'],
+  ['tipo_de_paso',           'Tipo de paso'],
+];
+function renderEspecificaciones(p) {
+  const specs = getEnrichment(p.sku).especificaciones;
+  if (!specs || typeof specs !== 'object') return '';
+  const cards = SPEC_LABELS
+    .filter(([key]) => specs[key] != null && specs[key] !== '')
+    .map(([key, label]) => `
+      <div class="spec-card">
+        <div class="spec-label">${esc(label)}</div>
+        <div class="spec-value">${esc(specs[key])}</div>
+      </div>`)
+    .join('');
+  if (!cards) return '';
+  return `
+    <div class="detail-section">
+      <div class="detail-section-title">Especificaciones técnicas</div>
+      <div class="specs-grid">${cards}</div>
+    </div>`;
 }
 
 function renderCompatibilidades(p) {
