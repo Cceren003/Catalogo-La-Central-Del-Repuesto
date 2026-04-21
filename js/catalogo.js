@@ -411,14 +411,14 @@ function showDetail(sku) {
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>
         </svg>
-        <span>Servicio de instalación disponible</span>
+        <span>Servicio de instalación (opcional)</span>
       </div>
       <p class="install-card-text">
-        Llevá tu moto a nuestro centro de servicio y nuestros técnicos instalan este repuesto por vos.
-        Mano de obra, prueba de funcionamiento y garantía de instalación incluidas.
+        El precio mostrado corresponde solo al repuesto y <strong>no incluye instalación</strong>.
+        Si querés que la instalemos nosotros, solicita la cotización del servicio y agendá tu cita en nuestro centro de servicio.
       </p>
-      <a class="btn btn-primary block" href="https://wa.me/${CONFIG.whatsappTaller}?text=${encodeURIComponent('Hola, quisiera cotización de instalación para:\n\n' + p.nombre + '\nSKU: ' + p.sku)}" target="_blank">
-        Agendar instalación
+      <a class="btn btn-primary block" href="https://wa.me/${CONFIG.whatsappTaller}?text=${encodeURIComponent('Hola, quisiera cotizar la instalación y agendar una cita para:\n\n' + p.nombre + '\nSKU: ' + p.sku)}" target="_blank">
+        Cotizar y agendar instalación
       </a>
     </div>`;
 
