@@ -54,7 +54,7 @@ function round2(n) {
 }
 
 // Carga el índice de imágenes disponibles en ../imagenes/ (sin extensión).
-// Se llama una vez al arrancar el sync y se reusa para matching O(1).
+// Incluye tamaño en bytes (proxy de calidad: más bytes = más detalle).
 let _imgIndex = null;
 function getImgIndex() {
   if (_imgIndex) return _imgIndex;
@@ -65,16 +65,22 @@ function getImgIndex() {
   for (const f of files) {
     const m = f.match(/^(.+)\.(jpg|jpeg|png|webp)$/i);
     if (!m) continue;
-    _imgIndex.set(m[1].toUpperCase(), `imagenes/${f}`);
+    let size = 0;
+    try { size = fs.statSync(path.join(imgDir, f)).size; } catch {}
+    _imgIndex.set(m[1].toUpperCase(), { path: `imagenes/${f}`, size });
   }
   console.log(`→ Índice de imágenes: ${_imgIndex.size} archivos en imagenes/`);
   return _imgIndex;
 }
 
-// Devuelve la ruta relativa a la imagen si existe un archivo imagenes/<sku>.(jpg|png|webp), o '' si no.
+// Devuelve la ruta relativa a la imagen si existe (imagenes/<sku>.ext), o '' si no.
 function findImage(sku) {
-  const idx = getImgIndex();
-  return idx.get((sku || '').toString().trim().toUpperCase()) || '';
+  return (getImgIndex().get((sku || '').toString().trim().toUpperCase()) || {}).path || '';
+}
+
+// Devuelve el tamaño en bytes de la imagen (0 si no existe).
+function findImageSize(sku) {
+  return (getImgIndex().get((sku || '').toString().trim().toUpperCase()) || {}).size || 0;
 }
 
 function stockStatus(n) {
@@ -172,6 +178,7 @@ function parseNRP(filePath) {
       disponibilidad: 'a_pedido',
       fuente: 'NRP',
       imagen: findImage(sku),
+      imagen_size: findImageSize(sku),
       activo: true,
     });
   }
@@ -223,6 +230,7 @@ function parseVINI(filePath, margen = 1.7) {
       disponibilidad: 'a_pedido',
       fuente: 'VINI',
       imagen: findImage(sku),
+      imagen_size: findImageSize(sku),
       activo: true,
     });
   }
@@ -282,6 +290,7 @@ function parseMEK(filePath) {
       disponibilidad: 'a_pedido',
       fuente: 'MEK',
       imagen: findImage(sku),
+      imagen_size: findImageSize(sku),
       activo: true,
     });
   }
@@ -337,6 +346,7 @@ function parseAXUS(pdfPath) {
           disponibilidad: 'a_pedido',
           fuente: 'AXUS',
           imagen: findImage(sku),
+      imagen_size: findImageSize(sku),
           activo: true,
         });
       }
@@ -483,6 +493,7 @@ function parseExcel(buf, bodegaSet = new Set()) {
       // 3 estados: 'inmediato' (stock > 0), 'a_pedido' (stock=0 y bodega_central=true), 'agotado' (stock=0 y !bodega_central)
       disponibilidad: stock > 0 ? 'inmediato' : (enBodegaCentral ? 'a_pedido' : 'agotado'),
       imagen: findImage(codigo),
+      imagen_size: findImageSize(codigo),
       activo: true,
     });
   }

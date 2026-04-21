@@ -159,9 +159,37 @@
   border-bottom: 1px solid var(--lcr-gray2);
 }
 .cat-pills {
-  max-width: 1440px; margin: 0 auto; padding: 14px 24px;
+  max-width: 1440px; margin: 0 auto; padding: 14px 52px;
   display: flex; gap: 8px; overflow-x: auto;
-  scrollbar-width: thin;
+  scrollbar-width: none;  /* Ocultar scrollbar nativo, navegar con flechas */
+  scroll-behavior: smooth;
+}
+.cat-pills::-webkit-scrollbar { display: none; }
+
+/* Flechas laterales de navegación (visibles solo cuando hay overflow) */
+.cat-pills-arrow {
+  position: absolute;
+  top: 50%; transform: translateY(-50%);
+  z-index: 2;
+  width: 38px; height: 38px;
+  border-radius: 50%;
+  background: var(--lcr-gray);
+  border: 1px solid var(--lcr-gray2);
+  color: var(--lcr-white);
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: background .15s, border-color .15s, opacity .2s;
+  opacity: 1;
+}
+.cat-pills-arrow svg { width: 16px; height: 16px; }
+.cat-pills-arrow:hover { background: var(--lcr-red); border-color: var(--lcr-red); }
+.cat-pills-arrow.left  { left: 10px; }
+.cat-pills-arrow.right { right: 10px; }
+.cat-pills-arrow.hidden { opacity: 0; pointer-events: none; }
+@media (max-width: 720px) {
+  /* En mobile, el swipe táctil es natural — ocultamos flechas */
+  .cat-pills-arrow { display: none; }
+  .cat-pills { padding: 14px 24px; }
 }
 .pill {
   flex: 0 0 auto;

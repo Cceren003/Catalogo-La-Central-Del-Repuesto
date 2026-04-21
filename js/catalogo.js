@@ -22,7 +22,6 @@ const state = {
   page: 1,
   cat: 'all',
   marcaRepuesto: 'all',
-  marcaMoto: 'all',
   dispo: 'all',         // 'all' | 'inmediato' | 'a_pedido'
   query: '',
   sort: 'relevance',
@@ -61,10 +60,18 @@ async function loadCatalog() {
 function initUI() {
   renderCategoryPills();
   renderMarcaRepuestoFilter();
-  renderMarcaMotoFilter();
   renderStockFilter();
+  populateCompatMarcaSelect();
   applyFilters();
   wireEvents();
+}
+
+// Pobla el <select> del hero con las marcas de moto (placeholder — aún no filtra)
+function populateCompatMarcaSelect() {
+  const sel = document.getElementById('compatMarca');
+  if (!sel) return;
+  const opts = CONFIG.motoBrands.map(m => `<option value="${esc(m)}">${esc(m)}</option>`).join('');
+  sel.innerHTML = `<option value="">Selecciona la marca</option>` + opts;
 }
 
 // ═══════════════════════════════════════════
@@ -89,6 +96,24 @@ function renderCategoryPills() {
     el.querySelectorAll('.pill').forEach(p => p.classList.toggle('active', p === btn));
     applyFilters();
   });
+
+  // Flechas de desplazamiento horizontal (desktop)
+  const btnLeft = document.getElementById('catPillsLeft');
+  const btnRight = document.getElementById('catPillsRight');
+  if (btnLeft && btnRight) {
+    const scrollAmount = () => Math.round(el.clientWidth * 0.7);
+    btnLeft.addEventListener('click', () => el.scrollBy({ left: -scrollAmount(), behavior: 'smooth' }));
+    btnRight.addEventListener('click', () => el.scrollBy({ left: scrollAmount(), behavior: 'smooth' }));
+    const updateArrows = () => {
+      const max = el.scrollWidth - el.clientWidth;
+      btnLeft.classList.toggle('hidden', el.scrollLeft <= 4);
+      btnRight.classList.toggle('hidden', el.scrollLeft >= max - 4);
+    };
+    el.addEventListener('scroll', updateArrows, { passive: true });
+    window.addEventListener('resize', updateArrows);
+    // Initial state (siguiente tick para que el layout esté listo)
+    requestAnimationFrame(updateArrows);
+  }
 }
 
 function renderMarcaRepuestoFilter() {
@@ -101,16 +126,6 @@ function renderMarcaRepuestoFilter() {
       `<button class="chip" data-v="${esc(m)}">${esc(m)}</button>`
     ).join('');
   chipGroupHandler(el, v => { state.marcaRepuesto = v; });
-}
-
-function renderMarcaMotoFilter() {
-  const el = document.getElementById('filterMarcaMoto');
-  el.innerHTML =
-    `<button class="chip active" data-v="all">Todas</button>` +
-    CONFIG.motoBrands.map(m =>
-      `<button class="chip" data-v="${esc(m)}">${esc(m)}</button>`
-    ).join('');
-  chipGroupHandler(el, v => { state.marcaMoto = v; });
 }
 
 function renderStockFilter() {
@@ -145,7 +160,8 @@ function applyFilters() {
     if (state.dispo !== 'all' && dispoOf(p) !== state.dispo) return false;
     // Oculta agotados definitivos siempre (no tiene sentido mostrarlos nunca)
     if (dispoOf(p) === 'agotado') return false;
-    // state.marcaMoto por ahora es stub (sin data de compatibilidades). Cuando exista, filtrar acá.
+    // TODO: filtrar por marca/modelo/año de moto cuando tengamos data de compatibilidades
+    //       (usaría los selects del hero: compatMarca / compatModelo / compatAnio).
     if (q) {
       const hay = (p.nombre || '').toLowerCase().includes(q)
         || (p.sku || '').toLowerCase().includes(q)
@@ -167,8 +183,11 @@ function sortFiltered() {
   else if (s === 'price-desc') state.filtered.sort((a,b) => (key(b) ?? -Infinity) - (key(a) ?? -Infinity));
   else if (s === 'alpha') state.filtered.sort((a,b) => (a.nombre || '').localeCompare(b.nombre || ''));
   else {
-    // 'relevance' (default): productos CON imagen primero, resto despúes, preservando orden interno
-    const conImagen = state.filtered.filter(p => p.imagen);
+    // 'relevance' (default):
+    //   1) Productos con imagen, ordenados por imagen_size DESC (mejor resolución primero)
+    //   2) Productos sin imagen al final
+    const conImagen = state.filtered.filter(p => p.imagen)
+      .sort((a, b) => (b.imagen_size || 0) - (a.imagen_size || 0));
     const sinImagen = state.filtered.filter(p => !p.imagen);
     state.filtered = [...conImagen, ...sinImagen];
   }
