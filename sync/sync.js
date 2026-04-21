@@ -546,7 +546,32 @@ async function main() {
   const mekList = parseMEK(path.join(__dirname, 'inventario_mek.xlsx'));
   const axusList = await parseAXUS(path.join(__dirname, 'inventario_axus.pdf'));
 
-  const { productos, extraCount } = mergeProductos(localProductos, [nrpList, viniList, mekList, axusList]);
+  let providerLists = [nrpList, viniList, mekList, axusList];
+  const totalProvider = providerLists.reduce((a, l) => a + l.length, 0);
+
+  // Si NO hay datos de proveedores (típico en GitHub Actions donde los archivos
+  // de proveedor no están disponibles), rescatamos los productos de proveedor
+  // del catálogo previo para no perderlos.
+  if (totalProvider === 0) {
+    const prevPath = path.resolve(__dirname, cfg.output || '../catalogo.json');
+    if (fs.existsSync(prevPath)) {
+      try {
+        const prev = JSON.parse(fs.readFileSync(prevPath, 'utf8'));
+        const localSkus = new Set(localProductos.map(p => p.sku));
+        const rescued = (prev.productos || []).filter(p => p.fuente && !localSkus.has(p.sku));
+        if (rescued.length > 0) {
+          providerLists = [rescued];
+          console.log(`→ Proveedores no disponibles: rescatando ${rescued.length} productos del catálogo previo`);
+        }
+      } catch (e) {
+        console.warn(`⚠ No se pudo leer catálogo previo para rescatar proveedores: ${e.message}`);
+      }
+    } else {
+      console.warn('⚠ Sin archivos de proveedores y sin catálogo previo: el catálogo tendrá solo productos de LCR');
+    }
+  }
+
+  const { productos, extraCount } = mergeProductos(localProductos, providerLists);
   const aPedido = productos.filter(p => p.disponibilidad === 'a_pedido').length;
   console.log(`✓ Merge: ${localProductos.length} LCR + ${extraCount} nuevos de proveedor = ${productos.length} total (${aPedido} "a pedido")`);
 

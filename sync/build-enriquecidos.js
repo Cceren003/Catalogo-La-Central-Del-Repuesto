@@ -186,6 +186,40 @@ function main() {
   console.log(`  · ${compatCount} compatibilidades (omitidas: ${compatSkipped})`);
   console.log(`  · ${equivForward} equivalencias + ${equivInverse} inversas auto-generadas (omitidas: ${equivSkipped})`);
   console.log(`  · ${relCount} relacionados     (omitidas: ${relSkipped})`);
+
+  // ─── Validación vs catalogo.json (si existe) ───────────────────
+  // Detecta SKUs escritos en el Excel que ya no están en el catálogo actual
+  // (producto dado de baja, SKU cambiado, etc.). NO falla el build — solo avisa.
+  const CATALOG_PATH = path.join(__dirname, '..', 'catalogo.json');
+  if (!fs.existsSync(CATALOG_PATH)) return;
+
+  let cat;
+  try { cat = JSON.parse(fs.readFileSync(CATALOG_PATH, 'utf8')); }
+  catch { return; }
+  const catalogSkus = new Set((cat.productos || []).map(p => p.sku));
+
+  const missing = new Set();
+  for (const [sku, data] of Object.entries(clean)) {
+    if (!catalogSkus.has(sku)) missing.add(sku);
+    for (const e of data.equivalencias || []) {
+      const s = typeof e === 'string' ? e : e.sku;
+      if (s && !catalogSkus.has(s)) missing.add(s);
+    }
+    for (const r of data.relacionados || []) {
+      const s = typeof r === 'string' ? r : r.sku;
+      if (s && !catalogSkus.has(s)) missing.add(s);
+    }
+  }
+
+  if (missing.size === 0) return;
+  console.log('');
+  console.log(`⚠  ${missing.size} SKU(s) referenciados en el Excel NO existen en catalogo.json:`);
+  [...missing].sort().forEach(s => console.log(`    · ${s}`));
+  console.log('   Esas equivalencias/relacionados se OCULTAN en la ficha web.');
+  console.log('   Acciones sugeridas:');
+  console.log('     - Verificá si el SKU se dio de baja en LCR');
+  console.log('     - Revisá si hay typo en sync/enriquecidos.xlsx');
+  console.log('     - Si el SKU ya no existe, borralo del Excel y corré de nuevo');
 }
 
 try { main(); } catch (err) {
