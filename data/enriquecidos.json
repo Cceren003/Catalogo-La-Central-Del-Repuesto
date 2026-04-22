@@ -2,42 +2,42 @@
   "1001283": {
     "equivalencias": [
       {
-        "sku": "7.4154E+11"
+        "sku": "741540111510"
       }
     ]
   },
   "1003574": {
     "equivalencias": [
       {
-        "sku": "7.4154E+11"
+        "sku": "741540188247"
       }
     ]
   },
   "1004512": {
     "equivalencias": [
       {
-        "sku": "7.4154E+11"
+        "sku": "741540111510"
       }
     ]
   },
   "1005584": {
     "equivalencias": [
       {
-        "sku": "7.4154E+11"
+        "sku": "741540188247"
       }
     ]
   },
   "1005997": {
     "equivalencias": [
       {
-        "sku": "7.4154E+11"
+        "sku": "741540189054"
       }
     ]
   },
   "_formato": {
-    "generado_en": "2026-04-22T00:02:26.949Z",
+    "generado_en": "2026-04-22T00:04:42.876Z",
     "origen": "sync/enriquecidos.xlsx (vía sync/build-enriquecidos.js)",
-    "cantidad_productos": 19,
+    "cantidad_productos": 21,
     "advertencia": "NO editar a mano. Se regenera desde el Excel. Para cambios, editá sync/enriquecidos.xlsx y corré build-enriquecidos.js."
   },
   "741540189145": {
@@ -80,7 +80,7 @@
       }
     ]
   },
-  "7.4154E+11": {
+  "741540189054": {
     "compatibilidades": [
       {
         "marca": "HONDA",
@@ -92,13 +92,25 @@
     ],
     "equivalencias": [
       {
+        "sku": "1005997",
+        "nota": "Misma pieza, proveedor distinto"
+      }
+    ]
+  },
+  "741540188247": {
+    "equivalencias": [
+      {
         "sku": "1005584",
         "nota": "Misma pieza, proveedor distinto"
       },
       {
         "sku": "1003574",
         "nota": "Misma pieza, proveedor distinto"
-      },
+      }
+    ]
+  },
+  "741540111510": {
+    "equivalencias": [
       {
         "sku": "1004512",
         "nota": "Misma pieza, proveedor distinto"
@@ -106,10 +118,6 @@
       {
         "sku": "1001283",
         "nota": "73 dientes, pero de 4 pernos 5 discos"
-      },
-      {
-        "sku": "1005997",
-        "nota": "Misma pieza, proveedor distinto"
       }
     ]
   },
