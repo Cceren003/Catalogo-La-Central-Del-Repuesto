@@ -220,6 +220,47 @@ function chipGroupHandler(root, onChange, opts = {}) {
 // ═══════════════════════════════════════════
 // FILTER + SORT
 // ═══════════════════════════════════════════
+
+// Busca el query en los campos del producto. Match por substring case-insensitive.
+// Incluye los datos de enriquecidos.json: especificaciones, compatibilidades,
+// equivalencias. Así se pueden buscar valores como "14T", "428H", "64 mm",
+// "Hero Glamour 2022", o el SKU de un producto equivalente.
+function matchesQuery(p, qLow) {
+  // Campos directos del producto
+  if ((p.nombre || '').toLowerCase().includes(qLow)) return true;
+  if ((p.sku    || '').toLowerCase().includes(qLow)) return true;
+  if ((p.marca  || '').toLowerCase().includes(qLow)) return true;
+
+  // Datos enriquecidos (si existen para este SKU)
+  const enr = state.enriched && state.enriched.get(p.sku);
+  if (!enr) return false;
+
+  // Especificaciones técnicas (valores: "14T", "64 mm", "428H", etc.)
+  if (enr.especificaciones) {
+    for (const v of Object.values(enr.especificaciones)) {
+      if (String(v).toLowerCase().includes(qLow)) return true;
+    }
+  }
+
+  // Compatibilidades (marca + modelo + años de cada moto)
+  if (Array.isArray(enr.compatibilidades)) {
+    for (const c of enr.compatibilidades) {
+      const combo = `${c.marca || ''} ${c.modelo || ''} ${(c.anios || []).join(' ')}`.toLowerCase();
+      if (combo.includes(qLow)) return true;
+    }
+  }
+
+  // Equivalencias (SKUs de productos equivalentes de otros proveedores)
+  if (Array.isArray(enr.equivalencias)) {
+    for (const e of enr.equivalencias) {
+      const s = typeof e === 'string' ? e : e?.sku;
+      if (s && s.toLowerCase().includes(qLow)) return true;
+    }
+  }
+
+  return false;
+}
+
 function applyFilters() {
   const q = state.query.trim().toLowerCase();
   state.filtered = state.all.filter(p => {
@@ -233,9 +274,7 @@ function applyFilters() {
     if (state.mode === 'search') {
       // Modo búsqueda: SOLO texto (+ disponibilidad ya aplicada arriba)
       if (!q) return true;
-      return (p.nombre || '').toLowerCase().includes(q)
-          || (p.sku || '').toLowerCase().includes(q)
-          || (p.marca || '').toLowerCase().includes(q);
+      return matchesQuery(p, q);
     }
 
     // Modo filtros: categoría + marca (+ disponibilidad ya aplicada arriba)
