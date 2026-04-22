@@ -292,6 +292,54 @@ function parseMEK(pdfPath) {
       // SKU al inicio de línea — 7 dígitos O alfanumérico corto (ej. 36JL0014)
       const skuPrefixRx = /^(\d{7}|\d{2,3}[A-Z]{1,3}\d{3,6})(.*)$/;
 
+      // Stocks observados en MEK (solos en línea propia, confirmados vía análisis del PDF).
+      // Dominantes: 100 (231×), 250 (157×), 50 (130×), 500 (140×), 25 (63×).
+      // Raros confirmados: 1-24 específicos, 750, 1000, 1500, 2000, 2500, 3000, 5000.
+      // Se excluyen 150 (1×), 200 (4×), 300, 400 por colisión frecuente con modelos de moto
+      // (CR150, GN150, TT200, XTZ200, DEFENDER150, PULSAR180, etc.). Tradeoff: ~5 productos
+      // con stock exacto 150/200 quedan con el "+" colgando, pero se recuperan ~150 modelos
+      // bien formados.
+      const MEK_STOCK_SET = new Set([
+        '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15',
+        '16','17','18','19','20','21','22','23','24',
+        '25','50','75','100','250','500','750','1000','1500','2000','2500','3000','5000'
+      ]);
+      // Ordenados de mayor a menor longitud (para intentar sufijos largos primero)
+      const MEK_STOCKS_SORTED = [...MEK_STOCK_SET].sort((a, b) =>
+        b.length - a.length || Number(b) - Number(a));
+      // Quita el stock pegado al final del texto. Estrategia:
+      //  1. Si termina en "\d+\+", intentar:
+      //     1a. Match exacto con stock conocido → quitar.
+      //     1b. Match por sufijo (ej. "12525+" = modelo "125" + stock "25+").
+      //         Requiere prefijo ≥2 dígitos para no comerse modelos como "150+".
+      //     1c. Último recurso: remueve sólo el "+" huérfano, preserva los dígitos.
+      //  2. Si termina en " \d+" (stock separado por espacio), quitar si es stock conocido.
+      // Dígitos pegados a letras SIN "+" se preservan (son modelos como CR150, GN150).
+      function stripMekStockTail(text) {
+        const mPlus = text.match(/(\d+)\+$/);
+        if (mPlus) {
+          const digits = mPlus[1];
+          if (MEK_STOCK_SET.has(digits)) {
+            return text.slice(0, text.length - mPlus[0].length).trim();
+          }
+          for (const s of MEK_STOCKS_SORTED) {
+            if (digits.length > s.length && digits.endsWith(s)) {
+              const prefix = digits.slice(0, digits.length - s.length);
+              if (prefix.length >= 2) {
+                return text.slice(0, text.length - s.length - 1).trim();
+              }
+            }
+          }
+          // "+" huérfano: limpia presentación aunque no reconozcamos el stock
+          return text.slice(0, text.length - 1).trim();
+        }
+        const mSp = text.match(/\s(\d+)$/);
+        if (mSp && MEK_STOCK_SET.has(mSp[1])) {
+          return text.slice(0, text.length - mSp[0].length).trim();
+        }
+        return text.trim();
+      }
+
       // Grupos conocidos del PDF (columna GRUPO)
       const grupos = ['Carroceria', 'Cable', 'Luces', 'Electrico', 'Eléctrico', 'Control',
         'Accesorios', 'Motor', 'MotorA', 'MotorB', 'Freno', 'Filtros', 'Traccion',
@@ -311,12 +359,12 @@ function parseMEK(pdfPath) {
           const firstTok = l.split(/\s+/)[0];
           if (gruposLower.has(firstTok.toLowerCase())) {
             if (!grupo) grupo = firstTok;
-            const resto = l.slice(firstTok.length).replace(/\d+\+?$/, '').trim();
+            const resto = stripMekStockTail(l.slice(firstTok.length));
             if (resto) descParts.push(resto);
             continue;
           }
-          // "Rin trasero CR150+" — texto con stock pegado al final
-          descParts.push(l.replace(/\d+\+?$/, '').trim());
+          // "Rin trasero CR150+" — mantener CR150 (modelo) y quitar solo stock conocido.
+          descParts.push(stripMekStockTail(l));
         }
         let nombre = descParts.join(' ').replace(/\s+/g, ' ').trim();
         // Remueve marker residual "ASPID/FIRE", etc. al inicio
