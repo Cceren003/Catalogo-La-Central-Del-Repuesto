@@ -27,10 +27,17 @@
       }
     ]
   },
+  "1005997": {
+    "equivalencias": [
+      {
+        "sku": "741540189054"
+      }
+    ]
+  },
   "_formato": {
-    "generado_en": "2026-04-21T21:54:47.464Z",
+    "generado_en": "2026-04-22T00:04:42.876Z",
     "origen": "sync/enriquecidos.xlsx (vía sync/build-enriquecidos.js)",
-    "cantidad_productos": 7,
+    "cantidad_productos": 21,
     "advertencia": "NO editar a mano. Se regenera desde el Excel. Para cambios, editá sync/enriquecidos.xlsx y corré build-enriquecidos.js."
   },
   "741540189145": {
@@ -64,6 +71,32 @@
       }
     ]
   },
+  "SM029": {
+    "compatibilidades": [
+      {
+        "marca": "KATANA",
+        "modelo": "R1",
+        "anios": []
+      }
+    ]
+  },
+  "741540189054": {
+    "compatibilidades": [
+      {
+        "marca": "HONDA",
+        "modelo": "XR150",
+        "anios": [
+          2022
+        ]
+      }
+    ],
+    "equivalencias": [
+      {
+        "sku": "1005997",
+        "nota": "Misma pieza, proveedor distinto"
+      }
+    ]
+  },
   "741540188247": {
     "equivalencias": [
       {
@@ -87,5 +120,71 @@
         "nota": "73 dientes, pero de 4 pernos 5 discos"
       }
     ]
+  },
+  "RS091": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS100": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS033": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS068": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS076": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS003": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9.5 MM"
+    }
+  },
+  "RS067": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS011": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9.5 MM"
+    }
+  },
+  "RS018": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9.5 MM"
+    }
+  },
+  "RS027": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "10.5 MM"
+    }
+  },
+  "RS012": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "8.5 MM"
+    }
   }
 }
