@@ -71,7 +71,7 @@
     }
   },
   "_formato": {
-    "generado_en": "2026-04-22T21:37:20.731Z",
+    "generado_en": "2026-04-22T21:45:51.737Z",
     "origen": "sync/enriquecidos.xlsx (vía sync/build-enriquecidos.js)",
     "cantidad_productos": 67,
     "advertencia": "NO editar a mano. Se regenera desde el Excel. Para cambios, editá sync/enriquecidos.xlsx y corré build-enriquecidos.js."
