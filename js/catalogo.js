@@ -346,7 +346,7 @@ function renderGrid() {
 function renderCard(p) {
   const brandBadge = p.marca ? `<div class="brand-tag">${esc(p.marca)}</div>` : '';
   const img = p.imagen
-    ? `<img src="${esc(p.imagen)}" alt="${esc(p.nombre)}" loading="lazy"
+    ? `<img src="${esc(p.imagen)}?v=${p.imagen_size || 0}" alt="${esc(p.nombre)}" loading="lazy"
            onerror="this.style.display='none';this.parentElement.insertAdjacentHTML('beforeend','<span class=no-img>Sin imagen</span>')">`
     : `<span class="no-img">Sin imagen</span>`;
 
@@ -415,7 +415,7 @@ function showDetail(sku) {
   const extras = document.getElementById('detailExtras');
 
   imgBox.innerHTML = p.imagen
-    ? `<img src="${esc(p.imagen)}" alt="${esc(p.nombre)}"
+    ? `<img src="${esc(p.imagen)}?v=${p.imagen_size || 0}" alt="${esc(p.nombre)}"
            onerror="this.style.display='none';this.parentElement.insertAdjacentHTML('beforeend','<span class=no-img style=color:#888;font-size:13px;>Foto referencial</span>')">`
     : `<span class="no-img" style="color:#888;font-size:13px;">Foto referencial</span>`;
 
@@ -680,7 +680,7 @@ function renderRelacionados(p) {
   const cards = items.map(r => {
     const precio = r.precios?.[role] ?? r.precios?.publico;
     const img = r.imagen
-      ? `<img class="related-card-img" src="${esc(r.imagen)}" alt="${esc(r.nombre)}" loading="lazy">`
+      ? `<img class="related-card-img" src="${esc(r.imagen)}?v=${r.imagen_size || 0}" alt="${esc(r.nombre)}" loading="lazy">`
       : `<div class="related-card-img related-card-img-ph">Sin imagen</div>`;
     return `
       <button type="button" class="related-card" data-sku="${esc(r.sku)}" title="${esc(r.nombre)}">
