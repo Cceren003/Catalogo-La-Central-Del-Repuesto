@@ -2,35 +2,42 @@
   "1001283": {
     "equivalencias": [
       {
-        "sku": "741540111510"
+        "sku": "7.4154E+11"
       }
     ]
   },
   "1003574": {
     "equivalencias": [
       {
-        "sku": "741540188247"
+        "sku": "7.4154E+11"
       }
     ]
   },
   "1004512": {
     "equivalencias": [
       {
-        "sku": "741540111510"
+        "sku": "7.4154E+11"
       }
     ]
   },
   "1005584": {
     "equivalencias": [
       {
-        "sku": "741540188247"
+        "sku": "7.4154E+11"
+      }
+    ]
+  },
+  "1005997": {
+    "equivalencias": [
+      {
+        "sku": "7.4154E+11"
       }
     ]
   },
   "_formato": {
-    "generado_en": "2026-04-21T21:54:47.464Z",
+    "generado_en": "2026-04-22T00:02:26.949Z",
     "origen": "sync/enriquecidos.xlsx (vía sync/build-enriquecidos.js)",
-    "cantidad_productos": 7,
+    "cantidad_productos": 19,
     "advertencia": "NO editar a mano. Se regenera desde el Excel. Para cambios, editá sync/enriquecidos.xlsx y corré build-enriquecidos.js."
   },
   "741540189145": {
@@ -64,7 +71,25 @@
       }
     ]
   },
-  "741540188247": {
+  "SM029": {
+    "compatibilidades": [
+      {
+        "marca": "KATANA",
+        "modelo": "R1",
+        "anios": []
+      }
+    ]
+  },
+  "7.4154E+11": {
+    "compatibilidades": [
+      {
+        "marca": "HONDA",
+        "modelo": "XR150",
+        "anios": [
+          2022
+        ]
+      }
+    ],
     "equivalencias": [
       {
         "sku": "1005584",
@@ -73,11 +98,7 @@
       {
         "sku": "1003574",
         "nota": "Misma pieza, proveedor distinto"
-      }
-    ]
-  },
-  "741540111510": {
-    "equivalencias": [
+      },
       {
         "sku": "1004512",
         "nota": "Misma pieza, proveedor distinto"
@@ -85,7 +106,77 @@
       {
         "sku": "1001283",
         "nota": "73 dientes, pero de 4 pernos 5 discos"
+      },
+      {
+        "sku": "1005997",
+        "nota": "Misma pieza, proveedor distinto"
       }
     ]
+  },
+  "RS091": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS100": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS033": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS068": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS076": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS003": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9.5 MM"
+    }
+  },
+  "RS067": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9 MM"
+    }
+  },
+  "RS011": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9.5 MM"
+    }
+  },
+  "RS018": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "9.5 MM"
+    }
+  },
+  "RS027": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "10.5 MM"
+    }
+  },
+  "RS012": {
+    "especificaciones": {
+      "diametro_centro": "64 MM",
+      "diametro_perno": "8.5 MM"
+    }
   }
 }
