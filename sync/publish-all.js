@@ -158,15 +158,49 @@ if (NO_PUSH) {
 }
 
 section(`Push a origin/${branch}`);
+
+function tryPush() {
+  execSync(`git push origin ${branch}`, { cwd: ROOT, stdio: 'inherit' });
+}
+
+// Si el cron automático commitea entre medio, el push falla por
+// non-fast-forward. Rebase con -X theirs: en conflictos, NUESTRA versión
+// gana (acabamos de regenerar catalogo.json/enriquecidos.json con los
+// datos más frescos). Archivos que el cron tocó pero nosotros no (ej.
+// otros archivos) se preservan sin cambio.
+function rebaseAndRetry() {
+  console.log('\n⚠ Push rechazado — intentando rebase automático con nuestros cambios...\n');
+  try {
+    execSync(`git fetch origin ${branch}`, { cwd: ROOT, stdio: 'inherit' });
+    execSync(
+      `git -c user.name="${user}" -c user.email="${email}" rebase -X theirs origin/${branch}`,
+      { cwd: ROOT, stdio: 'inherit' }
+    );
+    console.log('\n✓ Rebase completado — reintentando push...\n');
+    tryPush();
+    return true;
+  } catch {
+    // Si el rebase se atoró (conflictos que -X theirs no resolvió), abortar
+    try { execSync('git rebase --abort', { cwd: ROOT, stdio: 'pipe' }); } catch {}
+    return false;
+  }
+}
+
 try {
-  run(`git push origin ${branch}`);
+  tryPush();
   console.log('\n✓ Publicado. GitHub Pages redeploya en ~1-2 min.');
   if (branch !== 'main' && branch !== 'master') {
     console.log('');
     console.log(`ℹ Estás en rama "${branch}". Para publicar a producción hay que mergear a main.`);
   }
 } catch (e) {
-  console.error('\n✗ Push falló:', e.message);
-  console.error('  El commit local quedó. Corré manualmente:  git push');
-  process.exit(1);
+  if (rebaseAndRetry()) {
+    console.log('\n✓ Publicado (tras rebase automático). GitHub Pages redeploya en ~1-2 min.');
+  } else {
+    console.error('\n✗ Push falló y el rebase automático no pudo resolverlo.');
+    console.error('  El commit local quedó. Resolvé manualmente:');
+    console.error(`    git pull --rebase -X theirs origin ${branch}`);
+    console.error('    git push');
+    process.exit(1);
+  }
 }
