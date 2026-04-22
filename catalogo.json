@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T22:40:17.611Z",
-  "count": 6052,
+  "generated_at": "2026-04-22T16:40:22.233Z",
+  "count": 6048,
   "productos": [
     {
       "sku": "LM120106",
@@ -14,7 +14,7 @@
         "taller": 9.16,
         "distribuidor": 8.67
       },
-      "stock": 60,
+      "stock": 58,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 8.92,
         "distribuidor": 8.67
       },
-      "stock": 21,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -509,7 +509,7 @@
     {
       "sku": "741540100703",
       "nombre": "ARO 1.40*18",
-      "marca": "MOTUL",
+      "marca": "VINI",
       "categoria": "REPUESTOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -1496,7 +1496,7 @@
     {
       "sku": "RBBAL-380630007-0001",
       "nombre": "BALERO DE AGUJA 21X28X10 HK PARA ARBOL",
-      "marca": "MOTUL",
+      "marca": "DAYUN",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -8298,27 +8298,6 @@
       "activo": true
     },
     {
-      "sku": "741540190866",
-      "nombre": "CARBURADOR HOT PARTS CG250 (3MM) VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190866.png",
-      "imagen_size": 97553,
-      "activo": true
-    },
-    {
       "sku": "741540188511",
       "nombre": "CARBURADOR HUNK 150/CBF 150 VINI(FL)",
       "marca": "VINI",
@@ -8594,7 +8573,7 @@
     {
       "sku": "156892",
       "nombre": "CASCO INTEGRAL SHAFT 526SP (L, MASTER OF THE SEA AZUL / ROJO)",
-      "marca": "MOTUL",
+      "marca": "SHAFT",
       "categoria": "CASCOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -11723,7 +11702,7 @@
     {
       "sku": "741540100833",
       "nombre": "CDI PULSAR 180 UG4 K2 VINI(FL)",
-      "marca": "MOTUL",
+      "marca": "VINI",
       "categoria": "ELECTRICOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -12521,7 +12500,7 @@
     {
       "sku": "741540100316",
       "nombre": "CILINDRO COMPLETO BROSS 150",
-      "marca": "MOTUL",
+      "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -12642,27 +12621,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100043.png",
       "imagen_size": 83813,
-      "activo": true
-    },
-    {
-      "sku": "741540100899",
-      "nombre": "CILINDRO COMPLETO CBF150-INVICTA-HUNK CADENILLA PIN 14VINI MODIFICADO 190CC",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 120,
-        "taller": 95,
-        "distribuidor": 80
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100899.png",
-      "imagen_size": 90272,
       "activo": true
     },
     {
@@ -13335,27 +13293,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189900",
-      "nombre": "CLUTCH AUTOMATICO TRASERO NAVI 110 VINI",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 87,
-        "taller": 63,
-        "distribuidor": 53.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189900.png",
-      "imagen_size": 109668,
       "activo": true
     },
     {
@@ -15524,7 +15461,7 @@
     {
       "sku": "741540190088",
       "nombre": "EJE LEVAS PULSAR125NS VINI",
-      "marca": "MOTUL",
+      "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -16982,7 +16919,7 @@
         "taller": 4.75,
         "distribuidor": 4
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18933,7 +18870,7 @@
       "precios": {
         "publico": 7.5,
         "taller": 4,
-        "distribuidor": 3.4
+        "distribuidor": 3.5
       },
       "stock": 4,
       "stock_status": "low_stock",
@@ -19061,7 +18998,7 @@
         "taller": 5.5,
         "distribuidor": 5
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19955,14 +19892,14 @@
     {
       "sku": "741540189816",
       "nombre": "HERRAMIENTA CUBO BOMBA PULSAR200",
-      "marca": "MOTUL",
+      "marca": "VINI",
       "categoria": "HERRAMIENTA",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.51,
+        "publico": 13,
         "taller": 9,
-        "distribuidor": 7.65
+        "distribuidor": 7.5
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -24962,7 +24899,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 14,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25284,6 +25221,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001442.png",
       "imagen_size": 48374,
+      "activo": true
+    },
+    {
+      "sku": "1004050",
+      "nombre": "KIT SELLOS ACEITE J400141 GY6125-150(SCOOTER)",
+      "marca": "MEK",
+      "categoria": "SELLOS MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 3
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004050.png",
+      "imagen_size": 10463,
       "activo": true
     },
     {
@@ -27072,27 +27030,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-3341-12",
-      "nombre": "LLANTA AXUS 130-70-17 LISA  AX298 4PR TL RADIAL",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 52,
-        "taller": 38,
-        "distribuidor": 36
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3341-12.png",
-      "imagen_size": 72575,
-      "activo": true
-    },
-    {
       "sku": "LA1B-1113-21",
       "nombre": "LLANTA AXUS 275-18 TARUGO PEQUEÑO AX270 48P TT",
       "marca": "AXUS",
@@ -28584,27 +28521,6 @@
       "activo": true
     },
     {
-      "sku": "741540190786",
-      "nombre": "MEMBRANA EMBOLO CARBURADOR AGILITY",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 8,
-        "distribuidor": 7.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190786.png",
-      "imagen_size": 47215,
-      "activo": true
-    },
-    {
       "sku": "1005961",
       "nombre": "MONOSHOCK AKT TT200R",
       "marca": "MEK",
@@ -29993,7 +29909,7 @@
     {
       "sku": "741540188994",
       "nombre": "PASTILLA FRENO DT175 VINI(FL)",
-      "marca": "MOTUL",
+      "marca": "VINI",
       "categoria": "PASTILLA DE FRENO",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -30548,7 +30464,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30833,7 +30749,7 @@
     {
       "sku": "BP001",
       "nombre": "PASTILLAS DE FRENO, FIRE 125, FIRE 150, FORZA 150, GN 125F",
-      "marca": "MOTUL",
+      "marca": "NRP",
       "categoria": "PASTILLA DE FRENO",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -31514,7 +31430,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33101,7 +33017,7 @@
     {
       "sku": "1001582",
       "nombre": "PITO PLATO PEQ 12V UNIVERSAL",
-      "marca": "MOTUL",
+      "marca": "MEK",
       "categoria": "ELECTRICOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
