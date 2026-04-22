@@ -412,6 +412,7 @@ function showDetail(sku) {
   const overlay = document.getElementById('detailOverlay');
   const body = document.getElementById('detailBody');
   const imgBox = document.getElementById('detailImg');
+  const extras = document.getElementById('detailExtras');
 
   imgBox.innerHTML = p.imagen
     ? `<img src="${esc(p.imagen)}" alt="${esc(p.nombre)}"
@@ -499,7 +500,11 @@ function showDetail(sku) {
       <a class="btn btn-primary block" href="https://wa.me/${CONFIG.whatsappTaller}?text=${encodeURIComponent('Hola, quisiera cotizar la instalación y agendar una cita para:\n\n' + p.nombre + '\nSKU: ' + p.sku)}" target="_blank">
         Cotizar y agendar instalación
       </a>
-    </div>
+    </div>`;
+
+  // Secciones enriquecidas — van en la zona inferior a 2 columnas para
+  // equilibrar el layout y evitar que la columna de la imagen quede vacía.
+  extras.innerHTML = `
     ${renderEspecificaciones(p)}
     ${renderCompatibilidades(p)}
     ${renderEquivalencias(p)}
@@ -507,7 +512,7 @@ function showDetail(sku) {
 
   // Click handlers en las secciones enriquecidas (equivalencias + relacionados):
   // al clickear un producto, cierra el modal actual y abre el otro.
-  body.querySelectorAll('.equiv-chip[data-sku], .related-card[data-sku]').forEach(el => {
+  extras.querySelectorAll('.equiv-chip[data-sku], .related-card[data-sku]').forEach(el => {
     el.onclick = (ev) => {
       const targetSku = ev.currentTarget.dataset.sku;
       if (!targetSku) return;
