@@ -573,7 +573,9 @@
   width: 100%; max-width: 900px;
   max-height: 92vh; overflow: hidden;
   box-shadow: var(--shadow-lg);
-  display: grid; grid-template-columns: 1fr 1.1fr;
+  display: grid;
+  grid-template-columns: 1fr 1.1fr;
+  grid-template-rows: minmax(0, 1fr); /* fuerza que las columnas respeten max-height */
   position: relative;
 }
 .detail-img {
@@ -585,6 +587,7 @@
 .detail-body {
   padding: 28px; overflow-y: auto;
   display: flex; flex-direction: column; gap: 14px;
+  min-height: 0; /* permite que el overflow-y funcione dentro del grid */
 }
 .detail-breadcrumb {
   font-size: 11px; font-family: var(--ff-cond);
