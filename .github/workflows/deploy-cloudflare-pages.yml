@@ -1,0 +1,30 @@
+name: Deploy to Cloudflare Pages
+
+# Se dispara en cada push a main y deploya el sitio a Cloudflare Pages.
+# Reemplaza al workflow de GitHub Pages — ahora el sitio vive en CF Pages.
+on:
+  push:
+    branches: [main]
+  # También se puede disparar manualmente desde la pestaña Actions
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          # "." deploya todo el repo. Cloudflare solo sube lo que cambió.
+          # En el runner de GitHub Actions NO existen los archivos gitignored
+          # (catalogos-proveedores/, node_modules/, etc.) así que no hay
+          # archivos grandes que rompan el límite de 25 MB.
+          command: pages deploy . --project-name=lacentraldelrepuesto --branch=main --commit-dirty=true
