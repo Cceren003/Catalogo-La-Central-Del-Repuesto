@@ -123,6 +123,24 @@ function parseMoney(v) {
   return isNaN(n) ? null : n;
 }
 
+// Corrige typos típicos de codificación de PDF/Excel (ñ, acentos perdidos).
+// Se aplica a TODOS los nombres de producto (LCR, VINI, NRP, MEK, AXUS).
+// Solo palabras donde la grafía mal escrita NUNCA es correcta en español.
+const FIX_ENCODING = [
+  // CIGUENAL → CIGÜEÑAL, CIGUENA → CIGÜEÑA (con o sin "L" final)
+  [/\bCIGUEN(AL|A)\b/gi, (m, suf) => 'CIGÜEÑ' + suf.toUpperCase()],
+  [/\bCIGUEÑ(AL|A)\b/gi, (m, suf) => 'CIGÜEÑ' + suf.toUpperCase()],
+  // PINON/PINONES → PIÑÓN/PIÑONES
+  [/\bPINONES\b/gi, 'PIÑONES'],
+  [/\bPINON\b/gi, 'PIÑÓN'],
+];
+function fixEncoding(nombre) {
+  if (!nombre) return nombre;
+  let out = nombre;
+  for (const [rx, repl] of FIX_ENCODING) out = out.replace(rx, repl);
+  return out;
+}
+
 // Infiere categoría del nombre del producto con reglas regex.
 // Cubre ~80% de los casos. Default REPUESTOS.
 function inferCategoria(nombre) {
@@ -180,7 +198,7 @@ function parseNRP(filePath) {
     // Quedan como "a pedido", el cliente consulta por WhatsApp.
     productos.push({
       sku,
-      nombre,
+      nombre: fixEncoding(nombre),
       marca,
       categoria: inferCategoria(nombre) || subgrupo.split(/\s*-\s*/)[0].toUpperCase() || 'REPUESTOS',
       presentacion: (row[6] || 'UND').toString().trim(),
@@ -238,7 +256,7 @@ function parseVINI(filePath, margen = 1.7) {
 
     productos.push({
       sku,
-      nombre,
+      nombre: fixEncoding(nombre),
       marca: 'VINI',
       categoria,
       presentacion: 'UND',
@@ -384,7 +402,7 @@ function parseMEK(pdfPath) {
         seen.add(sku);
         productos.push({
           sku,
-          nombre,
+          nombre: fixEncoding(nombre),
           marca: 'MEK',
           categoria: MEK_GRUPO_TO_CATEGORIA[grupo] || inferCategoria(nombre) || 'REPUESTOS',
           presentacion: 'UND',
@@ -459,7 +477,7 @@ function parseAXUS(pdfPath) {
 
         productos.push({
           sku,
-          nombre: descripcion,
+          nombre: fixEncoding(descripcion),
           marca: 'AXUS',
           categoria: 'LLANTAS',
           presentacion: 'UND',
@@ -602,7 +620,7 @@ function parseExcel(buf, bodegaSet = new Set()) {
     const enBodegaCentral = bodegaSet.has(codigo.toUpperCase());
     productos.push({
       sku: codigo,
-      nombre: (row[1] || '').toString().trim(),
+      nombre: fixEncoding((row[1] || '').toString().trim()),
       marca: (row[2] || '').toString().trim(),
       categoria: (row[3] || '').toString().trim(),
       presentacion: (row[4] || '').toString().trim(),
