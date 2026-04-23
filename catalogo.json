@@ -56057,7 +56057,7 @@
       "sku": "741540100132",
       "nombre": "ARO 1.85X17 VINI",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56079,7 +56079,7 @@
       "sku": "741540100134",
       "nombre": "ARO 1.85X18 VINI",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56101,7 +56101,7 @@
       "sku": "741540190805",
       "nombre": "ARO 1.85X19 CROMADO VINI",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56123,7 +56123,7 @@
       "sku": "741540190833",
       "nombre": "ARO 1.85X21 CROMADO VINI",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56189,7 +56189,7 @@
       "sku": "741540190834",
       "nombre": "ARO 2.15X17 CROMADO VINI",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56277,7 +56277,7 @@
       "sku": "741540100136",
       "nombre": "ARO 2.15X18 VINI",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56321,7 +56321,7 @@
       "sku": "741540189274",
       "nombre": "ARO MAGNECIO DEL FORZA 150 VINI",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56387,7 +56387,7 @@
       "sku": "741540189275",
       "nombre": "ARO MAGNECIO TRAS FORZA 150 VINI",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56431,7 +56431,7 @@
       "sku": "741540188019",
       "nombre": "ARO MAGNECIO YBR125 DEL 5 HOYOS VINI",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56475,7 +56475,7 @@
       "sku": "741540188021",
       "nombre": "ARO MAGNECIO YBR125 ED+Z3 DEL VINI",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56585,7 +56585,7 @@
       "sku": "741540100138",
       "nombre": "BALERO 16007 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56607,7 +56607,7 @@
       "sku": "741540100145",
       "nombre": "BALERO 3520 TORITO VINI (FL)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56673,7 +56673,7 @@
       "sku": "741540190862",
       "nombre": "BALERO LLANTA 6202 2RS VINI",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "BALEROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56695,7 +56695,7 @@
       "sku": "741540188597",
       "nombre": "BALERO MOTOR 6201 AK125 FLEX VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56717,7 +56717,7 @@
       "sku": "741540190046",
       "nombre": "BALERO MOTOR 6305X1 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56739,7 +56739,7 @@
       "sku": "741540189920",
       "nombre": "BALERO MOTOR HUNK150 6302RSR VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56805,7 +56805,7 @@
       "sku": "741540189161",
       "nombre": "BARRA DELANTERA SET FORZA 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56827,7 +56827,7 @@
       "sku": "741540189151",
       "nombre": "BARRA DELANTERA SET NAGA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56893,7 +56893,7 @@
       "sku": "741540188084",
       "nombre": "BARRA DELANTERA SET XTZ125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56915,7 +56915,7 @@
       "sku": "741540189337",
       "nombre": "BARRA DELANTERA SET YARA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -56959,7 +56959,7 @@
       "sku": "741540100225",
       "nombre": "BASE CATARINA CGL125 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -57223,7 +57223,7 @@
       "sku": "741540190868",
       "nombre": "BASE SUPERIOR TIMON CG200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ACCESORIOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58257,7 +58257,7 @@
       "sku": "741540190332",
       "nombre": "BOBINA ENCENDIDO AX100 VINI",
       "marca": "VINI",
-      "categoria": "ELECTRICOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58279,7 +58279,7 @@
       "sku": "741540190907",
       "nombre": "BOMBA ACEITE AK125 SPORT VINI",
       "marca": "VINI",
-      "categoria": "ACEITES",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58411,7 +58411,7 @@
       "sku": "741540190473",
       "nombre": "BOMBA ACEITE DT125/175 VINI",
       "marca": "VINI",
-      "categoria": "ACEITES",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58455,7 +58455,7 @@
       "sku": "741540190414",
       "nombre": "BOMBA ACEITE -TENSOR- GUIA AK110 VINI",
       "marca": "VINI",
-      "categoria": "ACEITES",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58543,7 +58543,7 @@
       "sku": "741540190688",
       "nombre": "BOMBA FRENO DEL HUNK160 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58565,7 +58565,7 @@
       "sku": "741540188820",
       "nombre": "BOMBA FRENO DEL NXR150 BROSS/CG125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58587,7 +58587,7 @@
       "sku": "741540190825",
       "nombre": "BOMBA FRENO DEL PULSAR180II/UG/BLACK TEC VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58609,7 +58609,7 @@
       "sku": "741540190687",
       "nombre": "BOMBA FRENO DEL XPULSE200/HUNK190R/ VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58653,7 +58653,7 @@
       "sku": "741540188615",
       "nombre": "BOMBA FRENO DELANTERA GY6 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58675,7 +58675,7 @@
       "sku": "741540188821",
       "nombre": "BOMBA FRENO DELANTERA YBR125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58697,7 +58697,7 @@
       "sku": "741540189970",
       "nombre": "BOMBA FRENO DELANTERO CB190R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58719,7 +58719,7 @@
       "sku": "741540190694",
       "nombre": "BOMBA FRENO DELANTERO FZ16 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58741,7 +58741,7 @@
       "sku": "741540190172",
       "nombre": "BOMBA FRENO DELANTERO PUL, 135/PUL/180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58763,7 +58763,7 @@
       "sku": "741540189222",
       "nombre": "BOMBA FRENO DELANTERO YARA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58807,7 +58807,7 @@
       "sku": "741540190666",
       "nombre": "BOMBA FRENO PULSAR200NS/PULSAR180GT/MRX220 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58829,7 +58829,7 @@
       "sku": "741540190692",
       "nombre": "BOMBA FRENO TRAS APACHE160 4V/180/200- VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58873,7 +58873,7 @@
       "sku": "741540190690",
       "nombre": "BOMBA FRENO TRAS HUNK160 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58895,7 +58895,7 @@
       "sku": "741540177002",
       "nombre": "BOMBA FRENO TRASERA CON DEPOSITO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58917,7 +58917,7 @@
       "sku": "741540189963",
       "nombre": "BOMBA FRENO UNIVERSAL TITANIUM HOT PARTS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -58939,7 +58939,7 @@
       "sku": "741540188671",
       "nombre": "BOMBA FRENO UNIVERSAL WH-125 (GY-6) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -60479,7 +60479,7 @@
       "sku": "741540188817",
       "nombre": "BUJIA VINI D7AR EQV (D7EA)",
       "marca": "VINI",
-      "categoria": "BUJIAS",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -60501,7 +60501,7 @@
       "sku": "741540188818",
       "nombre": "BUJIA VINI D8RAE EQV (DR8EA)",
       "marca": "VINI",
-      "categoria": "BUJIAS",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61029,7 +61029,7 @@
       "sku": "741540100278",
       "nombre": "CABLE CLUTCH AX100 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CABLES",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61051,7 +61051,7 @@
       "sku": "741540190617",
       "nombre": "CABLE CLUTCH CBF150: 22870-KSP-901 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CABLES",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61095,7 +61095,7 @@
       "sku": "741540100290",
       "nombre": "CABLE CLUTCH CT100 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CABLES",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61117,7 +61117,7 @@
       "sku": "741540190884",
       "nombre": "CABLE CLUTCH FZ2.0 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CABLES",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61293,7 +61293,7 @@
       "sku": "741540100284",
       "nombre": "CABLE CLUTCH YAMAHA DT 18G VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CABLES",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61821,7 +61821,7 @@
       "sku": "741540190013",
       "nombre": "CADENA TIEMPO APACHE 160 RTR 4V VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61843,7 +61843,7 @@
       "sku": "741540190344",
       "nombre": "CADENA TIEMPO DOMINAR250/400 UG VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61887,7 +61887,7 @@
       "sku": "741540189552",
       "nombre": "CADENA TIEMPO PULSAR 160NS VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61909,7 +61909,7 @@
       "sku": "741540103608",
       "nombre": "CADENA TIEMPO TORITO 180 VINI(RC)",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61931,7 +61931,7 @@
       "sku": "741540100441",
       "nombre": "CADENA TIEMPO XL185 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61953,7 +61953,7 @@
       "sku": "741540189515",
       "nombre": "CADENA TIEMPO XTZ150 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -61975,7 +61975,7 @@
       "sku": "741540190277",
       "nombre": "CADENA TIEMPO ZR RAY115 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62041,7 +62041,7 @@
       "sku": "741540190527",
       "nombre": "CADENA TRACCION 520HOX120L O-RING VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CADENAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62063,7 +62063,7 @@
       "sku": "741540189181",
       "nombre": "CADENA TRACCION 520HX118 GOLDEN VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CADENAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62217,7 +62217,7 @@
       "sku": "741540190851",
       "nombre": "CAJA TRANSMISION AK TTR180/TTX180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62239,7 +62239,7 @@
       "sku": "741540189047",
       "nombre": "CAJA TRANSMISION AK235 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62261,7 +62261,7 @@
       "sku": "741540189913",
       "nombre": "CAJA TRANSMISION BOXER BM150(DISCOVER100/125, PLATINO100/110) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62283,7 +62283,7 @@
       "sku": "741540189854",
       "nombre": "CAJA TRANSMISION CB1 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62305,7 +62305,7 @@
       "sku": "741540190241",
       "nombre": "CAJA TRANSMISION CRUX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62327,7 +62327,7 @@
       "sku": "741540100027",
       "nombre": "CAJA TRANSMISION CT100 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62349,7 +62349,7 @@
       "sku": "741540100468",
       "nombre": "CAJA TRANSMISION DR200 VINI  (GXT200-GENESIS)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62371,7 +62371,7 @@
       "sku": "741540100714",
       "nombre": "CAJA TRANSMISION DREAM 100/100Z VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62459,7 +62459,7 @@
       "sku": "741540188645",
       "nombre": "CAJA TRANSMISION HERO HF DAWN VINI (LIQUIDACION)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62481,7 +62481,7 @@
       "sku": "741540188028",
       "nombre": "CAJA TRANSMISION MOTO CARGO 3W VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62569,7 +62569,7 @@
       "sku": "741540190585",
       "nombre": "CAJA TRANSMISION SMX200/NAGA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62613,7 +62613,7 @@
       "sku": "741540188616",
       "nombre": "CAJA TRANSMISION YARA 200  VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62635,7 +62635,7 @@
       "sku": "741540190404",
       "nombre": "CAJA TRANSMISSION GN125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -62811,7 +62811,7 @@
       "sku": "741540190635",
       "nombre": "CAJA VELOCIMETRO PULSAR200NS CON CABLE SENSOR VINI",
       "marca": "VINI",
-      "categoria": "ELECTRICOS",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -63251,7 +63251,7 @@
       "sku": "741540190835",
       "nombre": "CANASTA CLUTCH CON CORONA STRYKER125 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -63295,7 +63295,7 @@
       "sku": "741540188347",
       "nombre": "CAPUCHON BUJIA CG125 VINI",
       "marca": "VINI",
-      "categoria": "BUJIAS",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64527,7 +64527,7 @@
       "sku": "741540190476",
       "nombre": "CATARINA BRONCO VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64571,7 +64571,7 @@
       "sku": "741540190292",
       "nombre": "CATARINA CB110 TWISTER 42T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64593,7 +64593,7 @@
       "sku": "741540188298",
       "nombre": "CATARINA CBF125 43T  PASO 420 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64615,7 +64615,7 @@
       "sku": "741540100418",
       "nombre": "CATARINA CGL125 38T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64637,7 +64637,7 @@
       "sku": "741540100419",
       "nombre": "CATARINA CGL125 43T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64659,7 +64659,7 @@
       "sku": "741540100420",
       "nombre": "CATARINA CGL125 45T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64681,7 +64681,7 @@
       "sku": "741540190923",
       "nombre": "CATARINA CGR125 STORM 428-37T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64747,7 +64747,7 @@
       "sku": "741540190297",
       "nombre": "CATARINA DRACO R250 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64769,7 +64769,7 @@
       "sku": "741540189280",
       "nombre": "CATARINA DSF 200 50T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64813,7 +64813,7 @@
       "sku": "741540178107",
       "nombre": "CATARINA DT 49T 4H VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64857,7 +64857,7 @@
       "sku": "741540190296",
       "nombre": "CATARINA HUNK200 37T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64879,7 +64879,7 @@
       "sku": "741540190252",
       "nombre": "CATARINA MRT200 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64901,7 +64901,7 @@
       "sku": "741540100416",
       "nombre": "CATARINA NXR150 BROSS 50T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64923,7 +64923,7 @@
       "sku": "741540100417",
       "nombre": "CATARINA NXR150 BROSS 54T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64945,7 +64945,7 @@
       "sku": "741540188303",
       "nombre": "CATARINA PULSAR 200NS 39T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -64967,7 +64967,7 @@
       "sku": "741540190299",
       "nombre": "CATARINA SPITZER 200 45T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65011,7 +65011,7 @@
       "sku": "741540190298",
       "nombre": "CATARINA VIPER250 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65033,7 +65033,7 @@
       "sku": "741540178104",
       "nombre": "CATARINA XL 47T 4H VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65055,7 +65055,7 @@
       "sku": "741540178105",
       "nombre": "CATARINA XL 49T 4H VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65077,7 +65077,7 @@
       "sku": "741540190920",
       "nombre": "CATARINA XL125 428-35T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65121,7 +65121,7 @@
       "sku": "741540190919",
       "nombre": "CATARINA XL125 428-37T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65143,7 +65143,7 @@
       "sku": "741540190916",
       "nombre": "CATARINA XL125 428-39T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65187,7 +65187,7 @@
       "sku": "741540100422",
       "nombre": "CATARINA XL125 56T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65275,7 +65275,7 @@
       "sku": "741540100587",
       "nombre": "CATARINA Y PIÑON GN125H (428-14T-42T) VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "KIT TRACCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65781,7 +65781,7 @@
       "sku": "741540190375",
       "nombre": "CENTRO CLUTCH COMPLE CB110 TWISTER/ CB1 125 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65803,7 +65803,7 @@
       "sku": "741540190486",
       "nombre": "CENTRO CLUTCH COMPLETO APACHE 160 2V /180 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65825,7 +65825,7 @@
       "sku": "741540140568",
       "nombre": "CENTRO CLUTCH COMPLETO AX100 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65847,7 +65847,7 @@
       "sku": "741540188279",
       "nombre": "CENTRO CLUTCH COMPLETO BOXER CT100 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65869,7 +65869,7 @@
       "sku": "741540189600",
       "nombre": "CENTRO CLUTCH COMPLETO CB160F VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65891,7 +65891,7 @@
       "sku": "741540190487",
       "nombre": "CENTRO CLUTCH COMPLETO CBF125 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65913,7 +65913,7 @@
       "sku": "741540190262",
       "nombre": "CENTRO CLUTCH COMPLETO FZ 2.00 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65935,7 +65935,7 @@
       "sku": "741540190377",
       "nombre": "CENTRO CLUTCH COMPLETO HUNK160R VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -65957,7 +65957,7 @@
       "sku": "741540188285",
       "nombre": "CENTRO CLUTCH COMPLETO PULSAR 135LS VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66001,7 +66001,7 @@
       "sku": "741540190379",
       "nombre": "CENTRO CLUTCH COMPLETO XPULSE200 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66023,7 +66023,7 @@
       "sku": "741540190266",
       "nombre": "CENTRO CLUTCH COMPLETO XR190L VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66045,7 +66045,7 @@
       "sku": "741540190836",
       "nombre": "CENTRO CLUTCH COMPLETO XRE300 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66067,7 +66067,7 @@
       "sku": "741540189895",
       "nombre": "CENTRO CLUTCH COMPLETO XTZ150 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66089,7 +66089,7 @@
       "sku": "741540190380",
       "nombre": "CENTRO CLUTCH COMPLETO XTZ250/FZ250 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66485,7 +66485,7 @@
       "sku": "741540189134",
       "nombre": "CILINDRO CG125 HOT PARTS 175CC VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66507,7 +66507,7 @@
       "sku": "741540188030",
       "nombre": "CILINDRO COMPLETO ACTIVE 110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66573,7 +66573,7 @@
       "sku": "741540188590",
       "nombre": "CILINDRO COMPLETO AK125 FLEX VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66595,7 +66595,7 @@
       "sku": "741540189059",
       "nombre": "CILINDRO COMPLETO AK150TT VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66617,7 +66617,7 @@
       "sku": "741540190848",
       "nombre": "CILINDRO COMPLETO AK180XM/TTR180/TTX180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66639,7 +66639,7 @@
       "sku": "741540100201",
       "nombre": "CILINDRO COMPLETO APACHE 160 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66661,7 +66661,7 @@
       "sku": "741540190434",
       "nombre": "CILINDRO COMPLETO APACHE 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66683,7 +66683,7 @@
       "sku": "741540100561",
       "nombre": "CILINDRO COMPLETO AX100-115CC HOT PARTS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66705,7 +66705,7 @@
       "sku": "741540190433",
       "nombre": "CILINDRO COMPLETO AX4 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66727,7 +66727,7 @@
       "sku": "741540100541",
       "nombre": "CILINDRO COMPLETO BROSS 125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66771,7 +66771,7 @@
       "sku": "741540190495",
       "nombre": "CILINDRO COMPLETO CARGUERO 3W AK180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66815,7 +66815,7 @@
       "sku": "741540100505",
       "nombre": "CILINDRO COMPLETO CBF 125 STUNER VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66837,7 +66837,7 @@
       "sku": "741540188275",
       "nombre": "CILINDRO COMPLETO CBF150 (CBF125) HOT PARTS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66859,7 +66859,7 @@
       "sku": "741540100899",
       "nombre": "CILINDRO COMPLETO CBF150/INVICTA/HUNK VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66881,7 +66881,7 @@
       "sku": "741540189529",
       "nombre": "CILINDRO COMPLETO CBR190R /XR190R /CBF190R /XRE190 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66925,7 +66925,7 @@
       "sku": "741540188276",
       "nombre": "CILINDRO COMPLETO CG200 MOFICADO 225 CC VINI HOT PARTS",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66947,7 +66947,7 @@
       "sku": "741540189273",
       "nombre": "CILINDRO COMPLETO CR1 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66969,7 +66969,7 @@
       "sku": "741540189431",
       "nombre": "CILINDRO COMPLETO CRF230 HOT PARTS 240 CC VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -66991,7 +66991,7 @@
       "sku": "741540100739",
       "nombre": "CILINDRO COMPLETO CRF230 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67013,7 +67013,7 @@
       "sku": "741540190106",
       "nombre": "CILINDRO COMPLETO CRUXX110 REV HOT PARTS 130CC VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67035,7 +67035,7 @@
       "sku": "741540100020",
       "nombre": "CILINDRO COMPLETO CT100 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67057,7 +67057,7 @@
       "sku": "741540189144",
       "nombre": "CILINDRO COMPLETO DISCOVER 100 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67079,7 +67079,7 @@
       "sku": "741540190850",
       "nombre": "CILINDRO COMPLETO DISCOVER150 ST-F VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67101,7 +67101,7 @@
       "sku": "741540190496",
       "nombre": "CILINDRO COMPLETO DOMINAR 250 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67123,7 +67123,7 @@
       "sku": "741540189735",
       "nombre": "CILINDRO COMPLETO DT125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67145,7 +67145,7 @@
       "sku": "741540189736",
       "nombre": "CILINDRO COMPLETO DT175 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67167,7 +67167,7 @@
       "sku": "741540190498",
       "nombre": "CILINDRO COMPLETO E-STORM/CB125E VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67233,7 +67233,7 @@
       "sku": "741540190259",
       "nombre": "CILINDRO COMPLETO FZ 2.0 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67255,7 +67255,7 @@
       "sku": "741540190435",
       "nombre": "CILINDRO COMPLETO FZ16 160CC HOT PARTS 200CC VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67277,7 +67277,7 @@
       "sku": "741540188202",
       "nombre": "CILINDRO COMPLETO FZ16 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67299,7 +67299,7 @@
       "sku": "741540188629",
       "nombre": "CILINDRO COMPLETO HERO HF DAWN VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67321,7 +67321,7 @@
       "sku": "741540188663",
       "nombre": "CILINDRO COMPLETO JH70-47MM VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67343,7 +67343,7 @@
       "sku": "741540189343",
       "nombre": "CILINDRO COMPLETO NAGA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67365,7 +67365,7 @@
       "sku": "741540190240",
       "nombre": "CILINDRO COMPLETO NAVI 110 HOT PARTS 50MM-52MM VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67387,7 +67387,7 @@
       "sku": "741540188912",
       "nombre": "CILINDRO COMPLETO NAVI110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67431,7 +67431,7 @@
       "sku": "741540189528",
       "nombre": "CILINDRO COMPLETO NXR /BROSS /CBF VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67453,7 +67453,7 @@
       "sku": "741540100529",
       "nombre": "CILINDRO COMPLETO PLATINA 125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67497,7 +67497,7 @@
       "sku": "741540190497",
       "nombre": "CILINDRO COMPLETO PULSAR 180 HOT PARTS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67519,7 +67519,7 @@
       "sku": "741540100022",
       "nombre": "CILINDRO COMPLETO PULSAR 180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67563,7 +67563,7 @@
       "sku": "741540188854",
       "nombre": "CILINDRO COMPLETO PULSAR 200NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67585,7 +67585,7 @@
       "sku": "741540189143",
       "nombre": "CILINDRO COMPLETO PULSAR 220S VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67607,7 +67607,7 @@
       "sku": "741540190084",
       "nombre": "CILINDRO COMPLETO PULSAR125NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67629,7 +67629,7 @@
       "sku": "741540190437",
       "nombre": "CILINDRO COMPLETO PULSAR135 HOT PARTS 150CC VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67673,7 +67673,7 @@
       "sku": "741540190047",
       "nombre": "CILINDRO COMPLETO SERPENTO TORNADO 250 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67739,7 +67739,7 @@
       "sku": "741540190034",
       "nombre": "CILINDRO COMPLETO STRYKER125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67783,7 +67783,7 @@
       "sku": "741540189057",
       "nombre": "CILINDRO COMPLETO TVS 100 SPORT NEW MODEL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67805,7 +67805,7 @@
       "sku": "741540139056",
       "nombre": "CILINDRO COMPLETO XCD 125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67827,7 +67827,7 @@
       "sku": "741540100740",
       "nombre": "CILINDRO COMPLETO XL125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67893,7 +67893,7 @@
       "sku": "741540100542",
       "nombre": "CILINDRO COMPLETO XLR125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67915,7 +67915,7 @@
       "sku": "741540189527",
       "nombre": "CILINDRO COMPLETO XM200 /GY-B /DM-FT/200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67937,7 +67937,7 @@
       "sku": "741540190148",
       "nombre": "CILINDRO COMPLETO XPULSE/HUNK200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67959,7 +67959,7 @@
       "sku": "741540100864",
       "nombre": "CILINDRO COMPLETO XR125L HOT PARTS 150CC VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -67981,7 +67981,7 @@
       "sku": "741540190536",
       "nombre": "CILINDRO COMPLETO XR190L VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68003,7 +68003,7 @@
       "sku": "741540190853",
       "nombre": "CILINDRO COMPLETO XRE300 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68025,7 +68025,7 @@
       "sku": "741540190494",
       "nombre": "CILINDRO COMPLETO XTZ150 HOT PARTS 184CC VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68047,7 +68047,7 @@
       "sku": "741540189519",
       "nombre": "CILINDRO COMPLETO YAMAHA XTZ150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68069,7 +68069,7 @@
       "sku": "741540190330",
       "nombre": "CILINDRO COMPLETO ZR RAY 115 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68091,7 +68091,7 @@
       "sku": "741540100553",
       "nombre": "CILINDRO GN125H-150CC MODIFICADO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68113,7 +68113,7 @@
       "sku": "741540125301",
       "nombre": "CLUTCH AUTOMATICO GY6 TRASERO VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68135,7 +68135,7 @@
       "sku": "741540190403",
       "nombre": "CLUTCH AUTOMATICO NAVI 110 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68157,7 +68157,7 @@
       "sku": "741540189900",
       "nombre": "CLUTCH AUTOMATICO NAVI 110 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68201,7 +68201,7 @@
       "sku": "741540111510",
       "nombre": "CLUTCH COMPLETO CG 73 DIENTES VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68223,7 +68223,7 @@
       "sku": "741540188546",
       "nombre": "CLUTCH COMPLETO CG200 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68245,7 +68245,7 @@
       "sku": "741540190484",
       "nombre": "CLUTCH COMPLETO FZ16 2.0 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68267,7 +68267,7 @@
       "sku": "741540190485",
       "nombre": "CLUTCH COMPLETO FZ16 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68289,7 +68289,7 @@
       "sku": "741540100488",
       "nombre": "CLUTCH,CENTRO Y PANEL PULSAR 200NS VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68311,7 +68311,7 @@
       "sku": "741540100143",
       "nombre": "COJINETE 1010 VINI 3W4S/HK1416",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68333,7 +68333,7 @@
       "sku": "741540100144",
       "nombre": "COJINETE 1616 VINI 3W4S/HK1616",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68773,7 +68773,7 @@
       "sku": "741540188693",
       "nombre": "COVERTOR STOP APACHE 160/180 NEGRO SET VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68795,7 +68795,7 @@
       "sku": "741540188691",
       "nombre": "COVERTOR STOP APACHE 160/180 ROJO SET VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -68927,7 +68927,7 @@
       "sku": "741540188689",
       "nombre": "COVERTOR TANQUE APACHE 160/180 ROJO SET VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69169,7 +69169,7 @@
       "sku": "741540100333",
       "nombre": "COVERTOR TRAS STOP SL ROJO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69191,7 +69191,7 @@
       "sku": "741540100334",
       "nombre": "COVERTOR TRAS STOP SL150-9 NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69257,7 +69257,7 @@
       "sku": "741540189447",
       "nombre": "COVERTOR UNIVERSAL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69323,7 +69323,7 @@
       "sku": "741540188665",
       "nombre": "CULATA CG-125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69345,7 +69345,7 @@
       "sku": "741540188664",
       "nombre": "CULATA CG-150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69367,7 +69367,7 @@
       "sku": "741540189577",
       "nombre": "CULATA CG200/250 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69389,7 +69389,7 @@
       "sku": "741540190354",
       "nombre": "CULATA COMPLETA GN125H VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69411,7 +69411,7 @@
       "sku": "741540190232",
       "nombre": "CULATA COMPLETA GXT200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69565,7 +69565,7 @@
       "sku": "741540188588",
       "nombre": "DISCO ARRANQUE APACHE RTR 160/180 NEW VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69587,7 +69587,7 @@
       "sku": "741540188559",
       "nombre": "DISCO ARRANQUE APACHE RTR 160/180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69609,7 +69609,7 @@
       "sku": "741540190392",
       "nombre": "DISCO ARRANQUE CBF125/150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69653,7 +69653,7 @@
       "sku": "741540190837",
       "nombre": "DISCO ARRANQUE COMP TTR180/TTX180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69719,7 +69719,7 @@
       "sku": "741540189138",
       "nombre": "DISCO ARRANQUE COMPLETO NAGA200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69763,7 +69763,7 @@
       "sku": "741540128215",
       "nombre": "DISCO ARRANQUE COMPLETO XCD 125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69785,7 +69785,7 @@
       "sku": "741540189137",
       "nombre": "DISCO ARRANQUE COMPLETO YARA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69807,7 +69807,7 @@
       "sku": "741540189903",
       "nombre": "DISCO ARRANQUE CRUX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69829,7 +69829,7 @@
       "sku": "741540190393",
       "nombre": "DISCO ARRANQUE FZ16 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69851,7 +69851,7 @@
       "sku": "741540189438",
       "nombre": "DISCO ARRANQUE GIXXER 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69873,7 +69873,7 @@
       "sku": "741540100487",
       "nombre": "DISCO ARRANQUE PULSAR 200NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69895,7 +69895,7 @@
       "sku": "741540128212",
       "nombre": "DISCO ARRANQUE VINI PULSAR II",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69917,7 +69917,7 @@
       "sku": "741540190988",
       "nombre": "DISCO ARRANQUE YBR125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69939,7 +69939,7 @@
       "sku": "741540190284",
       "nombre": "DISCO ARRANQUE ZR RAY115 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69961,7 +69961,7 @@
       "sku": "741540188270",
       "nombre": "DISCO CLUTCH FIBRA SET CB1 125 /CB110 TWISTER VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -69983,7 +69983,7 @@
       "sku": "741540190370",
       "nombre": "DISCO CLUTCH METAL SET DT125/RX115 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70005,7 +70005,7 @@
       "sku": "741540190371",
       "nombre": "DISCO CLUTCH METAL SET FZ16 SZ-R 3PCS VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70027,7 +70027,7 @@
       "sku": "741540189140",
       "nombre": "DISCO CLUTCH SET  NAGA200 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70049,7 +70049,7 @@
       "sku": "741540110303",
       "nombre": "DISCO CLUTCH SET  XL125 /FORZA 150  VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70071,7 +70071,7 @@
       "sku": "741540188184",
       "nombre": "DISCO CLUTCH SET ACTIVE110 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70115,7 +70115,7 @@
       "sku": "741540188269",
       "nombre": "DISCO CLUTCH SET BOXER 4+1 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70159,7 +70159,7 @@
       "sku": "741540189597",
       "nombre": "DISCO CLUTCH SET CRUXX110 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70181,7 +70181,7 @@
       "sku": "741540188271",
       "nombre": "DISCO CLUTCH SET DISCOVER 125ES VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70203,7 +70203,7 @@
       "sku": "741540190373",
       "nombre": "DISCO CLUTCH SET DOMINAR 250 4PCS+3PZS VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70225,7 +70225,7 @@
       "sku": "741540188466",
       "nombre": "DISCO CLUTCH SET DR200 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70247,7 +70247,7 @@
       "sku": "741540188187",
       "nombre": "DISCO CLUTCH SET FZ16 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70269,7 +70269,7 @@
       "sku": "741540190482",
       "nombre": "DISCO CLUTCH SET METAL XTZ150 4PCS VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70291,7 +70291,7 @@
       "sku": "741540190483",
       "nombre": "DISCO CLUTCH SET METAL XTZ250 5PCS VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70313,7 +70313,7 @@
       "sku": "741540110312",
       "nombre": "DISCO CLUTCH SET VINI DISCOVER 100",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70335,7 +70335,7 @@
       "sku": "741540101351",
       "nombre": "DISCO CLUTCH SET VINI TORITO",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "EMBRAGUE",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70445,7 +70445,7 @@
       "sku": "741540190843",
       "nombre": "DISCO FRENO AK NKDR125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70467,7 +70467,7 @@
       "sku": "741540189215",
       "nombre": "DISCO FRENO AK TTR200 TRASERO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70489,7 +70489,7 @@
       "sku": "741540190841",
       "nombre": "DISCO FRENO AK200SM VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70511,7 +70511,7 @@
       "sku": "741540188928",
       "nombre": "DISCO FRENO APACHE 160/180 DELANTERO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70533,7 +70533,7 @@
       "sku": "741540188922",
       "nombre": "DISCO FRENO APACHE 160/180 TRASERO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70577,7 +70577,7 @@
       "sku": "741540189586",
       "nombre": "DISCO FRENO CR1 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70731,7 +70731,7 @@
       "sku": "741540188254",
       "nombre": "DISCO FRENO GN125H VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70753,7 +70753,7 @@
       "sku": "741540190717",
       "nombre": "DISCO FRENO GSX150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70775,7 +70775,7 @@
       "sku": "741540190716",
       "nombre": "DISCO FRENO PULSAR135 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70797,7 +70797,7 @@
       "sku": "741540190715",
       "nombre": "DISCO FRENO PULSAR180UG/GT/200/220 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70863,7 +70863,7 @@
       "sku": "741540190856",
       "nombre": "DISCO FRENO TNT25/BN251 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70885,7 +70885,7 @@
       "sku": "741540190712",
       "nombre": "DISCO FRENO TRAS AK TTX180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70951,7 +70951,7 @@
       "sku": "741540190711",
       "nombre": "DISCO FRENO TRASERO CB190R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -70973,7 +70973,7 @@
       "sku": "741540190710",
       "nombre": "DISCO FRENO TRASERO GIXXER150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71017,7 +71017,7 @@
       "sku": "741540190714",
       "nombre": "DISCO FRENO XR125L/XR150L VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71039,7 +71039,7 @@
       "sku": "741540190931",
       "nombre": "EJE DE ARRANQUE APACHE160/180 RTR VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71061,7 +71061,7 @@
       "sku": "741540190430",
       "nombre": "EJE DE ARRANQUE AX4 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71083,7 +71083,7 @@
       "sku": "741540188200",
       "nombre": "EJE DE ARRANQUE GY6 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71105,7 +71105,7 @@
       "sku": "741540190395",
       "nombre": "EJE DE ARRANQUE GY6-125 146MM VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71127,7 +71127,7 @@
       "sku": "741540190396",
       "nombre": "EJE DE ARRANQUE GY6-125 170MM VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71149,7 +71149,7 @@
       "sku": "741540190493",
       "nombre": "EJE DE ARRANQUE HUNK160R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71193,7 +71193,7 @@
       "sku": "741540190397",
       "nombre": "EJE DE ARRANQUE XPULSE200/HUNK160/190R/ VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71215,7 +71215,7 @@
       "sku": "741540190398",
       "nombre": "EJE DE ARRANQUE YBR125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71281,7 +71281,7 @@
       "sku": "741540188936",
       "nombre": "EJE DE PIÑON DE CAJA  APACHE 160 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71303,7 +71303,7 @@
       "sku": "741540190595",
       "nombre": "EJE DELANTERO  XPULSE200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "DIRECCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71347,7 +71347,7 @@
       "sku": "741540189305",
       "nombre": "EJE DELANTERO GN125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "DIRECCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71369,7 +71369,7 @@
       "sku": "741540189306",
       "nombre": "EJE DELANTERO YBR125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "DIRECCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71413,7 +71413,7 @@
       "sku": "741540188277",
       "nombre": "EJE LEVA CG125/CG150/CG200 VINI HOT PARTS",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71479,7 +71479,7 @@
       "sku": "741540190838",
       "nombre": "EJE LEVA XRE300 ADMISION VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71501,7 +71501,7 @@
       "sku": "741540190799",
       "nombre": "EJE LEVA XRE300 ESCAPE VINI",
       "marca": "VINI",
-      "categoria": "ESCAPES",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71523,7 +71523,7 @@
       "sku": "741540190800",
       "nombre": "EJE LEVAS AK TTR180/TTX180/XM180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71545,7 +71545,7 @@
       "sku": "741540188591",
       "nombre": "EJE LEVAS AK125 FLEX VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71567,7 +71567,7 @@
       "sku": "741540190019",
       "nombre": "EJE LEVAS APACHE 160 RTR 4V VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71589,7 +71589,7 @@
       "sku": "741540190432",
       "nombre": "EJE LEVAS AX4 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71611,7 +71611,7 @@
       "sku": "741540188457",
       "nombre": "EJE LEVAS CB1 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71655,7 +71655,7 @@
       "sku": "741540190406",
       "nombre": "EJE LEVAS CB190R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71677,7 +71677,7 @@
       "sku": "741540100556",
       "nombre": "EJE LEVAS CBF150/INVICTA/HUNK MODIFIC 190CC VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71699,7 +71699,7 @@
       "sku": "741540100558",
       "nombre": "EJE LEVAS CGL125/FIRE/V-MAN HOT PARTS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71743,7 +71743,7 @@
       "sku": "741540100476",
       "nombre": "EJE LEVAS DISCOVER 125ST VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71787,7 +71787,7 @@
       "sku": "741540189477",
       "nombre": "EJE LEVAS GIXXER 150 6.5MM HOT PARTS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71809,7 +71809,7 @@
       "sku": "741540188209",
       "nombre": "EJE LEVAS HUNK 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71831,7 +71831,7 @@
       "sku": "741540190407",
       "nombre": "EJE LEVAS HUNK 160R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71853,7 +71853,7 @@
       "sku": "741540189096",
       "nombre": "EJE LEVAS NAGA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71875,7 +71875,7 @@
       "sku": "741540188913",
       "nombre": "EJE LEVAS NAVI 110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71897,7 +71897,7 @@
       "sku": "741540190410",
       "nombre": "EJE LEVAS PULSAR 135 HOT PARTS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71919,7 +71919,7 @@
       "sku": "741540189551",
       "nombre": "EJE LEVAS PULSAR 160NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -71963,7 +71963,7 @@
       "sku": "741540100484",
       "nombre": "EJE LEVAS PULSAR 200NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72029,7 +72029,7 @@
       "sku": "741540101196",
       "nombre": "EJE LEVAS TORITO 180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72051,7 +72051,7 @@
       "sku": "741540188519",
       "nombre": "EJE LEVAS TORITO RE225 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72073,7 +72073,7 @@
       "sku": "741540100583",
       "nombre": "EJE LEVAS TVS APACHE 160-180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72095,7 +72095,7 @@
       "sku": "741540100442",
       "nombre": "EJE LEVAS XL185/XL125 (JAPAN MODEL) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72117,7 +72117,7 @@
       "sku": "741540190139",
       "nombre": "EJE LEVAS XPULSE200/HUNK200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72139,7 +72139,7 @@
       "sku": "741540108020",
       "nombre": "EJE LEVAS XR250 TORNADO EXTERNO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72161,7 +72161,7 @@
       "sku": "741540108019",
       "nombre": "EJE LEVAS XR250 TORNADO INTERNO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72183,7 +72183,7 @@
       "sku": "741540189516",
       "nombre": "EJE LEVAS XTZ 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72205,7 +72205,7 @@
       "sku": "741540100560",
       "nombre": "EJE LEVAS YBR125 HOT PARTS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72293,7 +72293,7 @@
       "sku": "741540190331",
       "nombre": "EJE VELOCIDAD  STRYKER125/SPORT10 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72315,7 +72315,7 @@
       "sku": "741540190499",
       "nombre": "EJE VELOCIDAD AK TTR180/TTX180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72337,7 +72337,7 @@
       "sku": "741540189353",
       "nombre": "EJE VELOCIDAD CB1 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72359,7 +72359,7 @@
       "sku": "741540189355",
       "nombre": "EJE VELOCIDAD CBF150/XR150L VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72381,7 +72381,7 @@
       "sku": "741540189352",
       "nombre": "EJE VELOCIDAD PULSAR 135 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72403,7 +72403,7 @@
       "sku": "741540190064",
       "nombre": "EJE VELOCIDAD YAMAHA DT125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72447,7 +72447,7 @@
       "sku": "741540100776",
       "nombre": "EMPAQUE CULATA  CGL125 VINI (LIQUIDACION)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72469,7 +72469,7 @@
       "sku": "741540100777",
       "nombre": "EMPAQUE CULATA  GL145 VINI (LIQUIDACION)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72491,7 +72491,7 @@
       "sku": "741540100774",
       "nombre": "EMPAQUE CULATA CG150 VINI (LIQUIDACION)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72513,7 +72513,7 @@
       "sku": "741540100775",
       "nombre": "EMPAQUE CULATA DSF200 VINI (LIQUIDACION)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72535,7 +72535,7 @@
       "sku": "741540100773",
       "nombre": "EMPAQUE CULATA YBR125 VINI (LIQUIDACION)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72557,7 +72557,7 @@
       "sku": "741540100549",
       "nombre": "EMPAQUE ESCAPE  CNG 175 TORITO VINI",
       "marca": "VINI",
-      "categoria": "ESCAPES",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72579,7 +72579,7 @@
       "sku": "741540100534",
       "nombre": "EMPAQUE ESCAPE XL125 VINI",
       "marca": "VINI",
-      "categoria": "ESCAPES",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72645,7 +72645,7 @@
       "sku": "741540188640",
       "nombre": "ENGRA. TIEMPO SUPE. HERO HF DAWN VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -72755,7 +72755,7 @@
       "sku": "741540187927",
       "nombre": "ENGRANAJE TIEMPO SUPERIOR TORITO 180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -73437,7 +73437,7 @@
       "sku": "741540189314",
       "nombre": "ESTRIBO YARA 200 TRASERO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -73481,7 +73481,7 @@
       "sku": "741540190989",
       "nombre": "FAJA TRANSMISION NTORQ125/NTORQ125 FI VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -73503,7 +73503,7 @@
       "sku": "741540190278",
       "nombre": "FAJA TRANSMISSION ZR RAY115 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -73525,7 +73525,7 @@
       "sku": "741540190169",
       "nombre": "FILTRO ACEITE AKTZ2 VINI",
       "marca": "VINI",
-      "categoria": "ACEITES",
+      "categoria": "FILTROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -73569,7 +73569,7 @@
       "sku": "741540190903",
       "nombre": "FILTRO ACEITE FAZER250 VINI",
       "marca": "VINI",
-      "categoria": "ACEITES",
+      "categoria": "FILTROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -73635,7 +73635,7 @@
       "sku": "741540190640",
       "nombre": "FILTRO ACEITE XR250TORNADO VINI",
       "marca": "VINI",
-      "categoria": "ACEITES",
+      "categoria": "FILTROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -74185,7 +74185,7 @@
       "sku": "741540189904",
       "nombre": "FLASHER 12V CRUXX10REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -74251,7 +74251,7 @@
       "sku": "741540190423",
       "nombre": "FLASHER XTZ250/XR/NXR/XLR VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -74427,7 +74427,7 @@
       "sku": "741540188918",
       "nombre": "FRICCION AN125HK VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRICCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75241,7 +75241,7 @@
       "sku": "741540190079",
       "nombre": "GUIA CADENA SET PULSAR125 NS VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75263,7 +75263,7 @@
       "sku": "741540100146",
       "nombre": "GUIA CADENA SET TORITO 180 VINI(FL)",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75285,7 +75285,7 @@
       "sku": "741540190382",
       "nombre": "GUIA CADENA TIEMPO SET DOMINAR 250 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75351,7 +75351,7 @@
       "sku": "741540188581",
       "nombre": "GUIA CADENA TIEMPO SET PULSAR 180 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75373,7 +75373,7 @@
       "sku": "741540190384",
       "nombre": "GUIA CADENA TIEMPO SET XTZ250 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75417,7 +75417,7 @@
       "sku": "741540190891",
       "nombre": "GUIA CADENA TIEMPO YBR125/XTZ125/LIBERO125 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75439,7 +75439,7 @@
       "sku": "741540189832",
       "nombre": "GUIA VALV, SET CB110/ CB125F /CB110 TWISTER VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75461,7 +75461,7 @@
       "sku": "741540190416",
       "nombre": "GUIA VALVULA SET CBF150 VINI",
       "marca": "VINI",
-      "categoria": "MOTOR",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75769,7 +75769,7 @@
       "sku": "741540190234",
       "nombre": "HERRA/ VINI CALIBRADOR PIE DE REY DIGITAL VL12002",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "HERRAMIENTA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75791,7 +75791,7 @@
       "sku": "741540189818",
       "nombre": "HERRA/ VINI CUBO COPA BOMBA LUBRICACION  PULSAR 200 NS",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "HERRAMIENTA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75813,7 +75813,7 @@
       "sku": "741540189754",
       "nombre": "HERRA/ VINI CUBO OCTAGONAL 32-45MM VZ12031",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "HERRAMIENTA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75835,7 +75835,7 @@
       "sku": "741540189815",
       "nombre": "HERRA/ VINI CUBO TORRE DOBLE VZ12013",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "HERRAMIENTA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75857,7 +75857,7 @@
       "sku": "741540190192",
       "nombre": "HERRA/ VINI EMBANQUE PARA MOTO UNIV.",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "HERRAMIENTA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75901,7 +75901,7 @@
       "sku": "741540189802",
       "nombre": "HERRA/ VINI JUEGO DESTORNI/ PLANO 39PCS VL12012",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "HERRAMIENTA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -75967,7 +75967,7 @@
       "sku": "741540189779",
       "nombre": "HERRA/ VINI LLAVE INGLESA CON RATCHET 17MM VB12009",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "HERRAMIENTA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -76033,7 +76033,7 @@
       "sku": "741540189821",
       "nombre": "HERRA/ VINI UÑA AJUSTE MONOSHOK 45MM-50MM VZ12032",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "HERRAMIENTA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -77419,7 +77419,7 @@
       "sku": "741540101247",
       "nombre": "KIT ANILLOS TORITO 180 VINI (RC)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79047,7 +79047,7 @@
       "sku": "741540100802",
       "nombre": "KIT BUSHING CATARINA CGL125 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79091,7 +79091,7 @@
       "sku": "741540100306",
       "nombre": "KIT CARBONES SOLO TORITO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79113,7 +79113,7 @@
       "sku": "741540189421",
       "nombre": "KIT CONTRABALANCEO NAGA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79355,7 +79355,7 @@
       "sku": "741540190442",
       "nombre": "KIT DE DISTRIBUCION TIEMPO AK FLEX125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79421,7 +79421,7 @@
       "sku": "741540190401",
       "nombre": "KIT DISTRIBUCION CADENA TIEMPO AK125 FLEX VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79443,7 +79443,7 @@
       "sku": "741540190445",
       "nombre": "KIT DISTRIBUCION DE TIEMPO C50/C70 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79487,7 +79487,7 @@
       "sku": "741540190975",
       "nombre": "KIT DISTRIBUCION TIEMPO APACHE160/180 2V VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79531,7 +79531,7 @@
       "sku": "741540190444",
       "nombre": "KIT DISTRIBUCION TIEMPO C90/C110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79553,7 +79553,7 @@
       "sku": "741540190969",
       "nombre": "KIT DISTRIBUCION TIEMPO CB110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79575,7 +79575,7 @@
       "sku": "741540190968",
       "nombre": "KIT DISTRIBUCION TIEMPO CB125F VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79597,7 +79597,7 @@
       "sku": "741540190973",
       "nombre": "KIT DISTRIBUCION TIEMPO CB160F VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79619,7 +79619,7 @@
       "sku": "741540190978",
       "nombre": "KIT DISTRIBUCION TIEMPO CRUX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79663,7 +79663,7 @@
       "sku": "741540190402",
       "nombre": "KIT DISTRIBUCION TIEMPO ECO100 DELUXE. C90/AK110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79685,7 +79685,7 @@
       "sku": "741540190971",
       "nombre": "KIT DISTRIBUCION TIEMPO FZ16 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79707,7 +79707,7 @@
       "sku": "741540190976",
       "nombre": "KIT DISTRIBUCION TIEMPO GIXXER150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79729,7 +79729,7 @@
       "sku": "741540190970",
       "nombre": "KIT DISTRIBUCION TIEMPO GN125H VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79751,7 +79751,7 @@
       "sku": "741540190981",
       "nombre": "KIT DISTRIBUCION TIEMPO HUNK160R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79773,7 +79773,7 @@
       "sku": "741540190979",
       "nombre": "KIT DISTRIBUCION TIEMPO NAVI110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79839,7 +79839,7 @@
       "sku": "741540190980",
       "nombre": "KIT DISTRIBUCION TIEMPO STRYKER125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79861,7 +79861,7 @@
       "sku": "741540190982",
       "nombre": "KIT DISTRIBUCION TIEMPO XPULSE200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79883,7 +79883,7 @@
       "sku": "741540190972",
       "nombre": "KIT DISTRIBUCION TIEMPO XTZ150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79905,7 +79905,7 @@
       "sku": "741540190974",
       "nombre": "KIT DISTRIBUCION TIEMPO YBR125/XTZ125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79949,7 +79949,7 @@
       "sku": "741540188605",
       "nombre": "KIT EMPAQUE AK125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -79971,7 +79971,7 @@
       "sku": "741540189741",
       "nombre": "KIT EMPAQUE FORZA 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -80015,7 +80015,7 @@
       "sku": "741540188368",
       "nombre": "KIT EMPAQUE GY150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -80059,7 +80059,7 @@
       "sku": "741540188608",
       "nombre": "KIT EMPAQUE PULSAR 200NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -80103,7 +80103,7 @@
       "sku": "741540190777",
       "nombre": "KIT LAINAS CATARINA AX4 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "KIT TRACCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -80125,7 +80125,7 @@
       "sku": "741540190613",
       "nombre": "KIT LAINAS CATARINA NXR125BROS/XR250TORNADO VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "KIT TRACCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -80147,7 +80147,7 @@
       "sku": "741540190772",
       "nombre": "KIT LAINAS CATARINA PULSAR180 II 4HUECOS VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "KIT TRACCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -80191,7 +80191,7 @@
       "sku": "741540190014",
       "nombre": "KIT MEDIO APACHE 160 RTR 4V VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -80235,7 +80235,7 @@
       "sku": "741540190083",
       "nombre": "KIT MEDIO PULSAR 125NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -80279,7 +80279,7 @@
       "sku": "741540188033",
       "nombre": "KIT MEDIO TORITO RE175 (180) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -80301,7 +80301,7 @@
       "sku": "741540188034",
       "nombre": "KIT MEDIO TORITO RE205 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83095,7 +83095,7 @@
       "sku": "741540190463",
       "nombre": "KIT RETENEDOR APACHE160/180 4PCS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SELLOS MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83117,7 +83117,7 @@
       "sku": "741540190364",
       "nombre": "KIT RETENEDOR AX100/115 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SELLOS MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83139,7 +83139,7 @@
       "sku": "741540190632",
       "nombre": "KIT RETENEDOR BARRA 35X48X11 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SELLO BARRA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83161,7 +83161,7 @@
       "sku": "741540190631",
       "nombre": "KIT RETENEDOR BARRA 41X54X11 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SELLO BARRA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83183,7 +83183,7 @@
       "sku": "741540190465",
       "nombre": "KIT RETENEDOR DT125/175 8PCS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SELLOS MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83491,7 +83491,7 @@
       "sku": "741540188931",
       "nombre": "KIT TRACCION APACHE 160RTR /428H-13T VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "KIT TRACCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83513,7 +83513,7 @@
       "sku": "741540188930",
       "nombre": "KIT TRACCION APACHE 180RTR /428H-14T VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "KIT TRACCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83535,7 +83535,7 @@
       "sku": "741540190924",
       "nombre": "KIT TRACCION HUNK 160R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "KIT TRACCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83557,7 +83557,7 @@
       "sku": "741540190937",
       "nombre": "KIT TRACCION PULSAR 200NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "KIT TRACCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83579,7 +83579,7 @@
       "sku": "741540189075",
       "nombre": "KIT TRACCION V-MEN 428-38T /15T /135L VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "KIT TRACCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83601,7 +83601,7 @@
       "sku": "741540189071",
       "nombre": "KIT TRACCION XL125 /185 428H-15T /50T VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "KIT TRACCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -83645,7 +83645,7 @@
       "sku": "741540189083",
       "nombre": "KIT TRACCION YUMBO DK 428-50T /14T/ 136L VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "KIT TRACCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -84283,7 +84283,7 @@
       "sku": "741540100554",
       "nombre": "LEVA SUPERIOR EJE LEVA CGL VINI HOT PARTS",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -86747,7 +86747,7 @@
       "sku": "741540189933",
       "nombre": "LLANTA VINI 110/70X17 VT 60S  VT1008",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -86791,7 +86791,7 @@
       "sku": "741540189932",
       "nombre": "LLANTA VINI 110/80X17 VT 1008",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -86813,7 +86813,7 @@
       "sku": "741540189925",
       "nombre": "LLANTA VINI 110/90X17 VT 1009",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -86835,7 +86835,7 @@
       "sku": "741540190535",
       "nombre": "LLANTA VINI 120/90-17 VT1011",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -86857,7 +86857,7 @@
       "sku": "741540190530",
       "nombre": "LLANTA VINI 120/90X18 VT1009",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -86879,7 +86879,7 @@
       "sku": "741540189930",
       "nombre": "LLANTA VINI 130/70X17 VT 1010",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -86901,7 +86901,7 @@
       "sku": "741540189931",
       "nombre": "LLANTA VINI 140/70X17 VT 1010",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -86945,7 +86945,7 @@
       "sku": "741540190533",
       "nombre": "LLANTA VINI 3.00X17 VT1009",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -86967,7 +86967,7 @@
       "sku": "741540190181",
       "nombre": "LLANTA VINI 3.00X17 VT2002",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -86989,7 +86989,7 @@
       "sku": "741540190182",
       "nombre": "LLANTA VINI 3.00X18 VT2002",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87011,7 +87011,7 @@
       "sku": "741540189928",
       "nombre": "LLANTA VINI 4.10X18 VT1005",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87033,7 +87033,7 @@
       "sku": "741540190532",
       "nombre": "LLANTA VINI 4.10X18 VT1009",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87055,7 +87055,7 @@
       "sku": "741540190184",
       "nombre": "LLANTA VINI 4.10X18 VT2003",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87099,7 +87099,7 @@
       "sku": "741540190529",
       "nombre": "LLANTA VINI 80/90X21 VT1009",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87165,7 +87165,7 @@
       "sku": "741540189939",
       "nombre": "LLANTA VINI 90/90X18 VT 1001",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87187,7 +87187,7 @@
       "sku": "741540190531",
       "nombre": "LLANTA VINI 90/90X18 VT1009",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87209,7 +87209,7 @@
       "sku": "741540189926",
       "nombre": "LLANTA VINI 90/90X19 VT1009",
       "marca": "VINI",
-      "categoria": "LLANTAS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87473,7 +87473,7 @@
       "sku": "741540188687",
       "nombre": "LODERA DELANTERA APACHE160 NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87517,7 +87517,7 @@
       "sku": "741540100236",
       "nombre": "LODERA DELANTERA CGL 125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87561,7 +87561,7 @@
       "sku": "741540189954",
       "nombre": "LODERA DELANTERA CRUX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87693,7 +87693,7 @@
       "sku": "741540100669",
       "nombre": "LODERA DELANTERA GN125 METAL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87715,7 +87715,7 @@
       "sku": "741540100672",
       "nombre": "LODERA DELANTERA HALTIGER AZUL (SL150-9) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87737,7 +87737,7 @@
       "sku": "741540100670",
       "nombre": "LODERA DELANTERA HALTIGER NEGRO (SL150-9) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87759,7 +87759,7 @@
       "sku": "741540100671",
       "nombre": "LODERA DELANTERA HALTIGER ROJO (SL150-9) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87869,7 +87869,7 @@
       "sku": "741540100679",
       "nombre": "LODERA DELANTERA PULSAR 135 NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -87979,7 +87979,7 @@
       "sku": "741540188145",
       "nombre": "LODERA DELANTERA SL200GY AZUL NXR150 VINI (A)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88001,7 +88001,7 @@
       "sku": "741540188118",
       "nombre": "LODERA DELANTERA SL200GY NEGRO NXR150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88023,7 +88023,7 @@
       "sku": "741540188144",
       "nombre": "LODERA DELANTERA SL200GY ROJO NXR150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88265,7 +88265,7 @@
       "sku": "741540188685",
       "nombre": "LODERA DELANTERA TVS APACHE ROJO 160/180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88287,7 +88287,7 @@
       "sku": "741540187995",
       "nombre": "LODERA DELANTERA V-MEN VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88397,7 +88397,7 @@
       "sku": "741540100341",
       "nombre": "LODERA DELANTERA YBR 125 AZUL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88419,7 +88419,7 @@
       "sku": "741540100343",
       "nombre": "LODERA DELANTERA YBR 125 NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88441,7 +88441,7 @@
       "sku": "741540100342",
       "nombre": "LODERA DELANTERA YBR 125 ROJO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88507,7 +88507,7 @@
       "sku": "741540100678",
       "nombre": "LODERA DELANTERA YBR125-G AZUL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88529,7 +88529,7 @@
       "sku": "741540100676",
       "nombre": "LODERA DELANTERA YBR125-G NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88551,7 +88551,7 @@
       "sku": "741540100677",
       "nombre": "LODERA DELANTERA YBR125-G ROJO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88661,7 +88661,7 @@
       "sku": "741540189562",
       "nombre": "LODERA TRASERA CB110 TWISTER VINI UPPER",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88683,7 +88683,7 @@
       "sku": "741540187975",
       "nombre": "LODERA TRASERA DSR200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -88749,7 +88749,7 @@
       "sku": "741540100335",
       "nombre": "LODERA TRASERA HALTIGER 150 (SANLG 150-9) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -89035,7 +89035,7 @@
       "sku": "741540188107",
       "nombre": "LODERA TRASERA XR150L/XR125L VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -89057,7 +89057,7 @@
       "sku": "741540100345",
       "nombre": "LODERA TRASERA YBR125  VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -89519,7 +89519,7 @@
       "sku": "741540190457",
       "nombre": "MAGNETO COMPLETO AX100 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -89805,7 +89805,7 @@
       "sku": "741540188927",
       "nombre": "MANECILLA CLUTCH APACHE 160/180 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -89827,7 +89827,7 @@
       "sku": "741540100491",
       "nombre": "MANECILLA CLUTCH XL125 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -89871,7 +89871,7 @@
       "sku": "741540190145",
       "nombre": "MANECILLA CLUTH LH CRUX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -89959,7 +89959,7 @@
       "sku": "741540189099",
       "nombre": "MANECILLA COMPLETA CLUTCH FORZA 150  VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90025,7 +90025,7 @@
       "sku": "741540189590",
       "nombre": "MANECILLA COMPLETA RH CRUXX110 REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90047,7 +90047,7 @@
       "sku": "741540188923",
       "nombre": "MANECILLA FRENO APACHE160/180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90069,7 +90069,7 @@
       "sku": "741540190146",
       "nombre": "MANECILLA FRENO RH CRUXX REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90091,7 +90091,7 @@
       "sku": "741540189980",
       "nombre": "MANECILLA FRENO UNIVERSAL TITANIUM VINI HOT PARTS",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90113,7 +90113,7 @@
       "sku": "741540100492",
       "nombre": "MANECILLA FRENO XL125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90201,7 +90201,7 @@
       "sku": "741540188061",
       "nombre": "MANECILLA LH PULSAR 200NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90223,7 +90223,7 @@
       "sku": "741540100323",
       "nombre": "MANECILLA RH AX100 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90267,7 +90267,7 @@
       "sku": "741540100324",
       "nombre": "MANECILLA RH CGL125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90289,7 +90289,7 @@
       "sku": "741540189104",
       "nombre": "MANGOS SET RACING ROJO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ACCESORIOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90311,7 +90311,7 @@
       "sku": "741540190011",
       "nombre": "MANGOS SET UNIVERSAL RACING YELLOW VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ACCESORIOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90333,7 +90333,7 @@
       "sku": "741540100716",
       "nombre": "MANGOS SET XL-110 (DORADO) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ACCESORIOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90377,7 +90377,7 @@
       "sku": "741540100032",
       "nombre": "MANGOS SET XL-23 AGUILA (NEGRO) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ACCESORIOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90399,7 +90399,7 @@
       "sku": "741540100715",
       "nombre": "MANGOS SET XL-97 (AZUL) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ACCESORIOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90619,7 +90619,7 @@
       "sku": "741540188708",
       "nombre": "MANIFUL CG125 NORMAL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90641,7 +90641,7 @@
       "sku": "741540188707",
       "nombre": "MANIFUL CG-125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90663,7 +90663,7 @@
       "sku": "741540188704",
       "nombre": "MANIFUL CG-200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90685,7 +90685,7 @@
       "sku": "741540189667",
       "nombre": "MANIFUL DSR200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90707,7 +90707,7 @@
       "sku": "741540189452",
       "nombre": "MANIFUL FORZA 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90729,7 +90729,7 @@
       "sku": "741540190369",
       "nombre": "MANIFUL UNIVERSAL HOT PARTS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90773,7 +90773,7 @@
       "sku": "741540190359",
       "nombre": "MANIFUL XR250 TORNADO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90817,7 +90817,7 @@
       "sku": "741540190771",
       "nombre": "MASA DELANTERA DT125/175 CON BALINERAS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "BALEROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90839,7 +90839,7 @@
       "sku": "741540190239",
       "nombre": "MASA DELANTERA GXT200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "BALEROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90861,7 +90861,7 @@
       "sku": "741540190770",
       "nombre": "MASA DELANTERA XR150L/125L CON BALINERAS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "BALEROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90883,7 +90883,7 @@
       "sku": "741540188494",
       "nombre": "MASA DELANTERA YARA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "BALEROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90905,7 +90905,7 @@
       "sku": "741540189334",
       "nombre": "MASA DELANTERA YARA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "BALEROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90927,7 +90927,7 @@
       "sku": "741540100411",
       "nombre": "MASA MOTOR ARRANQUE TORITO 180 VINI(FL)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90949,7 +90949,7 @@
       "sku": "741540188357",
       "nombre": "MASA TRASERA CGL125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "BALEROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90971,7 +90971,7 @@
       "sku": "741540190238",
       "nombre": "MASA TRASERA GXT200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "BALEROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -90993,7 +90993,7 @@
       "sku": "741540190290",
       "nombre": "MASA TRASERA XR150/CFR230/150/XR125/XL200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "BALEROS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -91455,7 +91455,7 @@
       "sku": "741540190287",
       "nombre": "MASCARA NAVI 110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -91477,7 +91477,7 @@
       "sku": "741540100353",
       "nombre": "MASCARA PULSAR 180 AZUL VINI (LIQUIDACION)(FL)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -91697,7 +91697,7 @@
       "sku": "741540100610",
       "nombre": "MASCARA SILVIN APACHE NEW NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92159,7 +92159,7 @@
       "sku": "741540187935",
       "nombre": "MASCARA Y SIL COMPLETA SL150-9 NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92357,7 +92357,7 @@
       "sku": "741540188939",
       "nombre": "MASCARA Y SILVIN APACHE NEW NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92379,7 +92379,7 @@
       "sku": "741540188937",
       "nombre": "MASCARA Y SILVIN APACHE NEW ROJO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92401,7 +92401,7 @@
       "sku": "741540189571",
       "nombre": "MASCARA Y SILVIN COMPL.  CB110 TWISTER VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92423,7 +92423,7 @@
       "sku": "741540190052",
       "nombre": "MASCARA Y SILVIN COMPLE. NAVI 110 BLANCO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92445,7 +92445,7 @@
       "sku": "741540190051",
       "nombre": "MASCARA Y SILVIN COMPLE. NAVI 110 ROJO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92467,7 +92467,7 @@
       "sku": "741540189944",
       "nombre": "MASCARA Y SILVIN COMPLE. NAVI110 NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92555,7 +92555,7 @@
       "sku": "741540188068",
       "nombre": "MASCARA Y SILVIN DSR200 AZUL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92577,7 +92577,7 @@
       "sku": "741540187969",
       "nombre": "MASCARA Y SILVIN DSR200 NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92621,7 +92621,7 @@
       "sku": "741540189958",
       "nombre": "MASCARA Y SILVIN MAVERICK VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92643,7 +92643,7 @@
       "sku": "741540188104",
       "nombre": "MASCARA Y SILVIN XR150L NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92665,7 +92665,7 @@
       "sku": "741540188140",
       "nombre": "MASCARA Y SILVIN XR150L ROJO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92687,7 +92687,7 @@
       "sku": "741540187939",
       "nombre": "MASCARA Y SILVIN YAMAHA XTZ 125 AZUL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92709,7 +92709,7 @@
       "sku": "741540187940",
       "nombre": "MASCARA Y SILVIN YAMAHA XTZ 125 NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92775,7 +92775,7 @@
       "sku": "741540190665",
       "nombre": "MONOSHOCK AK TTR125/150/180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92797,7 +92797,7 @@
       "sku": "741540190820",
       "nombre": "MONOSHOCK AK XM180/200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92819,7 +92819,7 @@
       "sku": "741540190821",
       "nombre": "MONOSHOCK APACHE 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92841,7 +92841,7 @@
       "sku": "741540190660",
       "nombre": "MONOSHOCK CBF150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92863,7 +92863,7 @@
       "sku": "741540188613",
       "nombre": "MONOSHOCK FREEDOM SPITZER VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92885,7 +92885,7 @@
       "sku": "741540189603",
       "nombre": "MONOSHOCK PULSAR 160NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92929,7 +92929,7 @@
       "sku": "741540190819",
       "nombre": "MONOSHOCK RTXS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92973,7 +92973,7 @@
       "sku": "741540190747",
       "nombre": "MONOSHOCK XRE300 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -92995,7 +92995,7 @@
       "sku": "741540190746",
       "nombre": "MONOSHOCK XTZ 250 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93017,7 +93017,7 @@
       "sku": "741540190236",
       "nombre": "MONOSHOCK XTZ125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93039,7 +93039,7 @@
       "sku": "741540189100",
       "nombre": "MONOSHOCK YARA/DY-150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93061,7 +93061,7 @@
       "sku": "741540189118",
       "nombre": "MOTOR ARRANQUE  FORZA 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93083,7 +93083,7 @@
       "sku": "741540190017",
       "nombre": "MOTOR ARRANQUE APACHE 160 RTR 4V VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93105,7 +93105,7 @@
       "sku": "741540189916",
       "nombre": "MOTOR ARRANQUE BOXER BM150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93127,7 +93127,7 @@
       "sku": "741540188287",
       "nombre": "MOTOR ARRANQUE C100 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93149,7 +93149,7 @@
       "sku": "741540189976",
       "nombre": "MOTOR ARRANQUE CB1/CB125F VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93171,7 +93171,7 @@
       "sku": "741540189829",
       "nombre": "MOTOR ARRANQUE CB110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93215,7 +93215,7 @@
       "sku": "741540190256",
       "nombre": "MOTOR ARRANQUE FZ 2.00 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93259,7 +93259,7 @@
       "sku": "741540190385",
       "nombre": "MOTOR ARRANQUE GIXXER 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93281,7 +93281,7 @@
       "sku": "741540190881",
       "nombre": "MOTOR ARRANQUE HUNK160R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93303,7 +93303,7 @@
       "sku": "741540189344",
       "nombre": "MOTOR ARRANQUE NAGA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93325,7 +93325,7 @@
       "sku": "741540190386",
       "nombre": "MOTOR ARRANQUE NAVI 110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93347,7 +93347,7 @@
       "sku": "741540100490",
       "nombre": "MOTOR ARRANQUE PULSAR 200NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93369,7 +93369,7 @@
       "sku": "741540100642",
       "nombre": "MOTOR ARRANQUE PULSAR 200RS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93391,7 +93391,7 @@
       "sku": "741540190080",
       "nombre": "MOTOR ARRANQUE PULSAR125NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93413,7 +93413,7 @@
       "sku": "741540189451",
       "nombre": "MOTOR ARRANQUE RTX 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93479,7 +93479,7 @@
       "sku": "741540190268",
       "nombre": "MOTOR ARRANQUE XR190L VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93501,7 +93501,7 @@
       "sku": "741540190276",
       "nombre": "MOTOR ARRANQUE ZR RAY115 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93545,7 +93545,7 @@
       "sku": "741540189285",
       "nombre": "PARRILLA TRASERA FORZA 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93831,7 +93831,7 @@
       "sku": "741540188988",
       "nombre": "PASTILLA FRENO 125/150/200 TRAS VINI",
       "marca": "VINI",
-      "categoria": "FRENOS",
+      "categoria": "PASTILLA DE FRENO",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93963,7 +93963,7 @@
       "sku": "741540190085",
       "nombre": "PASTILLA FRENO CUADRIMOTO VINI",
       "marca": "VINI",
-      "categoria": "FRENOS",
+      "categoria": "PASTILLA DE FRENO",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -93985,7 +93985,7 @@
       "sku": "741540188987",
       "nombre": "PASTILLA FRENO DEL 125/150/200 VINI",
       "marca": "VINI",
-      "categoria": "FRENOS",
+      "categoria": "PASTILLA DE FRENO",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95437,7 +95437,7 @@
       "sku": "741540189871",
       "nombre": "PATA ARRANQUE CRUX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95459,7 +95459,7 @@
       "sku": "741540190598",
       "nombre": "PATA ARRANQUE FZ16 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95635,7 +95635,7 @@
       "sku": "741540189594",
       "nombre": "PATA DE FRENO CRUX110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95657,7 +95657,7 @@
       "sku": "741540100744",
       "nombre": "PATA DE FRENO TITAN200-2004 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95701,7 +95701,7 @@
       "sku": "741540189593",
       "nombre": "PATA DE VELOCIDAD CRUXX110 REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95745,7 +95745,7 @@
       "sku": "741540188783",
       "nombre": "PATA FRENO  STORM 125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95767,7 +95767,7 @@
       "sku": "741540189732",
       "nombre": "PATA FRENO CB1 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95789,7 +95789,7 @@
       "sku": "741540188782",
       "nombre": "PATA FRENO GN125H VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95811,7 +95811,7 @@
       "sku": "741540189126",
       "nombre": "PATA FRENO NAGA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95833,7 +95833,7 @@
       "sku": "741540189122",
       "nombre": "PATA FRENO YARA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95855,7 +95855,7 @@
       "sku": "741540188654",
       "nombre": "PATA FRENO YBR125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95965,7 +95965,7 @@
       "sku": "741540100749",
       "nombre": "PATA VELOCIDAD BASE LARGA PHOENIX VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -95987,7 +95987,7 @@
       "sku": "741540189731",
       "nombre": "PATA VELOCIDAD CB110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96009,7 +96009,7 @@
       "sku": "741540100747",
       "nombre": "PATA VELOCIDAD CG125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96031,7 +96031,7 @@
       "sku": "741540190732",
       "nombre": "PATA VELOCIDAD GN125H VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96053,7 +96053,7 @@
       "sku": "741540190731",
       "nombre": "PATA VELOCIDAD LIBERO125/YBR125 ESD VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96119,7 +96119,7 @@
       "sku": "741540189124",
       "nombre": "PATA VELOCIDAD SL-125C VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96141,7 +96141,7 @@
       "sku": "741540188813",
       "nombre": "PATA VELOCIDAD STORM 125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MISCELANEA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96383,7 +96383,7 @@
       "sku": "741540190879",
       "nombre": "PERNOS FRENO DISCO HUNK 160R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "FRENOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96405,7 +96405,7 @@
       "sku": "741540190230",
       "nombre": "PIDE VIA AKT/CR180/CICLONE/X2/CR4 250 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96427,7 +96427,7 @@
       "sku": "741540190229",
       "nombre": "PIDE VIA CR1 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96471,7 +96471,7 @@
       "sku": "741540190874",
       "nombre": "PIDE VIA FZ16/FZ2.0 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96493,7 +96493,7 @@
       "sku": "741540190228",
       "nombre": "PIDE VIA MAVERICK125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96537,7 +96537,7 @@
       "sku": "741540100069",
       "nombre": "PIDE VIA RF-207 SET TRAS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96559,7 +96559,7 @@
       "sku": "741540100070",
       "nombre": "PIDE VIA RF-208 SET VINI YELOW (A)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96603,7 +96603,7 @@
       "sku": "741540100650",
       "nombre": "PIDE VIA SET BLANCA MED UNIVERSAL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96625,7 +96625,7 @@
       "sku": "741540190221",
       "nombre": "PIDE VIA SET CB190R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96691,7 +96691,7 @@
       "sku": "741540189364",
       "nombre": "PIDE VIA SET DISCOVER 125ST VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96933,7 +96933,7 @@
       "sku": "741540100648",
       "nombre": "PIDE VIA SET STORM VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96955,7 +96955,7 @@
       "sku": "741540187954",
       "nombre": "PIDE VIA SET TRAS FZ16/CRUX110 REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96977,7 +96977,7 @@
       "sku": "741540188001",
       "nombre": "PIDE VIA SET V-MEN VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -96999,7 +96999,7 @@
       "sku": "741540189723",
       "nombre": "PIDE VIA SET XR150L JM",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97043,7 +97043,7 @@
       "sku": "741540190405",
       "nombre": "PIÑON 4TA 20T AX100 HOT PARTS VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97065,7 +97065,7 @@
       "sku": "741540178005",
       "nombre": "PIÑON ATAQUE DT 14T VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "PIÑONES",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97109,7 +97109,7 @@
       "sku": "741540190300",
       "nombre": "PIÑON ATAQUE VIPER 250 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "PIÑONES",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97131,7 +97131,7 @@
       "sku": "741540190400",
       "nombre": "PIÑON TIEMPO SUPERIOR BM150 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97219,7 +97219,7 @@
       "sku": "741540190333",
       "nombre": "PLANTA AK110S/AK110S II VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97241,7 +97241,7 @@
       "sku": "741540189050",
       "nombre": "PLANTA AK125 EVO/AK125SL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97263,7 +97263,7 @@
       "sku": "741540190399",
       "nombre": "PLANTA AX100/TS125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97285,7 +97285,7 @@
       "sku": "741540190428",
       "nombre": "PLANTA AX4 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97329,7 +97329,7 @@
       "sku": "741540189480",
       "nombre": "PLANTA CG125/150 DAKAR HOT PARTS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97373,7 +97373,7 @@
       "sku": "741540189121",
       "nombre": "PLANTA FZ16 2.0 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97417,7 +97417,7 @@
       "sku": "741540190479",
       "nombre": "PLANTA STRYKER125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -97439,7 +97439,7 @@
       "sku": "741540187918",
       "nombre": "PLANTA TORITO 205 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -98473,7 +98473,7 @@
       "sku": "741540128401",
       "nombre": "PUNTA VENDIX VINI TORITO(RC)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -98693,7 +98693,7 @@
       "sku": "741540188795",
       "nombre": "REG CADENA SET RH Y LH  YBR125 VINI",
       "marca": "VINI",
-      "categoria": "TRANSMISION",
+      "categoria": "CADENAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -98715,7 +98715,7 @@
       "sku": "741540188727",
       "nombre": "REGULADOR CADENA SET  XL185  CG-125 VINI",
       "marca": "VINI",
-      "categoria": "ELECTRICOS",
+      "categoria": "CADENAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -98957,7 +98957,7 @@
       "sku": "741540189225",
       "nombre": "RELOJ ASPIROMETRO ASPID 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -98979,7 +98979,7 @@
       "sku": "741540100707",
       "nombre": "RELOJ ASPIROMETRO AX100 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99001,7 +99001,7 @@
       "sku": "741540190590",
       "nombre": "RELOJ ASPIROMETRO AX4 110 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99045,7 +99045,7 @@
       "sku": "741540100059",
       "nombre": "RELOJ ASPIROMETRO CG TITAN VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99067,7 +99067,7 @@
       "sku": "741540100504",
       "nombre": "RELOJ ASPIROMETRO CGL NEW (ELECTRIC) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99089,7 +99089,7 @@
       "sku": "741540100057",
       "nombre": "RELOJ ASPIROMETRO CGL125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99111,7 +99111,7 @@
       "sku": "741540189212",
       "nombre": "RELOJ ASPIROMETRO COBRA 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99155,7 +99155,7 @@
       "sku": "741540190861",
       "nombre": "RELOJ ASPIROMETRO CRUX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99177,7 +99177,7 @@
       "sku": "741540100222",
       "nombre": "RELOJ ASPIROMETRO DAFRA SPEED 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99199,7 +99199,7 @@
       "sku": "741540190591",
       "nombre": "RELOJ ASPIROMETRO DT125K VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99221,7 +99221,7 @@
       "sku": "741540188614",
       "nombre": "RELOJ ASPIROMETRO FREEDOM FIRE VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99243,7 +99243,7 @@
       "sku": "741540188078",
       "nombre": "RELOJ ASPIROMETRO FZ16 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99265,7 +99265,7 @@
       "sku": "741540100003",
       "nombre": "RELOJ ASPIROMETRO GN125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99287,7 +99287,7 @@
       "sku": "741540100223",
       "nombre": "RELOJ ASPIROMETRO INTRUDER 125 VINI (GN)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99309,7 +99309,7 @@
       "sku": "741540100221",
       "nombre": "RELOJ ASPIROMETRO NXR 2009 IE / SMX200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99353,7 +99353,7 @@
       "sku": "741540100883",
       "nombre": "RELOJ ASPIROMETRO PULSAR 200NS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99397,7 +99397,7 @@
       "sku": "741540100704",
       "nombre": "RELOJ ASPIROMETRO SANLG-18 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99441,7 +99441,7 @@
       "sku": "741540189656",
       "nombre": "RELOJ ASPIROMETRO UNIVERSAL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99463,7 +99463,7 @@
       "sku": "741540189657",
       "nombre": "RELOJ ASPIROMETRO UNIVERSAL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99485,7 +99485,7 @@
       "sku": "741540100705",
       "nombre": "RELOJ ASPIROMETRO UNIVERSAL-016 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99507,7 +99507,7 @@
       "sku": "741540100790",
       "nombre": "RELOJ ASPIROMETRO V-MEN VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99551,7 +99551,7 @@
       "sku": "741540190589",
       "nombre": "RELOJ ASPIROMETRO XTZ125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99595,7 +99595,7 @@
       "sku": "741540188493",
       "nombre": "RELOJ ASPIROMETRO YARA 200 DIGITAL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99639,7 +99639,7 @@
       "sku": "741540100224",
       "nombre": "RELOJ ASPIROMETRO YES125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ESPEJOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99859,7 +99859,7 @@
       "sku": "741540188749",
       "nombre": "RETENEDOR 14X22X5 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "RETENEDOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99903,7 +99903,7 @@
       "sku": "741540190781",
       "nombre": "RETENEDOR BARRA 33X45X10 PULSAR200/TS185 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SELLO BARRA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99925,7 +99925,7 @@
       "sku": "741540190780",
       "nombre": "RETENEDOR BARRA 33X46X11 BWS 125/F.I/SZ R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SELLO BARRA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -99969,7 +99969,7 @@
       "sku": "741540189254",
       "nombre": "RETENEDOR BARRA YARA 200 ESPECIAL 37X50X11 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SELLO BARRA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100277,7 +100277,7 @@
       "sku": "741540189220",
       "nombre": "SET BARRA DELANTERA DEFENDER 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100299,7 +100299,7 @@
       "sku": "741540189303",
       "nombre": "SET BARRA DELANTERA DY125-2A VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100321,7 +100321,7 @@
       "sku": "741540188045",
       "nombre": "SET BARRAS COMPLETAS AX100 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100343,7 +100343,7 @@
       "sku": "741540188046",
       "nombre": "SET BARRAS COMPLETAS DEL DSR200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100365,7 +100365,7 @@
       "sku": "741540100685",
       "nombre": "SET BARRAS COMPLETAS GN125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100387,7 +100387,7 @@
       "sku": "741540188816",
       "nombre": "SET BARRAS COMPLETAS YBR125 ED VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100409,7 +100409,7 @@
       "sku": "741540188646",
       "nombre": "SET BARRAS COMPLETAS YBR125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100475,7 +100475,7 @@
       "sku": "741540190806",
       "nombre": "SET NIQUEL BARRA AK 150 TTR CON TAPON  VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100497,7 +100497,7 @@
       "sku": "741540190809",
       "nombre": "SET NIQUEL BARRA CB110/CBF125 CON TAPON VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100519,7 +100519,7 @@
       "sku": "741540100465",
       "nombre": "SET NIQUEL BARRA CG125 VINI (A)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100563,7 +100563,7 @@
       "sku": "741540190814",
       "nombre": "SET NIQUEL BARRA PULSAR180UG VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100607,7 +100607,7 @@
       "sku": "741540188082",
       "nombre": "SET NIQUEL BARRA XLR125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100629,7 +100629,7 @@
       "sku": "741540189864",
       "nombre": "SET NIQUEL BARRA XTZ150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100651,7 +100651,7 @@
       "sku": "741540100464",
       "nombre": "SET NIQUEL BARRA YBR125-ED VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "SUSPENSION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -100981,7 +100981,7 @@
       "sku": "741540187999",
       "nombre": "SILVIN COMPLETO V-MEN VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -101003,7 +101003,7 @@
       "sku": "741540189949",
       "nombre": "SILVIN CRUX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -101113,7 +101113,7 @@
       "sku": "741540190873",
       "nombre": "SILVIN FZ2.0 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -101201,7 +101201,7 @@
       "sku": "741540100083",
       "nombre": "SILVIN RF-386 (GN) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -101311,7 +101311,7 @@
       "sku": "741540100084",
       "nombre": "SILVIN RF-434 (AX100) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -101333,7 +101333,7 @@
       "sku": "741540100160",
       "nombre": "SILVIN SANLG SL150-9 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -101553,7 +101553,7 @@
       "sku": "741540189229",
       "nombre": "SILVIN Y MASCARA COMPLETO NAGA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -101619,7 +101619,7 @@
       "sku": "741540100301",
       "nombre": "SILVIN YBR125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -101861,7 +101861,7 @@
       "sku": "741540100096",
       "nombre": "SOCKET SILVIN DK  RF-473 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -101905,7 +101905,7 @@
       "sku": "741540100097",
       "nombre": "SOCKET SILVIN RF-474 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -101949,7 +101949,7 @@
       "sku": "741540100095",
       "nombre": "SOCKET SILVIN VINI RF-472",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102213,7 +102213,7 @@
       "sku": "741540188695",
       "nombre": "STOP COMPLETO APACHE 160/180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102279,7 +102279,7 @@
       "sku": "741540188382",
       "nombre": "STOP COMPLETO CAFE RACER VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102301,7 +102301,7 @@
       "sku": "741540189570",
       "nombre": "STOP COMPLETO CB110 TWISTER VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102323,7 +102323,7 @@
       "sku": "741540189950",
       "nombre": "STOP COMPLETO CRUXX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102345,7 +102345,7 @@
       "sku": "741540189288",
       "nombre": "STOP COMPLETO FIRE 125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102411,7 +102411,7 @@
       "sku": "741540100709",
       "nombre": "STOP COMPLETO GN125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102433,7 +102433,7 @@
       "sku": "741540188620",
       "nombre": "STOP COMPLETO HERO HF DAWN VINI (LIQUIDACION)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102455,7 +102455,7 @@
       "sku": "741540189228",
       "nombre": "STOP COMPLETO NAGA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102477,7 +102477,7 @@
       "sku": "741540100328",
       "nombre": "STOP COMPLETO NXR-150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102521,7 +102521,7 @@
       "sku": "741540100710",
       "nombre": "STOP COMPLETO PULSAR 180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102587,7 +102587,7 @@
       "sku": "741540100076",
       "nombre": "STOP COMPLETO RF-297 (GN125) VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102653,7 +102653,7 @@
       "sku": "741540100080",
       "nombre": "STOP COMPLETO RF-334 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102675,7 +102675,7 @@
       "sku": "741540100077",
       "nombre": "STOP COMPLETO SANLG SL150-9 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102719,7 +102719,7 @@
       "sku": "741540187977",
       "nombre": "STOP COMPLETO STORM VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102763,7 +102763,7 @@
       "sku": "741540188000",
       "nombre": "STOP COMPLETO V-MEN VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102807,7 +102807,7 @@
       "sku": "741540189259",
       "nombre": "STOP COMPLETO YARA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102829,7 +102829,7 @@
       "sku": "741540187942",
       "nombre": "STOP COMPLETO YBR 125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -102851,7 +102851,7 @@
       "sku": "741540188120",
       "nombre": "STOP MOTO CARGO  RF-353 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -103049,7 +103049,7 @@
       "sku": "741540189395",
       "nombre": "SWITCH GS125 RH VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -103071,7 +103071,7 @@
       "sku": "741540189043",
       "nombre": "SWITCH IGNICION AK125 FLEX VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -103093,7 +103093,7 @@
       "sku": "741540188128",
       "nombre": "SWITCH IGNICION APACHE 180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -103137,7 +103137,7 @@
       "sku": "741540100257",
       "nombre": "SWITCH IGNICION AX100 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -103203,7 +103203,7 @@
       "sku": "741540190722",
       "nombre": "SWITCH IGNICION CB HORNET160R VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -103225,7 +103225,7 @@
       "sku": "741540189592",
       "nombre": "SWITCH IGNICION CRUXX110 REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -103577,7 +103577,7 @@
       "sku": "741540100788",
       "nombre": "SWITCH LH YBR 125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -103687,7 +103687,7 @@
       "sku": "741540190756",
       "nombre": "SWITCH RH AGILITY125RS VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -103753,7 +103753,7 @@
       "sku": "741540190754",
       "nombre": "SWITCH RH BWS125 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104215,7 +104215,7 @@
       "sku": "741540100758",
       "nombre": "SWITCH UNIVERSAL SET RH-LH VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104237,7 +104237,7 @@
       "sku": "741540190753",
       "nombre": "SWITCH VINI RH XTZ125 NEW VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ELECTRICOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104259,7 +104259,7 @@
       "sku": "741540100572",
       "nombre": "TANQUE GAS CGL125 AZUL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104281,7 +104281,7 @@
       "sku": "741540100574",
       "nombre": "TANQUE GAS CGL125 NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104303,7 +104303,7 @@
       "sku": "741540100573",
       "nombre": "TANQUE GAS CGL125 ROJO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104347,7 +104347,7 @@
       "sku": "741540100581",
       "nombre": "TANQUE GAS GN125H NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104369,7 +104369,7 @@
       "sku": "741540100580",
       "nombre": "TANQUE GAS GN125H ROJO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104391,7 +104391,7 @@
       "sku": "741540189239",
       "nombre": "TANQUE GAS NAGA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104413,7 +104413,7 @@
       "sku": "741540188002",
       "nombre": "TANQUE GAS PULSAR 135 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104435,7 +104435,7 @@
       "sku": "741540188070",
       "nombre": "TANQUE GAS SANLG-9 AZUL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104457,7 +104457,7 @@
       "sku": "741540188056",
       "nombre": "TANQUE GAS SANLG-9 NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104479,7 +104479,7 @@
       "sku": "741540188071",
       "nombre": "TANQUE GAS SANLG-9 ROJO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104501,7 +104501,7 @@
       "sku": "741540187997",
       "nombre": "TANQUE GAS V-MEN VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104523,7 +104523,7 @@
       "sku": "741540189258",
       "nombre": "TANQUE GAS YARA 200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104655,7 +104655,7 @@
       "sku": "741540100614",
       "nombre": "TAPA LATERAL  NEGRO APACHE 160/180  C/FIBRA VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104677,7 +104677,7 @@
       "sku": "741540100090",
       "nombre": "TAPA LATERAL JGO AZUL SL150-9 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104699,7 +104699,7 @@
       "sku": "741540100089",
       "nombre": "TAPA LATERAL JGO NEGRO SL150-9 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104721,7 +104721,7 @@
       "sku": "741540100091",
       "nombre": "TAPA LATERAL JGO ROJO SL150-9 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104831,7 +104831,7 @@
       "sku": "741540189951",
       "nombre": "TAPA LATERAL SET CRUX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -104985,7 +104985,7 @@
       "sku": "741540100667",
       "nombre": "TAPA LATERAL SET GN125 AZUL VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -105007,7 +105007,7 @@
       "sku": "741540100756",
       "nombre": "TAPA LATERAL SET GN125 NEGRO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -105029,7 +105029,7 @@
       "sku": "741540100666",
       "nombre": "TAPA LATERAL SET GN125 ROJO VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -105799,7 +105799,7 @@
       "sku": "741540190358",
       "nombre": "TAPADERA DE CARTER GN125/DR200 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -105997,7 +105997,7 @@
       "sku": "741540189316",
       "nombre": "TAPON ACEITE PULSAR 135LS VINI",
       "marca": "VINI",
-      "categoria": "ACEITES",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -106261,7 +106261,7 @@
       "sku": "741540190852",
       "nombre": "TENSOR AUTOMATICO XT225 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -106283,7 +106283,7 @@
       "sku": "741540190415",
       "nombre": "TENSOR AUTOMATICO XTZ250/FZ250/YBR250 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -106371,7 +106371,7 @@
       "sku": "741540188780",
       "nombre": "TIMON ALUMINIO STICKER AZUL VINI",
       "marca": "VINI",
-      "categoria": "ACCESORIOS",
+      "categoria": "DIRECCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -106415,7 +106415,7 @@
       "sku": "741540188779",
       "nombre": "TIMON ALUMINIO STICKER NEGRO VINI",
       "marca": "VINI",
-      "categoria": "ACCESORIOS",
+      "categoria": "DIRECCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -106437,7 +106437,7 @@
       "sku": "741540188778",
       "nombre": "TIMON ALUMINIO STICKER RED VINI",
       "marca": "VINI",
-      "categoria": "ACCESORIOS",
+      "categoria": "DIRECCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -106459,7 +106459,7 @@
       "sku": "741540189959",
       "nombre": "TIMON CRUXX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ACCESORIOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -106481,7 +106481,7 @@
       "sku": "741540100780",
       "nombre": "TIMON PULSAR 180 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "ACCESORIOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -106613,7 +106613,7 @@
       "sku": "741540188777",
       "nombre": "TIMON UNIVERSAL SILVER VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "DIRECCION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -106833,7 +106833,7 @@
       "sku": "741540188681",
       "nombre": "TOLVAS DE PECHERA APACHE 180 ROJO VINI (A)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CARROCERIA",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -106899,7 +106899,7 @@
       "sku": "741540190362",
       "nombre": "TORQUE AX100 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -106921,7 +106921,7 @@
       "sku": "741540189833",
       "nombre": "TORQUE HOT PARTS YAMAHA DT 18G/18L VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "MOTOR",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107163,7 +107163,7 @@
       "sku": "741540188517",
       "nombre": "TUBO 130/90X15 VINI NEW BUTYL",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107317,7 +107317,7 @@
       "sku": "741540188392",
       "nombre": "TUBO 2.75X17 VINI NEW BUTYL",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107339,7 +107339,7 @@
       "sku": "741540188394",
       "nombre": "TUBO 2.75X18 VINI NEW BUTYL",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107361,7 +107361,7 @@
       "sku": "741540188387",
       "nombre": "TUBO 2.75X19 VINI NEW BUTYL (A)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107383,7 +107383,7 @@
       "sku": "741540188388",
       "nombre": "TUBO 2.75X21 VINI NEW BUTYL (A)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107515,7 +107515,7 @@
       "sku": "741540188389",
       "nombre": "TUBO 3.00X18 VINI NEW BUTYL (A)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107581,7 +107581,7 @@
       "sku": "741540188515",
       "nombre": "TUBO 3.50X16 VINI NEW BUTYL",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107647,7 +107647,7 @@
       "sku": "741540188393",
       "nombre": "TUBO 4.00X8 VINI NEW BUTYL",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107669,7 +107669,7 @@
       "sku": "741540188391",
       "nombre": "TUBO 4.10X18 VINI NEW BUTYL (A)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107691,7 +107691,7 @@
       "sku": "741540188516",
       "nombre": "TUBO 4.60X17 VINI NEW BUTYL (A)",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107823,7 +107823,7 @@
       "sku": "741540100112",
       "nombre": "VALVULA GAS AX100 VINI",
       "marca": "VINI",
-      "categoria": "MOTOR",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107867,7 +107867,7 @@
       "sku": "741540190593",
       "nombre": "VALVULA GAS DT125K/V80 VINI",
       "marca": "VINI",
-      "categoria": "MOTOR",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107889,7 +107889,7 @@
       "sku": "741540188355",
       "nombre": "VALVULA GAS GN/SL150-9 VINI",
       "marca": "VINI",
-      "categoria": "MOTOR",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107911,7 +107911,7 @@
       "sku": "741540188356",
       "nombre": "VALVULA GAS GY6 VINI",
       "marca": "VINI",
-      "categoria": "MOTOR",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107933,7 +107933,7 @@
       "sku": "741540100115",
       "nombre": "VALVULA GAS YBR125 VINI",
       "marca": "VINI",
-      "categoria": "MOTOR",
+      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -107999,7 +107999,7 @@
       "sku": "741540189873",
       "nombre": "VARILLA DE FRENO CRUX110REV VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -108021,7 +108021,7 @@
       "sku": "741540188815",
       "nombre": "VARILLA FRENO AX100 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -108043,7 +108043,7 @@
       "sku": "741540189269",
       "nombre": "VARILLA FRENO FORZA 150 VINI",
       "marca": "VINI",
-      "categoria": "REPUESTOS",
+      "categoria": "CATARINAS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
