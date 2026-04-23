@@ -2,7 +2,7 @@
   "1001283": {
     "equivalencias": [
       {
-        "sku": "741540111510"
+        "sku": "7.4154E+11"
       }
     ]
   },
@@ -21,7 +21,7 @@
   "1003574": {
     "equivalencias": [
       {
-        "sku": "741540188247"
+        "sku": "7.4154E+11"
       }
     ]
   },
@@ -34,21 +34,21 @@
   "1004512": {
     "equivalencias": [
       {
-        "sku": "741540111510"
+        "sku": "7.4154E+11"
       }
     ]
   },
   "1005584": {
     "equivalencias": [
       {
-        "sku": "741540188247"
+        "sku": "7.4154E+11"
       }
     ]
   },
   "1005997": {
     "equivalencias": [
       {
-        "sku": "741540189054"
+        "sku": "7.4154E+11"
       }
     ]
   },
@@ -71,9 +71,9 @@
     }
   },
   "_formato": {
-    "generado_en": "2026-04-23T20:42:22.841Z",
+    "generado_en": "2026-04-23T20:46:05.551Z",
     "origen": "sync/enriquecidos.xlsx (vía sync/build-enriquecidos.js)",
-    "cantidad_productos": 67,
+    "cantidad_productos": 65,
     "advertencia": "NO editar a mano. Se regenera desde el Excel. Para cambios, editá sync/enriquecidos.xlsx y corré build-enriquecidos.js."
   },
   "741540189145": {
@@ -116,7 +116,7 @@
       }
     ]
   },
-  "741540189054": {
+  "7.4154E+11": {
     "compatibilidades": [
       {
         "marca": "HONDA",
@@ -128,25 +128,13 @@
     ],
     "equivalencias": [
       {
-        "sku": "1005997",
-        "nota": "Misma pieza, proveedor distinto"
-      }
-    ]
-  },
-  "741540188247": {
-    "equivalencias": [
-      {
         "sku": "1005584",
         "nota": "Misma pieza, proveedor distinto"
       },
       {
         "sku": "1003574",
         "nota": "Misma pieza, proveedor distinto"
-      }
-    ]
-  },
-  "741540111510": {
-    "equivalencias": [
+      },
       {
         "sku": "1004512",
         "nota": "Misma pieza, proveedor distinto"
@@ -154,6 +142,10 @@
       {
         "sku": "1001283",
         "nota": "73 dientes, pero de 4 pernos 5 discos"
+      },
+      {
+        "sku": "1005997",
+        "nota": "Misma pieza, proveedor distinto"
       }
     ]
   },

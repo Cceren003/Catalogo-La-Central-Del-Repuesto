@@ -1086,3 +1086,16 @@
   .producto-main { padding: 12px 12px 40px 12px; }
   .producto-card .detail-img { min-height: 260px; }
 }
+
+/* Descripción extendida (override del Excel — solo aparece si existe) */
+.detail-descripcion {
+  margin: 14px 0 8px 0;
+  padding: 12px 14px;
+  background: var(--lcr-gray);
+  border-left: 3px solid var(--lcr-red);
+  border-radius: var(--radius-sm);
+  color: var(--lcr-white);
+  font-size: 14px;
+  line-height: 1.55;
+  white-space: pre-wrap;
+}

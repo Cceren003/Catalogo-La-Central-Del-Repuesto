@@ -93,7 +93,7 @@ function main() {
   console.log(`→ Hojas encontradas: ${wb.SheetNames.join(', ')}`);
 
   const out = {};
-  const slot = sku => (out[sku] ??= { compatibilidades: [], equivalencias: [], relacionados: [], especificaciones: {} });
+  const slot = sku => (out[sku] ??= { compatibilidades: [], equivalencias: [], relacionados: [], especificaciones: {}, overrides: {} });
 
   // ─── Compatibilidades ──────────────────────────────────────────
   const compatRows = readSheet(wb, 'Compatibilidades');
@@ -184,6 +184,24 @@ function main() {
     specCount++;
   }
 
+  // ─── Overrides (nombre y descripción) ──────────────────────────
+  // UNA fila por SKU. Sobrescribe nombre del producto (si está) y/o agrega
+  // descripción extendida (visible en la ficha).
+  const ovRows = readSheet(wb, 'Overrides');
+  let ovCount = 0, ovSkipped = 0;
+  for (const r of ovRows) {
+    if (isComment(r)) continue;
+    const sku    = norm(col(r, ['SKU', 'sku']));
+    const nombre = norm(col(r, ['Nombre', 'nombre']));
+    const desc   = norm(col(r, ['Descripcion', 'Descripción', 'descripcion', 'Desc']));
+    if (!sku) { ovSkipped++; continue; }
+    if (!nombre && !desc) { ovSkipped++; continue; }
+    const o = slot(sku).overrides;
+    if (nombre) o.nombre = nombre;
+    if (desc)   o.descripcion = desc;
+    ovCount++;
+  }
+
   // ─── Limpieza: quita arrays/objetos vacíos del output ──────────
   const clean = {};
   for (const [sku, data] of Object.entries(out)) {
@@ -192,6 +210,7 @@ function main() {
     if (data.equivalencias.length)                  c.equivalencias     = data.equivalencias;
     if (data.relacionados.length)                   c.relacionados      = data.relacionados;
     if (Object.keys(data.especificaciones).length)  c.especificaciones  = data.especificaciones;
+    if (Object.keys(data.overrides).length)         c.overrides         = data.overrides;
     if (Object.keys(c).length > 0) clean[sku] = c;
   }
 
@@ -214,6 +233,32 @@ function main() {
   console.log(`  · ${equivForward} equivalencias + ${equivInverse} inversas auto-generadas (omitidas: ${equivSkipped})`);
   console.log(`  · ${relCount} relacionados     (omitidas: ${relSkipped})`);
   console.log(`  · ${specCount} especificaciones técnicas (omitidas: ${specSkipped})`);
+  console.log(`  · ${ovCount} overrides nombre/descripción (omitidas: ${ovSkipped})`);
+
+  // ─── Aplicar overrides a catalogo.json ─────────────────────────
+  // Si hay overrides de nombre/descripción, los parcheamos directamente en
+  // catalogo.json para que el JSON quede consistente con el Excel (el frontend,
+  // Edge Function, SEO y sitemap ven siempre lo mismo).
+  const CATALOG_PATH_OV = path.join(__dirname, '..', 'catalogo.json');
+  if (fs.existsSync(CATALOG_PATH_OV)) {
+    try {
+      const cat = JSON.parse(fs.readFileSync(CATALOG_PATH_OV, 'utf8'));
+      let patched = 0;
+      for (const p of cat.productos || []) {
+        const ext = clean[p.sku];
+        if (!ext || !ext.overrides) continue;
+        const o = ext.overrides;
+        if (o.nombre && p.nombre !== o.nombre)        { p.nombre = o.nombre; patched++; }
+        if (o.descripcion && p.descripcion !== o.descripcion) { p.descripcion = o.descripcion; patched++; }
+      }
+      if (patched > 0) {
+        fs.writeFileSync(CATALOG_PATH_OV, JSON.stringify(cat, null, 2), 'utf8');
+        console.log(`  ✓ catalogo.json parcheado con ${patched} override(s)`);
+      }
+    } catch (e) {
+      console.warn('  ⚠ No se pudo parchear catalogo.json:', e.message);
+    }
+  }
 
   // ─── Validación vs catalogo.json (si existe) ───────────────────
   // Detecta SKUs escritos en el Excel que ya no están en el catálogo actual

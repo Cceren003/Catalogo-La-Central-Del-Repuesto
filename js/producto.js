@@ -277,6 +277,7 @@ function renderProduct(p) {
           ${p.categoria ? `<span class="detail-tag">${esc(p.categoria)}</span>` : ''}
           ${dispoTag}
         </div>
+        ${p.descripcion ? `<p class="detail-descripcion">${esc(p.descripcion)}</p>` : ''}
         ${aPedidoNotice}
         ${pricesBlock}
         ${pedidoActions}

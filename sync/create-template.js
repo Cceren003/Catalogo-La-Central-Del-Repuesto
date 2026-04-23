@@ -1,12 +1,13 @@
 #!/usr/bin/env node
 // sync/create-template.js
-// Genera la plantilla Excel (sync/enriquecidos-template.xlsx) con 5 hojas:
+// Genera la plantilla Excel (sync/enriquecidos-template.xlsx) con 6 hojas:
 //   - Instrucciones (cómo llenar el archivo)
 //   - Compatibilidades (SKU | Marca | Modelo | Años)
-//   - Equivalencias   (SKU | SKU_Equivalente)
-//   - Relacionados    (SKU | SKU_Relacionado)
+//   - Equivalencias   (SKU | SKU_Equivalente | Nota)
+//   - Relacionados    (SKU | SKU_Relacionado | Nota)
 //   - Especificaciones (SKU | DIENTES | DIAMETRO_CENTRO | PERNOS_CANTIDAD |
 //                       DIAMETRO_PERNO | DIAMETRO_PERNO_A_PERNO | TIPO_DE_PASO)
+//   - Overrides       (SKU | Nombre | Descripcion) — reescribe nombre y agrega descripción
 //
 // Correr:  node sync/create-template.js
 //          npm run template-enriquecidos (desde sync/)
@@ -69,6 +70,16 @@ const wsInstr = aoa([
   ['    - Si todas las columnas están vacías, la sección no aparece en la ficha.'],
   ['    - Pensado para catarinas, discos, prensas, rodamientos, etc.'],
   [],
+  ['  Overrides:'],
+  ['    - UNA fila por SKU para sobrescribir el nombre y/o agregar descripción.'],
+  ['    - Úsala cuando el nombre del proveedor esté raro, cortado, o quieras'],
+  ['      mejorar la redacción. Gana sobre lo que viene del PDF/Excel/LCR.'],
+  ['    - Columnas:'],
+  ['      · SKU:          código del producto (debe existir en el catálogo).'],
+  ['      · Nombre:       nombre nuevo. Dejá vacío para NO cambiar el nombre.'],
+  ['      · Descripcion:  texto largo visible en la ficha. Opcional.'],
+  ['    - El nombre nuevo también se usa en búsqueda y compartir por WhatsApp.'],
+  [],
   ['¿DÓNDE GUARDAR?'],
   ['  - Plantilla (este archivo):  sync/enriquecidos-template.xlsx   (va al repo)'],
   ['  - Tu copia editada:          sync/enriquecidos.xlsx            (NO va al repo)'],
@@ -128,6 +139,23 @@ const wsSpecs = aoa([
 ]);
 setWidths(wsSpecs, [28, 10, 16, 16, 16, 22, 14]);
 XLSX.utils.book_append_sheet(wb, wsSpecs, 'Especificaciones');
+
+// ─── Hoja 5: Overrides ──────────────────────────────────────────────────
+// UNA fila por SKU. Reemplaza el nombre que trae del sync y/o agrega descripción.
+// Útil para corregir nombres mal codificados del PDF (ñ, ü), mejorar redacción,
+// o agregar texto descriptivo extenso visible en la ficha.
+const wsOv = aoa([
+  ['SKU', 'Nombre', 'Descripcion'],
+  ['1002389', 'Cigüeñal GY6 150cc Scooter', 'Cigüeñal balanceado, compatible con scooters GY6 150cc. Incluye biela y rodamientos.'],
+  ['', '', ''],
+  ['// EJEMPLOS (borrá los // y poné tu SKU real)', '', ''],
+  ['// MI-SKU-123', 'Nombre nuevo más claro', ''],
+  ['// MI-SKU-456', '', 'Descripción extendida que aparece en la ficha del producto.'],
+  ['// Si solo querés cambiar el NOMBRE, dejá Descripcion vacía.', '', ''],
+  ['// Si solo querés agregar DESCRIPCIÓN sin cambiar el nombre, dejá Nombre vacío.', '', ''],
+]);
+setWidths(wsOv, [18, 50, 80]);
+XLSX.utils.book_append_sheet(wb, wsOv, 'Overrides');
 
 XLSX.writeFile(wb, OUT);
 console.log(`✓ Generado ${OUT}`);

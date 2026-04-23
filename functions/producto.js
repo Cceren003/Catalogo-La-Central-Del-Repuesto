@@ -50,13 +50,19 @@ function buildOgTags(p, origin) {
   const title = `${p.nombre} — La Central del Repuesto`;
   const precio = fmtPrice(p.precios?.publico);
   const isPedido = dispoOf(p) === 'a_pedido';
-  const descBits = [
-    p.nombre,
-    p.marca ? `Marca: ${p.marca}` : null,
-    p.categoria ? `Categoría: ${p.categoria}` : null,
-    isPedido ? 'Disponible a pedido' : (precio ? `Precio: ${precio}` : 'Consultar precio'),
-  ].filter(Boolean);
-  const description = descBits.join(' · ');
+  // Si el producto tiene descripción custom (override del Excel), la usamos en
+  // el preview. Si no, armamos fallback con nombre/marca/categoría/precio.
+  let description;
+  if (p.descripcion) {
+    description = p.descripcion;
+  } else {
+    description = [
+      p.nombre,
+      p.marca ? `Marca: ${p.marca}` : null,
+      p.categoria ? `Categoría: ${p.categoria}` : null,
+      isPedido ? 'Disponible a pedido' : (precio ? `Precio: ${precio}` : 'Consultar precio'),
+    ].filter(Boolean).join(' · ');
+  }
   const imagePath = p.imagen
     ? `${origin}/${p.imagen}?v=${p.imagen_size || 0}`
     : `${origin}/assets/logo-dark.png`;
