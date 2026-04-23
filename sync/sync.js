@@ -127,9 +127,10 @@ function parseMoney(v) {
 // Se aplica a TODOS los nombres de producto (LCR, VINI, NRP, MEK, AXUS).
 // Solo palabras donde la grafía mal escrita NUNCA es correcta en español.
 const FIX_ENCODING = [
-  // CIGUENAL → CIGÜEÑAL, CIGUENA → CIGÜEÑA (con o sin "L" final)
-  [/\bCIGUEN(AL|A)\b/gi, (m, suf) => 'CIGÜEÑ' + suf.toUpperCase()],
-  [/\bCIGUEÑ(AL|A)\b/gi, (m, suf) => 'CIGÜEÑ' + suf.toUpperCase()],
+  // CIGUENAL → CIGUEÑAL (solo ñ, sin diéresis — difícil de escribir en teclado)
+  // Normaliza tanto CIGUENAL (plano del PDF) como CIGÜEÑAL (con ü) a CIGUEÑAL
+  [/\bCIGUEN(AL|A)\b/gi, (m, suf) => 'CIGUEÑ' + suf.toUpperCase()],
+  [/\bCIGÜEÑ(AL|A)\b/gi, (m, suf) => 'CIGUEÑ' + suf.toUpperCase()],
   // PINON/PINONES → PIÑÓN/PIÑONES
   [/\bPINONES\b/gi, 'PIÑONES'],
   [/\bPINON\b/gi, 'PIÑÓN'],
