@@ -26,3 +26,7 @@ sync/*.log
 
 # Estado local de Claude Code (privado a cada dev)
 .claude/settings.local.json
+
+# Cache de wrangler (Cloudflare CLI) — local
+.wrangler/
+

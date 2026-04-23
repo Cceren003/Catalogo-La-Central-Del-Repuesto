@@ -1,0 +1,14 @@
+# Cloudflare Pages: archivos a excluir del deployment
+.claude/
+.git/
+.github/
+.gitignore
+node_modules/
+sync/
+catalogos-proveedores/
+*.zone
+dns-records.zone
+README.md
+CLAUDE.md
+*.log
+.DS_Store
