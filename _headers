@@ -1,0 +1,28 @@
+# Cloudflare Pages: headers custom
+# Más info: https://developers.cloudflare.com/pages/configuration/headers/
+
+# Imágenes: cache 1 año (el cache-busting por ?v=<size> invalida al cambiar)
+/imagenes/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Assets: cache 1 año (mismo principio con version bumping)
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# JSON del catálogo: cache corto para que se actualice rápido
+/catalogo.json
+  Cache-Control: public, max-age=300, must-revalidate
+
+/data/enriquecidos.json
+  Cache-Control: public, max-age=300, must-revalidate
+
+# JS y CSS: cache alto (ya tienen version bumping manual con ?v=)
+/js/*
+  Cache-Control: public, max-age=3600
+
+/css/*
+  Cache-Control: public, max-age=3600
+
+# HTML: cache corto para que producto.html tenga meta OG frescos
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
