@@ -9,7 +9,7 @@ const EMPRESA = {
   direccion: 'Block D, Lotif. Montemaría Lote 5, Sacacoyo, La Libertad',
   telVentas: '7030-1941',
   telTaller: '6868-0177',
-  web: 'cceren003.github.io/Catalogo-La-Central-Del-Repuesto',
+  web: 'lacentraldelrepuesto.com',
 };
 
 function $(sel) { return document.querySelector(sel); }
