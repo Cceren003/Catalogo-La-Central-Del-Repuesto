@@ -1,0 +1,2479 @@
+{
+  "solido": [
+    {
+      "seccion": "NEW PRODUCTS / PRODUCTO NUEVO LLAVE L",
+      "pgStart": 18,
+      "pgEnd": 18,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CUBO OCTAGONAL",
+      "pgStart": 18,
+      "pgEnd": 18,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CUBO TALADRO DE IMPACTOS",
+      "pgStart": 18,
+      "pgEnd": 18,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "KIT DE LLAVES ALLEN - 9 PIEZAS DESTORNILLADOR DE IMPACTO",
+      "pgStart": 18,
+      "pgEnd": 18,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "DESTORNILLADOR PARA IMPACTO GANCHO VOLANTA",
+      "pgStart": 19,
+      "pgEnd": 19,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 8,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "LLAVE DE AJUSTE DE RADIOS",
+      "pgStart": 19,
+      "pgEnd": 19,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 8,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "ALICATE",
+      "pgStart": 20,
+      "pgEnd": 20,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 8,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "PINZA DE CORTE LLAVE DE TUBO",
+      "pgStart": 20,
+      "pgEnd": 20,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 8,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "LLAVE INGLESA",
+      "pgStart": 20,
+      "pgEnd": 21,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 15,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "LLAVE BUJIA ACEITERA DE PRESION",
+      "pgStart": 21,
+      "pgEnd": 21,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "ANTENA TELESCOPICA",
+      "pgStart": 21,
+      "pgEnd": 21,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "LINGA DE SUJECION",
+      "pgStart": 22,
+      "pgEnd": 22,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 8,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "EXTACTOR DE CADENA",
+      "pgStart": 22,
+      "pgEnd": 22,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 8,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "EXTRACTOR VOLANTA",
+      "pgStart": 22,
+      "pgEnd": 23,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 14,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "LLAVE 4 PUNTAS",
+      "pgStart": 23,
+      "pgEnd": 23,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 6,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "EXTRACTOR/MONTADOR VALVULAS",
+      "pgStart": 23,
+      "pgEnd": 23,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 6,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "PALANCA EXTRACTOR LLANTA KIT DE LLAVES ALLEN - 8 PIEZAS LLAVE ALLEN BROCA DE IMPACTO LLAVE T",
+      "pgStart": 24,
+      "pgEnd": 25,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 16,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "EXTENSION CUBO DE IMPACTO",
+      "pgStart": 25,
+      "pgEnd": 26,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 15,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "EXTRACTOR PIÑON CIGÜEÑAL",
+      "pgStart": 26,
+      "pgEnd": 26,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "DESTORNILLADOR PLANO LLAVE INGLESA",
+      "pgStart": 26,
+      "pgEnd": 26,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "7~16 KIT DE LLAVES",
+      "pgStart": 27,
+      "pgEnd": 27,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "DESTORNILLADOR PLANO",
+      "pgStart": 27,
+      "pgEnd": 27,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "LLAVE TAPON DE VALVULA",
+      "pgStart": 27,
+      "pgEnd": 27,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "LIFTING FRAME",
+      "pgStart": 27,
+      "pgEnd": 27,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "18 CALIBRADOR DE VALVULA",
+      "pgStart": 27,
+      "pgEnd": 27,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CALIPER DIGITAL",
+      "pgStart": 27,
+      "pgEnd": 27,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "19 EXTRACTOR CAJA BOLA",
+      "pgStart": 27,
+      "pgEnd": 27,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "EXTRACTOR DE RESORTE DE VÁLVULA",
+      "pgStart": 27,
+      "pgEnd": 27,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "HERRAMIENTA BROCA DESBASTE",
+      "pgStart": 28,
+      "pgEnd": 29,
+      "skus_en_seccion": 13,
+      "skus_en_lcr": 13,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "HERRAMIENTA KIT BROCA DESBASTE",
+      "pgStart": 29,
+      "pgEnd": 29,
+      "skus_en_seccion": 5,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "20 HERRAMIENTA EXTRACTOR DE BUJES",
+      "pgStart": 29,
+      "pgEnd": 29,
+      "skus_en_seccion": 5,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "HERRAMIENTAS EXTRACTOR DE CUNAS DE DIRECCIÓN",
+      "pgStart": 29,
+      "pgEnd": 29,
+      "skus_en_seccion": 5,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "HERRAMIENTA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "KIT PISTON",
+      "pgStart": 36,
+      "pgEnd": 42,
+      "skus_en_seccion": 99,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CILINDRO COMPLETO",
+      "pgStart": 43,
+      "pgEnd": 53,
+      "skus_en_seccion": 87,
+      "skus_en_lcr": 42,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CILINDRO COMPLETO MODIFICADO",
+      "pgStart": 53,
+      "pgEnd": 55,
+      "skus_en_seccion": 21,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "ARBOL DE LEVAS",
+      "pgStart": 56,
+      "pgEnd": 60,
+      "skus_en_seccion": 38,
+      "skus_en_lcr": 17,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "24 KIT DE BALANCIN COMPLETO",
+      "pgStart": 63,
+      "pgEnd": 63,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "24 KIT DE BALANCIN",
+      "pgStart": 63,
+      "pgEnd": 67,
+      "skus_en_seccion": 39,
+      "skus_en_lcr": 25,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "24 BALANCIN MODIFICADO",
+      "pgStart": 67,
+      "pgEnd": 67,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CIGUEÑAL",
+      "pgStart": 71,
+      "pgEnd": 74,
+      "skus_en_seccion": 30,
+      "skus_en_lcr": 14,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "25 CAJA DE TRANSMISIÓN",
+      "pgStart": 74,
+      "pgEnd": 77,
+      "skus_en_seccion": 27,
+      "skus_en_lcr": 13,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CLUTCH DE UNA VIA",
+      "pgStart": 78,
+      "pgEnd": 80,
+      "skus_en_seccion": 24,
+      "skus_en_lcr": 12,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.50",
+      "alternativas": [
+        "EMBRAGUE(6)"
+      ]
+    },
+    {
+      "seccion": "DISCO ARRANQUE COMPLETO",
+      "pgStart": 82,
+      "pgEnd": 82,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "BOMBA DE ACEITE",
+      "pgStart": 82,
+      "pgEnd": 84,
+      "skus_en_seccion": 22,
+      "skus_en_lcr": 17,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "VÁLVULAS DE MOTOR",
+      "pgStart": 85,
+      "pgEnd": 90,
+      "skus_en_seccion": 47,
+      "skus_en_lcr": 33,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "KIT VALVULAS MODIFICADO",
+      "pgStart": 90,
+      "pgEnd": 90,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CENTRO CLUTCH COMPLETO",
+      "pgStart": 92,
+      "pgEnd": 95,
+      "skus_en_seccion": 32,
+      "skus_en_lcr": 14,
+      "categoria_lcr_top": "EMBRAGUE",
+      "confianza": "0.79",
+      "alternativas": [
+        "MOTOR(3)"
+      ]
+    },
+    {
+      "seccion": "EMBRAGUE COMPLETO",
+      "pgStart": 95,
+      "pgEnd": 96,
+      "skus_en_seccion": 15,
+      "skus_en_lcr": 8,
+      "categoria_lcr_top": "EMBRAGUE",
+      "confianza": "0.88",
+      "alternativas": [
+        "MOTOR(1)"
+      ]
+    },
+    {
+      "seccion": "CENTRO CLUTCH Y PLATO",
+      "pgStart": 96,
+      "pgEnd": 96,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "EMBRAGUE",
+      "confianza": "0.80",
+      "alternativas": [
+        "MOTOR(1)"
+      ]
+    },
+    {
+      "seccion": "CAMPANA CLUTCH",
+      "pgStart": 96,
+      "pgEnd": 96,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "EMBRAGUE",
+      "confianza": "0.80",
+      "alternativas": [
+        "MOTOR(1)"
+      ]
+    },
+    {
+      "seccion": "SET DISCO DE CLUTCH",
+      "pgStart": 96,
+      "pgEnd": 100,
+      "skus_en_seccion": 39,
+      "skus_en_lcr": 25,
+      "categoria_lcr_top": "EMBRAGUE",
+      "confianza": "0.76",
+      "alternativas": [
+        "MOTOR(6)"
+      ]
+    },
+    {
+      "seccion": "SEPARADORES DE DISCOS DE CLUTCH",
+      "pgStart": 101,
+      "pgEnd": 101,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "EMBRAGUE",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "DISCOS DE CLUTCH CON SEPARADORES MODIFICADO",
+      "pgStart": 101,
+      "pgEnd": 101,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "EMBRAGUE",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "GUÍA DE CADENA DE TIEMPO",
+      "pgStart": 102,
+      "pgEnd": 104,
+      "skus_en_seccion": 24,
+      "skus_en_lcr": 17,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.94",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "TENSOR AUTOMATICO DE CADENILLA 104~106 CADENA DE MOTOR",
+      "pgStart": 106,
+      "pgEnd": 110,
+      "skus_en_seccion": 40,
+      "skus_en_lcr": 32,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.94",
+      "alternativas": [
+        "REPUESTOS(2)"
+      ]
+    },
+    {
+      "seccion": "BALINERA DE ENGINE",
+      "pgStart": 112,
+      "pgEnd": 113,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 12,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.58",
+      "alternativas": [
+        "BALEROS(5)"
+      ]
+    },
+    {
+      "seccion": "BALINERA DE CIGÜEÑAL",
+      "pgStart": 113,
+      "pgEnd": 114,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 12,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "BALINERA DE NEEDLE",
+      "pgStart": 114,
+      "pgEnd": 115,
+      "skus_en_seccion": 13,
+      "skus_en_lcr": 9,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CARBURADOR",
+      "pgStart": 117,
+      "pgEnd": 121,
+      "skus_en_seccion": 39,
+      "skus_en_lcr": 16,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "MANIFUL",
+      "pgStart": 122,
+      "pgEnd": 124,
+      "skus_en_seccion": 24,
+      "skus_en_lcr": 15,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.73",
+      "alternativas": [
+        "FILTROS(4)"
+      ]
+    },
+    {
+      "seccion": "FILTRO DE ACEITE",
+      "pgStart": 124,
+      "pgEnd": 125,
+      "skus_en_seccion": 14,
+      "skus_en_lcr": 10,
+      "categoria_lcr_top": "FILTROS",
+      "confianza": "0.90",
+      "alternativas": [
+        "MOTOR(1)"
+      ]
+    },
+    {
+      "seccion": "KIT MEDIO",
+      "pgStart": 126,
+      "pgEnd": 127,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 11,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "KIT EMPAQUE COMPLETO",
+      "pgStart": 127,
+      "pgEnd": 130,
+      "skus_en_seccion": 31,
+      "skus_en_lcr": 23,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "KIT DE EMPAQUE",
+      "pgStart": 130,
+      "pgEnd": 130,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "EMPAQUE CULATA",
+      "pgStart": 130,
+      "pgEnd": 131,
+      "skus_en_seccion": 11,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "EMPAQUE DE PUNTERIA",
+      "pgStart": 131,
+      "pgEnd": 132,
+      "skus_en_seccion": 10,
+      "skus_en_lcr": 8,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "SET SELLO DE VALVULA",
+      "pgStart": 132,
+      "pgEnd": 133,
+      "skus_en_seccion": 13,
+      "skus_en_lcr": 13,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "SET CUÑA DE VALVULA",
+      "pgStart": 133,
+      "pgEnd": 133,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CULATA",
+      "pgStart": 134,
+      "pgEnd": 134,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.50",
+      "alternativas": [
+        "BUJIAS(1)"
+      ]
+    },
+    {
+      "seccion": "CULATA COMPLETA",
+      "pgStart": 134,
+      "pgEnd": 134,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.50",
+      "alternativas": [
+        "BUJIAS(1)"
+      ]
+    },
+    {
+      "seccion": "BUJIA",
+      "pgStart": 134,
+      "pgEnd": 135,
+      "skus_en_seccion": 15,
+      "skus_en_lcr": 6,
+      "categoria_lcr_top": "MISELANEA",
+      "confianza": "0.50",
+      "alternativas": [
+        "MOTOR(2)",
+        "BUJIAS(1)"
+      ]
+    },
+    {
+      "seccion": "BUJIA IRIDIUM",
+      "pgStart": 135,
+      "pgEnd": 135,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "MISELANEA",
+      "confianza": "0.75",
+      "alternativas": [
+        "MOTOR(1)"
+      ]
+    },
+    {
+      "seccion": "CAPUCHON DE BUJIA",
+      "pgStart": 135,
+      "pgEnd": 135,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "MISELANEA",
+      "confianza": "0.75",
+      "alternativas": [
+        "MOTOR(1)"
+      ]
+    },
+    {
+      "seccion": "GUÍAS DE VÁLVULA",
+      "pgStart": 135,
+      "pgEnd": 136,
+      "skus_en_seccion": 11,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "MISELANEA",
+      "confianza": "0.60",
+      "alternativas": [
+        "MOTOR(2)"
+      ]
+    },
+    {
+      "seccion": "KIT DE RETENEDORES",
+      "pgStart": 137,
+      "pgEnd": 138,
+      "skus_en_seccion": 12,
+      "skus_en_lcr": 9,
+      "categoria_lcr_top": "SELLOS MOTOR",
+      "confianza": "0.89",
+      "alternativas": [
+        "RETENEDOR(1)"
+      ]
+    },
+    {
+      "seccion": "EJE DE VELOCIDAD",
+      "pgStart": 139,
+      "pgEnd": 140,
+      "skus_en_seccion": 15,
+      "skus_en_lcr": 6,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.67",
+      "alternativas": [
+        "REPUESTOS(2)"
+      ]
+    },
+    {
+      "seccion": "EJE DE PATA ARRANQUE",
+      "pgStart": 140,
+      "pgEnd": 141,
+      "skus_en_seccion": 15,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CLUTCH AUTOMATICO",
+      "pgStart": 142,
+      "pgEnd": 142,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "EMBRAGUE",
+      "confianza": "0.67",
+      "alternativas": [
+        "MOTOR(1)"
+      ]
+    },
+    {
+      "seccion": "FAJA TRANSMISION",
+      "pgStart": 142,
+      "pgEnd": 143,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 10,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.60",
+      "alternativas": [
+        "EMBRAGUE(4)"
+      ]
+    },
+    {
+      "seccion": "KIT ROLLER AUTOMATICO",
+      "pgStart": 143,
+      "pgEnd": 143,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.71",
+      "alternativas": [
+        "EMBRAGUE(2)"
+      ]
+    },
+    {
+      "seccion": "KIT CONTRABALANCEO",
+      "pgStart": 143,
+      "pgEnd": 143,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.71",
+      "alternativas": [
+        "EMBRAGUE(2)"
+      ]
+    },
+    {
+      "seccion": "TORQUE",
+      "pgStart": 144,
+      "pgEnd": 144,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "PALANCA CLUTCH COMPLETA",
+      "pgStart": 144,
+      "pgEnd": 144,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "KIT RUEDAS DISTRIBUCIóN",
+      "pgStart": 144,
+      "pgEnd": 144,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "KIT VARILLA DE EMPUJE",
+      "pgStart": 145,
+      "pgEnd": 145,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "EMPAQUE ESCAPE",
+      "pgStart": 145,
+      "pgEnd": 145,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "BOBINA DE ARRANQUE",
+      "pgStart": 145,
+      "pgEnd": 145,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CARBON MOTOR ARRANQUE",
+      "pgStart": 145,
+      "pgEnd": 145,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "ENGRANAJE TIEMPO SUPERIOR",
+      "pgStart": 145,
+      "pgEnd": 146,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.80",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "PIÑÓN DE 4TA VELOCIDAD",
+      "pgStart": 146,
+      "pgEnd": 146,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.67",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "TAPADERA VALVU ACEITE",
+      "pgStart": 146,
+      "pgEnd": 146,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.67",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "EMBRAGUE UNIDIRECCIONAL",
+      "pgStart": 146,
+      "pgEnd": 146,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.67",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "TAPA COLADOR ACEITE",
+      "pgStart": 146,
+      "pgEnd": 146,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.67",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "TAPON ACEITE",
+      "pgStart": 146,
+      "pgEnd": 146,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.67",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "RODILLO SINCRONIZADOR DE VELOCIDADES.. 146 ESTRELLA CAMBIO",
+      "pgStart": 146,
+      "pgEnd": 146,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.67",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "REGULADORES",
+      "pgStart": 149,
+      "pgEnd": 152,
+      "skus_en_seccion": 30,
+      "skus_en_lcr": 21,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "0.95",
+      "alternativas": [
+        "REPUESTOS(1)"
+      ]
+    },
+    {
+      "seccion": "BOBINA ALTA",
+      "pgStart": 152,
+      "pgEnd": 154,
+      "skus_en_seccion": 24,
+      "skus_en_lcr": 14,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "0.93",
+      "alternativas": [
+        "REPUESTOS(1)"
+      ]
+    },
+    {
+      "seccion": "BOBINA DE ENCENDIDO MODIFICADO",
+      "pgStart": 155,
+      "pgEnd": 155,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "PLATO DE BOBINAS",
+      "pgStart": 155,
+      "pgEnd": 160,
+      "skus_en_seccion": 46,
+      "skus_en_lcr": 39,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "0.92",
+      "alternativas": [
+        "MOTOR(3)"
+      ]
+    },
+    {
+      "seccion": "PLATO DE BOBINAS MODIFICADO",
+      "pgStart": 161,
+      "pgEnd": 161,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.67",
+      "alternativas": [
+        "ELECTRICOS(1)"
+      ]
+    },
+    {
+      "seccion": "BOBINA DE ARRANQUE",
+      "pgStart": 161,
+      "pgEnd": 161,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.67",
+      "alternativas": [
+        "ELECTRICOS(1)"
+      ]
+    },
+    {
+      "seccion": "MAGNETO",
+      "pgStart": 161,
+      "pgEnd": 161,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "0.67",
+      "alternativas": [
+        "ELECTRICOS(1)"
+      ]
+    },
+    {
+      "seccion": "CDI",
+      "pgStart": 161,
+      "pgEnd": 165,
+      "skus_en_seccion": 38,
+      "skus_en_lcr": 29,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "0.93",
+      "alternativas": [
+        "MOTOR(2)"
+      ]
+    },
+    {
+      "seccion": "CDI MODIFICADO",
+      "pgStart": 165,
+      "pgEnd": 165,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "MOTOR DE ARRANQUE",
+      "pgStart": 166,
+      "pgEnd": 169,
+      "skus_en_seccion": 31,
+      "skus_en_lcr": 13,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "INDUCIDO DE MOTOR DE ARRANQUE",
+      "pgStart": 169,
+      "pgEnd": 169,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "RELAY DE ARRANQUE",
+      "pgStart": 170,
+      "pgEnd": 171,
+      "skus_en_seccion": 14,
+      "skus_en_lcr": 9,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "0.89",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "RELAY START",
+      "pgStart": 171,
+      "pgEnd": 171,
+      "skus_en_seccion": 6,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "0.67",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "FLASHER DIRECCIONAL",
+      "pgStart": 171,
+      "pgEnd": 171,
+      "skus_en_seccion": 6,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "0.67",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "BATERÍA DE GEL",
+      "pgStart": 173,
+      "pgEnd": 174,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 6,
+      "categoria_lcr_top": "BATERIAS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "LLANTA",
+      "pgStart": 175,
+      "pgEnd": 180,
+      "skus_en_seccion": 35,
+      "skus_en_lcr": 12,
+      "categoria_lcr_top": "LLANTAS Y TUBOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CABLE CLUTCH",
+      "pgStart": 182,
+      "pgEnd": 185,
+      "skus_en_seccion": 30,
+      "skus_en_lcr": 25,
+      "categoria_lcr_top": "CABLES",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CABLE DE VELOCÍMETRO",
+      "pgStart": 186,
+      "pgEnd": 187,
+      "skus_en_seccion": 15,
+      "skus_en_lcr": 12,
+      "categoria_lcr_top": "CABLES",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CABLE ACELERADOR",
+      "pgStart": 188,
+      "pgEnd": 193,
+      "skus_en_seccion": 43,
+      "skus_en_lcr": 33,
+      "categoria_lcr_top": "CABLES",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CABLE FRENO",
+      "pgStart": 193,
+      "pgEnd": 193,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 6,
+      "categoria_lcr_top": "CABLES",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CABLE FRENO TRASERO",
+      "pgStart": 193,
+      "pgEnd": 193,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 6,
+      "categoria_lcr_top": "CABLES",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CABLE SHOCK",
+      "pgStart": 194,
+      "pgEnd": 194,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 6,
+      "categoria_lcr_top": "CABLES",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CABLE TACOMETRO",
+      "pgStart": 194,
+      "pgEnd": 194,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 6,
+      "categoria_lcr_top": "CABLES",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "GEAR CABLE",
+      "pgStart": 194,
+      "pgEnd": 195,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 8,
+      "categoria_lcr_top": "CABLES",
+      "confianza": "0.88",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "CABLE INTERNO CLUTCH",
+      "pgStart": 195,
+      "pgEnd": 195,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "CABLES",
+      "confianza": "0.50",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "CABLE INTERNO VELOCIDAD",
+      "pgStart": 195,
+      "pgEnd": 195,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "CABLES",
+      "confianza": "0.50",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "ARO MAGNECIO TRASERO",
+      "pgStart": 195,
+      "pgEnd": 195,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "CABLES",
+      "confianza": "0.50",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "ARO",
+      "pgStart": 197,
+      "pgEnd": 198,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.75",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "SET DE RAYOS",
+      "pgStart": 199,
+      "pgEnd": 199,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "BASE FRICCION",
+      "pgStart": 199,
+      "pgEnd": 200,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 10,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.90",
+      "alternativas": [
+        "FRENOS(1)"
+      ]
+    },
+    {
+      "seccion": "BRAZO VARILLA FRENO TRASERO",
+      "pgStart": 200,
+      "pgEnd": 200,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.67",
+      "alternativas": [
+        "FRENOS(1)"
+      ]
+    },
+    {
+      "seccion": "BASE CATARINA",
+      "pgStart": 200,
+      "pgEnd": 200,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.67",
+      "alternativas": [
+        "FRENOS(1)"
+      ]
+    },
+    {
+      "seccion": "BALINERA DE HUB",
+      "pgStart": 202,
+      "pgEnd": 203,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 12,
+      "categoria_lcr_top": "BALEROS",
+      "confianza": "0.50",
+      "alternativas": [
+        "KIT TRACCION(5)",
+        "REPUESTOS(1)"
+      ]
+    },
+    {
+      "seccion": "KIT LAINAS CATARINA",
+      "pgStart": 203,
+      "pgEnd": 204,
+      "skus_en_seccion": 11,
+      "skus_en_lcr": 8,
+      "categoria_lcr_top": "KIT TRACCION",
+      "confianza": "0.75",
+      "alternativas": [
+        "BALEROS(1)",
+        "REPUESTOS(1)"
+      ]
+    },
+    {
+      "seccion": "VARILLA DE FRENO",
+      "pgStart": 205,
+      "pgEnd": 205,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "CATARINAS",
+      "confianza": "0.50",
+      "alternativas": [
+        "FRENOS(1)",
+        "KIT TRACCION(1)"
+      ]
+    },
+    {
+      "seccion": "KIT BUSHING DE CATARINA",
+      "pgStart": 205,
+      "pgEnd": 205,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "CATARINAS",
+      "confianza": "0.50",
+      "alternativas": [
+        "FRENOS(1)",
+        "KIT TRACCION(1)"
+      ]
+    },
+    {
+      "seccion": "SET BUSHING DE CATARINA",
+      "pgStart": 205,
+      "pgEnd": 205,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "CATARINAS",
+      "confianza": "0.50",
+      "alternativas": [
+        "FRENOS(1)",
+        "KIT TRACCION(1)"
+      ]
+    },
+    {
+      "seccion": "SEGURO PIÑON ATAQUE",
+      "pgStart": 205,
+      "pgEnd": 205,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "CATARINAS",
+      "confianza": "0.50",
+      "alternativas": [
+        "FRENOS(1)",
+        "KIT TRACCION(1)"
+      ]
+    },
+    {
+      "seccion": "DISCO DE FRENO",
+      "pgStart": 207,
+      "pgEnd": 212,
+      "skus_en_seccion": 43,
+      "skus_en_lcr": 26,
+      "categoria_lcr_top": "FRENOS",
+      "confianza": "0.96",
+      "alternativas": [
+        "PASTILLA DE FRENO(1)"
+      ]
+    },
+    {
+      "seccion": "DISCO FRENO TRASERO",
+      "pgStart": 211,
+      "pgEnd": 211,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "FRENOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "DISCO FRENO DELANTERO",
+      "pgStart": 212,
+      "pgEnd": 212,
+      "skus_en_seccion": 4,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "FRENOS",
+      "confianza": "0.50",
+      "alternativas": [
+        "PASTILLA DE FRENO(1)"
+      ]
+    },
+    {
+      "seccion": "PERNOS FRENO DISCO",
+      "pgStart": 212,
+      "pgEnd": 212,
+      "skus_en_seccion": 4,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "FRENOS",
+      "confianza": "0.50",
+      "alternativas": [
+        "PASTILLA DE FRENO(1)"
+      ]
+    },
+    {
+      "seccion": "PASTILLAS DE FRENO",
+      "pgStart": 212,
+      "pgEnd": 217,
+      "skus_en_seccion": 44,
+      "skus_en_lcr": 38,
+      "categoria_lcr_top": "PASTILLA DE FRENO",
+      "confianza": "0.97",
+      "alternativas": [
+        "FRENOS(1)"
+      ]
+    },
+    {
+      "seccion": "FRICCIONES",
+      "pgStart": 217,
+      "pgEnd": 219,
+      "skus_en_seccion": 24,
+      "skus_en_lcr": 16,
+      "categoria_lcr_top": "FRICCION",
+      "confianza": "0.56",
+      "alternativas": [
+        "PASTILLA DE FRENO(6)",
+        "FRENOS(1)"
+      ]
+    },
+    {
+      "seccion": "BOMBA FRENO DELANTERA",
+      "pgStart": 219,
+      "pgEnd": 221,
+      "skus_en_seccion": 23,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "FRENOS",
+      "confianza": "0.86",
+      "alternativas": [
+        "FRICCION(1)"
+      ]
+    },
+    {
+      "seccion": "BOMBA FRENO TRASERA",
+      "pgStart": 221,
+      "pgEnd": 221,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "FRENOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CALIPER/MORDAZA DE FRENO",
+      "pgStart": 222,
+      "pgEnd": 225,
+      "skus_en_seccion": 31,
+      "skus_en_lcr": 12,
+      "categoria_lcr_top": "FRENOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "CATARINA",
+      "pgStart": 226,
+      "pgEnd": 231,
+      "skus_en_seccion": 45,
+      "skus_en_lcr": 19,
+      "categoria_lcr_top": "CATARINAS",
+      "confianza": "0.89",
+      "alternativas": [
+        "KIT TRACCION(2)"
+      ]
+    },
+    {
+      "seccion": "PIÑON DE ATAQUE",
+      "pgStart": 232,
+      "pgEnd": 235,
+      "skus_en_seccion": 32,
+      "skus_en_lcr": 28,
+      "categoria_lcr_top": "PIÑONES",
+      "confianza": "0.75",
+      "alternativas": [
+        "KIT TRACCION(4)",
+        "CADENAS(3)"
+      ]
+    },
+    {
+      "seccion": "CADENA DE TRACCION",
+      "pgStart": 235,
+      "pgEnd": 236,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 13,
+      "categoria_lcr_top": "CADENAS",
+      "confianza": "0.69",
+      "alternativas": [
+        "PIÑONES(3)",
+        "KIT TRACCION(1)"
+      ]
+    },
+    {
+      "seccion": "SET REGULADOR DE CADENA",
+      "pgStart": 236,
+      "pgEnd": 237,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 11,
+      "categoria_lcr_top": "CADENAS",
+      "confianza": "0.55",
+      "alternativas": [
+        "REPUESTOS(4)",
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "VALVULA GAS",
+      "pgStart": 237,
+      "pgEnd": 238,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 10,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.80",
+      "alternativas": [
+        "MISELANEA(1)",
+        "MOTOR(1)"
+      ]
+    },
+    {
+      "seccion": "MONOSHOCK",
+      "pgStart": 239,
+      "pgEnd": 241,
+      "skus_en_seccion": 24,
+      "skus_en_lcr": 10,
+      "categoria_lcr_top": "SUSPENCION",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "SET AMORTIGUADOR",
+      "pgStart": 241,
+      "pgEnd": 242,
+      "skus_en_seccion": 14,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "SUSPENCION",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "SET DE BARRAS COMPLETAS",
+      "pgStart": 242,
+      "pgEnd": 243,
+      "skus_en_seccion": 14,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "SUSPENCION",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "PEDAL DE FRENO",
+      "pgStart": 245,
+      "pgEnd": 246,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 6,
+      "categoria_lcr_top": "FRENOS",
+      "confianza": "0.50",
+      "alternativas": [
+        "REPUESTOS(3)"
+      ]
+    },
+    {
+      "seccion": "PATA DE ARRANQUE PATA DE VELOCIDAD",
+      "pgStart": 249,
+      "pgEnd": 250,
+      "skus_en_seccion": 15,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "MISELANEA",
+      "confianza": "0.57",
+      "alternativas": [
+        "REPUESTOS(3)"
+      ]
+    },
+    {
+      "seccion": "SWITCH IGNICION",
+      "pgStart": 251,
+      "pgEnd": 254,
+      "skus_en_seccion": 28,
+      "skus_en_lcr": 23,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "SWITCH RH",
+      "pgStart": 255,
+      "pgEnd": 256,
+      "skus_en_seccion": 14,
+      "skus_en_lcr": 9,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "SWITCH LH",
+      "pgStart": 256,
+      "pgEnd": 257,
+      "skus_en_seccion": 11,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "MANECILLA DE FRENO",
+      "pgStart": 258,
+      "pgEnd": 259,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "FRENOS",
+      "confianza": "0.71",
+      "alternativas": [
+        "MISELANEA(1)",
+        "EMBRAGUE(1)"
+      ]
+    },
+    {
+      "seccion": "MANECILLA DE FRENO COMPLETA",
+      "pgStart": 259,
+      "pgEnd": 259,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "FRENOS",
+      "confianza": "0.67",
+      "alternativas": [
+        "EMBRAGUE(1)"
+      ]
+    },
+    {
+      "seccion": "MANECILLA COMPLETA DE CLUTCH",
+      "pgStart": 260,
+      "pgEnd": 260,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.50",
+      "alternativas": [
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "SET DE MANGOS",
+      "pgStart": 261,
+      "pgEnd": 261,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "ACCESORIOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "TIMON",
+      "pgStart": 262,
+      "pgEnd": 262,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "ACCESORIOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "BASE SUPERIOR TIMON",
+      "pgStart": 262,
+      "pgEnd": 262,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "ACCESORIOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "TIMON ALUMINIO",
+      "pgStart": 263,
+      "pgEnd": 263,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "DIRECCION",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "KIT DE CUNA",
+      "pgStart": 263,
+      "pgEnd": 266,
+      "skus_en_seccion": 32,
+      "skus_en_lcr": 18,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.56",
+      "alternativas": [
+        "DIRECCION(5)",
+        "SELLO BARRA(3)"
+      ]
+    },
+    {
+      "seccion": "RETENEDOR BARRA",
+      "pgStart": 266,
+      "pgEnd": 268,
+      "skus_en_seccion": 24,
+      "skus_en_lcr": 16,
+      "categoria_lcr_top": "SELLO BARRA",
+      "confianza": "0.69",
+      "alternativas": [
+        "RETENEDOR(3)",
+        "DIRECCION(1)",
+        "REPUESTOS(1)"
+      ]
+    },
+    {
+      "seccion": "RETENEDOR",
+      "pgStart": 268,
+      "pgEnd": 273,
+      "skus_en_seccion": 47,
+      "skus_en_lcr": 46,
+      "categoria_lcr_top": "RETENEDOR",
+      "confianza": "0.87",
+      "alternativas": [
+        "SELLO BARRA(5)",
+        "SELLOS MOTOR(1)"
+      ]
+    },
+    {
+      "seccion": "KIT DE TIJERA",
+      "pgStart": 275,
+      "pgEnd": 279,
+      "skus_en_seccion": 38,
+      "skus_en_lcr": 22,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.68",
+      "alternativas": [
+        "DIRECCION(4)",
+        "MISELANEA(2)",
+        "SUSPENCION(1)"
+      ]
+    },
+    {
+      "seccion": "EJE DELANTERO",
+      "pgStart": 279,
+      "pgEnd": 280,
+      "skus_en_seccion": 14,
+      "skus_en_lcr": 10,
+      "categoria_lcr_top": "DIRECCION",
+      "confianza": "0.60",
+      "alternativas": [
+        "REPUESTOS(3)",
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "EJE TRASERO",
+      "pgStart": 280,
+      "pgEnd": 281,
+      "skus_en_seccion": 14,
+      "skus_en_lcr": 12,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.50",
+      "alternativas": [
+        "DIRECCION(4)",
+        "FILTROS(2)"
+      ]
+    },
+    {
+      "seccion": "FILTRO AIRE",
+      "pgStart": 281,
+      "pgEnd": 287,
+      "skus_en_seccion": 55,
+      "skus_en_lcr": 35,
+      "categoria_lcr_top": "FILTROS",
+      "confianza": "0.86",
+      "alternativas": [
+        "REPUESTOS(4)",
+        "DIRECCION(1)"
+      ]
+    },
+    {
+      "seccion": "FILTRO GAS CON IMAN",
+      "pgStart": 288,
+      "pgEnd": 288,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.67",
+      "alternativas": [
+        "FILTROS(1)"
+      ]
+    },
+    {
+      "seccion": "PATA PARQUEO",
+      "pgStart": 288,
+      "pgEnd": 288,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.67",
+      "alternativas": [
+        "FILTROS(1)"
+      ]
+    },
+    {
+      "seccion": "RESORTE PATA DOBLE",
+      "pgStart": 288,
+      "pgEnd": 288,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.67",
+      "alternativas": [
+        "FILTROS(1)"
+      ]
+    },
+    {
+      "seccion": "ESTRIBO COMPLETO",
+      "pgStart": 289,
+      "pgEnd": 289,
+      "skus_en_seccion": 6,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "PATA PARQUEO",
+      "pgStart": 289,
+      "pgEnd": 289,
+      "skus_en_seccion": 6,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "SET BARRA DELANTERA",
+      "pgStart": 289,
+      "pgEnd": 290,
+      "skus_en_seccion": 14,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "RESORTE PATA PARQUEO",
+      "pgStart": 289,
+      "pgEnd": 289,
+      "skus_en_seccion": 6,
+      "skus_en_lcr": 2,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "SET DE ESPEJOS",
+      "pgStart": 291,
+      "pgEnd": 293,
+      "skus_en_seccion": 23,
+      "skus_en_lcr": 14,
+      "categoria_lcr_top": "ESPEJOS",
+      "confianza": "0.93",
+      "alternativas": [
+        "ELECTRICOS(1)"
+      ]
+    },
+    {
+      "seccion": "RELOJ ASPIROMETRO",
+      "pgStart": 293,
+      "pgEnd": 296,
+      "skus_en_seccion": 29,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "ESPEJOS",
+      "confianza": "0.75",
+      "alternativas": [
+        "ELECTRICOS(1)"
+      ]
+    },
+    {
+      "seccion": "LUZ LED",
+      "pgStart": 302,
+      "pgEnd": 302,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "BOMBILLO SILVIN",
+      "pgStart": 302,
+      "pgEnd": 302,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "BOMBILLO",
+      "pgStart": 302,
+      "pgEnd": 302,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "BOMBILLO LAGRIMA",
+      "pgStart": 302,
+      "pgEnd": 302,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "BOMBILLO VIA",
+      "pgStart": 302,
+      "pgEnd": 302,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 7,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "BOMBILLO LED DE CORTESIA",
+      "pgStart": 303,
+      "pgEnd": 304,
+      "skus_en_seccion": 10,
+      "skus_en_lcr": 4,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "SOCKET SILVIN",
+      "pgStart": 304,
+      "pgEnd": 304,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "SOCKET LAGRIMA",
+      "pgStart": 304,
+      "pgEnd": 304,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 3,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "SET PIDE VIA",
+      "pgStart": 308,
+      "pgEnd": 312,
+      "skus_en_seccion": 40,
+      "skus_en_lcr": 17,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    }
+  ],
+  "ambiguo": [
+    {
+      "seccion": "SET HULE MASA",
+      "pgStart": 200,
+      "pgEnd": 202,
+      "skus_en_seccion": 24,
+      "skus_en_lcr": 14,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "0.43",
+      "alternativas": [
+        "BALEROS(5)",
+        "MISELANEA(2)",
+        "FRENOS(1)"
+      ]
+    },
+    {
+      "seccion": "CATARINA Y PIÑON",
+      "pgStart": 231,
+      "pgEnd": 232,
+      "skus_en_seccion": 15,
+      "skus_en_lcr": 9,
+      "categoria_lcr_top": "KIT TRACCION",
+      "confianza": "0.44",
+      "alternativas": [
+        "PIÑONES(3)",
+        "CATARINAS(2)"
+      ]
+    },
+    {
+      "seccion": "MANECILLA DE CLUTCH",
+      "pgStart": 259,
+      "pgEnd": 260,
+      "skus_en_seccion": 15,
+      "skus_en_lcr": 5,
+      "categoria_lcr_top": "FRENOS",
+      "confianza": "0.40",
+      "alternativas": [
+        "EMBRAGUE(1)",
+        "REPUESTOS(1)",
+        "MISELANEA(1)"
+      ]
+    },
+    {
+      "seccion": "CAJA VELOCIMETRO",
+      "pgStart": 273,
+      "pgEnd": 275,
+      "skus_en_seccion": 22,
+      "skus_en_lcr": 15,
+      "categoria_lcr_top": "RETENEDOR",
+      "confianza": "0.40",
+      "alternativas": [
+        "REPUESTOS(6)",
+        "SELLOS MOTOR(1)",
+        "MOTOR(1)"
+      ]
+    }
+  ],
+  "sinLcr": [
+    {
+      "seccion": "21 KIT DE BIELA",
+      "pgStart": 31,
+      "pgEnd": 36,
+      "skus_en_seccion": 46,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "ANILLO DE PISTÓN",
+      "pgStart": 42,
+      "pgEnd": 42,
+      "skus_en_seccion": 7,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "ARBOL DE LEVAS MODIFICADO",
+      "pgStart": 61,
+      "pgEnd": 62,
+      "skus_en_seccion": 10,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "LEVA SUPERIOR",
+      "pgStart": 62,
+      "pgEnd": 62,
+      "skus_en_seccion": 2,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "24 KIT DE DISTRIBUCIÓN DE TIEMPO",
+      "pgStart": 68,
+      "pgEnd": 70,
+      "skus_en_seccion": 18,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "EMBOLO CARBURADOR",
+      "pgStart": 121,
+      "pgEnd": 121,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "CARBURADOR COMPLETO",
+      "pgStart": 121,
+      "pgEnd": 121,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "DIAFRAGMA CARBURADOR",
+      "pgStart": 121,
+      "pgEnd": 121,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "SET GUIA DE VALVULA",
+      "pgStart": 136,
+      "pgEnd": 136,
+      "skus_en_seccion": 4,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "MOTOR",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "RESORTE FRENO",
+      "pgStart": 147,
+      "pgEnd": 147,
+      "skus_en_seccion": 3,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "MISELANEA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "RESORTE VALVULA",
+      "pgStart": 147,
+      "pgEnd": 147,
+      "skus_en_seccion": 3,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "MISELANEA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "BAYONETA ACEITE",
+      "pgStart": 147,
+      "pgEnd": 147,
+      "skus_en_seccion": 3,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "MISELANEA",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "TUBO",
+      "pgStart": 174,
+      "pgEnd": 175,
+      "skus_en_seccion": 14,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "BATERIAS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "ARO MAGNECIO DELANTERO",
+      "pgStart": 196,
+      "pgEnd": 196,
+      "skus_en_seccion": 4,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "MASA DELANTERA",
+      "pgStart": 196,
+      "pgEnd": 197,
+      "skus_en_seccion": 12,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "MASA TRASERA",
+      "pgStart": 197,
+      "pgEnd": 197,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "ESCAPE COMPLETO",
+      "pgStart": 206,
+      "pgEnd": 206,
+      "skus_en_seccion": 3,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "KIT TRACCION",
+      "pgStart": 225,
+      "pgEnd": 226,
+      "skus_en_seccion": 13,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "SET BARRA DELANTERA",
+      "pgStart": 244,
+      "pgEnd": 244,
+      "skus_en_seccion": 2,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "SET DE NIQUEL DE BARRA",
+      "pgStart": 290,
+      "pgEnd": 290,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "246~247 MASCARA Y SILVIN COMPLETO",
+      "pgStart": 297,
+      "pgEnd": 300,
+      "skus_en_seccion": 26,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "SILVIN COMPLETO",
+      "pgStart": 300,
+      "pgEnd": 301,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "HALOGENO LED",
+      "pgStart": 301,
+      "pgEnd": 301,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "MASCARA SILVIN",
+      "pgStart": 301,
+      "pgEnd": 301,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "TIRA LED VERDE",
+      "pgStart": 301,
+      "pgEnd": 301,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "TIRA LED AZUL",
+      "pgStart": 301,
+      "pgEnd": 301,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "BOMBILLO STOP",
+      "pgStart": 303,
+      "pgEnd": 303,
+      "skus_en_seccion": 3,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "ELECTRICOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "STOP COMPLETO",
+      "pgStart": 305,
+      "pgEnd": 307,
+      "skus_en_seccion": 18,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "TANQUE DE GAS",
+      "pgStart": 312,
+      "pgEnd": 313,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "SET COVERTOR DE TANQUE",
+      "pgStart": 313,
+      "pgEnd": 313,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "COVERTOR TRASERO STOP",
+      "pgStart": 313,
+      "pgEnd": 314,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "SET TAPA LATERAL",
+      "pgStart": 314,
+      "pgEnd": 315,
+      "skus_en_seccion": 16,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "LODERA TRASERA",
+      "pgStart": 315,
+      "pgEnd": 315,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "LODERA DELANTERA",
+      "pgStart": 315,
+      "pgEnd": 318,
+      "skus_en_seccion": 32,
+      "skus_en_lcr": 1,
+      "categoria_lcr_top": "REPUESTOS",
+      "confianza": "1.00",
+      "alternativas": []
+    },
+    {
+      "seccion": "TOLVAS DE PECHERA",
+      "pgStart": 318,
+      "pgEnd": 318,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    },
+    {
+      "seccion": "SET COVERTOR DE STOP",
+      "pgStart": 318,
+      "pgEnd": 318,
+      "skus_en_seccion": 8,
+      "skus_en_lcr": 0,
+      "categoria_lcr_top": null,
+      "confianza": 0,
+      "alternativas": []
+    }
+  ]
+}

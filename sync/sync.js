@@ -212,7 +212,13 @@ function parseVINI(filePath, margen = 1.7) {
   const ws = wb.Sheets[wb.SheetNames[0]];
   const rows = XLSX.utils.sheet_to_json(ws, { header: 1, raw: false, defval: '' });
 
+  // Recategorización por PDF ilustrado: si existen los JSON auxiliares
+  // (sync/vini-section-map.json y sync/vini-sku-pages.json), se usa el
+  // mapeo sección→categoría del PDF. Si no, fallback a inferCategoria(nombre).
+  const { getViniCategoria } = require('./recategorize-vini.js');
+
   const productos = [];
+  let recategorizados = 0;
   // Data desde fila 13 (idx 12). Entre productos hay filas en blanco.
   // Nota: precios NO se publican para productos de proveedores — todos "a pedido".
   for (let r = 12; r < rows.length; r++) {
@@ -226,11 +232,15 @@ function parseVINI(filePath, margen = 1.7) {
     const nombre = (row[2] || '').toString().trim();    // descripción (merged C)
     if (!nombre) continue;
 
+    const inferida = inferCategoria(nombre);
+    const categoria = getViniCategoria(sku, nombre, inferida);
+    if (categoria !== inferida) recategorizados++;
+
     productos.push({
       sku,
       nombre,
       marca: 'VINI',
-      categoria: inferCategoria(nombre),
+      categoria,
       presentacion: 'UND',
       empaque: '',
       precios: { publico: null, taller: null, distribuidor: null },
@@ -245,7 +255,7 @@ function parseVINI(filePath, margen = 1.7) {
       activo: true,
     });
   }
-  console.log(`✓ ${productos.length} productos VINI "a pedido"`);
+  console.log(`✓ ${productos.length} productos VINI "a pedido"${recategorizados ? ` (${recategorizados} recategorizados por PDF)` : ''}`);
   return productos;
 }
 
