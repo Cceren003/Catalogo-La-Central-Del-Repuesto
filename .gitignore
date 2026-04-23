@@ -30,3 +30,6 @@ sync/*.log
 # Cache de wrangler (Cloudflare CLI) — local
 .wrangler/
 
+
+# Claude Code worktrees locales
+.claude/worktrees/
