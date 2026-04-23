@@ -1027,3 +1027,62 @@
   .detail-extras { grid-template-columns: 1fr; padding: 0 16px 16px 16px; }
   .detail-img { min-height: 240px; padding: 16px; }
 }
+
+/* ═══════════════════════════════════════════
+   PRODUCTO — página dedicada
+   Reusa .modal-detail, .detail-img, .detail-body, .detail-extras
+   ═══════════════════════════════════════════ */
+.producto-main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 16px 60px 16px;
+}
+.producto-breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  font-size: 13px;
+  color: var(--lcr-muted);
+  margin-bottom: 16px;
+}
+.producto-breadcrumb a {
+  color: var(--lcr-muted);
+  text-decoration: none;
+}
+.producto-breadcrumb a:hover { color: var(--lcr-white); }
+.producto-breadcrumb > span:first-of-type,
+.producto-breadcrumb > span + span:not(:last-child) { color: var(--lcr-gray3); }
+.producto-breadcrumb > span:last-child { color: var(--lcr-white); font-weight: 500; }
+
+/* La ficha como página: usa mismo grid del modal pero sin max-height ni scroll interno.
+   Deja que el scroll sea el de la página. */
+.producto-card.modal-detail {
+  max-width: 1100px;
+  max-height: none;
+  overflow: visible;
+  margin: 0 auto;
+}
+.producto-card .detail-img { min-height: 420px; }
+
+.producto-loading {
+  text-align: center;
+  padding: 80px 16px;
+  color: var(--lcr-muted);
+}
+.producto-error {
+  max-width: 600px;
+  margin: 60px auto;
+  padding: 32px;
+  text-align: center;
+  background: var(--lcr-surface);
+  border: 1px solid var(--lcr-gray2);
+  border-radius: var(--radius-lg);
+}
+.producto-error h2 { margin: 0 0 10px 0; color: var(--lcr-white); }
+.producto-error p  { color: var(--lcr-muted); }
+
+@media (max-width: 900px) {
+  .producto-main { padding: 12px 12px 40px 12px; }
+  .producto-card .detail-img { min-height: 260px; }
+}

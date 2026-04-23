@@ -466,12 +466,18 @@ function showDetail(sku) {
         WhatsApp ventas
       </a>
       <button class="btn btn-outline" id="copyLinkBtn">Copiar enlace</button>
+    </div>
+    <div class="detail-actions" style="margin-top:4px;">
+      <a class="btn btn-outline block" href="producto.html?sku=${encodeURIComponent(p.sku)}" target="_blank" rel="noopener">Abrir ficha completa ↗</a>
     </div>`;
 
   // Para productos "a pedido": solo copiar enlace (no WhatsApp directo, eso lo cubre el notice)
   const pedidoActions = isPedido ? `
     <div class="detail-actions" style="margin-top:4px;">
       <button class="btn btn-outline block" id="copyLinkBtn">Copiar enlace</button>
+    </div>
+    <div class="detail-actions" style="margin-top:4px;">
+      <a class="btn btn-outline block" href="producto.html?sku=${encodeURIComponent(p.sku)}" target="_blank" rel="noopener">Abrir ficha completa ↗</a>
     </div>` : '';
 
   body.innerHTML = `
@@ -534,7 +540,10 @@ function showDetail(sku) {
   }
   body.querySelector('#copyLinkBtn').onclick = async (ev) => {
     const btn = ev.currentTarget;
-    const url = `${location.origin}${location.pathname}?sku=${encodeURIComponent(p.sku)}`;
+    // URL de la página dedicada → al abrirla se ve la ficha completa
+    // y tiene preview rico en WhatsApp/Facebook (meta OG).
+    const base = location.href.replace(/\/[^/]*(\?.*)?$/, '/');
+    const url = `${base}producto.html?sku=${encodeURIComponent(p.sku)}`;
     let ok = false;
     try {
       await navigator.clipboard.writeText(url);
