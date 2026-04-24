@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T23:32:48.151Z",
-  "count": 5831,
+  "generated_at": "2026-04-24T16:14:40.062Z",
+  "count": 5827,
   "productos": [
     {
       "sku": "LM120106",
@@ -14745,27 +14745,6 @@
       "activo": true
     },
     {
-      "sku": "741540190845",
-      "nombre": "DISCO FRENO PULSAR125NS/135 SPEED",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30,
-        "taller": 23,
-        "distribuidor": 19.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190845.png",
-      "imagen_size": 98590,
-      "activo": true
-    },
-    {
       "sku": "741540189214",
       "nombre": "DISCO FRENO RTX200 TRASERA VINI(FL)",
       "marca": "VINI",
@@ -20132,7 +20111,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20160,27 +20139,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189762.png",
       "imagen_size": 36883,
-      "activo": true
-    },
-    {
-      "sku": "741540189761",
-      "nombre": "HERRAMIENTA DESTORNILLADOR 6.3-200",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 4.5,
-        "distribuidor": 3.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189761.png",
-      "imagen_size": 39988,
       "activo": true
     },
     {
@@ -20961,27 +20919,6 @@
       "activo": true
     },
     {
-      "sku": "741540189804",
-      "nombre": "HERRAMIENTA VINI LLAVE ALLEN",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 3,
-        "distribuidor": 2.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189804.png",
-      "imagen_size": 41469,
-      "activo": true
-    },
-    {
       "sku": "741540189813",
       "nombre": "HERRAMIENTA VINI LLAVE COMBINADA VT120001",
       "marca": "VINI",
@@ -21336,27 +21273,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189751.png",
       "imagen_size": 32548,
-      "activo": true
-    },
-    {
-      "sku": "741540189803",
-      "nombre": "HERRAMIENTA VINI LLAVE UNIVERSAL",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 3,
-        "distribuidor": 2.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189803.png",
-      "imagen_size": 41389,
       "activo": true
     },
     {
@@ -24794,7 +24710,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 21,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
