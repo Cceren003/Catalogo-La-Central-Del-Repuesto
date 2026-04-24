@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T16:14:40.062Z",
-  "count": 5827,
+  "generated_at": "2026-04-24T19:58:31.091Z",
+  "count": 5824,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 8.92,
         "distribuidor": 8.67
       },
-      "stock": 109,
+      "stock": 95,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 6.83,
         "distribuidor": 6.71
       },
-      "stock": 84,
+      "stock": 83,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1022,7 +1022,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1043,8 +1043,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1148,7 +1148,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1190,7 +1190,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1516,7 +1516,7 @@
     },
     {
       "sku": "741540189559",
-      "nombre": "BALERO CIGUEÑAL SERPENTO VINI(FL)",
+      "nombre": "BALERO CIGUEÑAL UNIVERSAL SERPENTO VINI(FL)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -2303,7 +2303,7 @@
         "taller": 21,
         "distribuidor": 17.85
       },
-      "stock": 4,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 18,
         "distribuidor": 15.3
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2366,7 @@
         "taller": 22,
         "distribuidor": 20.5
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,8 +2408,8 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2534,7 +2534,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 7,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3626,7 +3626,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 32,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8760,27 +8760,6 @@
       "activo": true
     },
     {
-      "sku": "RS060",
-      "nombre": "CATARINA 36T MOTO CHINA 100-125-150-200",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RS078",
       "nombre": "CATARINA 36T MOTO CHINA 125-150-200 CON CENTRO DE GN125",
       "marca": "NRP",
@@ -12309,27 +12288,6 @@
       "activo": true
     },
     {
-      "sku": "741540100526",
-      "nombre": "CIGUEÑAL NXR150 BROS/HUNK/ INVICTA150 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 125,
-        "taller": 90,
-        "distribuidor": 8
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100526.png",
-      "imagen_size": 80618,
-      "activo": true
-    },
-    {
       "sku": "741540189407",
       "nombre": "CIGUEÑAL SPITZER 150/ FIRE NEW 125 PIN13 SIN CONTRAPESA VINI(FL)",
       "marca": "VINI",
@@ -12499,7 +12457,7 @@
     },
     {
       "sku": "741540100316",
-      "nombre": "CILINDRO COMPLETO BROSS 150",
+      "nombre": "CILINDRO COMPLETO BROSS 150 XR150",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -15743,7 +15701,7 @@
         "taller": 4.5,
         "distribuidor": 0
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17213,7 +17171,7 @@
         "taller": 2.5,
         "distribuidor": 2.1
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17612,7 +17570,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18998,7 +18956,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 37,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19019,7 +18977,7 @@
         "taller": 4,
         "distribuidor": 3.6
       },
-      "stock": 33,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20153,7 +20111,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23492,7 +23450,7 @@
         "taller": 17,
         "distribuidor": 15
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24710,7 +24668,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 17,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24731,7 +24689,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 14,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29046,27 +29004,6 @@
       "activo": true
     },
     {
-      "sku": "1002549",
-      "nombre": "MOTOR DE ARRANQUE GY6 SCOOTER AUTOMATICA",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30,
-        "taller": 22,
-        "distribuidor": 18.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002549.png",
-      "imagen_size": 30746,
-      "activo": true
-    },
-    {
       "sku": "LB1A-0040-10",
       "nombre": "NEUMATICO AXUS 110-90-16",
       "marca": "AXUS",
@@ -29519,7 +29456,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30296,7 +30233,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36365,7 +36302,7 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 14,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39704,7 +39641,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
