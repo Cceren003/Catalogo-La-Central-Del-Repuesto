@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T23:11:07.548Z",
+  "generated_at": "2026-04-25T15:27:22.374Z",
   "count": 5824,
   "productos": [
     {
@@ -119,7 +119,7 @@
         "taller": 6.83,
         "distribuidor": 6.71
       },
-      "stock": 83,
+      "stock": 51,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2261,7 +2261,7 @@
         "taller": 15.5,
         "distribuidor": 13.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13150,7 +13150,7 @@
     },
     {
       "sku": "741540100458",
-      "nombre": "CILINDRO COMPLETO XL 200 YARA-CADENILLA PIN15",
+      "nombre": "CILINDRO COMPLETO XL200-FXR200 YARA-CADENILLA COLOR GRIS PIN15",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -13171,7 +13171,7 @@
     },
     {
       "sku": "741540189331",
-      "nombre": "CILINDRO COMPLETO YARA 200 (CADENILLA) 196CC PIN 15 VINI",
+      "nombre": "CILINDRO COMPLETO YARA 200 CADENILLA 196CC PIN 15 COLOR NEGRO VINI",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
