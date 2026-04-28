@@ -76,6 +76,12 @@ async function loadCatalog() {
     const blacklist = new Set(CONFIG.brandBlacklist.map(s => s.toUpperCase()));
     state.all = raw.filter(p => !blacklist.has((p.marca || '').toUpperCase()));
 
+    // Migra items legacy del carrito (con precio snapshot) al formato nuevo
+    // con el objeto `precios` completo, para que cambien al hacer login/logout.
+    if (window.Carrito && typeof Carrito.refreshFromCatalog === 'function') {
+      Carrito.refreshFromCatalog(sku => state.all.find(p => p.sku === sku));
+    }
+
     // Enriquecidos (compatibilidades, equivalencias, relacionados). Opcional.
     state.enriched = new Map();
     if (resEnr && resEnr.ok) {

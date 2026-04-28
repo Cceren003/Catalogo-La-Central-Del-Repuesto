@@ -107,6 +107,25 @@
     return () => listeners.delete(fn);
   }
 
+  // Migra items legacy (con `precio:N` snapshot) al formato nuevo
+  // (con objeto `precios` completo) usando la data del catálogo.
+  // Lo llama catalogo.js / producto.js después de cargar `catalogo.json`.
+  // Si no se llama, los items legacy siguen mostrando su precio estático
+  // como fallback — no se rompe nada, solo no cambian con login/logout.
+  function refreshFromCatalog(getProduct) {
+    if (typeof getProduct !== 'function') return;
+    let changed = false;
+    for (const it of items) {
+      if (it.precios) continue; // ya migrado
+      const p = getProduct(it.sku);
+      if (!p || !p.precios) continue;
+      it.precios = { ...p.precios };
+      delete it.precio;
+      changed = true;
+    }
+    if (changed) save();
+  }
+
   // Re-renderiza el carrito cuando cambia el rol del usuario (login/logout).
   // Sin esto los precios y el total muestran el snapshot del rol anterior.
   if (window.Auth && typeof window.Auth.subscribe === 'function') {
@@ -116,6 +135,6 @@
   window.Carrito = {
     add, remove, setQty, clear,
     get items() { return items.map(viewItem); },
-    total, count, subscribe,
+    total, count, subscribe, refreshFromCatalog,
   };
 })();

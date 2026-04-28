@@ -386,6 +386,12 @@ async function loadAndRender() {
     const raw = Array.isArray(data) ? data : (data.productos || []);
     state.all = raw;
 
+    // Migra items legacy del carrito al formato nuevo (con `precios` completo)
+    // para que cambien al hacer login/logout en cualquier página.
+    if (window.Carrito && typeof Carrito.refreshFromCatalog === 'function') {
+      Carrito.refreshFromCatalog(sku => state.all.find(p => p.sku === sku));
+    }
+
     state.enriched = new Map();
     if (resEnr && resEnr.ok) {
       try {
