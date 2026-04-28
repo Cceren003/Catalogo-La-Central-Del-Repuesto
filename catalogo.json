@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T17:51:26.066Z",
-  "count": 5824,
+  "generated_at": "2026-04-28T00:07:30.634Z",
+  "count": 5822,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 8.92,
         "distribuidor": 8.67
       },
-      "stock": 91,
+      "stock": 83,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 6.83,
         "distribuidor": 6.71
       },
-      "stock": 49,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1799,7 +1799,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,7 +2387,7 @@
         "taller": 21,
         "distribuidor": 17.85
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2618,7 +2618,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3689,7 +3689,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3752,7 +3752,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 31,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3794,7 +3794,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 26,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4109,7 +4109,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5033,8 +5033,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5579,7 +5579,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5831,7 +5831,7 @@
         "taller": 4.5,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5915,7 +5915,7 @@
         "taller": 0.5,
         "distribuidor": 0.45
       },
-      "stock": 202,
+      "stock": 176,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6356,7 +6356,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6398,7 +6398,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 15,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8225,7 +8225,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 38,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8603,7 +8603,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8624,7 +8624,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11774,7 +11774,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14301,27 +14301,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189549.png",
       "imagen_size": 160093,
-      "activo": true
-    },
-    {
-      "sku": "741540188272",
-      "nombre": "DISCO CLUTCH SET PULSAR 180 UG3 / CUADRIMOTO TRX400 ( 6 1) VINI(FL)",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20,
-        "taller": 12,
-        "distribuidor": 10.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -18074,7 +18053,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18200,7 +18179,7 @@
         "taller": 6,
         "distribuidor": 0
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18473,7 +18452,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19271,7 +19250,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 39,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19292,7 +19271,7 @@
         "taller": 4,
         "distribuidor": 3.6
       },
-      "stock": 35,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21539,7 +21518,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23324,7 +23303,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29540,7 +29519,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 33,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29624,7 +29603,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29771,7 +29750,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30044,7 +30023,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 34,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30359,7 +30338,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30926,7 +30905,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 27,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31451,7 +31430,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35252,7 +35231,7 @@
         "taller": 3,
         "distribuidor": 2.6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35294,7 +35273,7 @@
         "taller": 4.25,
         "distribuidor": 3.6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35336,7 +35315,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37530,27 +37509,6 @@
       "activo": true
     },
     {
-      "sku": "1002811",
-      "nombre": "SELENOIDE TODAS LAS MOTOS CHINAS NAGA200 2018 CR1 GXT200",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002811.png",
-      "imagen_size": 28063,
-      "activo": true
-    },
-    {
       "sku": "1006074",
       "nombre": "SELLO BARRA 33X46X10.8 DEFENDER150",
       "marca": "MEK",
@@ -38717,8 +38675,8 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -39662,7 +39620,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40754,7 +40712,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
