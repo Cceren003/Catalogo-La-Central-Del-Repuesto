@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T00:09:49.781Z",
-  "count": 5819,
+  "generated_at": "2026-04-29T18:04:21.051Z",
+  "count": 5812,
   "productos": [
     {
       "sku": "LM120106",
@@ -2345,7 +2345,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2597,34 +2597,13 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540187513.png",
       "imagen_size": 68673,
-      "activo": true
-    },
-    {
-      "sku": "741540190335",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190335.png",
-      "imagen_size": 63806,
       "activo": true
     },
     {
@@ -2660,7 +2639,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2877,27 +2856,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190043.png",
       "imagen_size": 77371,
-      "activo": true
-    },
-    {
-      "sku": "741540100118",
-      "nombre": "BOBINA ALTA YBR125 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100118.png",
-      "imagen_size": 78608,
       "activo": true
     },
     {
@@ -3500,8 +3458,8 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3983,7 +3941,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4361,8 +4319,8 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4382,7 +4340,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4746,27 +4704,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540191029",
-      "nombre": "CABLE ACELERADOR X-BLADE 160",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540191029.png",
-      "imagen_size": 53916,
       "activo": true
     },
     {
@@ -5411,8 +5348,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5495,7 +5432,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6062,7 +5999,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6398,8 +6335,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -8351,7 +8288,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 36,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8792,7 +8729,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8813,7 +8750,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8855,7 +8792,7 @@
         "taller": 20,
         "distribuidor": 18.5
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9534,27 +9471,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS014.jpg",
       "imagen_size": 9041,
-      "activo": true
-    },
-    {
-      "sku": "RS012",
-      "nombre": "CATARINA 39T TS 185",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -10818,27 +10734,6 @@
       "activo": true
     },
     {
-      "sku": "RS043",
-      "nombre": "CATARINA 47T DT 125-175",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RS068",
       "nombre": "CATARINA 48T GXT200 / MOTO CHINA200",
       "marca": "NRP",
@@ -11753,7 +11648,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12845,7 +12740,7 @@
         "taller": 55,
         "distribuidor": 46.75
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13818,6 +13713,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189839.png",
       "imagen_size": 139510,
+      "activo": true
+    },
+    {
+      "sku": "741540188546",
+      "nombre": "CLUTCH COMPLETO CG200-70 DIENTES 6 PERNOS VINI(RC)",
+      "marca": "VINI",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 52,
+        "taller": 39.75,
+        "distribuidor": 33.5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188546.png",
+      "imagen_size": 159984,
       "activo": true
     },
     {
@@ -17549,8 +17465,8 @@
         "taller": 4.75,
         "distribuidor": 4
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18032,7 +17948,7 @@
         "taller": 5,
         "distribuidor": 4.3
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18620,7 +18536,7 @@
         "taller": 5,
         "distribuidor": 4.3
       },
-      "stock": 6,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19187,7 +19103,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 20,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19523,7 +19439,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19565,7 +19481,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19649,7 +19565,7 @@
         "taller": 5.5,
         "distribuidor": 5
       },
-      "stock": 19,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19670,7 +19586,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 54,
+      "stock": 52,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19691,7 +19607,7 @@
         "taller": 4,
         "distribuidor": 3.6
       },
-      "stock": 48,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19754,7 +19670,7 @@
         "taller": 4,
         "distribuidor": 3.4
       },
-      "stock": 23,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20447,7 +20363,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20489,7 +20405,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23597,8 +23513,8 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29130,6 +29046,27 @@
       "activo": true
     },
     {
+      "sku": "741540189667",
+      "nombre": "MANIFUL DSR200 VINI (FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 4,
+        "distribuidor": 3.4
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189667.png",
+      "imagen_size": 71893,
+      "activo": true
+    },
+    {
       "sku": "741540190167",
       "nombre": "MANIFUL GXT200 VINI",
       "marca": "VINI",
@@ -29246,8 +29183,8 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29526,6 +29463,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005991.png",
       "imagen_size": 18923,
+      "activo": true
+    },
+    {
+      "sku": "741540188613",
+      "nombre": "MONOSHOCK FREEDOM SPITZER VINI(FL)",
+      "marca": "VINI",
+      "categoria": "SUSPENCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 90,
+        "taller": 65,
+        "distribuidor": 55.3
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188613.png",
+      "imagen_size": 102937,
       "activo": true
     },
     {
@@ -30233,7 +30191,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 11,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31430,8 +31388,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31514,7 +31472,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31860,24 +31818,24 @@
       "activo": true
     },
     {
-      "sku": "741540181424",
-      "nombre": "PATA ARRANQUE VINI DT 18G (FL)",
+      "sku": "741540181423",
+      "nombre": "PATA ARRANQUE VINI UM200/DK200(FL)",
       "marca": "VINI",
       "categoria": "REPUESTOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 14,
-        "taller": 10,
-        "distribuidor": 8.5
+        "publico": 14.5,
+        "taller": 12,
+        "distribuidor": 10.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540181424.png",
-      "imagen_size": 39674,
+      "imagen": "imagenes/741540181423.png",
+      "imagen_size": 39056,
       "activo": true
     },
     {
@@ -31955,7 +31913,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33425,7 +33383,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33824,7 +33782,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35451,27 +35409,6 @@
       "activo": true
     },
     {
-      "sku": "741540190257",
-      "nombre": "RECTIFICADOR CORRIENTE FZ 2.00",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 12,
-        "distribuidor": 10.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190257.png",
-      "imagen_size": 81458,
-      "activo": true
-    },
-    {
       "sku": "741540100726",
       "nombre": "RECTIFICADOR CORRIENTE GN125 VINI",
       "marca": "VINI",
@@ -35546,7 +35483,7 @@
         "taller": 18,
         "distribuidor": 15.3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39326,8 +39263,8 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -39347,7 +39284,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -68919,28 +68856,6 @@
       "activo": true
     },
     {
-      "sku": "741540188546",
-      "nombre": "CLUTCH COMPLETO CG200 VINI",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188546.png",
-      "imagen_size": 159984,
-      "activo": true
-    },
-    {
       "sku": "741540190485",
       "nombre": "CLUTCH COMPLETO FZ16 VINI",
       "marca": "VINI",
@@ -91095,28 +91010,6 @@
       "activo": true
     },
     {
-      "sku": "741540189667",
-      "nombre": "MANIFUL DSR200 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189667.png",
-      "imagen_size": 71893,
-      "activo": true
-    },
-    {
       "sku": "741540189452",
       "nombre": "MANIFUL FORZA 150 VINI",
       "marca": "VINI",
@@ -93248,28 +93141,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190660.png",
       "imagen_size": 88554,
-      "activo": true
-    },
-    {
-      "sku": "741540188613",
-      "nombre": "MONOSHOCK FREEDOM SPITZER VINI",
-      "marca": "VINI",
-      "categoria": "SUSPENSION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188613.png",
-      "imagen_size": 102937,
       "activo": true
     },
     {
@@ -95910,28 +95781,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540100751.png",
       "imagen_size": 49826,
-      "activo": true
-    },
-    {
-      "sku": "741540181423",
-      "nombre": "PATA ARRANQUE UM200/DK200 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540181423.png",
-      "imagen_size": 39056,
       "activo": true
     },
     {
