@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T00:09:49.771Z",
-  "count": 5800,
+  "generated_at": "2026-04-30T17:53:24.252Z",
+  "count": 5794,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 9.5,
         "distribuidor": 8.9
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -938,7 +938,7 @@
         "taller": 4.75,
         "distribuidor": 4
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3668,7 +3668,7 @@
         "taller": 0.3,
         "distribuidor": 0.2
       },
-      "stock": 46,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7028,7 +7028,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 55,
+      "stock": 54,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7133,7 +7133,7 @@
         "taller": 17.5,
         "distribuidor": 15.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8568,27 +8568,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188633.png",
       "imagen_size": 88134,
-      "activo": true
-    },
-    {
-      "sku": "741540190866",
-      "nombre": "CARBURADOR HOT PARTS CG250 (3MM) VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 45,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190866.png",
-      "imagen_size": 97553,
       "activo": true
     },
     {
@@ -11879,7 +11858,7 @@
         "taller": 23,
         "distribuidor": 19.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12810,27 +12789,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189056.png",
       "imagen_size": 95705,
-      "activo": true
-    },
-    {
-      "sku": "741540100316",
-      "nombre": "CILINDRO COMPLETO BROSS 150 XR150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 97,
-        "taller": 82,
-        "distribuidor": 69.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100316.png",
-      "imagen_size": 70823,
       "activo": true
     },
     {
@@ -13958,8 +13916,8 @@
         "taller": 8,
         "distribuidor": 6.8
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18001,7 +17959,7 @@
     },
     {
       "sku": "741540189342",
-      "nombre": "FILTRO AIRE CB 160F-UNICOR-XBLADE VINI(FL)",
+      "nombre": "FILTRO AIRE CB 160F-UNICOR-XBLADE / REPSOL 190 VINI(FL)",
       "marca": "VINI",
       "categoria": "FILTROS",
       "presentacion": "UNIDAD",
@@ -22872,27 +22830,6 @@
       "activo": true
     },
     {
-      "sku": "CK043",
-      "nombre": "KIT CILINDRO COMPLETO CB 190R/XR 190L",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 100,
-        "taller": 69.5,
-        "distribuidor": 59
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CK008",
       "nombre": "KIT CILINDRO COMPLETO CB125F TWISTER MOTOR125FMI, 125CC, CADENILLA PIN12",
       "marca": "NRP",
@@ -22932,27 +22869,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000762.jpg",
       "imagen_size": 264554,
-      "activo": true
-    },
-    {
-      "sku": "1001362",
-      "nombre": "KIT CILINDRO COMPLETO CG200 196CC VARILLA PIN 15",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 60,
-        "taller": 35,
-        "distribuidor": 30
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001362.jpg",
-      "imagen_size": 102629,
       "activo": true
     },
     {
@@ -25865,7 +25781,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 54,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29067,27 +28983,6 @@
       "activo": true
     },
     {
-      "sku": "741540189100",
-      "nombre": "MONOSHOCK  YARA/DY-150 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 90,
-        "taller": 69,
-        "distribuidor": 63
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189100.png",
-      "imagen_size": 99401,
-      "activo": true
-    },
-    {
       "sku": "1005961",
       "nombre": "MONOSHOCK AKT TT200R",
       "marca": "MEK",
@@ -29645,7 +29540,7 @@
         "taller": 32,
         "distribuidor": 27.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29813,7 +29708,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 30,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29855,7 +29750,7 @@
         "taller": 3.5,
         "distribuidor": 3.1
       },
-      "stock": 11,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30338,8 +30233,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30569,7 +30464,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30926,7 +30821,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32039,7 +31934,7 @@
         "taller": 13,
         "distribuidor": 11
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33834,27 +33729,6 @@
       "activo": true
     },
     {
-      "sku": "741540189635",
-      "nombre": "PLANTA CBF160F-HUNK-HORNET160 12 NUCLEOS VINI(FL)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 45,
-        "taller": 32,
-        "distribuidor": 28
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189635.png",
-      "imagen_size": 152301,
-      "activo": true
-    },
-    {
       "sku": "741540188662",
       "nombre": "PLANTA CG125 7.5MM VINI",
       "marca": "VINI",
@@ -33929,7 +33803,7 @@
         "taller": 13,
         "distribuidor": 11
       },
-      "stock": 23,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34244,7 +34118,7 @@
         "taller": 35,
         "distribuidor": 29.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37205,7 +37079,7 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
