@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T19:57:48.830Z",
+  "generated_at": "2026-05-02T23:28:45.860Z",
   "count": 5791,
   "productos": [
     {
@@ -56,7 +56,7 @@
         "taller": 8.92,
         "distribuidor": 8.67
       },
-      "stock": 64,
+      "stock": 63,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3773,7 +3773,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3899,7 +3899,7 @@
         "taller": 1.7,
         "distribuidor": 1.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6745,7 +6745,7 @@
     },
     {
       "sku": "741540189552",
-      "nombre": "CADENA TIEMPO PULSAR 160NS VINI(FL)",
+      "nombre": "CADENA TIEMPO PULSAR 160NS VINI(FL) (PASO 2X1 51 ESLABONES)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6755,7 +6755,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7028,7 +7028,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 54,
+      "stock": 53,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11543,7 +11543,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17507,7 +17507,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17591,7 +17591,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18326,8 +18326,8 @@
         "taller": 6,
         "distribuidor": 5.1
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19460,7 +19460,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 52,
+      "stock": 51,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30128,7 +30128,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30485,7 +30485,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30779,8 +30779,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
