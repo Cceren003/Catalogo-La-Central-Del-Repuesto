@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T15:35:15.470Z",
-  "count": 5792,
+  "generated_at": "2026-05-02T19:57:48.830Z",
+  "count": 5791,
   "productos": [
     {
       "sku": "LM120106",
@@ -119,8 +119,8 @@
         "taller": 6.83,
         "distribuidor": 6.71
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1799,7 +1799,7 @@
         "taller": 2,
         "distribuidor": 1.7
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3563,7 +3563,7 @@
         "taller": 2.5,
         "distribuidor": 2.15
       },
-      "stock": 59,
+      "stock": 58,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17129,7 +17129,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19523,7 +19523,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 13,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27513,27 +27513,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-2812-22",
-      "nombre": "LLANTA AXUS 90-90-19 DOBLE PROPOSITO AX923 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 39.5,
-        "taller": 29,
-        "distribuidor": 26
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-2812-22.png",
-      "imagen_size": 112745,
-      "activo": true
-    },
-    {
       "sku": "741540189923",
       "nombre": "LLANTA VINI 100-80X17 VT 1008 (FL)",
       "marca": "VINI",
@@ -27629,7 +27608,7 @@
         "taller": 32.5,
         "distribuidor": 0
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27713,7 +27692,7 @@
         "taller": 25,
         "distribuidor": 22.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29687,7 +29666,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30527,7 +30506,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36008,7 +35987,7 @@
         "taller": 1,
         "distribuidor": 0.85
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36995,7 +36974,7 @@
         "taller": 4,
         "distribuidor": 3
       },
-      "stock": 21,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37814,7 +37793,7 @@
         "taller": 2,
         "distribuidor": 1.7
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38885,8 +38864,8 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40691,7 +40670,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
