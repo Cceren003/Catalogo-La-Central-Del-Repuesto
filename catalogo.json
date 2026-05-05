@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T00:10:40.721Z",
-  "count": 5794,
+  "generated_at": "2026-05-05T18:02:43.306Z",
+  "count": 5790,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 8.92,
         "distribuidor": 8.67
       },
-      "stock": 48,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1001,7 +1001,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1085,7 +1085,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1106,7 +1106,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1757,7 +1757,7 @@
         "taller": 2,
         "distribuidor": 1.7
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2229,6 +2229,27 @@
       "activo": true
     },
     {
+      "sku": "TS12N7-4A",
+      "nombre": "BATERIA DE GEL 12N7-4A TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29,
+        "taller": 21,
+        "distribuidor": 19.5
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "TS12N7A-3A",
       "nombre": "BATERIA DE GEL 12N7A-3A TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2283,6 +2304,27 @@
         "distribuidor": 19.5
       },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TSYTX7L-BS",
+      "nombre": "BATERIA DE GEL YTX7L-BS TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 28,
+        "taller": 19,
+        "distribuidor": 17
+      },
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,7 +2429,7 @@
         "taller": 15.5,
         "distribuidor": 13.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3500,7 +3542,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3626,7 +3668,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 65,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3668,7 +3710,7 @@
         "taller": 0.35,
         "distribuidor": 0.25
       },
-      "stock": 70,
+      "stock": 60,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4991,8 +5033,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5285,8 +5327,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5537,8 +5579,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7028,7 +7070,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 33,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8246,7 +8288,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 21,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11491,7 +11533,7 @@
     },
     {
       "sku": "741540187018",
-      "nombre": "CDI AK125 REDONDO",
+      "nombre": "CDI AK125 REDONDO ALTERNA",
       "marca": "VINI",
       "categoria": "ELECTRICOS",
       "presentacion": "UNIDAD",
@@ -12540,27 +12582,6 @@
       "activo": true
     },
     {
-      "sku": "741540100524",
-      "nombre": "CIGUEÑAL COMPLETO YBR125 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 120,
-        "taller": 80,
-        "distribuidor": 70
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100524.png",
-      "imagen_size": 98425,
-      "activo": true
-    },
-    {
       "sku": "741540189092",
       "nombre": "CIGUEÑAL FORZA 150 CR1 ASPID VINI(FL)",
       "marca": "VINI",
@@ -13587,27 +13608,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189331.png",
       "imagen_size": 111262,
-      "activo": true
-    },
-    {
-      "sku": "741540100317",
-      "nombre": "CILINDRO COMPLETO YBR125",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 89,
-        "taller": 61,
-        "distribuidor": 52
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100317.png",
-      "imagen_size": 77365,
       "activo": true
     },
     {
@@ -14672,7 +14672,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 37,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14910,27 +14910,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189206.png",
       "imagen_size": 111332,
-      "activo": true
-    },
-    {
-      "sku": "741540189215",
-      "nombre": "DISCO FRENO AK TTR200 FXR150 TRASERO VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29,
-        "taller": 22,
-        "distribuidor": 18.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189215.png",
-      "imagen_size": 111006,
       "activo": true
     },
     {
@@ -19607,7 +19586,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 46,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19628,7 +19607,7 @@
         "taller": 4,
         "distribuidor": 3.6
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23996,7 +23975,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24500,7 +24479,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27618,27 +27597,6 @@
       "activo": true
     },
     {
-      "sku": "LA1C-3301-22",
-      "nombre": "LLANTA AXUS 130-70-12 LISA AX4484 62J TL",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 37,
-        "taller": 30,
-        "distribuidor": 28
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1C-3301-22.png",
-      "imagen_size": 82763,
-      "activo": true
-    },
-    {
       "sku": "LA1B-1113-21",
       "nombre": "LLANTA AXUS 275-18 TARUGO PEQUEÑO AX270 48P TT",
       "marca": "AXUS",
@@ -28791,27 +28749,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188705.png",
       "imagen_size": 81303,
-      "activo": true
-    },
-    {
-      "sku": "1001062",
-      "nombre": "MANIFUL CHINO TODO TERRENO",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001062.jpg",
-      "imagen_size": 144313,
       "activo": true
     },
     {
@@ -31094,7 +31031,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33992,7 +33929,7 @@
         "taller": 13,
         "distribuidor": 11
       },
-      "stock": 21,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34454,7 +34391,7 @@
         "taller": 28,
         "distribuidor": 24.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35441,7 +35378,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35805,27 +35742,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003519.png",
       "imagen_size": 28139,
-      "activo": true
-    },
-    {
-      "sku": "VR004",
-      "nombre": "REGULADOR VOLTAJE BOXER 150 / PULSAR 125NS / PULSAR 135 VOLT",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 19,
-        "taller": 14,
-        "distribuidor": 12.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/VR004.jpg",
-      "imagen_size": 9234,
       "activo": true
     },
     {
@@ -41195,7 +41111,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41657,13 +41573,34 @@
         "taller": 3,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188789.png",
       "imagen_size": 33388,
+      "activo": true
+    },
+    {
+      "sku": "741540189269",
+      "nombre": "VARILLA FRENO FORZA 150",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 3
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189269.png",
+      "imagen_size": 21565,
       "activo": true
     },
     {
@@ -41678,7 +41615,7 @@
         "taller": 3,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -107737,28 +107674,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540188815.png",
       "imagen_size": 28683,
-      "activo": true
-    },
-    {
-      "sku": "741540189269",
-      "nombre": "VARILLA FRENO FORZA 150 VINI",
-      "marca": "VINI",
-      "categoria": "CATARINAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189269.png",
-      "imagen_size": 21565,
       "activo": true
     },
     {
