@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T18:02:43.306Z",
-  "count": 5790,
+  "generated_at": "2026-05-05T23:37:10.928Z",
+  "count": 5787,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 8.92,
         "distribuidor": 8.67
       },
-      "stock": 29,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1799,7 +1799,7 @@
         "taller": 2,
         "distribuidor": 1.7
       },
-      "stock": 14,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3405,6 +3405,27 @@
       "activo": true
     },
     {
+      "sku": "741540190667",
+      "nombre": "BOMBA FRENO AK TTR180 / TTX180",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 25,
+        "taller": 18,
+        "distribuidor": 15.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190667.png",
+      "imagen_size": 77662,
+      "activo": true
+    },
+    {
       "sku": "741540190823",
       "nombre": "BOMBA FRENO AK180XM-AK200XM",
       "marca": "VINI",
@@ -3794,7 +3815,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 9,
+      "stock": 59,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3815,7 +3836,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 18,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3836,7 +3857,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 8,
+      "stock": 58,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4151,7 +4172,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5054,7 +5075,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5201,7 +5222,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5558,7 +5579,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5915,7 +5936,7 @@
         "taller": 0.5,
         "distribuidor": 0.45
       },
-      "stock": 162,
+      "stock": 147,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6902,7 +6923,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7070,7 +7091,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 19,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7091,7 +7112,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 38,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7686,27 +7707,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540187988.png",
       "imagen_size": 47131,
-      "activo": true
-    },
-    {
-      "sku": "741540188503",
-      "nombre": "CAJA VELOCIMETRO YARA 200 VINI  SENSOR(FL)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 11,
-        "distribuidor": 9.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188503.png",
-      "imagen_size": 75060,
       "activo": true
     },
     {
@@ -8936,27 +8936,6 @@
       "empaque": "1*1",
       "precios": {
         "publico": 115,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "160860",
-      "nombre": "CASCO INTEGRAL SHAFT 560EVO (L, MENFIS AZUL / NARANJA)",
-      "marca": "SHAFT",
-      "categoria": "CASCOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 105,
         "taller": 0,
         "distribuidor": 0
       },
@@ -11879,7 +11858,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16635,27 +16614,6 @@
       "activo": true
     },
     {
-      "sku": "741540188601",
-      "nombre": "EJE VELOCIDAD CGL/FORZA150 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 8,
-        "distribuidor": 7
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188601.png",
-      "imagen_size": 72397,
-      "activo": true
-    },
-    {
       "sku": "741540189350",
       "nombre": "EJE VELOCIDAD GN125-GTX200-DR200",
       "marca": "VINI",
@@ -18452,8 +18410,8 @@
         "taller": 6,
         "distribuidor": 5.1
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18536,7 +18494,7 @@
         "taller": 5,
         "distribuidor": 4.3
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24218,16 +24176,16 @@
     {
       "sku": "1003578",
       "nombre": "KIT EMPAQUE GY6125 SCOOTER",
-      "marca": "MEK",
+      "marca": "MOTUL",
       "categoria": "REPUESTOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
         "publico": 0,
-        "taller": 0,
+        "taller": 6,
         "distribuidor": 0
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25424,7 +25382,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30380,7 +30338,7 @@
         "taller": 3.5,
         "distribuidor": 2.8
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30590,7 +30548,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31031,7 +30989,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31304,7 +31262,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31913,7 +31871,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31997,7 +31955,7 @@
         "taller": 4.5,
         "distribuidor": 3.8
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32046,27 +32004,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005415-2.png",
       "imagen_size": 22353,
-      "activo": true
-    },
-    {
-      "sku": "2000041",
-      "nombre": "PEDAL CAMBIO DEFENDER 200",
-      "marca": "MEK",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -34958,7 +34895,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 33,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35567,7 +35504,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38339,7 +38276,7 @@
         "taller": 12,
         "distribuidor": 10.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
