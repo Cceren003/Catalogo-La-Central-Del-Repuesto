@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T18:06:06.263Z",
-  "count": 5787,
+  "generated_at": "2026-05-05T00:10:40.721Z",
+  "count": 5794,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 8.92,
         "distribuidor": 8.67
       },
-      "stock": 62,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2345,8 +2345,8 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2366,7 +2366,7 @@
         "taller": 23.5,
         "distribuidor": 21
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3363,27 +3363,6 @@
       "activo": true
     },
     {
-      "sku": "741540190667",
-      "nombre": "BOMBA FRENO AK TTR180 / TTX180",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 25,
-        "taller": 18,
-        "distribuidor": 15.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190667.png",
-      "imagen_size": 77662,
-      "activo": true
-    },
-    {
       "sku": "741540190823",
       "nombre": "BOMBA FRENO AK180XM-AK200XM",
       "marca": "VINI",
@@ -3647,7 +3626,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 55,
+      "stock": 65,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5243,8 +5222,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5390,7 +5369,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6041,7 +6020,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6618,6 +6597,27 @@
       "activo": true
     },
     {
+      "sku": "741540100119",
+      "nombre": "CADENA TIEMPO GN 25H98 VINI FIRE150 (FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 8,
+        "distribuidor": 6.75
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540100470",
       "nombre": "CADENA TIEMPO GY6 125 VINI(FL)",
       "marca": "VINI",
@@ -7112,7 +7112,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7899,6 +7899,27 @@
       "activo": true
     },
     {
+      "sku": "741540188423",
+      "nombre": "CALIPER FRENO DEL DAKAR VINI(RC)",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 33,
+        "taller": 27,
+        "distribuidor": 23
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188423.png",
+      "imagen_size": 84481,
+      "activo": true
+    },
+    {
       "sku": "741540190526",
       "nombre": "CALIPER FRENO DELANTERO CB150",
       "marca": "VINI",
@@ -8666,7 +8687,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9989,7 +10010,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10101,27 +10122,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RS030",
-      "nombre": "CATARINA 43T SPITZER200/MOTO CHINA CON CENTRO DE YBR125/YBR125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.5,
-        "taller": 8,
-        "distribuidor": 6.75
-      },
-      "stock": 5,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS030.jpg",
-      "imagen_size": 10113,
       "activo": true
     },
     {
@@ -10962,6 +10962,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100419.png",
       "imagen_size": 108720,
+      "activo": true
+    },
+    {
+      "sku": "741540190297",
+      "nombre": "CATARINA DRACO R250",
+      "marca": "VINI",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190297.png",
+      "imagen_size": 103521,
       "activo": true
     },
     {
@@ -12761,7 +12782,7 @@
         "taller": 61,
         "distribuidor": 52
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12894,6 +12915,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100043.png",
       "imagen_size": 83813,
+      "activo": true
+    },
+    {
+      "sku": "741540100899",
+      "nombre": "CILINDRO COMPLETO CBF150-INVICTA-HUNK CADENILLA PIN 14VINI MODIFICADO 190CC",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 120,
+        "taller": 95,
+        "distribuidor": 80
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100899.png",
+      "imagen_size": 90272,
       "activo": true
     },
     {
@@ -13317,6 +13359,27 @@
       "activo": true
     },
     {
+      "sku": "741540190084",
+      "nombre": "CILINDRO COMPLETO PULSAR 125NS",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190084.png",
+      "imagen_size": 88670,
+      "activo": true
+    },
+    {
       "sku": "741540100024",
       "nombre": "CILINDRO COMPLETO PULSAR 135 VINI(FL)",
       "marca": "VINI",
@@ -13485,6 +13548,27 @@
       "activo": true
     },
     {
+      "sku": "741540190148",
+      "nombre": "CILINDRO COMPLETO XPULSE/HUNK200",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 125,
+        "taller": 95,
+        "distribuidor": 80
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190148.png",
+      "imagen_size": 83985,
+      "activo": true
+    },
+    {
       "sku": "741540189331",
       "nombre": "CILINDRO COMPLETO YARA 200 CADENILLA 196CC PIN 15 COLOR NEGRO VINI",
       "marca": "VINI",
@@ -13608,6 +13692,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189839.png",
       "imagen_size": 139510,
+      "activo": true
+    },
+    {
+      "sku": "741540111510",
+      "nombre": "CLUTCH COMPLETO CG 73 DIENTES VINI(RC)",
+      "marca": "VINI",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 52,
+        "taller": 40,
+        "distribuidor": 34
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540111510.png",
+      "imagen_size": 144191,
       "activo": true
     },
     {
@@ -14409,6 +14514,27 @@
       "activo": true
     },
     {
+      "sku": "741540188945",
+      "nombre": "DISCO CLUTCH SET GIXXER 150-GN VINI (FL)",
+      "marca": "VINI",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 15,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188945.png",
+      "imagen_size": 180575,
+      "activo": true
+    },
+    {
       "sku": "741540189145",
       "nombre": "DISCO CLUTCH SET HERO GLAMOUR/SPLENDOR VINI(FL)",
       "marca": "VINI",
@@ -14546,7 +14672,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 52,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14588,7 +14714,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15207,6 +15333,27 @@
       "activo": true
     },
     {
+      "sku": "741540190845",
+      "nombre": "DISCO FRENO PULSAR125NS/135 SPEED",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 30,
+        "taller": 23,
+        "distribuidor": 19.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190845.png",
+      "imagen_size": 98590,
+      "activo": true
+    },
+    {
       "sku": "741540189214",
       "nombre": "DISCO FRENO RTX200 TRASERA VINI(FL)",
       "marca": "VINI",
@@ -15617,7 +15764,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15890,7 +16037,7 @@
         "taller": 22,
         "distribuidor": 18.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17381,8 +17528,8 @@
         "taller": 12,
         "distribuidor": 10.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 18,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19103,7 +19250,7 @@
         "taller": 2,
         "distribuidor": 1.7
       },
-      "stock": 17,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19124,7 +19271,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 30,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19460,7 +19607,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 26,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19481,7 +19628,7 @@
         "taller": 4,
         "distribuidor": 3.6
       },
-      "stock": 20,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20583,6 +20730,27 @@
       "activo": true
     },
     {
+      "sku": "741540189761",
+      "nombre": "HERRAMIENTA DESTORNILLADOR 6.3-200",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 4.5,
+        "distribuidor": 3.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189761.png",
+      "imagen_size": 39988,
+      "activo": true
+    },
+    {
       "sku": "741540189763",
       "nombre": "HERRAMIENTA DESTORNILLADOR 8*250",
       "marca": "VINI",
@@ -20685,6 +20853,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189793.png",
       "imagen_size": 49801,
+      "activo": true
+    },
+    {
+      "sku": "741540189795",
+      "nombre": "HERRAMIENTA EXTRACTOR UNIVERSAL",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 9.5,
+        "distribuidor": 8.1
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189795.png",
+      "imagen_size": 56996,
       "activo": true
     },
     {
@@ -21696,6 +21885,27 @@
       "activo": true
     },
     {
+      "sku": "741540189821",
+      "nombre": "HERRAMIENTA VINI UÑA AJUSTE MONOSHOK 45-50MM",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 5,
+        "distribuidor": 4.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189821.png",
+      "imagen_size": 41690,
+      "activo": true
+    },
+    {
       "sku": "1005952",
       "nombre": "HULE MASA CATARINA RKS 150",
       "marca": "MEK",
@@ -21833,8 +22043,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 23,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21875,7 +22085,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23334,6 +23544,27 @@
       "activo": true
     },
     {
+      "sku": "741540188543",
+      "nombre": "KIT CUNA STORM-CBF-INVICTA-NAVI-UNICOR  VINI (FL)",
+      "marca": "VINI",
+      "categoria": "DIRECCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188543.png",
+      "imagen_size": 103399,
+      "activo": true
+    },
+    {
       "sku": "741540188504",
       "nombre": "KIT CUNA XM200/YARA200/SHINERAY200 VINI(FL)",
       "marca": "VINI",
@@ -23625,6 +23856,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005129.png",
       "imagen_size": 36810,
+      "activo": true
+    },
+    {
+      "sku": "741540100771",
+      "nombre": "KIT EMPAQUE CG150 S/CONTRAPESA VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 15,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100771.jpg",
+      "imagen_size": 7162,
       "activo": true
     },
     {
@@ -26012,7 +26264,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28857,6 +29109,27 @@
       "activo": true
     },
     {
+      "sku": "741540189100",
+      "nombre": "MONOSHOCK  YARA/DY-150 VINI (FL)",
+      "marca": "VINI",
+      "categoria": "SUSPENCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 90,
+        "taller": 69,
+        "distribuidor": 63
+      },
+      "stock": 12,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189100.png",
+      "imagen_size": 99401,
+      "activo": true
+    },
+    {
       "sku": "1005961",
       "nombre": "MONOSHOCK AKT TT200R",
       "marca": "MEK",
@@ -30023,7 +30296,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30086,7 +30359,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 19,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30107,7 +30380,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30380,7 +30653,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30590,8 +30863,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31482,6 +31755,27 @@
       "activo": true
     },
     {
+      "sku": "741540188651",
+      "nombre": "PATA PARQUEO UNI CON ARGOLLA TB-110",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 6,
+        "distribuidor": 5
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188651.png",
+      "imagen_size": 67732,
+      "activo": true
+    },
+    {
       "sku": "741540188650",
       "nombre": "PATA PARQUEO UNI. GRANDE CG-125 VINI (FL)",
       "marca": "VINI",
@@ -31745,7 +32039,7 @@
         "taller": 5,
         "distribuidor": 4.3
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33110,7 +33404,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33194,8 +33488,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33600,6 +33894,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/SC008.jpg",
       "imagen_size": 10999,
+      "activo": true
+    },
+    {
+      "sku": "741540189635",
+      "nombre": "PLANTA CBF160F-HUNK-HORNET160 12 NUCLEOS VINI(FL)",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 45,
+        "taller": 32,
+        "distribuidor": 28
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189635.png",
+      "imagen_size": 152301,
       "activo": true
     },
     {
@@ -35798,7 +36113,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 48,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35861,7 +36176,7 @@
         "taller": 1,
         "distribuidor": 0.9
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35976,6 +36291,27 @@
       "activo": true
     },
     {
+      "sku": "741540188750",
+      "nombre": "RETENEDOR 12X18X5",
+      "marca": "VINI",
+      "categoria": "RETENEDOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3,
+        "taller": 1.5,
+        "distribuidor": 1.3
+      },
+      "stock": 15,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188750.png",
+      "imagen_size": 111170,
+      "activo": true
+    },
+    {
       "sku": "741540188752",
       "nombre": "RETENEDOR 12X20X5 VINI",
       "marca": "VINI",
@@ -36050,8 +36386,8 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 18,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36141,27 +36477,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188745.png",
       "imagen_size": 114007,
-      "activo": true
-    },
-    {
-      "sku": "741540187980",
-      "nombre": "RETENEDOR 14X28X7 VINI",
-      "marca": "VINI",
-      "categoria": "RETENEDOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 2,
-        "taller": 1.75,
-        "distribuidor": 1.25
-      },
-      "stock": 20,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540187980.png",
-      "imagen_size": 106306,
       "activo": true
     },
     {
@@ -36386,7 +36701,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 37,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38108,7 +38423,7 @@
         "taller": 12,
         "distribuidor": 10.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41258,7 +41573,7 @@
         "taller": 2.25,
         "distribuidor": 1.9
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -63315,28 +63630,6 @@
       "activo": true
     },
     {
-      "sku": "741540188423",
-      "nombre": "CALIPER FRENO DEL DAKAR VINI",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188423.png",
-      "imagen_size": 84481,
-      "activo": true
-    },
-    {
       "sku": "741540189224",
       "nombre": "CALIPER FRENO DEL NAGA 200 VINI",
       "marca": "VINI",
@@ -64962,28 +65255,6 @@
       "fuente": "VINI",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540190297",
-      "nombre": "CATARINA DRACO R250 VINI",
-      "marca": "VINI",
-      "categoria": "CATARINAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190297.png",
-      "imagen_size": 103521,
       "activo": true
     },
     {
@@ -67011,28 +67282,6 @@
       "activo": true
     },
     {
-      "sku": "741540100899",
-      "nombre": "CILINDRO COMPLETO CBF150/INVICTA/HUNK VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540100899.png",
-      "imagen_size": 90272,
-      "activo": true
-    },
-    {
       "sku": "741540189529",
       "nombre": "CILINDRO COMPLETO CBR190R /XR190R /CBF190R /XRE190 VINI",
       "marca": "VINI",
@@ -67737,28 +67986,6 @@
       "activo": true
     },
     {
-      "sku": "741540190084",
-      "nombre": "CILINDRO COMPLETO PULSAR125NS VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190084.png",
-      "imagen_size": 88670,
-      "activo": true
-    },
-    {
       "sku": "741540190437",
       "nombre": "CILINDRO COMPLETO PULSAR135 HOT PARTS 150CC VINI",
       "marca": "VINI",
@@ -68067,28 +68294,6 @@
       "activo": true
     },
     {
-      "sku": "741540190148",
-      "nombre": "CILINDRO COMPLETO XPULSE/HUNK200 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190148.png",
-      "imagen_size": 83985,
-      "activo": true
-    },
-    {
       "sku": "741540100864",
       "nombre": "CILINDRO COMPLETO XR125L HOT PARTS 150CC VINI",
       "marca": "VINI",
@@ -68306,28 +68511,6 @@
       "fuente": "VINI",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540111510",
-      "nombre": "CLUTCH COMPLETO CG 73 DIENTES VINI",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540111510.png",
-      "imagen_size": 144191,
       "activo": true
     },
     {
@@ -75918,28 +76101,6 @@
       "fuente": "VINI",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189821",
-      "nombre": "HERRA/ VINI UÑA AJUSTE MONOSHOK 45MM-50MM VZ12032",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189821.png",
-      "imagen_size": 41690,
       "activo": true
     },
     {
@@ -95586,28 +95747,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190869.png",
       "imagen_size": 39415,
-      "activo": true
-    },
-    {
-      "sku": "741540188651",
-      "nombre": "PATA PARQUEO UNI CON ARGOLLA TB-110 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188651.png",
-      "imagen_size": 67732,
       "activo": true
     },
     {
