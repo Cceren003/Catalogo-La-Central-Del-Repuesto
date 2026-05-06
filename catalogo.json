@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T23:37:10.928Z",
-  "count": 5787,
+  "generated_at": "2026-05-06T18:06:43.447Z",
+  "count": 5786,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 8.92,
         "distribuidor": 8.67
       },
-      "stock": 23,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1043,7 +1043,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1085,8 +1085,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1715,7 +1715,7 @@
         "taller": 3,
         "distribuidor": 2.6
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,8 +2366,8 @@
         "taller": 22,
         "distribuidor": 22
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3710,7 +3710,7 @@
         "taller": 0.3,
         "distribuidor": 0.2
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3815,7 +3815,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 59,
+      "stock": 57,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3857,7 +3857,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 58,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10136,7 +10136,7 @@
         "taller": 7.5,
         "distribuidor": 6.4
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11406,27 +11406,6 @@
       "activo": true
     },
     {
-      "sku": "741540189278",
-      "nombre": "CATARINA YARA 200 428 46T VINI(FL)",
-      "marca": "VINI",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 11,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189278.png",
-      "imagen_size": 144439,
-      "activo": true
-    },
-    {
       "sku": "741540178108",
       "nombre": "CATARINA YBR 38T 4H VINI(FL)",
       "marca": "VINI",
@@ -11501,7 +11480,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 17,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15081,27 +15060,6 @@
       "activo": true
     },
     {
-      "sku": "1002677",
-      "nombre": "DISCO FRENO DELANTERO TODO TERRENO",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 28,
-        "taller": 20,
-        "distribuidor": 17
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002677.png",
-      "imagen_size": 22666,
-      "activo": true
-    },
-    {
       "sku": "BD012",
       "nombre": "DISCO FRENO DELANTERO XR 125-150-190L",
       "marca": "NRP",
@@ -16856,7 +16814,7 @@
         "taller": 0.45,
         "distribuidor": 0.4
       },
-      "stock": 62,
+      "stock": 56,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18464,7 +18422,7 @@
     {
       "sku": "1003235",
       "nombre": "FILTRO AIRE J101352 YBR125",
-      "marca": "MOTUL",
+      "marca": "MEK",
       "categoria": "REPUESTOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -23324,7 +23282,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23366,7 +23324,7 @@
         "taller": 5.5,
         "distribuidor": 4.7
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27660,6 +27618,27 @@
       "activo": true
     },
     {
+      "sku": "741540190992",
+      "nombre": "LLANTA VINI 100-90-18 VT2001 DOBLE PROPOSITO",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 40.5,
+        "taller": 30,
+        "distribuidor": 26.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189924",
       "nombre": "LLANTA VINI 110-90-16 VT002 LISA CARRETERA",
       "marca": "VINI",
@@ -27839,7 +27818,7 @@
         "taller": 30,
         "distribuidor": 27
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30254,7 +30233,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 49,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30338,7 +30317,7 @@
         "taller": 3.5,
         "distribuidor": 2.8
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30569,7 +30548,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30737,7 +30716,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31136,7 +31115,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 21,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34895,7 +34874,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 29,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35525,7 +35504,7 @@
         "taller": 4.25,
         "distribuidor": 3.6
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35609,7 +35588,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35777,7 +35756,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
