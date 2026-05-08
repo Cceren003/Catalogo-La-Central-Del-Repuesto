@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T16:58:58.084Z",
-  "count": 5775,
+  "generated_at": "2026-05-08T20:38:17.068Z",
+  "count": 5770,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,8 +77,8 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2681,7 +2681,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6219,27 +6219,6 @@
       "activo": true
     },
     {
-      "sku": "741540188713",
-      "nombre": "CABLE VELOCIMETRO GY-125",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.75,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188713.png",
-      "imagen_size": 74651,
-      "activo": true
-    },
-    {
       "sku": "741540100423",
       "nombre": "CABLE VELOCIMETRO HONDA STORM-XR150 VINI(FL)",
       "marca": "VINI",
@@ -7427,7 +7406,7 @@
         "taller": 44.25,
         "distribuidor": 38.25
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8571,27 +8550,6 @@
       "activo": true
     },
     {
-      "sku": "1003575",
-      "nombre": "CARBURADOR GY6 125SCOOTER",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 44,
-        "taller": 28,
-        "distribuidor": 23.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003575.jpg",
-      "imagen_size": 356637,
-      "activo": true
-    },
-    {
       "sku": "1002590",
       "nombre": "CARBURADOR GY6 150 SCOOTER",
       "marca": "MEK",
@@ -8771,7 +8729,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11480,7 +11438,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13790,7 +13748,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16772,7 +16730,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18284,7 +18242,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18704,7 +18662,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19145,7 +19103,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 24,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19785,27 +19743,6 @@
       "activo": true
     },
     {
-      "sku": "741540189643",
-      "nombre": "GUIA CADENA TIEMPO SET CRUX110",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189643.png",
-      "imagen_size": 67171,
-      "activo": true
-    },
-    {
       "sku": "741540100263",
       "nombre": "GUIA CADENA TIEMPO SET DK150 / 200 VINI FIRE (FL)",
       "marca": "VINI",
@@ -20258,7 +20195,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21770,7 +21707,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22956,27 +22893,6 @@
       "activo": true
     },
     {
-      "sku": "CK007",
-      "nombre": "KIT CILINDRO COMPLETO FZN 150 DA (FZS 3.0 / FZ 2.0)",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 95,
-        "taller": 79,
-        "distribuidor": 67.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/CK007.jpg",
-      "imagen_size": 8711,
-      "activo": true
-    },
-    {
       "sku": "CK044",
       "nombre": "KIT CILINDRO COMPLETO MOTOR CRF230 166MM, 223CC CADENILLA PIN 15 TORNADO 250",
       "marca": "NRP",
@@ -24143,7 +24059,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26673,27 +26589,6 @@
       "activo": true
     },
     {
-      "sku": "741540100472",
-      "nombre": "KIT VALVULA GY6 150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16,
-        "taller": 10.75,
-        "distribuidor": 9.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100472.png",
-      "imagen_size": 63009,
-      "activo": true
-    },
-    {
       "sku": "741540189897",
       "nombre": "KIT VALVULA HUNK 200 VINI",
       "marca": "VINI",
@@ -28665,6 +28560,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188676.png",
       "imagen_size": 109336,
+      "activo": true
+    },
+    {
+      "sku": "741540189664",
+      "nombre": "MANIFUL PULSAR 180/220 VINI (FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.75,
+        "taller": 4.5,
+        "distribuidor": 4
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189664.png",
+      "imagen_size": 94538,
       "activo": true
     },
     {
@@ -37604,7 +37520,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 16,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38052,27 +37968,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004949-2.jpg",
       "imagen_size": 134383,
-      "activo": true
-    },
-    {
-      "sku": "741540100817",
-      "nombre": "SET RAYO DT125 TRAS #21",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22,
-        "taller": 12,
-        "distribuidor": 10.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100817.png",
-      "imagen_size": 50802,
       "activo": true
     },
     {
