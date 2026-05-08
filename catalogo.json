@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T00:07:57.068Z",
-  "count": 5776,
+  "generated_at": "2026-05-08T16:58:58.084Z",
+  "count": 5775,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4844,8 +4844,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7091,7 +7091,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 36,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7133,7 +7133,7 @@
         "taller": 35,
         "distribuidor": 30
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14273,7 +14273,7 @@
         "taller": 15,
         "distribuidor": 13
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27555,27 +27555,6 @@
       "activo": true
     },
     {
-      "sku": "741540189924",
-      "nombre": "LLANTA VINI 110-90-16 VT002 LISA CARRETERA",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 41.5,
-        "taller": 32,
-        "distribuidor": 30
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189924.png",
-      "imagen_size": 66449,
-      "activo": true
-    },
-    {
       "sku": "741540190994",
       "nombre": "LLANTA VINI 110-90-17 VT 2003",
       "marca": "VINI",
@@ -28109,8 +28088,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 8,
-        "taller": 5.25,
-        "distribuidor": 4.75
+        "taller": 4.5,
+        "distribuidor": 4
       },
       "stock": 5,
       "stock_status": "low_stock",
@@ -29666,7 +29645,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 11,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30422,7 +30401,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35798,7 +35777,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 30,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
