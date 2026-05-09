@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T15:38:34.979Z",
-  "count": 5768,
+  "generated_at": "2026-05-09T20:01:47.179Z",
+  "count": 5776,
   "productos": [
     {
       "sku": "LM120106",
@@ -1757,7 +1757,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2625,6 +2625,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100116.png",
       "imagen_size": 42734,
+      "activo": true
+    },
+    {
+      "sku": "741540189326",
+      "nombre": "BENDIX ARRANQUE NAVI-NOVA 110",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 20.75,
+        "taller": 18,
+        "distribuidor": 15.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -4466,7 +4487,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6335,7 +6356,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7049,7 +7070,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9926,7 +9947,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12186,12 +12207,12 @@
       "sku": "741540188280",
       "nombre": "CENTRO CLUTCH COMPLETO CG125/ SL125-3C VINI(FL)",
       "marca": "VINI",
-      "categoria": "MOTOR",
+      "categoria": "EMBRAGUE",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
         "publico": 26.75,
-        "taller": 20.25,
+        "taller": 20,
         "distribuidor": 17.5
       },
       "stock": 3,
@@ -14483,7 +14504,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14567,7 +14588,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 35,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19533,6 +19554,27 @@
       "activo": true
     },
     {
+      "sku": "2000010",
+      "nombre": "GUARDAFANGO DELANTERO GN150",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 27,
+        "taller": 17,
+        "distribuidor": 14.5
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/2000010.png",
+      "imagen_size": 55259,
+      "activo": true
+    },
+    {
       "sku": "1005523",
       "nombre": "GUARDAFANGO DELANTERO NEGRO CR1",
       "marca": "MEK",
@@ -19572,27 +19614,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006325.png",
       "imagen_size": 12704,
-      "activo": true
-    },
-    {
-      "sku": "1000820",
-      "nombre": "GUARDAFANGO DELANTERO NEGRO YBR125G",
-      "marca": "MEK",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 11,
-        "distribuidor": 9
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000820.jpg",
-      "imagen_size": 774037,
       "activo": true
     },
     {
@@ -27198,6 +27219,27 @@
       "activo": true
     },
     {
+      "sku": "LA1C-3401-22",
+      "nombre": "LLANTA AXUS 100-90-10 NAVI AX2238 6PR TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 33.5,
+        "taller": 20,
+        "distribuidor": 18
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "LA1A-1201-22",
       "nombre": "LLANTA AXUS 100-90-18 LISA AX827 6PR TL TUBULAR",
       "marca": "AXUS",
@@ -27209,13 +27251,34 @@
         "taller": 32,
         "distribuidor": 29
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-1201-22.png",
       "imagen_size": 107873,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3501-22",
+      "nombre": "LLANTA AXUS 110-70-17 LISA AX30F",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 41,
+        "taller": 30,
+        "distribuidor": 28
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3501-22.png",
+      "imagen_size": 68310,
       "activo": true
     },
     {
@@ -27237,6 +27300,69 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3502-22.png",
       "imagen_size": 72423,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3703-22",
+      "nombre": "LLANTA AXUS 110-90-16 DOBLE PROPOSITO AX9184 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 44,
+        "taller": 33,
+        "distribuidor": 31
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3703-22.png",
+      "imagen_size": 96042,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-2729-22",
+      "nombre": "LLANTA AXUS 110-90-16 LISA P265 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 42,
+        "taller": 32,
+        "distribuidor": 30
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2729-22.png",
+      "imagen_size": 82660,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3701-22",
+      "nombre": "LLANTA AXUS 110-90-17 DOBLE PROPOSITO AX9184 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 46,
+        "taller": 32.5,
+        "distribuidor": 30.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3701-22.png",
+      "imagen_size": 96196,
       "activo": true
     },
     {
@@ -27282,6 +27408,153 @@
       "activo": true
     },
     {
+      "sku": "LA1A-1332-22",
+      "nombre": "LLANTA AXUS 120-80-17 LISA AX031 6PR TL PULSAR TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 47,
+        "taller": 33.5,
+        "distribuidor": 31.5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-1332-22.png",
+      "imagen_size": 118021,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-2813-22",
+      "nombre": "LLANTA AXUS 120-90-18 DOBLE PROPOSITO",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 49.5,
+        "taller": 37,
+        "distribuidor": 33.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2813-22.png",
+      "imagen_size": 110786,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3507-22",
+      "nombre": "LLANTA AXUS 130-70-17 LISA AX30 66S TL DEPORTIVAS",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 48,
+        "taller": 36,
+        "distribuidor": 34.5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3507-22.png",
+      "imagen_size": 76331,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3505-22",
+      "nombre": "LLANTA AXUS 140-60-17 LISA AX30F 6PR RADIAL FZ16 TRASERA",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 49,
+        "taller": 39,
+        "distribuidor": 37
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3801-22",
+      "nombre": "LLANTA AXUS 140-70-14 LISA DEPORTIVA AX9440",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 49.5,
+        "taller": 37,
+        "distribuidor": 35
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3801-22.png",
+      "imagen_size": 54692,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3506-22",
+      "nombre": "LLANTA AXUS 140-70-17 LISA AX30 DEPORTIVAS",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 51,
+        "taller": 39.75,
+        "distribuidor": 37.75
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0703-22",
+      "nombre": "LLANTA AXUS 275-18 LISA AX4418 REFORZADA",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 37,
+        "taller": 25,
+        "distribuidor": 23
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0703-22.png",
+      "imagen_size": 84066,
+      "activo": true
+    },
+    {
       "sku": "LA1B-1113-21",
       "nombre": "LLANTA AXUS 275-18 TARUGO PEQUEÑO AX270 48P TT",
       "marca": "AXUS",
@@ -27300,6 +27573,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1B-1113-21.png",
       "imagen_size": 84327,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0901-22",
+      "nombre": "LLANTA AXUS 300-17LISA AX1155 6PR TL TUBULAR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 38.75,
+        "taller": 28,
+        "distribuidor": 26
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0901-22.png",
+      "imagen_size": 90623,
       "activo": true
     },
     {
@@ -27345,6 +27639,111 @@
       "activo": true
     },
     {
+      "sku": "LA1A-3602-22",
+      "nombre": "LLANTA AXUS 460-17 LISA AX7231 58P UNICORN",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 46,
+        "taller": 35,
+        "distribuidor": 33
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3602-22.png",
+      "imagen_size": 92899,
+      "activo": true
+    },
+    {
+      "sku": "LA1C-3501-22",
+      "nombre": "LLANTA AXUS 90-90-12 SCOOTER NAVI AX2281 6PR/TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29.75,
+        "taller": 22,
+        "distribuidor": 19.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3705-22",
+      "nombre": "LLANTA AXUS 90-90-17 DOBLE PROPOSITO AX9184",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 40.5,
+        "taller": 29,
+        "distribuidor": 26
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3705-22.png",
+      "imagen_size": 96217,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0701-22",
+      "nombre": "LLANTA AXUS 90-90-17 LISA AX4418 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 40,
+        "taller": 30,
+        "distribuidor": 28
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0701-22.png",
+      "imagen_size": 83896,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-2810-22",
+      "nombre": "LLANTA AXUS 90-90-18 DOBLE  PROPOSITO AX923 6PR TL  TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 37.75,
+        "taller": 29,
+        "distribuidor": 26.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2810-22.png",
+      "imagen_size": 112048,
+      "activo": true
+    },
+    {
       "sku": "LA1A-0702-22",
       "nombre": "LLANTA AXUS 90-90-18 LISA AX4418 DESPORTIVAS",
       "marca": "AXUS",
@@ -27356,13 +27755,34 @@
         "taller": 30,
         "distribuidor": 28
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0702-22.png",
       "imagen_size": 85845,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-2812-22",
+      "nombre": "LLANTA AXUS 90-90-19 DOBLE PROPOSITO AX923 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 39.5,
+        "taller": 29,
+        "distribuidor": 26
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2812-22.png",
+      "imagen_size": 112745,
       "activo": true
     },
     {
@@ -29456,7 +29876,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29960,7 +30380,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 40,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33614,7 +34034,7 @@
         "taller": 29,
         "distribuidor": 24.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41160,27 +41580,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001712.png",
       "imagen_size": 30152,
-      "activo": true
-    },
-    {
-      "sku": "741540189326",
-      "nombre": "VENDIX ARRANQUE NAVI 110",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20.75,
-        "taller": 18,
-        "distribuidor": 15.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -115157,28 +115556,6 @@
       "activo": true
     },
     {
-      "sku": "2000010",
-      "nombre": "GUARDAFANGO DELANTERO GN150 ASPID FIRE Actualización: 11-02-26 PRECIO STOCKCODIGOIMAGENANOTACIONESDESCRIPCIONGRUPO",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/2000010.png",
-      "imagen_size": 55259,
-      "activo": true
-    },
-    {
       "sku": "2000001",
       "nombre": "GUARDAFANGO DELANTERO NAGA200 NEGRO/ROJO",
       "marca": "MEK",
@@ -124045,50 +124422,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-3801-22",
-      "nombre": "LLANTA AXUS 140/70-14 LISA AX9440 68S TL REFORZADA",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-3801-22.png",
-      "imagen_size": 54692,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-3703-22",
-      "nombre": "LLANTA AXUS 110/90-16 DOBLE PROPOSITO AX9184 65P TL REFORZADA 639Lbs 150Km/h",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-3703-22.png",
-      "imagen_size": 96042,
-      "activo": true
-    },
-    {
       "sku": "LA1B-1140-21",
       "nombre": "LLANTA AXUS 110/90-16 TRACTORA AX270 65P TT REFORZADA 639Lbs 150Km/h",
       "marca": "AXUS",
@@ -124155,28 +124488,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-0701-22",
-      "nombre": "LLANTA AXUS 90/90-17 LISA AX4418 56P TL REFORZADA",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-0701-22.png",
-      "imagen_size": 83896,
-      "activo": true
-    },
-    {
       "sku": "LA1A-0905-22",
       "nombre": "LLANTA AXUS 90/90-17 LISA AX1155 56P TL REFORZADA",
       "marca": "AXUS",
@@ -124196,28 +124507,6 @@
       "fuente": "AXUS",
       "imagen": "imagenes/LA1A-0905-22.png",
       "imagen_size": 89710,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-3705-22",
-      "nombre": "Llanta AXUS 90/90-17 DOBLE PROPOSITO AX9184 56P TL REFORZADA 494 Lbs 150Km/h",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-3705-22.png",
-      "imagen_size": 96217,
       "activo": true
     },
     {
@@ -124309,28 +124598,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-3701-22",
-      "nombre": "LLANTA AXUS 110/90-17 DOBLE PROPOSITO AX9184 66P TL REFORZADA 661Lbs 150Km/h",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-3701-22.png",
-      "imagen_size": 96196,
-      "activo": true
-    },
-    {
       "sku": "LA1A-2808-22",
       "nombre": "Llanta AXUS 110/90-17 DOBLE PROPOSITO AX923 66P TL REFORZADA 661Lbs 150Km/h",
       "marca": "AXUS",
@@ -124416,50 +124683,6 @@
       "fuente": "AXUS",
       "imagen": "imagenes/LA1A-3341-12.png",
       "imagen_size": 72575,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-3507-22",
-      "nombre": "LLANTA AXUS 130/70-17 LISA AX30 66S TL REFORZADA 660Lbs",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-3507-22.png",
-      "imagen_size": 76331,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-3602-22",
-      "nombre": "LLANTA AXUS 460-17 DOBLE PROPOSITO AX7231 68P TL REFORZADA UNICORN 694Lbs",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-3602-22.png",
-      "imagen_size": 92899,
       "activo": true
     },
     {
@@ -124592,72 +124815,6 @@
       "fuente": "AXUS",
       "imagen": "imagenes/LA1A-3702-22.png",
       "imagen_size": 96279,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-2810-22",
-      "nombre": "LLANTA AXUS 90/90-18 DOBLE PROPOSITO AX923 57R TL REFORZADA 507Lbs 170Km/h",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-2810-22.png",
-      "imagen_size": 112048,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-2813-22",
-      "nombre": "Llanta AXUS 120/90-18 DOBLE PROPOSITO AX923 71M TL REFORZADA 760 Lbs 130 Km/h KATANA SMX200",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-2813-22.png",
-      "imagen_size": 110786,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-0703-22",
-      "nombre": "LLANTA AXUS 275-18 LISA AX4418 48P TL REFORZADA",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-0703-22.png",
-      "imagen_size": 84066,
       "activo": true
     },
     {
