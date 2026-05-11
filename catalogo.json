@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T19:18:16.645Z",
-  "count": 5764,
+  "generated_at": "2026-05-11T21:09:59.125Z",
+  "count": 5757,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 70,
+      "stock": 64,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13443,27 +13443,6 @@
       "activo": true
     },
     {
-      "sku": "741540190148",
-      "nombre": "CILINDRO COMPLETO XPULSE/HUNK200",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 125,
-        "taller": 95,
-        "distribuidor": 80
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190148.png",
-      "imagen_size": 83985,
-      "activo": true
-    },
-    {
       "sku": "741540189331",
       "nombre": "CILINDRO COMPLETO YARA 200 CADENILLA 196CC PIN 15 COLOR NEGRO VINI",
       "marca": "VINI",
@@ -18158,7 +18137,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18284,7 +18263,7 @@
         "taller": 5.25,
         "distribuidor": 4.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20016,27 +19995,6 @@
       "activo": true
     },
     {
-      "sku": "741540189784",
-      "nombre": "HERRAMIENTA BOMBA ACEITERA",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.5,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189784.png",
-      "imagen_size": 41144,
-      "activo": true
-    },
-    {
       "sku": "741540189807",
       "nombre": "HERRAMIENTA BROCA DE IMPACTO",
       "marca": "VINI",
@@ -20478,27 +20436,6 @@
       "activo": true
     },
     {
-      "sku": "741540189764",
-      "nombre": "HERRAMIENTA DESTORNILLADOR 8-250",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189764.png",
-      "imagen_size": 36921,
-      "activo": true
-    },
-    {
       "sku": "741540189750",
       "nombre": "HERRAMIENTA EXTENSION T 8MM VINI",
       "marca": "VINI",
@@ -20510,7 +20447,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20657,7 +20594,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21087,27 +21024,6 @@
       "activo": true
     },
     {
-      "sku": "741540189783",
-      "nombre": "HERRAMIENTA VINI EXTRACTOR DE BUJIA UNIVER",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.5,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189783.png",
-      "imagen_size": 56640,
-      "activo": true
-    },
-    {
       "sku": "741540191004",
       "nombre": "HERRAMIENTA VINI EXTRACTOR DE CUNA UNIVERSAL 32 MM",
       "marca": "VINI",
@@ -21497,34 +21413,13 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189752.png",
       "imagen_size": 32208,
-      "activo": true
-    },
-    {
-      "sku": "741540189753",
-      "nombre": "HERRAMIENTA VINI LLAVE T 14MM",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.5,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189753.png",
-      "imagen_size": 32451,
       "activo": true
     },
     {
@@ -21546,27 +21441,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189749.png",
       "imagen_size": 32522,
-      "activo": true
-    },
-    {
-      "sku": "741540189751",
-      "nombre": "HERRAMIENTA VINI LLAVE T EXTENSION",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189751.png",
-      "imagen_size": 32548,
       "activo": true
     },
     {
@@ -23009,7 +22883,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25067,7 +24941,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26439,27 +26313,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100471.png",
       "imagen_size": 42628,
-      "activo": true
-    },
-    {
-      "sku": "741540189897",
-      "nombre": "KIT VALVULA HUNK 200 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 25,
-        "taller": 17,
-        "distribuidor": 14
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189897.png",
-      "imagen_size": 36098,
       "activo": true
     },
     {
