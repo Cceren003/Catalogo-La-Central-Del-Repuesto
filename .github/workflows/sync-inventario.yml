@@ -26,6 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      deployments: write
 
     steps:
       - name: Checkout
@@ -48,6 +49,7 @@ jobs:
         run: node sync.js
 
       - name: Check for changes and commit
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -56,6 +58,7 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "✓ Sin cambios en catalogo.json — no se hace commit"
+            echo "changed=false" >> $GITHUB_OUTPUT
             exit 0
           fi
 
@@ -67,3 +70,15 @@ jobs:
 
           git push
           echo "✓ catalogo.json actualizado y pusheado"
+          echo "changed=true" >> $GITHUB_OUTPUT
+
+      # Deploy a Cloudflare Pages solo si catalogo.json cambió.
+      # El commit lleva [skip ci] para no disparar el workflow deploy-cloudflare-pages;
+      # acá lo deployamos directo desde el checkout que ya tiene los datos frescos.
+      - name: Deploy to Cloudflare Pages
+        if: steps.commit.outputs.changed == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          command: pages deploy . --project-name=lacentraldelrepuesto --branch=main --commit-dirty=true
