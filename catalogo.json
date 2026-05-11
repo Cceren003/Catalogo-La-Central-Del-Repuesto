@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T23:38:00.276Z",
-  "count": 5773,
+  "generated_at": "2026-05-11T19:18:16.645Z",
+  "count": 5764,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 40,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -94,11 +94,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8,
-        "taller": 7.67,
+        "publico": 9,
+        "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 95,
+      "stock": 70,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3605,7 +3605,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 56,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4760,8 +4760,8 @@
         "taller": 3.5,
         "distribuidor": 2.5
       },
-      "stock": 10,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -12099,27 +12099,6 @@
       "activo": true
     },
     {
-      "sku": "741540190374",
-      "nombre": "CENTRO CLUTCH  YBR125 COMPLETA",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 85.25,
-        "taller": 75,
-        "distribuidor": 65
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190374.png",
-      "imagen_size": 56471,
-      "activo": true
-    },
-    {
       "sku": "741540189912",
       "nombre": "CENTRO CLUTCH BOXER BM150",
       "marca": "VINI",
@@ -12590,8 +12569,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 81.75,
-        "taller": 67,
-        "distribuidor": 57.75
+        "taller": 55,
+        "distribuidor": 46.75
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -13692,27 +13671,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003567.png",
       "imagen_size": 41724,
-      "activo": true
-    },
-    {
-      "sku": "1003089",
-      "nombre": "CLUTCH TRASERO COMPLETO GY6",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 45,
-        "taller": 35,
-        "distribuidor": 30
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003089.jpg",
-      "imagen_size": 317169,
       "activo": true
     },
     {
@@ -17297,7 +17255,7 @@
         "taller": 14,
         "distribuidor": 12.25
       },
-      "stock": 18,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19477,11 +19435,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1.5,
-        "taller": 1,
-        "distribuidor": 0.5
+        "publico": 0.4,
+        "taller": 0.3,
+        "distribuidor": 0.2
       },
-      "stock": 15,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19523,7 +19481,7 @@
         "taller": 17,
         "distribuidor": 14.5
       },
-      "stock": 5,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22599,27 +22557,6 @@
       "activo": true
     },
     {
-      "sku": "1006292",
-      "nombre": "KIT BARRAS FREEDOM CR1-CR2-AKT EVO150",
-      "marca": "MEK",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 100,
-        "taller": 75,
-        "distribuidor": 64
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540189537",
       "nombre": "KIT BIELA PULSAR 160NS",
       "marca": "VINI",
@@ -23030,7 +22967,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23272,7 +23209,7 @@
     },
     {
       "sku": "741540188543",
-      "nombre": "KIT CUNA STORM-CBF-INVICTA-NAVI-UNICOR  VINI (FL)",
+      "nombre": "KIT CUNA STORM-CBF-INVICTA-NAVI-UNICOR / KATANA MK1 VINI (FL)",
       "marca": "VINI",
       "categoria": "DIRECCION",
       "presentacion": "UNIDAD",
@@ -23282,7 +23219,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24213,27 +24150,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189823.png",
       "imagen_size": 87876,
-      "activo": true
-    },
-    {
-      "sku": "741540188374",
-      "nombre": "KIT EMPAQUE YBR125 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9.25,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188374.png",
-      "imagen_size": 108316,
       "activo": true
     },
     {
@@ -27188,7 +27104,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27219,27 +27135,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-3501-22",
-      "nombre": "LLANTA AXUS 110-70-17 LISA AX30F",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 41,
-        "taller": 30,
-        "distribuidor": 28
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3501-22.png",
-      "imagen_size": 68310,
-      "activo": true
-    },
-    {
       "sku": "LA1A-3502-22",
       "nombre": "LLANTA AXUS 110-80-17 LISA  AX30F 6PR TUBULAR",
       "marca": "AXUS",
@@ -27258,27 +27153,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3502-22.png",
       "imagen_size": 72423,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-3703-22",
-      "nombre": "LLANTA AXUS 110-90-16 DOBLE PROPOSITO AX9184 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 44,
-        "taller": 33,
-        "distribuidor": 31
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3703-22.png",
-      "imagen_size": 96042,
       "activo": true
     },
     {
@@ -27314,7 +27188,7 @@
         "taller": 32.5,
         "distribuidor": 30.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27419,7 +27293,7 @@
         "taller": 36,
         "distribuidor": 34.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27482,7 +27356,7 @@
         "taller": 39.75,
         "distribuidor": 37.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27503,7 +27377,7 @@
         "taller": 25,
         "distribuidor": 23
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27545,7 +27419,7 @@
         "taller": 28,
         "distribuidor": 26
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27660,27 +27534,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-0701-22",
-      "nombre": "LLANTA AXUS 90-90-17 LISA AX4418 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 40,
-        "taller": 30,
-        "distribuidor": 28
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0701-22.png",
-      "imagen_size": 83896,
-      "activo": true
-    },
-    {
       "sku": "LA1A-2810-22",
       "nombre": "LLANTA AXUS 90-90-18 DOBLE  PROPOSITO AX923 6PR TL  TUBULAR",
       "marca": "AXUS",
@@ -27692,7 +27545,7 @@
         "taller": 29,
         "distribuidor": 26.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27741,27 +27594,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-2812-22.png",
       "imagen_size": 112745,
-      "activo": true
-    },
-    {
-      "sku": "741540189923",
-      "nombre": "LLANTA VINI 100-80X17 VT 1008 (FL)",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 43,
-        "taller": 31,
-        "distribuidor": 29
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -27860,7 +27692,7 @@
         "taller": 26,
         "distribuidor": 23
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27923,7 +27755,7 @@
         "taller": 30,
         "distribuidor": 27
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30611,7 +30443,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33925,12 +33757,12 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 25.25,
-        "taller": 14.75,
-        "distribuidor": 12.75
+        "publico": 25,
+        "taller": 13,
+        "distribuidor": 11.5
       },
-      "stock": 18,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34391,7 +34223,7 @@
         "taller": 28,
         "distribuidor": 24
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35448,27 +35280,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100727.png",
       "imagen_size": 70571,
-      "activo": true
-    },
-    {
-      "sku": "1002412",
-      "nombre": "REFLECTOR OJO DE GATO UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 2.25,
-        "taller": 1.75,
-        "distribuidor": 1.25
-      },
-      "stock": 12,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002412.png",
-      "imagen_size": 25057,
       "activo": true
     },
     {
@@ -36953,7 +36764,7 @@
         "taller": 4,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37940,7 +37751,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40985,7 +40796,7 @@
         "taller": 10.5,
         "distribuidor": 9.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
