@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T00:13:58.962Z",
-  "count": 5777,
+  "generated_at": "2026-05-12T19:21:42.316Z",
+  "count": 5775,
   "productos": [
     {
       "sku": "LM120106",
@@ -24,27 +24,6 @@
       "activo": true
     },
     {
-      "sku": "LM120202",
-      "nombre": "ACEITE BAJAJ 20W50 1.2 LITROS",
-      "marca": "BAJAJ",
-      "categoria": "ACEITES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 9.75,
-        "distribuidor": 9.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "LM120103",
       "nombre": "ACEITE MOTUL 10W40 5100 4T SEMI SINTETICO",
       "marca": "MOTUL",
@@ -56,8 +35,8 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 13,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -476,8 +455,8 @@
         "taller": 2.5,
         "distribuidor": 1.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1106,7 +1085,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1400,7 +1379,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1841,7 +1820,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1862,7 +1841,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2723,7 +2702,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3553,7 +3532,7 @@
     },
     {
       "sku": "741540190693",
-      "nombre": "BOMBA FRENO DELANTERA GIXXER VINI",
+      "nombre": "BOMBA FRENO DELANTERA GIXXER 150 VINI",
       "marca": "VINI",
       "categoria": "FRENOS",
       "presentacion": "UNIDAD",
@@ -4172,7 +4151,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4256,7 +4235,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 36,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4340,7 +4319,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4550,7 +4529,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 26,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4571,7 +4550,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4613,7 +4592,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4655,7 +4634,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4676,7 +4655,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4697,7 +4676,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4844,7 +4823,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5201,7 +5180,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 20,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5348,7 +5327,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5411,7 +5390,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5600,7 +5579,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8456,7 +8435,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8477,7 +8456,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11669,7 +11648,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12110,7 +12089,7 @@
         "taller": 22,
         "distribuidor": 18.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14126,7 +14105,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 5,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20541,27 +20520,6 @@
       "activo": true
     },
     {
-      "sku": "741540189767",
-      "nombre": "HERRAMIENTA CUBO IMPACTO 10MM",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.5,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189767.png",
-      "imagen_size": 65075,
-      "activo": true
-    },
-    {
       "sku": "741540189768",
       "nombre": "HERRAMIENTA CUBO IMPACTO 12MM",
       "marca": "VINI",
@@ -23027,8 +22985,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 84,
-        "taller": 55,
-        "distribuidor": 46.75
+        "taller": 49,
+        "distribuidor": 45.5
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -23324,7 +23282,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 19,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25340,7 +25298,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30569,7 +30527,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31913,7 +31871,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
