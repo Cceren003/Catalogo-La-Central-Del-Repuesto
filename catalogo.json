@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T19:21:42.316Z",
-  "count": 5775,
+  "generated_at": "2026-05-13T00:16:36.363Z",
+  "count": 5776,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 64,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -959,7 +959,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2219,8 +2219,8 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2262,6 +2262,69 @@
         "distribuidor": 23
       },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TSLB6.5L-BS",
+      "nombre": "BATERIA DE GEL LB6.5L-BS TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29,
+        "taller": 19,
+        "distribuidor": 17.5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TSYTX4L-BS",
+      "nombre": "BATERIA DE GEL YTX4L-BS TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 25,
+        "taller": 14.9,
+        "distribuidor": 13.75
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TSYTX5L-BS",
+      "nombre": "BATERIA DE GEL YTX5L-BS TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29,
+        "taller": 18,
+        "distribuidor": 16
+      },
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2646,27 +2709,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540187513.png",
       "imagen_size": 68673,
-      "activo": true
-    },
-    {
-      "sku": "741540190335",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190335.png",
-      "imagen_size": 63806,
       "activo": true
     },
     {
@@ -3920,7 +3962,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 26,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7343,7 +7385,7 @@
         "taller": 17.5,
         "distribuidor": 15.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8456,7 +8498,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15302,7 +15344,7 @@
         "taller": 28.5,
         "distribuidor": 23.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17115,27 +17157,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188675.png",
       "imagen_size": 39289,
-      "activo": true
-    },
-    {
-      "sku": "741540165229",
-      "nombre": "ESPEJO SET 10MM (11139-063-001) VINI RH-RH(FL)",
-      "marca": "VINI",
-      "categoria": "ESPEJOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.25,
-        "taller": 6,
-        "distribuidor": 4.25
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540165229.png",
-      "imagen_size": 70921,
       "activo": true
     },
     {
@@ -22137,27 +22158,6 @@
       "activo": true
     },
     {
-      "sku": "WD007",
-      "nombre": "HULE MASA TRASERA FIRE 125-150 / DEFENDER200 / APACHE RTR 160-180-200 / GN125",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/WD007.jpg",
-      "imagen_size": 8220,
-      "activo": true
-    },
-    {
       "sku": "WD011",
       "nombre": "HULE MASA TRASERA FZN150/FZN250/YZF R 3/YZF R15",
       "marca": "NRP",
@@ -25676,8 +25676,8 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -27986,7 +27986,7 @@
         "taller": 33,
         "distribuidor": 30
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28427,7 +28427,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 49,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28616,7 +28616,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30464,7 +30464,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 35,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35522,7 +35522,7 @@
       "empaque": "1*1",
       "precios": {
         "publico": 14,
-        "taller": 10.25,
+        "taller": 10,
         "distribuidor": 9
       },
       "stock": 10,
@@ -36155,7 +36155,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 35,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38433,6 +38433,27 @@
       "activo": true
     },
     {
+      "sku": "741540100817",
+      "nombre": "SET RAYO DT125 TRAS #21",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22,
+        "taller": 12,
+        "distribuidor": 10.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100817.png",
+      "imagen_size": 50802,
+      "activo": true
+    },
+    {
       "sku": "741540100128",
       "nombre": "SET RAYOS 18DK VINI",
       "marca": "VINI",
@@ -38444,7 +38465,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41069,7 +41090,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
