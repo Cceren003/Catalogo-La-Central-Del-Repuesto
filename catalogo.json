@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T19:23:08.080Z",
-  "count": 5767,
+  "generated_at": "2026-05-14T22:12:33.380Z",
+  "count": 5763,
   "productos": [
     {
       "sku": "LM120106",
@@ -1064,7 +1064,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1631,7 +1631,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2208,27 +2208,6 @@
       "activo": true
     },
     {
-      "sku": "TS12N9-4B-1",
-      "nombre": "BATERIA DE GEL 12N9-4B-1 TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33,
-        "taller": 25,
-        "distribuidor": 23
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TSLB6.5L-BS",
       "nombre": "BATERIA DE GEL LB6.5L-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2492,7 +2471,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3647,7 +3626,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 27,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4172,7 +4151,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 30,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5516,7 +5495,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7175,7 +7154,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 69,
+      "stock": 68,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7196,7 +7175,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 74,
+      "stock": 72,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8351,7 +8330,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11144,7 +11123,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11564,7 +11543,7 @@
         "taller": 18.5,
         "distribuidor": 16
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11585,7 +11564,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17150,7 +17129,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17283,27 +17262,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000567.png",
       "imagen_size": 17317,
-      "activo": true
-    },
-    {
-      "sku": "741540190957",
-      "nombre": "ESPEJO SET SMX150-200 / YARA200 RH",
-      "marca": "VINI",
-      "categoria": "ESPEJOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.75,
-        "taller": 6,
-        "distribuidor": 4.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190957.png",
-      "imagen_size": 69421,
       "activo": true
     },
     {
@@ -17444,7 +17402,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17465,8 +17423,8 @@
         "taller": 14,
         "distribuidor": 12.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19544,7 +19502,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 40,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19565,7 +19523,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28238,7 +28196,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 32,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30338,8 +30296,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31157,7 +31115,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 18,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33530,7 +33488,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35021,7 +34979,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35042,7 +35000,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35966,7 +35924,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 33,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37100,7 +37058,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38892,27 +38850,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188040.png",
       "imagen_size": 85674,
-      "activo": true
-    },
-    {
-      "sku": "35150K74",
-      "nombre": "SWITCH ARRANQUE NAVI110 (2 LINEAS)",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -40827,27 +40764,6 @@
       "activo": true
     },
     {
-      "sku": "741540100485",
-      "nombre": "TENSOR AUTOMATICO PULSAR 200NS",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18.5,
-        "taller": 18,
-        "distribuidor": 16.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100485.png",
-      "imagen_size": 72489,
-      "activo": true
-    },
-    {
       "sku": "741540100509",
       "nombre": "TENSOR AUTOMATICO PULSAR YBR125",
       "marca": "VINI",
@@ -41783,7 +41699,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
