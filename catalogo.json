@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T07:36:02.147Z",
-  "count": 5769,
+  "generated_at": "2026-05-14T19:23:08.080Z",
+  "count": 5767,
   "productos": [
     {
       "sku": "LM120106",
@@ -14,7 +14,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 55,
+      "stock": 53,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -896,7 +896,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1064,34 +1064,13 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540100141",
-      "nombre": "BALERO 6204-2NSE VINI (FL)",
-      "marca": "VINI",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100141.png",
-      "imagen_size": 129593,
       "activo": true
     },
     {
@@ -1305,27 +1284,6 @@
       "activo": true
     },
     {
-      "sku": "741540189580",
-      "nombre": "BALERO AGUJA BOXER 150 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.5,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189580.png",
-      "imagen_size": 91174,
-      "activo": true
-    },
-    {
       "sku": "741540189581",
       "nombre": "BALERO AGUJA BOXER 150 VINI(FL)",
       "marca": "VINI",
@@ -1421,7 +1379,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1736,7 +1694,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,7 +2240,7 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2324,7 @@
         "taller": 22.5,
         "distribuidor": 22
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,7 +2366,7 @@
         "taller": 21,
         "distribuidor": 20.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2660,7 +2618,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 11,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3836,7 +3794,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 46,
+      "stock": 56,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3857,7 +3815,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 36,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3878,7 +3836,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 14,
+      "stock": 54,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3942,6 +3900,27 @@
         "distribuidor": 8.75
       },
       "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LKR6D-10E-K",
+      "nombre": "BUJIA NICKEL",
+      "marca": "NGK",
+      "categoria": "BUJIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4193,7 +4172,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 33,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4256,7 +4235,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 45,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6020,7 +5999,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 136,
+      "stock": 116,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7301,7 +7280,7 @@
         "taller": 17.5,
         "distribuidor": 15.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10745,7 +10724,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12327,27 +12306,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190427.png",
       "imagen_size": 142439,
-      "activo": true
-    },
-    {
-      "sku": "741540188280",
-      "nombre": "CENTRO CLUTCH COMPLETO CG125/ SL125-3C VINI(FL)",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26.75,
-        "taller": 20,
-        "distribuidor": 17.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188280.png",
-      "imagen_size": 158830,
       "activo": true
     },
     {
@@ -14273,7 +14231,7 @@
         "taller": 15.5,
         "distribuidor": 13.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15722,7 +15680,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16520,7 +16478,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17843,7 +17801,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18725,7 +18683,7 @@
         "taller": 6.5,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19250,7 +19208,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 19,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19607,7 +19565,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19691,8 +19649,8 @@
         "taller": 0.3,
         "distribuidor": 0.2
       },
-      "stock": 11,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -23954,7 +23912,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25193,7 +25151,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25571,7 +25529,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26306,8 +26264,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -26600,7 +26558,7 @@
         "taller": 10.25,
         "distribuidor": 9
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30317,7 +30275,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 34,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31052,8 +31010,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31136,8 +31094,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33215,7 +33173,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37520,7 +37478,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 15,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39704,7 +39662,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41069,7 +41027,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
