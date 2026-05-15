@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T18:23:20.520Z",
-  "count": 5756,
+  "generated_at": "2026-05-15T22:00:27.016Z",
+  "count": 5754,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 29,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,7 +2282,7 @@
         "taller": 22,
         "distribuidor": 20.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2576,7 +2576,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5873,7 +5873,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 116,
+      "stock": 111,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6881,7 +6881,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7049,7 +7049,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 68,
+      "stock": 67,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7070,7 +7070,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 71,
+      "stock": 70,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14787,27 +14787,6 @@
       "activo": true
     },
     {
-      "sku": "741540189217",
-      "nombre": "DISCO FRENO CBF125-150-HUNK-CR4 TRASERO VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 32,
-        "taller": 23,
-        "distribuidor": 19.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189217.png",
-      "imagen_size": 113222,
-      "activo": true
-    },
-    {
       "sku": "741540190249",
       "nombre": "DISCO FRENO CBF160F HORNET",
       "marca": "VINI",
@@ -17906,7 +17885,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23198,7 +23177,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33750,27 +33729,6 @@
       "activo": true
     },
     {
-      "sku": "SC007",
-      "nombre": "PLANTA DAWN150-ECO150-CBF125 STUNNER VOLT NRP",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 31,
-        "taller": 24,
-        "distribuidor": 20.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/SC007.jpg",
-      "imagen_size": 10908,
-      "activo": true
-    },
-    {
       "sku": "741540189626",
       "nombre": "PLANTA DEKER 200 VINI(FL)",
       "marca": "VINI",
@@ -38759,7 +38717,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39788,7 +39746,7 @@
         "taller": 6.25,
         "distribuidor": 5.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39851,7 +39809,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
