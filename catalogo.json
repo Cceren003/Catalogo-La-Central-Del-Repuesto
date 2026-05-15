@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T22:12:33.380Z",
-  "count": 5763,
+  "generated_at": "2026-05-15T15:13:54.469Z",
+  "count": 5758,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 31,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2145,27 +2145,6 @@
       "activo": true
     },
     {
-      "sku": "TS12N5-3B",
-      "nombre": "BATERIA DE GEL 12N5-3B TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 23.5,
-        "taller": 18,
-        "distribuidor": 16
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TS12N7-4A",
       "nombre": "BATERIA DE GEL 12N7-4A TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2177,7 +2156,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2220,27 +2199,6 @@
         "distribuidor": 17.5
       },
       "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "TSYTX4L-BS",
-      "nombre": "BATERIA DE GEL YTX4L-BS TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 25,
-        "taller": 14.9,
-        "distribuidor": 13.75
-      },
-      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2261,7 @@
         "taller": 22.5,
         "distribuidor": 22
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2481,27 +2439,6 @@
       "activo": true
     },
     {
-      "sku": "20722",
-      "nombre": "BATERIA MEGAFORCE YTX9-BS",
-      "marca": "MEGAFORCE",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 35,
-        "taller": 25,
-        "distribuidor": 23
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540100116",
       "nombre": "BAYONETA ACEITE CGL VINI(FL)",
       "marca": "VINI",
@@ -2625,27 +2562,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189630.png",
       "imagen_size": 82179,
-      "activo": true
-    },
-    {
-      "sku": "741540189481",
-      "nombre": "BOBINA ALTA GN125/GXT200",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22.75,
-        "taller": 20.75,
-        "distribuidor": 18
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189481.png",
-      "imagen_size": 108563,
       "activo": true
     },
     {
@@ -3773,7 +3689,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 56,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6482,7 +6398,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7112,7 +7028,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7175,7 +7091,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 72,
+      "stock": 71,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9695,7 +9611,7 @@
         "taller": 8.75,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14840,7 +14756,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18368,7 +18284,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19481,7 +19397,7 @@
         "taller": 5.5,
         "distribuidor": 5
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22274,7 +22190,7 @@
         "taller": 20,
         "distribuidor": 17
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27447,27 +27363,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0901-22.png",
       "imagen_size": 90623,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-0902-22",
-      "nombre": "LLANTA AXUS 300-18 LISA AX1155 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 38.75,
-        "taller": 28,
-        "distribuidor": 26
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0902-22.png",
-      "imagen_size": 89673,
       "activo": true
     },
     {
