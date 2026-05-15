@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T15:13:54.469Z",
-  "count": 5758,
+  "generated_at": "2026-05-15T18:23:20.520Z",
+  "count": 5756,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -896,7 +896,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1043,7 +1043,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1127,7 +1127,7 @@
         "taller": 4,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1211,7 +1211,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1799,7 +1799,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2198,7 +2198,7 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2219,7 +2219,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2261,7 +2261,7 @@
         "taller": 22.5,
         "distribuidor": 22
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 21,
         "distribuidor": 20.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3237,27 +3237,6 @@
       "activo": true
     },
     {
-      "sku": "741540190357",
-      "nombre": "BOMBA ACEITE STRYKER 125 / SPORT 100 ELS",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.5,
-        "taller": 12,
-        "distribuidor": 10.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190357.png",
-      "imagen_size": 132693,
-      "activo": true
-    },
-    {
       "sku": "1000291",
       "nombre": "BOMBA DE FRENO TRACERA TT200 MEK",
       "marca": "MEK",
@@ -3479,7 +3458,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 44,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3731,7 +3710,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 54,
+      "stock": 62,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8729,7 +8708,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10493,7 +10472,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10598,7 +10577,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13412,7 +13391,7 @@
         "taller": 55.5,
         "distribuidor": 47.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14546,7 +14525,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 34,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16982,7 +16961,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19481,7 +19460,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26621,7 +26600,7 @@
         "taller": 10.5,
         "distribuidor": 9.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27272,7 +27251,7 @@
         "taller": 36,
         "distribuidor": 34.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27671,7 +27650,7 @@
         "taller": 30,
         "distribuidor": 27
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28091,7 +28070,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 31,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28721,7 +28700,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29424,27 +29403,6 @@
       "activo": true
     },
     {
-      "sku": "741540188193",
-      "nombre": "MOTOR ARRANQUE HUNK 150/INVICTA150",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 43,
-        "taller": 33.5,
-        "distribuidor": 29
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188193.png",
-      "imagen_size": 71405,
-      "activo": true
-    },
-    {
       "sku": "741540100644",
       "nombre": "MOTOR ARRANQUE PULSAR 135",
       "marca": "VINI",
@@ -30128,7 +30086,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 28,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31157,7 +31115,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32753,7 +32711,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33971,7 +33929,7 @@
         "taller": 20,
         "distribuidor": 17
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38423,7 +38381,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
