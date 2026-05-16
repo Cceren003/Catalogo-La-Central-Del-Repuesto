@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T17:55:07.249Z",
-  "count": 5752,
+  "generated_at": "2026-05-16T21:50:47.493Z",
+  "count": 5751,
   "productos": [
     {
       "sku": "LM120106",
@@ -15,6 +15,27 @@
         "distribuidor": 9.92
       },
       "stock": 53,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LM120103",
+      "nombre": "ACEITE MOTUL 10W40 5100 4T SEMI SINTETICO",
+      "marca": "MOTUL",
+      "categoria": "ACEITES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11.5,
+        "taller": 10.5,
+        "distribuidor": 9.92
+      },
+      "stock": 102,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,8 +77,8 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 109,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -17643,27 +17664,6 @@
       "activo": true
     },
     {
-      "sku": "741540100249",
-      "nombre": "FILTRO ACEITE SUCCION CGL125 VINI(RC)",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 5.5,
-        "distribuidor": 4.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100249.png",
-      "imagen_size": 69517,
-      "activo": true
-    },
-    {
       "sku": "741540190641",
       "nombre": "FILTRO ACEITE TNT250",
       "marca": "VINI",
@@ -26999,7 +26999,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33656,7 +33656,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35441,7 +35441,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35553,27 +35553,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190387.png",
       "imagen_size": 37995,
-      "activo": true
-    },
-    {
-      "sku": "741540188776",
-      "nombre": "RELAY START CBF125-HUNK 150",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16,
-        "taller": 11,
-        "distribuidor": 9.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188776.png",
-      "imagen_size": 56207,
       "activo": true
     },
     {
@@ -35693,7 +35672,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 32,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36722,7 +36701,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 31,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38549,7 +38528,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
