@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T21:56:02.323Z",
-  "count": 5751,
+  "generated_at": "2026-05-18T16:24:16.485Z",
+  "count": 5746,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 102,
+      "stock": 100,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -630,27 +630,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100135.png",
       "imagen_size": 86457,
-      "activo": true
-    },
-    {
-      "sku": "741540190832",
-      "nombre": "ARO 1.85X19 NEGRO VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 46,
-        "taller": 33.5,
-        "distribuidor": 29
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190832.png",
-      "imagen_size": 82829,
       "activo": true
     },
     {
@@ -5411,7 +5390,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5516,7 +5495,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14766,27 +14745,6 @@
       "activo": true
     },
     {
-      "sku": "741540190249",
-      "nombre": "DISCO FRENO CBF160F HORNET",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 39,
-        "taller": 31.25,
-        "distribuidor": 27
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190249.png",
-      "imagen_size": 100341,
-      "activo": true
-    },
-    {
       "sku": "741540190247",
       "nombre": "DISCO FRENO DEFENDER TRAS. VINI",
       "marca": "VINI",
@@ -16982,7 +16940,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20111,7 +20069,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23366,7 +23324,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24720,27 +24678,6 @@
       "activo": true
     },
     {
-      "sku": "1001200",
-      "nombre": "KIT POLVERA ANCHA GXT200",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 4,
-        "distribuidor": 3.5
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1001014",
       "nombre": "KIT POLVERAS BARRAS",
       "marca": "MEK",
@@ -24759,27 +24696,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001014.jpg",
       "imagen_size": 61120,
-      "activo": true
-    },
-    {
-      "sku": "1003391",
-      "nombre": "KIT POLVERAS BARRAS  TODOTERRENO",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003391.png",
-      "imagen_size": 42309,
       "activo": true
     },
     {
@@ -24983,7 +24899,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 18,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25571,7 +25487,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 27,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27587,7 +27503,7 @@
         "taller": 30,
         "distribuidor": 27
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29708,7 +29624,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30716,8 +30632,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30758,8 +30674,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32039,7 +31955,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33456,27 +33372,6 @@
       "activo": true
     },
     {
-      "sku": "SC021",
-      "nombre": "PLANTA AX100 VOLT NRP",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 31,
-        "taller": 24,
-        "distribuidor": 20.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/SC021.jpg",
-      "imagen_size": 9894,
-      "activo": true
-    },
-    {
       "sku": "741540189915",
       "nombre": "PLANTA BM150 VINI",
       "marca": "VINI",
@@ -34748,7 +34643,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34769,7 +34664,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 21,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35063,7 +34958,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
