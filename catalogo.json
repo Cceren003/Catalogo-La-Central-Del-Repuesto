@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T16:24:16.485Z",
-  "count": 5746,
+  "generated_at": "2026-05-18T18:52:26.699Z",
+  "count": 5745,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 100,
+      "stock": 99,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 109,
+      "stock": 103,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1673,7 +1673,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6335,7 +6335,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9401,7 +9401,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9926,7 +9926,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14609,7 +14609,7 @@
         "taller": 18,
         "distribuidor": 15.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22911,27 +22911,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190984.png",
       "imagen_size": 79298,
-      "activo": true
-    },
-    {
-      "sku": "741540190877",
-      "nombre": "KIT CUNA FZ16 / FZ2.0",
-      "marca": "VINI",
-      "categoria": "DIRECCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190877.png",
-      "imagen_size": 100075,
       "activo": true
     },
     {
@@ -32942,7 +32921,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32974,7 +32953,7 @@
     },
     {
       "sku": "741540100414",
-      "nombre": "PIÑON ATAQUE NXR 150 15T CBF160 VINI(FL)",
+      "nombre": "PIÑON ATAQUE NXR 150 15T CBF160 / KATANA R1 VINI(FL)",
       "marca": "VINI",
       "categoria": "PIÑONES",
       "presentacion": "UNIDAD",
@@ -32984,7 +32963,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
