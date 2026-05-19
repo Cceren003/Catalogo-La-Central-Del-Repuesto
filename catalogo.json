@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T16:20:42.842Z",
-  "count": 5749,
+  "generated_at": "2026-05-19T19:01:09.444Z",
+  "count": 5742,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 87,
+      "stock": 74,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 99,
+      "stock": 87,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -486,27 +486,6 @@
       "activo": true
     },
     {
-      "sku": "1001605",
-      "nombre": "ARNES COMPLETO MG125-7-CG125-MG150-7S-FT125",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30,
-        "taller": 15,
-        "distribuidor": 12.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001605.png",
-      "imagen_size": 1147923,
-      "activo": true
-    },
-    {
       "sku": "1005609",
       "nombre": "ARNES ELECTRICO GXT200",
       "marca": "MEK",
@@ -630,6 +609,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100135.png",
       "imagen_size": 86457,
+      "activo": true
+    },
+    {
+      "sku": "741540190832",
+      "nombre": "ARO 1.85X19 NEGRO VINI",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 46,
+        "taller": 33.5,
+        "distribuidor": 29
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190832.png",
+      "imagen_size": 82829,
       "activo": true
     },
     {
@@ -2366,7 +2366,7 @@
         "taller": 15,
         "distribuidor": 13
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3626,7 +3626,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 55,
+      "stock": 52,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3647,7 +3647,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 46,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3668,7 +3668,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 61,
+      "stock": 57,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3962,7 +3962,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,8 +3983,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4298,7 +4298,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4403,7 +4403,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 23,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4949,7 +4949,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 18,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5096,7 +5096,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5411,7 +5411,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5474,7 +5474,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5495,7 +5495,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6209,7 +6209,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8896,27 +8896,6 @@
         "publico": 105,
         "taller": 109.25,
         "distribuidor": 99.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "161970",
-      "nombre": "CASCO INTEGRAL SHAFT SH-502 SP (L, LUKE NEGRO / ROJO)",
-      "marca": "SHAFT",
-      "categoria": "CASCOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 80,
-        "taller": 82,
-        "distribuidor": 74.75
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -17759,7 +17738,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17871,27 +17850,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540188480",
-      "nombre": "FILTRO AIRE CB1 VINI",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.25,
-        "taller": 6.75,
-        "distribuidor": 6
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188480.png",
-      "imagen_size": 110180,
       "activo": true
     },
     {
@@ -18200,7 +18158,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18809,8 +18767,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19334,7 +19292,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 35,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19397,7 +19355,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23051,7 +23009,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23198,7 +23156,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 30,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26085,27 +26043,6 @@
       "activo": true
     },
     {
-      "sku": "741540100310",
-      "nombre": "KIT VALVULA  SANLG SL125-3C CUÑERO LARGO VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.25,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100310.png",
-      "imagen_size": 40601,
-      "activo": true
-    },
-    {
       "sku": "741540188205",
       "nombre": "KIT VALVULA AK110S ACT110 WAVE",
       "marca": "VINI",
@@ -28910,7 +28847,7 @@
         "taller": 58,
         "distribuidor": 52
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29970,27 +29907,6 @@
       "activo": true
     },
     {
-      "sku": "741540188258",
-      "nombre": "PASTILLA FRENO CBF150 INVICTA VINI(FL)",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188258.png",
-      "imagen_size": 95881,
-      "activo": true
-    },
-    {
       "sku": "741540188997",
       "nombre": "PASTILLA FRENO CBR250R/VENOX 250 VINI (FL)",
       "marca": "VINI",
@@ -30107,7 +30023,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30726,27 +30642,6 @@
       "activo": true
     },
     {
-      "sku": "DB1A-0017-10",
-      "nombre": "PASTILLA FRENO TRASERA MEK PRO HUNK150",
-      "marca": "MEK",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540100658",
       "nombre": "PASTILLA FRENO UNIVERSAL 181A VINI CBF-HUNK DELANTERA STUNNER(FL)",
       "marca": "VINI",
@@ -30758,7 +30653,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33645,27 +33540,6 @@
       "activo": true
     },
     {
-      "sku": "741540122211",
-      "nombre": "PLANTA DAKAR 200 (BAJA)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 25,
-        "taller": 13,
-        "distribuidor": 11.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540122211.png",
-      "imagen_size": 136795,
-      "activo": true
-    },
-    {
       "sku": "741540189112",
       "nombre": "PLANTA DAKAR 200 2 AGUJEROS VINI(FL)",
       "marca": "VINI",
@@ -34265,7 +34139,7 @@
         "taller": 19,
         "distribuidor": 16.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37732,27 +37606,6 @@
       },
       "stock": 6,
       "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "WB002",
-      "nombre": "SET BUJES DE RUEDA TRASERA VMEN 125",
-      "marca": "NRP",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 8,
-        "distribuidor": 6.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
