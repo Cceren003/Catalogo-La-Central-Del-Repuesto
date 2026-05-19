@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T19:01:09.444Z",
-  "count": 5742,
+  "generated_at": "2026-05-19T22:17:29.480Z",
+  "count": 5737,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 74,
+      "stock": 85,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 87,
+      "stock": 85,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2261,7 +2261,7 @@
         "taller": 21,
         "distribuidor": 20.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3668,7 +3668,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 57,
+      "stock": 51,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3962,7 +3962,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,8 +3983,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4298,7 +4298,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 23,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4403,7 +4403,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 21,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4949,7 +4949,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 15,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5096,7 +5096,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5411,7 +5411,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5474,7 +5474,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5495,7 +5495,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5831,7 +5831,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 111,
+      "stock": 109,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6209,7 +6209,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8225,7 +8225,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9369,27 +9369,6 @@
       "activo": true
     },
     {
-      "sku": "RS017",
-      "nombre": "CATARINA 40T 6H (FZ16) KATANA R1",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 8,
-        "distribuidor": 6.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS017.jpg",
-      "imagen_size": 9413,
-      "activo": true
-    },
-    {
       "sku": "RS067",
       "nombre": "CATARINA 40T GXT200 / MOTO CHINA 200",
       "marca": "NRP",
@@ -9758,7 +9737,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10514,7 +10493,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11459,7 +11438,7 @@
         "taller": 19,
         "distribuidor": 16.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14724,27 +14703,6 @@
       "activo": true
     },
     {
-      "sku": "741540189215",
-      "nombre": "DISCO FRENO AK TTR200 FXR150 TRASERO VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 27.25,
-        "taller": 22,
-        "distribuidor": 18.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189215.png",
-      "imagen_size": 111006,
-      "activo": true
-    },
-    {
       "sku": "741540190247",
       "nombre": "DISCO FRENO DEFENDER TRAS. VINI",
       "marca": "VINI",
@@ -17738,7 +17696,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17801,7 +17759,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17822,7 +17780,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17850,6 +17808,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540188480",
+      "nombre": "FILTRO AIRE CB1 VINI",
+      "marca": "VINI",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8.25,
+        "taller": 6.75,
+        "distribuidor": 6
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188480.png",
+      "imagen_size": 110180,
       "activo": true
     },
     {
@@ -18095,7 +18074,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18158,7 +18137,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18767,8 +18746,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -22494,27 +22473,6 @@
       "activo": true
     },
     {
-      "sku": "2000016",
-      "nombre": "KIT BARRAS DELANTERAS GN- FIRE150/ ASPID/ SANLG WARRIOR",
-      "marca": "MEK",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 85,
-        "taller": 69,
-        "distribuidor": 60
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/2000016.png",
-      "imagen_size": 19017,
-      "activo": true
-    },
-    {
       "sku": "741540189537",
       "nombre": "KIT BIELA PULSAR 160NS",
       "marca": "VINI",
@@ -22547,7 +22505,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23009,7 +22967,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 3,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23156,7 +23114,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 28,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25224,27 +25182,6 @@
       "activo": true
     },
     {
-      "sku": "741540190467",
-      "nombre": "KIT RETENEDORES PULSAR 180 5 PCS",
-      "marca": "VINI",
-      "categoria": "SELLOS MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.5,
-        "taller": 5,
-        "distribuidor": 3.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190467.png",
-      "imagen_size": 107019,
-      "activo": true
-    },
-    {
       "sku": "1006577",
       "nombre": "KIT RETROVISOR PESA MANUBRIO STD",
       "marca": "MEK",
@@ -26495,7 +26432,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29498,7 +29435,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29519,7 +29456,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29561,7 +29498,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29939,7 +29876,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 33,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30807,27 +30744,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100368.png",
       "imagen_size": 102677,
-      "activo": true
-    },
-    {
-      "sku": "741540188995",
-      "nombre": "PASTILLA FRENO YZFR-15 TRASERA HUNK / KATANA R1",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188995.png",
-      "imagen_size": 114417,
       "activo": true
     },
     {
@@ -32175,27 +32091,6 @@
       "activo": true
     },
     {
-      "sku": "FS011",
-      "nombre": "PIÑON 14T BOXER 100S-125-150 / DISCOVER 125-150 / PULSAR 125NS",
-      "marca": "NRP",
-      "categoria": "PIÑONES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/FS011.jpg",
-      "imagen_size": 7034,
-      "activo": true
-    },
-    {
       "sku": "FS046",
       "nombre": "PIÑON 14T CMX 250C REBEL",
       "marca": "NRP",
@@ -32354,7 +32249,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32648,7 +32543,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32732,7 +32627,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36659,7 +36554,7 @@
         "taller": 4,
         "distribuidor": 3
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37331,7 +37226,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37606,6 +37501,27 @@
       },
       "stock": 6,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "WB002",
+      "nombre": "SET BUJES DE RUEDA TRASERA VMEN 125",
+      "marca": "NRP",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 10,
+        "taller": 8,
+        "distribuidor": 6.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -39879,27 +39795,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1000087",
-      "nombre": "TAPADERA SPROCKET CORAL 150",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 10,
-        "distribuidor": 8
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000087.jpg",
-      "imagen_size": 82407,
       "activo": true
     },
     {
