@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T16:28:45.135Z",
+  "generated_at": "2026-05-20T19:25:48.454Z",
   "count": 5734,
   "productos": [
     {
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 83,
+      "stock": 81,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3269,7 +3269,7 @@
         "taller": 13,
         "distribuidor": 11.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8666,7 +8666,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13538,7 +13538,7 @@
         "taller": 39.75,
         "distribuidor": 33.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14651,7 +14651,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14910,27 +14910,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190254.png",
       "imagen_size": 117933,
-      "activo": true
-    },
-    {
-      "sku": "741540189207",
-      "nombre": "DISCO FRENO HUNK DELANTERO VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 35.5,
-        "taller": 28.5,
-        "distribuidor": 23.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189207.png",
-      "imagen_size": 145001,
       "activo": true
     },
     {
@@ -18735,6 +18714,27 @@
       "activo": true
     },
     {
+      "sku": "1003329",
+      "nombre": "FILTRO COMBUSTIBLE UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 1.75,
+        "taller": 1.25,
+        "distribuidor": 0.75
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003329.png",
+      "imagen_size": 37516,
+      "activo": true
+    },
+    {
       "sku": "1003111",
       "nombre": "FILTRO DE ACEITE GXT 200",
       "marca": "MEK",
@@ -21686,7 +21686,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24941,7 +24941,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29351,7 +29351,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
