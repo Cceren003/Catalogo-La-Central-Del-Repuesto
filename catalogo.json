@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T22:17:29.480Z",
-  "count": 5737,
+  "generated_at": "2026-05-20T16:28:45.135Z",
+  "count": 5734,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 85,
+      "stock": 83,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10125,27 +10125,6 @@
       "activo": true
     },
     {
-      "sku": "RS101",
-      "nombre": "CATARINA 44T IGNITOR 125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 8,
-        "distribuidor": 7
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS101.jpg",
-      "imagen_size": 9737,
-      "activo": true
-    },
-    {
       "sku": "RS065",
       "nombre": "CATARINA 44T MOTO CHINA 125-150-200",
       "marca": "NRP",
@@ -18756,27 +18735,6 @@
       "activo": true
     },
     {
-      "sku": "1003329",
-      "nombre": "FILTRO COMBUSTIBLE UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 1.75,
-        "taller": 1.25,
-        "distribuidor": 0.75
-      },
-      "stock": 11,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003329.png",
-      "imagen_size": 37516,
-      "activo": true
-    },
-    {
       "sku": "1003111",
       "nombre": "FILTRO DE ACEITE GXT 200",
       "marca": "MEK",
@@ -20741,7 +20699,7 @@
         "taller": 5,
         "distribuidor": 3.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26106,27 +26064,6 @@
       "activo": true
     },
     {
-      "sku": "741540188206",
-      "nombre": "KIT VALVULA CBZ-HUNK-XR150L / DAYUN 150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 10.75,
-        "distribuidor": 9.25
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188206.png",
-      "imagen_size": 44689,
-      "activo": true
-    },
-    {
       "sku": "741540189633",
       "nombre": "KIT VALVULA CRUXX 110 REV",
       "marca": "VINI",
@@ -26565,6 +26502,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100449.png",
       "imagen_size": 56577,
+      "activo": true
+    },
+    {
+      "sku": "741540188206",
+      "nombre": "KIT VALVULA XR150L / DAYUN-SHADOW-HUNK (150)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 15,
+        "taller": 10.75,
+        "distribuidor": 9.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188206.png",
+      "imagen_size": 44689,
       "activo": true
     },
     {
@@ -30744,6 +30702,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100368.png",
       "imagen_size": 102677,
+      "activo": true
+    },
+    {
+      "sku": "741540188995",
+      "nombre": "PASTILLA FRENO YZFR-15 TRASERA HUNK / KATANA R1",
+      "marca": "VINI",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188995.png",
+      "imagen_size": 114417,
       "activo": true
     },
     {
@@ -35525,7 +35504,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37611,27 +37590,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005824.png",
       "imagen_size": 41641,
-      "activo": true
-    },
-    {
-      "sku": "1001679",
-      "nombre": "SET CUNAS DIRECCION BROSS CHINA SMX200 TODOTERRNEO",
-      "marca": "MEK",
-      "categoria": "DIRECCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001679.png",
-      "imagen_size": 31515,
       "activo": true
     },
     {
@@ -40929,27 +40887,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188789.png",
       "imagen_size": 33388,
-      "activo": true
-    },
-    {
-      "sku": "1001712",
-      "nombre": "VARILLA FRENO NAGA200 2016 CR2",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4.5,
-        "taller": 3.75,
-        "distribuidor": 3.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001712.png",
-      "imagen_size": 30152,
       "activo": true
     },
     {
