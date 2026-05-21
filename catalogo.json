@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T22:24:43.625Z",
-  "count": 5736,
+  "generated_at": "2026-05-21T16:16:11.350Z",
+  "count": 5733,
   "productos": [
     {
       "sku": "LM120106",
@@ -938,8 +938,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4599,27 +4599,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188015.png",
       "imagen_size": 69772,
-      "activo": true
-    },
-    {
-      "sku": "THC011",
-      "nombre": "CABLE ACELERADOR SHADOW 150",
-      "marca": "NRP",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/THC011.jpg",
-      "imagen_size": 5583,
       "activo": true
     },
     {
@@ -16803,27 +16782,6 @@
       "activo": true
     },
     {
-      "sku": "741540188675",
-      "nombre": "ESCAPE COMPLETO GN125 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 49,
-        "taller": 39,
-        "distribuidor": 33.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188675.png",
-      "imagen_size": 39289,
-      "activo": true
-    },
-    {
       "sku": "741540165227",
       "nombre": "ESPEJO SET 10MM AUTOMATICA (11139-049-001)",
       "marca": "VINI",
@@ -26957,7 +26915,7 @@
         "taller": 32,
         "distribuidor": 29
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30597,27 +30555,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100890.png",
       "imagen_size": 104343,
-      "activo": true
-    },
-    {
-      "sku": "741540100658",
-      "nombre": "PASTILLA FRENO UNIVERSAL 181A VINI CBF-HUNK DELANTERA STUNNER(FL)",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.25,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100658.png",
-      "imagen_size": 85954,
       "activo": true
     },
     {
