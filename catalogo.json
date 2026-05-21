@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T18:58:55.234Z",
+  "generated_at": "2026-05-21T22:19:57.186Z",
   "count": 5728,
   "productos": [
     {
@@ -2261,8 +2261,8 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2345,7 +2345,7 @@
         "taller": 21,
         "distribuidor": 20.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4760,7 +4760,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7070,7 +7070,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 65,
+      "stock": 63,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7091,7 +7091,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 69,
+      "stock": 63,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27818,7 +27818,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29330,7 +29330,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33824,7 +33824,7 @@
         "taller": 33.5,
         "distribuidor": 29
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37562,8 +37562,8 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
