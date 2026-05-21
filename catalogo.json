@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T16:16:11.350Z",
-  "count": 5733,
+  "generated_at": "2026-05-21T18:58:55.234Z",
+  "count": 5728,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 85,
+      "stock": 72,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 81,
+      "stock": 69,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3458,7 +3458,7 @@
         "taller": 10.5,
         "distribuidor": 9.25
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14742,27 +14742,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189206.png",
       "imagen_size": 111332,
-      "activo": true
-    },
-    {
-      "sku": "741540190247",
-      "nombre": "DISCO FRENO DEFENDER TRAS. VINI",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 21.25,
-        "taller": 16.75,
-        "distribuidor": 14.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190247.png",
-      "imagen_size": 152638,
       "activo": true
     },
     {
@@ -26505,27 +26484,6 @@
       "activo": true
     },
     {
-      "sku": "741540100449",
-      "nombre": "KIT VALVULA XL 200-YARA200 / DRACO250",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17,
-        "taller": 12.75,
-        "distribuidor": 11
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100449.png",
-      "imagen_size": 56577,
-      "activo": true
-    },
-    {
       "sku": "741540188206",
       "nombre": "KIT VALVULA XR150L / DAYUN-SHADOW-HUNK (150)",
       "marca": "VINI",
@@ -29151,27 +29109,6 @@
       "activo": true
     },
     {
-      "sku": "741540100242",
-      "nombre": "MOTOR ARRANQUE GY200/CG200/AK200SM-11 DIENTES",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 39,
-        "taller": 34,
-        "distribuidor": 29
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100242.png",
-      "imagen_size": 115680,
-      "activo": true
-    },
-    {
       "sku": "741540189825",
       "nombre": "MOTOR ARRANQUE HORNET CB160, CB190 INYECTADA",
       "marca": "VINI",
@@ -29855,7 +29792,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 28,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34517,8 +34454,8 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 19,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34797,27 +34734,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189053",
-      "nombre": "RECTIFICADOR CORRIENTE TRIFASICO AK200SM-SPITZER250-KATANA R1-FXR200",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 10,
-        "distribuidor": 9
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189053.png",
-      "imagen_size": 91767,
       "activo": true
     },
     {
@@ -36260,7 +36176,7 @@
         "taller": 3,
         "distribuidor": 2
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36470,7 +36386,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 30,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40299,27 +40215,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190629.png",
       "imagen_size": 77811,
-      "activo": true
-    },
-    {
-      "sku": "741540189697",
-      "nombre": "TIMON FZ16",
-      "marca": "VINI",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12.75,
-        "taller": 11,
-        "distribuidor": 9.5
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
