@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T22:19:57.186Z",
-  "count": 5728,
+  "generated_at": "2026-05-22T15:48:18.584Z",
+  "count": 5727,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 69,
+      "stock": 56,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5894,7 +5894,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 104,
+      "stock": 103,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12551,7 +12551,7 @@
         "taller": 55,
         "distribuidor": 46.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21938,7 +21938,7 @@
         "taller": 9.5,
         "distribuidor": 8
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23688,27 +23688,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189741",
-      "nombre": "KIT EMPAQUE FORZA150 / FALCON150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18.5,
-        "taller": 11,
-        "distribuidor": 9.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189741.png",
-      "imagen_size": 110141,
       "activo": true
     },
     {
@@ -35357,7 +35336,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
