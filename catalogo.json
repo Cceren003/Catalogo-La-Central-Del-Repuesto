@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T15:48:18.584Z",
-  "count": 5727,
+  "generated_at": "2026-05-22T18:55:17.431Z",
+  "count": 5725,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 56,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2135,8 +2135,8 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2261,7 +2261,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3500,7 +3500,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 43,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4088,7 +4088,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6398,8 +6398,8 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7175,7 +7175,7 @@
         "taller": 17.5,
         "distribuidor": 15.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10689,27 +10689,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS047.jpg",
       "imagen_size": 8722,
-      "activo": true
-    },
-    {
-      "sku": "1006510",
-      "nombre": "CATARINA 520H 38T XPULSE200",
-      "marca": "MEK",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -14714,7 +14693,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15141,27 +15120,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/BD021.jpg",
       "imagen_size": 10549,
-      "activo": true
-    },
-    {
-      "sku": "741540190857",
-      "nombre": "DISCO FRENO TRASERO FZ2.0-3.0",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 25,
-        "taller": 22,
-        "distribuidor": 18.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190857.png",
-      "imagen_size": 95184,
       "activo": true
     },
     {
@@ -19250,7 +19208,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 33,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21686,7 +21644,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21980,7 +21938,7 @@
         "taller": 39,
         "distribuidor": 33.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26978,7 +26936,7 @@
         "taller": 33.5,
         "distribuidor": 31.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31997,7 +31955,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33415,7 +33373,7 @@
     },
     {
       "sku": "741540190147",
-      "nombre": "PLANTA FXR200",
+      "nombre": "PLANTA FXR200 / KATANA R1",
       "marca": "VINI",
       "categoria": "ELECTRICOS",
       "presentacion": "UNIDAD",
@@ -33740,7 +33698,7 @@
         "taller": 28.75,
         "distribuidor": 24.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33803,7 +33761,7 @@
         "taller": 33.5,
         "distribuidor": 29
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
