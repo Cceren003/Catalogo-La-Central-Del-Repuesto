@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T18:55:17.431Z",
-  "count": 5725,
+  "generated_at": "2026-05-22T22:08:37.857Z",
+  "count": 5721,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,28 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 72,
+      "stock": 155,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LM120108",
+      "nombre": "ACEITE MOTUL 10W40 7100 FULL SINTETICO",
+      "marca": "MOTUL",
+      "categoria": "ACEITES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 17,
+        "taller": 18,
+        "distribuidor": 17.08
+      },
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 55,
+      "stock": 139,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -329,7 +350,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2135,7 +2156,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3437,7 +3458,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3458,7 +3479,7 @@
         "taller": 10.5,
         "distribuidor": 9.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3500,7 +3521,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 42,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4046,7 +4067,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4382,7 +4403,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 25,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5894,7 +5915,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 103,
+      "stock": 97,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7962,48 +7983,6 @@
       "activo": true
     },
     {
-      "sku": "741540190526",
-      "nombre": "CALIPER FRENO DELANTERO CB150",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33.25,
-        "taller": 23,
-        "distribuidor": 19.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190526.png",
-      "imagen_size": 127526,
-      "activo": true
-    },
-    {
-      "sku": "741540190571",
-      "nombre": "CALIPER FRENO DELANTERO CR150/CG125/R2-250",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 34.75,
-        "taller": 27.25,
-        "distribuidor": 23.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190571.png",
-      "imagen_size": 111498,
-      "activo": true
-    },
-    {
       "sku": "741540190539",
       "nombre": "CALIPER FRENO DELANTERO XR150L-190L",
       "marca": "VINI",
@@ -8568,27 +8547,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003034.jpg",
       "imagen_size": 14913,
-      "activo": true
-    },
-    {
-      "sku": "1002590",
-      "nombre": "CARBURADOR GY6 150 SCOOTER",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 44.5,
-        "taller": 28,
-        "distribuidor": 25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002590.png",
-      "imagen_size": 39414,
       "activo": true
     },
     {
@@ -16856,7 +16814,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18872,7 +18830,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19299,27 +19257,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100372.png",
       "imagen_size": 130301,
-      "activo": true
-    },
-    {
-      "sku": "1002577",
-      "nombre": "FUSIBLE 20AMP CILINDRICO UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0.4,
-        "taller": 0.3,
-        "distribuidor": 0.2
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002577.jpg",
-      "imagen_size": 45665,
       "activo": true
     },
     {
@@ -24542,7 +24479,7 @@
         "taller": 17.5,
         "distribuidor": 15.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26789,7 +26726,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28007,34 +27944,13 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100801.png",
       "imagen_size": 59633,
-      "activo": true
-    },
-    {
-      "sku": "741540190706",
-      "nombre": "MANGUERA FRENO DISCO FZ16",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.5,
-        "taller": 10.5,
-        "distribuidor": 9.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190706.png",
-      "imagen_size": 71183,
       "activo": true
     },
     {
@@ -29309,7 +29225,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29351,7 +29267,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34118,7 +34034,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34139,7 +34055,7 @@
         "taller": 1.25,
         "distribuidor": 0.75
       },
-      "stock": 40,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38045,7 +37961,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40208,7 +40124,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40586,7 +40502,7 @@
         "taller": 6.75,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
