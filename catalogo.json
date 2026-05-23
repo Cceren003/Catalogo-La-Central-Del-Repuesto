@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T22:08:37.857Z",
+  "generated_at": "2026-05-23T14:40:27.907Z",
   "count": 5721,
   "productos": [
     {
@@ -22736,7 +22736,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
