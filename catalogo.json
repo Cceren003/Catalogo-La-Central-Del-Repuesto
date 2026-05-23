@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T18:01:58.902Z",
+  "generated_at": "2026-05-23T21:55:38.385Z",
   "count": 5720,
   "productos": [
     {
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 149,
+      "stock": 148,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 137,
+      "stock": 131,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2240,8 +2240,8 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20458,7 +20458,7 @@
     },
     {
       "sku": "741540189809",
-      "nombre": "HERRAMIENTA INSTALADOR CUNAS",
+      "nombre": "HERRAMIENTA INSTALADOR CUNAS DE VALVULAS",
       "marca": "VINI",
       "categoria": "HERRAMIENTA",
       "presentacion": "UNIDAD",
@@ -36134,8 +36134,8 @@
         "taller": 4,
         "distribuidor": 3
       },
-      "stock": 9,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -38087,7 +38087,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39032,8 +39032,8 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40817,7 +40817,7 @@
         "taller": 9.75,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
