@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T18:25:39.784Z",
-  "count": 5715,
+  "generated_at": "2026-05-25T22:09:04.487Z",
+  "count": 5709,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 136,
+      "stock": 134,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1631,7 +1631,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2072,7 +2072,7 @@
         "taller": 17,
         "distribuidor": 14.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2219,7 +2219,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2240,8 +2240,8 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5117,7 +5117,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5474,7 +5474,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8645,7 +8645,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8708,7 +8708,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12642,27 +12642,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100530.png",
       "imagen_size": 71508,
-      "activo": true
-    },
-    {
-      "sku": "741540189055",
-      "nombre": "CILINDRO COMPLETO CB1 / CBF125 TWISTER PIN12-125CC VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 89.25,
-        "taller": 71.5,
-        "distribuidor": 61.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189055.png",
-      "imagen_size": 100301,
       "activo": true
     },
     {
@@ -18641,7 +18620,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19838,7 +19817,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20226,27 +20205,6 @@
       "activo": true
     },
     {
-      "sku": "741540189750",
-      "nombre": "HERRAMIENTA EXTENSION T 8MM VINI",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 5,
-        "distribuidor": 4.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189750.png",
-      "imagen_size": 36522,
-      "activo": true
-    },
-    {
       "sku": "741540189789",
       "nombre": "HERRAMIENTA EXTRACTOR GXT200-TWISTER-GN / CRUXX 110 REV",
       "marca": "VINI",
@@ -20405,7 +20363,7 @@
         "taller": 18,
         "distribuidor": 15.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21756,27 +21714,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188459.png",
       "imagen_size": 108283,
-      "activo": true
-    },
-    {
-      "sku": "741540188473",
-      "nombre": "KIT BALANCIN CB110 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20,
-        "taller": 17.5,
-        "distribuidor": 14.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188473.png",
-      "imagen_size": 82532,
       "activo": true
     },
     {
@@ -23502,27 +23439,6 @@
       "activo": true
     },
     {
-      "sku": "741540100816",
-      "nombre": "KIT EMPAQUE DSF-DSR-RTX-SPITZER-KEEWAY-CG-TRAXX (200) / CR2 / AKT TT200 VINI(FL) BALANCIADO",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16.25,
-        "taller": 8.5,
-        "distribuidor": 7.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100816.png",
-      "imagen_size": 91192,
-      "activo": true
-    },
-    {
       "sku": "741540188373",
       "nombre": "KIT EMPAQUE DTK175 VINI(FL)",
       "marca": "VINI",
@@ -24353,7 +24269,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25571,7 +25487,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25844,7 +25760,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26673,27 +26589,6 @@
       "activo": true
     },
     {
-      "sku": "LA1C-3401-22",
-      "nombre": "LLANTA AXUS 100-90-10 NAVI AX2238 6PR TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33.5,
-        "taller": 20,
-        "distribuidor": 18
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "LA1A-1201-22",
       "nombre": "LLANTA AXUS 100-90-18 LISA AX827 6PR TL TUBULAR",
       "marca": "AXUS",
@@ -26754,27 +26649,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-2729-22.png",
       "imagen_size": 82660,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-3701-22",
-      "nombre": "LLANTA AXUS 110-90-17 DOBLE PROPOSITO AX9184 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 46,
-        "taller": 32.5,
-        "distribuidor": 30.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3701-22.png",
-      "imagen_size": 96196,
       "activo": true
     },
     {
@@ -28679,7 +28553,7 @@
         "taller": 27,
         "distribuidor": 23.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29015,7 +28889,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29036,7 +28910,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36911,8 +36785,8 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 9,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40383,6 +40257,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190280.png",
       "imagen_size": 69525,
+      "activo": true
+    },
+    {
+      "sku": "1005327",
+      "nombre": "VALVULA LLANTA RADIAL CROMADA UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 1.5,
+        "taller": 1,
+        "distribuidor": 0.85
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005327.png",
+      "imagen_size": 22889,
       "activo": true
     },
     {
@@ -115825,28 +115720,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1004454.png",
       "imagen_size": 23194,
-      "activo": true
-    },
-    {
-      "sku": "1005327",
-      "nombre": "VALVULA LLANTA RADIAL CROMADA UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1005327.png",
-      "imagen_size": 22889,
       "activo": true
     },
     {
