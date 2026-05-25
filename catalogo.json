@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T21:57:36.397Z",
-  "count": 5720,
+  "generated_at": "2026-05-25T15:51:22.687Z",
+  "count": 5717,
   "productos": [
     {
       "sku": "LM120106",
@@ -2157,27 +2157,6 @@
         "distribuidor": 19.5
       },
       "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "TS12N7A-3A",
-      "nombre": "BATERIA DE GEL 12N7A-3A TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29,
-        "taller": 21,
-        "distribuidor": 19
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26957,7 +26936,7 @@
         "taller": 25,
         "distribuidor": 23
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27258,48 +27237,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189935",
-      "nombre": "LLANTA VINI 90-90-17 VT1004 P918 LISA DEPORTIVA",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 39.75,
-        "taller": 30,
-        "distribuidor": 27
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189935.png",
-      "imagen_size": 65414,
-      "activo": true
-    },
-    {
-      "sku": "741540189934",
-      "nombre": "LLANTA VINI 90-90-18 VT1004 LISA DEPORTIVA",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 32,
-        "taller": 30,
-        "distribuidor": 27
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189934.png",
-      "imagen_size": 70540,
       "activo": true
     },
     {
@@ -35252,7 +35189,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
