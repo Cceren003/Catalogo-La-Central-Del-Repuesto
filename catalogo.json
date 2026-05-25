@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T15:51:22.687Z",
-  "count": 5717,
+  "generated_at": "2026-05-25T18:25:39.784Z",
+  "count": 5715,
   "productos": [
     {
       "sku": "LM120106",
@@ -5894,7 +5894,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 97,
+      "stock": 87,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7070,7 +7070,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 62,
+      "stock": 57,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8666,7 +8666,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8708,7 +8708,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14420,7 +14420,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 33,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17622,27 +17622,6 @@
       "activo": true
     },
     {
-      "sku": "1003226",
-      "nombre": "FILTRO AIRE BROS TODO TERRENO",
-      "marca": "MEK",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 4.5,
-        "distribuidor": 4
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003226.png",
-      "imagen_size": 36117,
-      "activo": true
-    },
-    {
       "sku": "741540189342",
       "nombre": "FILTRO AIRE CB 160F-UNICOR-XBLADE / REPSOL 190 VINI(FL)",
       "marca": "VINI",
@@ -18095,7 +18074,7 @@
         "taller": 5.25,
         "distribuidor": 4.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18137,7 +18116,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26883,27 +26862,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-3507-22",
-      "nombre": "LLANTA AXUS 130-70-17 LISA AX30 66S TL DEPORTIVAS",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 48,
-        "taller": 36,
-        "distribuidor": 34.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3507-22.png",
-      "imagen_size": 76331,
-      "activo": true
-    },
-    {
       "sku": "LA1A-3801-22",
       "nombre": "LLANTA AXUS 140-70-14 LISA DEPORTIVA AX9440",
       "marca": "AXUS",
@@ -27062,7 +27020,7 @@
         "taller": 29,
         "distribuidor": 26
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
