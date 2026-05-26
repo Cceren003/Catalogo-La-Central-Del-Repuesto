@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T16:43:44.067Z",
-  "count": 5708,
+  "generated_at": "2026-05-26T19:21:57.897Z",
+  "count": 5707,
   "productos": [
     {
       "sku": "LM120106",
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 130,
+      "stock": 129,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1044,27 +1044,6 @@
         "distribuidor": 3.25
       },
       "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "6204-2RS",
-      "nombre": "BALERO 6204 KOYO",
-      "marca": "KOYO",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 4.5,
-        "distribuidor": 4
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3581,10 +3560,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 1.75,
-        "taller": 1.25,
-        "distribuidor": 0.75
+        "taller": 0.5,
+        "distribuidor": 0.4
       },
-      "stock": 45,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6514,7 +6493,7 @@
     },
     {
       "sku": "741540189648",
-      "nombre": "CADENA TIEMPO CB160F-HORNET-UNICOR 49T VINI (FL)",
+      "nombre": "CADENA TIEMPO CB160F-HORNET-UNICOR (49L PASO 2X1)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6535,7 +6514,7 @@
     },
     {
       "sku": "741540100506",
-      "nombre": "CADENA TIEMPO CBF 125 STUNER VINI(FL)",
+      "nombre": "CADENA TIEMPO CBF 125 STUNER (47L PASO 3X2)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6598,7 +6577,7 @@
     },
     {
       "sku": "741540189672",
-      "nombre": "CADENA TIEMPO DRS200 VINI (FL)",
+      "nombre": "CADENA TIEMPO DRS200 (19L PASO 2X1)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6619,7 +6598,7 @@
     },
     {
       "sku": "741540189114",
-      "nombre": "CADENA TIEMPO DSR200 VINI(FL)",
+      "nombre": "CADENA TIEMPO DSR200 (50L PASO 3X2)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6661,7 +6640,7 @@
     },
     {
       "sku": "741540100470",
-      "nombre": "CADENA TIEMPO GY6 125 VINI(FL)",
+      "nombre": "CADENA TIEMPO GY6 125 (45L PASO 3X2)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6703,7 +6682,7 @@
     },
     {
       "sku": "741540188486",
-      "nombre": "CADENA TIEMPO HUNK-XR150L VINI(FL)",
+      "nombre": "CADENA TIEMPO HUNK-XR150L (47L PASO 3X2)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6724,7 +6703,7 @@
     },
     {
       "sku": "741540190166",
-      "nombre": "CADENA TIEMPO KARISMA 230 VINI",
+      "nombre": "CADENA TIEMPO KARISMA 230 (52L PASO 2X1)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6766,7 +6745,7 @@
     },
     {
       "sku": "741540189892",
-      "nombre": "CADENA TIEMPO PULSAR 125 NS VINI (FL)",
+      "nombre": "CADENA TIEMPO PULSAR 125NS (48L PASO 2X1)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6787,7 +6766,7 @@
     },
     {
       "sku": "741540189552",
-      "nombre": "CADENA TIEMPO PULSAR 160NS VINI(FL) (PASO 2X1 51 ESLABONES)",
+      "nombre": "CADENA TIEMPO PULSAR 160NS (51L PASO 2X1)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6797,7 +6776,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6808,7 +6787,7 @@
     },
     {
       "sku": "741540100486",
-      "nombre": "CADENA TIEMPO PULSAR 200NS-HUNK200",
+      "nombre": "CADENA TIEMPO PULSAR 200NS-HUNK200 (47L PASO 4X3)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6850,7 +6829,7 @@
     },
     {
       "sku": "741540189891",
-      "nombre": "CADENA TIEMPO SERPENTO DRACO 250 VINI (FL)",
+      "nombre": "CADENA TIEMPO SERPENTO DRACO 250 (19L PASO 2X1)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6871,7 +6850,7 @@
     },
     {
       "sku": "741540190035",
-      "nombre": "CADENA TIEMPO SPIRIT 250 VINI (FL)",
+      "nombre": "CADENA TIEMPO SPIRIT 250 (63L PASO 3X2)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6892,7 +6871,7 @@
     },
     {
       "sku": "741540190036",
-      "nombre": "CADENA TIEMPO STRYKER 125 VINI (FL)",
+      "nombre": "CADENA TIEMPO STRYKER 125 (46L PASO 2X1)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6913,7 +6892,7 @@
     },
     {
       "sku": "741540100205",
-      "nombre": "CADENA TIEMPO TVS 160 APACHE VINI(FL)",
+      "nombre": "CADENA TIEMPO TVS 160 APACHE",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6934,7 +6913,7 @@
     },
     {
       "sku": "741540100215",
-      "nombre": "CADENA TIEMPO TVS 180 APACHE VINI(FL)",
+      "nombre": "CADENA TIEMPO TVS 180 APACHE (47L PASO 4X3)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6955,7 +6934,7 @@
     },
     {
       "sku": "741540100454",
-      "nombre": "CADENA TIEMPO XL200",
+      "nombre": "CADENA TIEMPO XL200 (51L PASO 3X2)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -6976,7 +6955,7 @@
     },
     {
       "sku": "741540189119",
-      "nombre": "CADENA TIEMPO YARA-FXR200 VINI",
+      "nombre": "CADENA TIEMPO YARA-FXR200 (51L PASO 3X2)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -7154,7 +7133,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25193,7 +25172,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 23,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28889,7 +28868,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28910,7 +28889,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29372,8 +29351,8 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
