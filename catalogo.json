@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T19:21:57.897Z",
-  "count": 5707,
+  "generated_at": "2026-05-26T22:20:12.389Z",
+  "count": 5705,
   "productos": [
     {
       "sku": "LM120106",
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 129,
+      "stock": 117,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2135,7 +2135,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2156,8 +2156,8 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5978,7 +5978,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12876,27 +12876,6 @@
       "activo": true
     },
     {
-      "sku": "741540188951",
-      "nombre": "CILINDRO COMPLETO GIXXER 150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 120,
-        "taller": 88,
-        "distribuidor": 75.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188951.png",
-      "imagen_size": 125084,
-      "activo": true
-    },
-    {
       "sku": "741540189475",
       "nombre": "CILINDRO COMPLETO GIXXER 150 HOT MODIFICADO 58MM VINI",
       "marca": "VINI",
@@ -18746,8 +18725,8 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19922,7 +19901,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19943,7 +19922,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20244,27 +20223,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189793.png",
       "imagen_size": 49801,
-      "activo": true
-    },
-    {
-      "sku": "741540189795",
-      "nombre": "HERRAMIENTA EXTRACTOR UNIVERSAL",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 9.5,
-        "distribuidor": 8.1
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189795.png",
-      "imagen_size": 56996,
       "activo": true
     },
     {
@@ -32480,8 +32438,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34937,7 +34895,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
