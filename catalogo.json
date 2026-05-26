@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T22:09:04.487Z",
-  "count": 5709,
+  "generated_at": "2026-05-26T16:43:44.067Z",
+  "count": 5708,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 134,
+      "stock": 133,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 131,
+      "stock": 130,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2198,8 +2198,8 @@
         "taller": 14.9,
         "distribuidor": 13.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3710,7 +3710,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 49,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7091,7 +7091,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 63,
+      "stock": 62,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21234,27 +21234,6 @@
       "activo": true
     },
     {
-      "sku": "741540189752",
-      "nombre": "HERRAMIENTA VINI LLAVE T 12MM",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.5,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189752.png",
-      "imagen_size": 32208,
-      "activo": true
-    },
-    {
       "sku": "741540189749",
       "nombre": "HERRAMIENTA VINI LLAVE T 7MM",
       "marca": "VINI",
@@ -27377,7 +27356,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29393,7 +29372,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29708,7 +29687,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34958,7 +34937,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 27,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34979,7 +34958,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
