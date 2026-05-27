@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T16:38:16.985Z",
-  "count": 5703,
+  "generated_at": "2026-05-27T19:25:52.155Z",
+  "count": 5702,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 133,
+      "stock": 131,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 111,
+      "stock": 105,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3416,7 +3416,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4739,7 +4739,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5054,8 +5054,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5873,7 +5873,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 87,
+      "stock": 77,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8645,8 +8645,8 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -9905,7 +9905,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13272,27 +13272,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189061.png",
       "imagen_size": 109781,
-      "activo": true
-    },
-    {
-      "sku": "741540139036",
-      "nombre": "CILINDRO COMPLETO VARILLA PIN15 SANLG FIRE-SL125-3C-CGL-VMEN VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 57.75,
-        "taller": 39,
-        "distribuidor": 33.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540139036.png",
-      "imagen_size": 92107,
       "activo": true
     },
     {
@@ -16709,7 +16688,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17339,8 +17318,8 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19040,7 +19019,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 23,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25739,7 +25718,7 @@
         "taller": 12.25,
         "distribuidor": 10.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25991,8 +25970,8 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -27335,7 +27314,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27398,8 +27377,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32186,8 +32165,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33673,9 +33652,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1.75,
-        "taller": 1.25,
-        "distribuidor": 0.75
+        "publico": 1.25,
+        "taller": 0.5,
+        "distribuidor": 0.4
       },
       "stock": 30,
       "stock_status": "in_stock",
@@ -33908,7 +33887,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 14,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40502,7 +40481,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
