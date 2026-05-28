@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T22:41:23.838Z",
-  "count": 5702,
+  "generated_at": "2026-05-28T16:54:24.983Z",
+  "count": 5754,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 131,
+      "stock": 130,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 99,
+      "stock": 87,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -833,8 +833,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 15,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -875,7 +875,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 6,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -896,7 +896,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 7,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -959,8 +959,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 20,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1001,8 +1001,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 28,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1043,8 +1043,29 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 20,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "6204-2RS",
+      "nombre": "BALERO 6204 KOYO",
+      "marca": "KOYO",
+      "categoria": "BALEROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 4.5,
+        "distribuidor": 4
+      },
+      "stock": 20,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1085,7 +1106,28 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 8,
+      "stock": 16,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "6301-2RS",
+      "nombre": "BALERO 6301 KOYO",
+      "marca": "KOYO",
+      "categoria": "BALEROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.5,
+        "taller": 3.5,
+        "distribuidor": 3
+      },
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1148,8 +1190,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 20,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1316,8 +1358,29 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "HK1512",
+      "nombre": "BALERO AGUJA HK1512",
+      "marca": "NRP",
+      "categoria": "BALEROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.5,
+        "taller": 3.5,
+        "distribuidor": 3
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1799,7 +1862,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2124,6 +2187,27 @@
       "activo": true
     },
     {
+      "sku": "RC060060000",
+      "nombre": "BASES PARA ESPEJOS UNI",
+      "marca": "NRP",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "TS12N7-4A",
       "nombre": "BATERIA DE GEL 12N7-4A TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2135,7 +2219,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2219,7 +2303,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2240,7 +2324,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2289,27 +2373,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189449.png",
       "imagen_size": 94470,
-      "activo": true
-    },
-    {
-      "sku": "741540189153",
-      "nombre": "BATERIA GEL 12N7-4A  (FL)",
-      "marca": "MOTUL",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 34,
-        "taller": 22,
-        "distribuidor": 20.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189153.png",
-      "imagen_size": 136594,
       "activo": true
     },
     {
@@ -2408,7 +2471,7 @@
         "taller": 22,
         "distribuidor": 20.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2502,6 +2565,48 @@
       "activo": true
     },
     {
+      "sku": "IC029",
+      "nombre": "BOBINA ALTA",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "IC026",
+      "nombre": "BOBINA ALTA",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540187513",
       "nombre": "BOBINA ALTA AKT 200 SM VINI (FL)",
       "marca": "VINI",
@@ -2520,6 +2625,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540187513.png",
       "imagen_size": 68673,
+      "activo": true
+    },
+    {
+      "sku": "IC018",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -2583,6 +2709,69 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189630.png",
       "imagen_size": 82179,
+      "activo": true
+    },
+    {
+      "sku": "IC016",
+      "nombre": "BOBINA ALTA EN 125 / GN125",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "IC021",
+      "nombre": "BOBINA ALTA FZ 2.0 / SZ 150D",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "IC022",
+      "nombre": "BOBINA ALTA FZ 3.0 / FZN 250 / YD 110 CRUX REV / XTZ 150",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -2670,6 +2859,27 @@
       "activo": true
     },
     {
+      "sku": "IC003",
+      "nombre": "BOBINA ALTA PULSAR 200NS",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540190087",
       "nombre": "BOBINA ALTA PULSAR125NS -LH VINI",
       "marca": "VINI",
@@ -2751,6 +2961,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190043.png",
       "imagen_size": 77371,
+      "activo": true
+    },
+    {
+      "sku": "IC012",
+      "nombre": "BOBINA ALTA SHADOW 150",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -3689,7 +3920,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 38,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3731,7 +3962,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 37,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3951,6 +4182,27 @@
       "activo": true
     },
     {
+      "sku": "THC018",
+      "nombre": "CABLE ACELERADOR APACHE RTR 160-200 2V-4V",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 4.5,
+        "distribuidor": 4
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540100266",
       "nombre": "CABLE ACELERADOR AX100 VINI (FL)",
       "marca": "VINI",
@@ -4011,6 +4263,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188482.png",
       "imagen_size": 67625,
+      "activo": true
+    },
+    {
+      "sku": "THC006",
+      "nombre": "CABLE ACELERADOR CB150 INVICTA / 160 UNICORN / CBF 125",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -4098,6 +4371,27 @@
       "activo": true
     },
     {
+      "sku": "THC042",
+      "nombre": "CABLE ACELERADOR DAWN 125",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/THC042.jpg",
+      "imagen_size": 5105,
+      "activo": true
+    },
+    {
       "sku": "1002821",
       "nombre": "CABLE ACELERADOR DISCOVER 125-135",
       "marca": "MEK",
@@ -4182,6 +4476,27 @@
       "activo": true
     },
     {
+      "sku": "THC037",
+      "nombre": "CABLE ACELERADOR FZN 150D (FZ 2.0)",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "THC046",
       "nombre": "CABLE ACELERADOR FZS 3.0",
       "marca": "NRP",
@@ -4192,6 +4507,27 @@
         "publico": 7,
         "taller": 4.5,
         "distribuidor": 4
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "THC043",
+      "nombre": "CABLE ACELERADOR GLAMOUR 125",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -4350,6 +4686,27 @@
       "activo": true
     },
     {
+      "sku": "THC031",
+      "nombre": "CABLE ACELERADOR HONDA XR250 TORNADO",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 7,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189192",
       "nombre": "CABLE ACELERADOR HUNK 150 / UNICORN 150",
       "marca": "VINI",
@@ -4361,7 +4718,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4578,6 +4935,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188015.png",
       "imagen_size": 69772,
+      "activo": true
+    },
+    {
+      "sku": "THC011",
+      "nombre": "CABLE ACELERADOR SHADOW 150",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 3.5,
+        "distribuidor": 3
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/THC011.jpg",
+      "imagen_size": 5583,
       "activo": true
     },
     {
@@ -4812,6 +5190,27 @@
       "activo": true
     },
     {
+      "sku": "CLC039",
+      "nombre": "CABLE CLUTCH",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1004916",
       "nombre": "CABLE CLUTCH  TVS KING NEGRO",
       "marca": "MEK",
@@ -4830,6 +5229,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004916.png",
       "imagen_size": 10013,
+      "activo": true
+    },
+    {
+      "sku": "CLC023",
+      "nombre": "CABLE CLUTCH APACHE RTR 160-180",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -4886,7 +5306,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4928,7 +5348,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5001,6 +5421,48 @@
       "activo": true
     },
     {
+      "sku": "CLC008",
+      "nombre": "CABLE CLUTCH DAWN-GLAMOUR-IGNITOR (125) / CB 160F HORNET / XBLADE 160",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/CLC008.jpg",
+      "imagen_size": 5119,
+      "activo": true
+    },
+    {
+      "sku": "CLC020",
+      "nombre": "CABLE CLUTCH EN 125",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/CLC020.jpg",
+      "imagen_size": 6120,
+      "activo": true
+    },
+    {
       "sku": "741540189196",
       "nombre": "CABLE CLUTCH FORZA 150 CR1",
       "marca": "VINI",
@@ -5019,6 +5481,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189196.png",
       "imagen_size": 62640,
+      "activo": true
+    },
+    {
+      "sku": "CLC014",
+      "nombre": "CABLE CLUTCH FXR 200L / SHADOW 150 / YARA 200",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -5453,7 +5936,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5558,7 +6041,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6261,6 +6744,27 @@
       "activo": true
     },
     {
+      "sku": "SPC011",
+      "nombre": "CABLE VELOCIMETRO SHADOW 150",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/SPC011.jpg",
+      "imagen_size": 5536,
+      "activo": true
+    },
+    {
       "sku": "741540191014",
       "nombre": "CABLE VELOCIMETRO SZ150D",
       "marca": "VINI",
@@ -6321,6 +6825,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188058.png",
       "imagen_size": 70741,
+      "activo": true
+    },
+    {
+      "sku": "SPC014",
+      "nombre": "CABLE VELOCIMETRO XR 125L-150L-190L / NOVA 110",
+      "marca": "NRP",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/SPC014.jpg",
+      "imagen_size": 5113,
       "activo": true
     },
     {
@@ -6678,27 +7203,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188631.png",
       "imagen_size": 53753,
-      "activo": true
-    },
-    {
-      "sku": "741540188486",
-      "nombre": "CADENA TIEMPO HUNK-XR150L (47L PASO 3X2)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188486.png",
-      "imagen_size": 86589,
       "activo": true
     },
     {
@@ -8340,6 +8844,27 @@
       "activo": true
     },
     {
+      "sku": "CRB006",
+      "nombre": "CARBURADOR CB 160 UNICORN-HORNET / XBLADE 160",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189026",
       "nombre": "CARBURADOR CB1 VINI(FL)",
       "marca": "VINI",
@@ -8970,6 +9495,27 @@
       "activo": true
     },
     {
+      "sku": "RS060",
+      "nombre": "CATARINA 36T MOTO CHINA 100-125-150-200",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "RS078",
       "nombre": "CATARINA 36T MOTO CHINA 125-150-200 CON CENTRO DE GN125",
       "marca": "NRP",
@@ -9030,6 +9576,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RS102",
+      "nombre": "CATARINA 37T HUNK 190R / HUNK 200",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 10,
+        "distribuidor": 8.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS102.jpg",
+      "imagen_size": 11682,
       "activo": true
     },
     {
@@ -9317,13 +9884,34 @@
         "taller": 9.75,
         "distribuidor": 8.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS014.jpg",
       "imagen_size": 9041,
+      "activo": true
+    },
+    {
+      "sku": "RS012",
+      "nombre": "CATARINA 39T TS 185",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 10,
+        "distribuidor": 8.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -9345,6 +9933,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS098.jpg",
       "imagen_size": 12215,
+      "activo": true
+    },
+    {
+      "sku": "RS017",
+      "nombre": "CATARINA 40T 6H (FZ16) KATANA R1",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 8,
+        "distribuidor": 6.75
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS017.jpg",
+      "imagen_size": 9413,
       "activo": true
     },
     {
@@ -9464,7 +10073,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9758,7 +10367,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9863,7 +10472,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10020,6 +10629,27 @@
       "activo": true
     },
     {
+      "sku": "RS030",
+      "nombre": "CATARINA 43T SPITZER200/MOTO CHINA CON CENTRO DE YBR125/YBR125",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 13.5,
+        "taller": 8,
+        "distribuidor": 7
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS030.jpg",
+      "imagen_size": 10113,
+      "activo": true
+    },
+    {
       "sku": "RS027",
       "nombre": "CATARINA 43T XL 200",
       "marca": "NRP",
@@ -10101,6 +10731,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS074.jpg",
       "imagen_size": 9909,
+      "activo": true
+    },
+    {
+      "sku": "RS101",
+      "nombre": "CATARINA 44T IGNITOR 125",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 8,
+        "distribuidor": 7
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS101.jpg",
+      "imagen_size": 9737,
       "activo": true
     },
     {
@@ -10230,6 +10881,27 @@
       "activo": true
     },
     {
+      "sku": "RS072",
+      "nombre": "CATARINA 45T CB 190R",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 15,
+        "taller": 10,
+        "distribuidor": 8.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS072.jpg",
+      "imagen_size": 9962,
+      "activo": true
+    },
+    {
       "sku": "RS042",
       "nombre": "CATARINA 45T DISCOVER 125 / PULSAR 160NS / XBLADE 160",
       "marca": "NRP",
@@ -10248,6 +10920,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS042.jpg",
       "imagen_size": 9328,
+      "activo": true
+    },
+    {
+      "sku": "RS070",
+      "nombre": "CATARINA 45T EX 250 NINJA",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 10,
+        "distribuidor": 8.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -10398,6 +11091,48 @@
       "activo": true
     },
     {
+      "sku": "RS084",
+      "nombre": "CATARINA 46T FXR200 / MOTO CHINA CON CENTRO DE GN125",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 8.5,
+        "distribuidor": 7.25
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RS107",
+      "nombre": "CATARINA 46T FZN 250 (FZ 25)",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS107.jpg",
+      "imagen_size": 8719,
+      "activo": true
+    },
+    {
       "sku": "RS110",
       "nombre": "CATARINA 46T MOTO CHINA 125-150-200",
       "marca": "NRP",
@@ -10524,6 +11259,27 @@
       "activo": true
     },
     {
+      "sku": "RS043",
+      "nombre": "CATARINA 47T DT 125-175",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "RS068",
       "nombre": "CATARINA 48T GXT200 / MOTO CHINA200",
       "marca": "NRP",
@@ -10598,13 +11354,55 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS047.jpg",
       "imagen_size": 8722,
+      "activo": true
+    },
+    {
+      "sku": "RS085",
+      "nombre": "CATARINA 50T DEFENDER 200 / MOTO CHINA 125-200 CON CENTRO DE GN125",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 15,
+        "taller": 11,
+        "distribuidor": 9.5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RS049",
+      "nombre": "CATARINA 50T MOTO CHINA 125-150-200-250",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -10710,6 +11508,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004369.jpg",
       "imagen_size": 88624,
+      "activo": true
+    },
+    {
+      "sku": "RS051",
+      "nombre": "CATARINA 56T XL125 / JH125 NRP",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 18,
+        "taller": 12,
+        "distribuidor": 10.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS051.jpg",
+      "imagen_size": 10687,
       "activo": true
     },
     {
@@ -11277,6 +12096,90 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540178109.png",
       "imagen_size": 125079,
+      "activo": true
+    },
+    {
+      "sku": "CDI014",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI007",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI016",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -14094,6 +14997,27 @@
       "activo": true
     },
     {
+      "sku": "CD007",
+      "nombre": "DISCO CLUTCH PULSAR180-200/XR 250 TORNADO/FZ16/SZ150D",
+      "marca": "NRP",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 15,
+        "taller": 8,
+        "distribuidor": 6.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/CD007.jpg",
+      "imagen_size": 4761,
+      "activo": true
+    },
+    {
       "sku": "741540188464",
       "nombre": "DISCO CLUTCH SET AK10/C70/C90 VINI(FL)",
       "marca": "VINI",
@@ -14703,6 +15627,27 @@
       "activo": true
     },
     {
+      "sku": "BD034",
+      "nombre": "DISCO FRENO DELANTERO PULSAR 160NS",
+      "marca": "NRP",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 29,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/BD034.jpg",
+      "imagen_size": 9555,
+      "activo": true
+    },
+    {
       "sku": "BD012",
       "nombre": "DISCO FRENO DELANTERO XR 125-150-190L",
       "marca": "NRP",
@@ -14721,6 +15666,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/BD012.jpg",
       "imagen_size": 10725,
+      "activo": true
+    },
+    {
+      "sku": "BD020",
+      "nombre": "DISCO FRENO DELANTERO YARA200 / APACHE RTR 160-180-200",
+      "marca": "NRP",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 40,
+        "taller": 34,
+        "distribuidor": 28
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -14973,6 +15939,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/BD021.jpg",
       "imagen_size": 10549,
+      "activo": true
+    },
+    {
+      "sku": "BD019",
+      "nombre": "DISCO FRENO TRASERO GSX 150 GIXXER",
+      "marca": "NRP",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 37,
+        "taller": 28,
+        "distribuidor": 24
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -16866,6 +17853,48 @@
       "activo": true
     },
     {
+      "sku": "SC006",
+      "nombre": "ESTATOR BOXER 150",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "SC009",
+      "nombre": "ESTATOR TT 200",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540188709",
       "nombre": "ESTRELLA CAMBIO CG125",
       "marca": "VINI",
@@ -17517,6 +18546,27 @@
       "activo": true
     },
     {
+      "sku": "AF004",
+      "nombre": "FILTRO AIRE BOXER125-150/BOXER150X/PULSAR125-135",
+      "marca": "NRP",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 3
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/AF004.jpg",
+      "imagen_size": 3108,
+      "activo": true
+    },
+    {
       "sku": "741540189342",
       "nombre": "FILTRO AIRE CB 160F-UNICOR-XBLADE / REPSOL 190 VINI(FL)",
       "marca": "VINI",
@@ -17906,7 +18956,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18357,6 +19407,27 @@
       "activo": true
     },
     {
+      "sku": "AF079",
+      "nombre": "FILTRO AIRE XR 190L",
+      "marca": "NRP",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 10,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/AF079.jpg",
+      "imagen_size": 8685,
+      "activo": true
+    },
+    {
       "sku": "AF073",
       "nombre": "FILTRO AIRE XTZ 150",
       "marca": "NRP",
@@ -18459,6 +19530,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100327.png",
       "imagen_size": 105996,
+      "activo": true
+    },
+    {
+      "sku": "AF062",
+      "nombre": "FILTRO AIRE YD 110D CRUX",
+      "marca": "NRP",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -18599,8 +19691,8 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 53,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18714,6 +19806,27 @@
       "activo": true
     },
     {
+      "sku": "FL001",
+      "nombre": "FLASHER UNIVERSAL 6-12V",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3.5,
+        "taller": 2.5,
+        "distribuidor": 2.2
+      },
+      "stock": 40,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "CRLACENTRAL",
       "nombre": "FLETE POR ENVIO",
       "marca": "MOTUL",
@@ -18768,6 +19881,27 @@
         "distribuidor": 0.75
       },
       "stock": 36,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RE070200408",
+      "nombre": "FOCO 12V CORTESIA TIPO LAGRIMA",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 60,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19110,6 +20244,48 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100372.png",
       "imagen_size": 130301,
+      "activo": true
+    },
+    {
+      "sku": "RE070250002",
+      "nombre": "FUSIBLE ATO 10A UNIDAD",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0.5,
+        "taller": 0.3,
+        "distribuidor": 0.2
+      },
+      "stock": 20,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RE070250003",
+      "nombre": "FUSIBLE ATO 15A UNIDAD",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0.5,
+        "taller": 0.3,
+        "distribuidor": 0.2
+      },
+      "stock": 20,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -20122,7 +21298,7 @@
     },
     {
       "sku": "741540189789",
-      "nombre": "HERRAMIENTA EXTRACTOR GXT200-TWISTER-GN / CRUXX 110 REV",
+      "nombre": "HERRAMIENTA EXTRACTOR GXT200-TWISTER-GN / CRUXX 110 REV / FZ 2.0",
       "marca": "VINI",
       "categoria": "HERRAMIENTA",
       "presentacion": "UNIDAD",
@@ -21392,8 +22568,8 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21434,8 +22610,8 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21455,8 +22631,8 @@
         "taller": 7.25,
         "distribuidor": 6.25
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21476,13 +22652,34 @@
         "taller": 6,
         "distribuidor": 4.75
       },
-      "stock": 3,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/WD014.jpg",
       "imagen_size": 8826,
+      "activo": true
+    },
+    {
+      "sku": "WD003",
+      "nombre": "HULE MASA TRASERA HUNK150-190R-200/CB160F HORNET/CB190R/CB150 INVICTA",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 5,
+        "distribuidor": 4.25
+      },
+      "stock": 8,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/WD003.jpg",
+      "imagen_size": 6388,
       "activo": true
     },
     {
@@ -21497,8 +22694,8 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21990,27 +23187,6 @@
       "activo": true
     },
     {
-      "sku": "741540100455",
-      "nombre": "KIT BALANCIN XL200 / YARA200 / TORNADO250 / SPITZER250",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100455.png",
-      "imagen_size": 78776,
-      "activo": true
-    },
-    {
       "sku": "741540190411",
       "nombre": "KIT BALANCIN XTZ250 VINI",
       "marca": "VINI",
@@ -22242,6 +23418,48 @@
       "activo": true
     },
     {
+      "sku": "CK031",
+      "nombre": "KIT CILINDRO COMPLETO 196CC, VARILLA PIN 15 CG200 GRIS NRP",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 80,
+        "taller": 52,
+        "distribuidor": 44.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CK043",
+      "nombre": "KIT CILINDRO COMPLETO CB 190R/XR 190L",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 100,
+        "taller": 69.5,
+        "distribuidor": 59
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "CK008",
       "nombre": "KIT CILINDRO COMPLETO CB125F TWISTER MOTOR125FMI, 125CC, CADENILLA PIN12",
       "marca": "NRP",
@@ -22284,6 +23502,27 @@
       "activo": true
     },
     {
+      "sku": "CK011",
+      "nombre": "KIT CILINDRO COMPLETO DAWN 150 / ECO 150 / HUNK 150 / DAYUN 150 CB 150 INVICTA, CADENILLA PIN 14",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 89,
+        "taller": 59,
+        "distribuidor": 50.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/CK011.jpg",
+      "imagen_size": 11159,
+      "activo": true
+    },
+    {
       "sku": "CK025",
       "nombre": "KIT CILINDRO COMPLETO FZ 16",
       "marca": "NRP",
@@ -22294,6 +23533,48 @@
         "publico": 90,
         "taller": 63,
         "distribuidor": 53.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CK034",
+      "nombre": "KIT CILINDRO COMPLETO MOTOR 162FMJ (CG150), 149CC, VARILLA PIN13",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 87.5,
+        "taller": 49,
+        "distribuidor": 44
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CK032",
+      "nombre": "KIT CILINDRO COMPLETO MOTOR 167FML, 198CC, VARILLA PIN16",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 98,
+        "taller": 61.5,
+        "distribuidor": 52.25
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -22368,6 +23649,27 @@
       "activo": true
     },
     {
+      "sku": "CK039",
+      "nombre": "KIT CILINDRO COMPLETO TT200/MOTO CHINA200, 198CC, VARILLA PIN16",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 94,
+        "taller": 60,
+        "distribuidor": 51
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/CK039.jpg",
+      "imagen_size": 11020,
+      "activo": true
+    },
+    {
       "sku": "1002363",
       "nombre": "KIT CILINDRO COMPLETO VARILLA PIN13 CG150-FIRE150",
       "marca": "MEK",
@@ -22407,6 +23709,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CK036",
+      "nombre": "KIT CILINDRO COMPLETO YARA MOTOR 164FML, 196CC, CADENILLA PIN 15 NEGRO",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 105,
+        "taller": 65,
+        "distribuidor": 55
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/CK036.jpg",
+      "imagen_size": 8998,
       "activo": true
     },
     {
@@ -22515,6 +23838,27 @@
       "activo": true
     },
     {
+      "sku": "BRB020",
+      "nombre": "KIT CUNA APACHE RTR 160 2V-4V",
+      "marca": "NRP",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540188319",
       "nombre": "KIT CUNA BROS125 XLR125 XR200 VINI (FL)",
       "marca": "VINI",
@@ -22547,7 +23891,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22599,6 +23943,27 @@
       "activo": true
     },
     {
+      "sku": "BRB005",
+      "nombre": "KIT CUNA FZ 16-2.0 / YD 110 CRUX REV / DT 125-175",
+      "marca": "NRP",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540100250",
       "nombre": "KIT CUNA GN125 VINI (FL)",
       "marca": "VINI",
@@ -22610,8 +23975,8 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -22662,6 +24027,27 @@
       "activo": true
     },
     {
+      "sku": "BRB016",
+      "nombre": "KIT CUNA HUNK 160R",
+      "marca": "NRP",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540100735",
       "nombre": "KIT CUNA PULSAR 180",
       "marca": "VINI",
@@ -22704,6 +24090,27 @@
       "activo": true
     },
     {
+      "sku": "BRB021",
+      "nombre": "KIT CUNA SMX 200 / MOTO CHINA 200",
+      "marca": "NRP",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540140565",
       "nombre": "KIT CUNA SPITZER 150 VINI (CONICO) (FL)",
       "marca": "VINI",
@@ -22736,7 +24143,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22764,6 +24171,48 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188504.png",
       "imagen_size": 73940,
+      "activo": true
+    },
+    {
+      "sku": "BRB007",
+      "nombre": "KIT CUNA XR 125L-150L-190L / XL200",
+      "marca": "NRP",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/BRB007.jpg",
+      "imagen_size": 6247,
+      "activo": true
+    },
+    {
+      "sku": "BRB012",
+      "nombre": "KIT CUNA XTZ 150",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/BRB012.jpg",
+      "imagen_size": 5697,
       "activo": true
     },
     {
@@ -22848,6 +24297,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/CK045.jpg",
       "imagen_size": 9320,
+      "activo": true
+    },
+    {
+      "sku": "CK001",
+      "nombre": "KIT DE CILINDRO COMPLETO (BOXER 150,2019)",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 75,
+        "taller": 46,
+        "distribuidor": 39
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/CK001.jpg",
+      "imagen_size": 10381,
       "activo": true
     },
     {
@@ -23103,6 +24573,69 @@
       "activo": true
     },
     {
+      "sku": "RM004000005",
+      "nombre": "KIT EMPAQUE COMPLETO AX 100",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RM004000051",
+      "nombre": "KIT EMPAQUE COMPLETO CB 1 125 / CB 125F TWISTER",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RM004000027",
+      "nombre": "KIT EMPAQUE COMPLETO CB 110 TWISTER / DREAM NEO 110",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "RM004000048",
       "nombre": "KIT EMPAQUE COMPLETO CB 160 UNICORN-HORNET / XBLADE 160",
       "marca": "NRP",
@@ -23114,7 +24647,7 @@
         "taller": 8,
         "distribuidor": 6.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23135,7 +24668,7 @@
         "taller": 16,
         "distribuidor": 14.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23156,7 +24689,28 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 1,
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RM004000047",
+      "nombre": "KIT EMPAQUE COMPLETO GIXXER 150",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 20,
+        "taller": 16,
+        "distribuidor": 14.5
+      },
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23184,6 +24738,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006327.png",
       "imagen_size": 53671,
+      "activo": true
+    },
+    {
+      "sku": "RM004000008",
+      "nombre": "KIT EMPAQUE COMPLETO PULSAR 150 NEON",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -24857,8 +26432,8 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -26358,6 +27933,27 @@
       "activo": true
     },
     {
+      "sku": "1008017KT106L",
+      "nombre": "LLANTA 100-80-17 TL",
+      "marca": "CAMEL",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 32,
+        "distribuidor": 30
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1208016KT191L",
       "nombre": "LLANTA 120-80-16 CAMEL TL LISA DEPORTIVA",
       "marca": "NRP",
@@ -26400,6 +27996,48 @@
       "activo": true
     },
     {
+      "sku": "1307017KT030L",
+      "nombre": "LLANTA 130-70-17 TL",
+      "marca": "CAMEL",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 36,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "35010KT754L",
+      "nombre": "LLANTA 3.50-10 CAMEL TL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 28,
+        "taller": 20,
+        "distribuidor": 18.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "30021KT994T",
       "nombre": "LLANTA 300-21 CAMEL TARUGO PEQUEÑO TL",
       "marca": "NRP",
@@ -26412,6 +28050,48 @@
         "distribuidor": 26.5
       },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "909017KT043L",
+      "nombre": "LLANTA 90-90-17 TL",
+      "marca": "CAMEL",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "909019KT380T",
+      "nombre": "LLANTA 90-90-19 TL",
+      "marca": "CAMEL",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28374,6 +30054,27 @@
       "activo": true
     },
     {
+      "sku": "SM013",
+      "nombre": "MOTOR ARRANQUE CBF 110 / DREAM NEO 110",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/SM013.jpg",
+      "imagen_size": 5933,
+      "activo": true
+    },
+    {
       "sku": "1001286",
       "nombre": "MOTOR ARRANQUE CG200 11T / CR2",
       "marca": "MEK",
@@ -28476,6 +30177,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189658.png",
       "imagen_size": 95878,
+      "activo": true
+    },
+    {
+      "sku": "SM023",
+      "nombre": "MOTOR ARRANQUE FZ16 / FZ3.0-2.0 / SZ150D VOLT",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 35,
+        "taller": 22,
+        "distribuidor": 20
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/SM023.jpg",
+      "imagen_size": 5477,
       "activo": true
     },
     {
@@ -28584,6 +30306,69 @@
       "activo": true
     },
     {
+      "sku": "SM029",
+      "nombre": "MOTOR ARRANQUE MOTO CHINA 150-200-FORZA 150-NAGA 200 VOLT",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 39,
+        "taller": 27,
+        "distribuidor": 23
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/SM029.jpg",
+      "imagen_size": 6163,
+      "activo": true
+    },
+    {
+      "sku": "SM012",
+      "nombre": "MOTOR ARRANQUE NAVI110",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 43,
+        "taller": 23,
+        "distribuidor": 19.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "SM002",
+      "nombre": "MOTOR ARRANQUE PULSAR 125NS",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/SM002.jpg",
+      "imagen_size": 4782,
+      "activo": true
+    },
+    {
       "sku": "741540100644",
       "nombre": "MOTOR ARRANQUE PULSAR 135",
       "marca": "VINI",
@@ -28665,6 +30450,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540124003.png",
       "imagen_size": 97542,
+      "activo": true
+    },
+    {
+      "sku": "SM027",
+      "nombre": "MOTOR ARRANQUE TT200 / CR2 210 / SMX200 VOLT",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 38,
+        "taller": 32,
+        "distribuidor": 27
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -29211,6 +31017,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188984.png",
       "imagen_size": 78579,
+      "activo": true
+    },
+    {
+      "sku": "BP034",
+      "nombre": "PASTILLA FRENO CB160R HORNET/CBR 250 RA",
+      "marca": "NRP",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9,
+        "taller": 6,
+        "distribuidor": 5
+      },
+      "stock": 16,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -30054,6 +31881,27 @@
       "activo": true
     },
     {
+      "sku": "BP009",
+      "nombre": "PASTILLA FRENO YBR 125 / YZF R15 DEL.",
+      "marca": "NRP",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/BP009.jpg",
+      "imagen_size": 4214,
+      "activo": true
+    },
+    {
       "sku": "741540188263",
       "nombre": "PASTILLA FRENO YBR125ED VINI(FL)",
       "marca": "VINI",
@@ -30159,6 +32007,27 @@
       "activo": true
     },
     {
+      "sku": "BP031",
+      "nombre": "PASTILLAS DE FRENO APACHE RTR 160-180-200",
+      "marca": "NRP",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7.5,
+        "taller": 3.5,
+        "distribuidor": 3
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "BP025",
       "nombre": "PASTILLAS DE FRENO MOTO CHINA 125 - 250 / FZ (TRAS.)",
       "marca": "NRP",
@@ -30170,8 +32039,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31283,7 +33152,7 @@
         "taller": 8.75,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31398,6 +33267,27 @@
       "activo": true
     },
     {
+      "sku": "FS039",
+      "nombre": "PIÑON 13T AK 200 / MOTO CHINA 200",
+      "marca": "NRP",
+      "categoria": "PIÑONES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "FS006",
       "nombre": "PIÑON 13T APACHE RTR 160",
       "marca": "NRP",
@@ -31419,6 +33309,27 @@
       "activo": true
     },
     {
+      "sku": "FS003",
+      "nombre": "PIÑON 13T HUNK 160-190R / HUNK200 / XL200 / CR4 250",
+      "marca": "NRP",
+      "categoria": "PIÑONES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "FS002",
       "nombre": "PIÑON 13T XR 250 TORNADO",
       "marca": "NRP",
@@ -31430,8 +33341,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31461,6 +33372,27 @@
       "activo": true
     },
     {
+      "sku": "FS011",
+      "nombre": "PIÑON 14T BOXER 100S-125-150 / DISCOVER 125-150 / PULSAR 125NS",
+      "marca": "NRP",
+      "categoria": "PIÑONES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/FS011.jpg",
+      "imagen_size": 7034,
+      "activo": true
+    },
+    {
       "sku": "FS046",
       "nombre": "PIÑON 14T CMX 250C REBEL",
       "marca": "NRP",
@@ -31472,7 +33404,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31493,13 +33425,34 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "FS033",
+      "nombre": "PIÑON 14T DREAM NEO 110",
+      "marca": "NRP",
+      "categoria": "PIÑONES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/FS033.jpg",
+      "imagen_size": 6953,
       "activo": true
     },
     {
@@ -31514,8 +33467,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31556,8 +33509,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31584,6 +33537,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/FS008.jpg",
       "imagen_size": 6615,
+      "activo": true
+    },
+    {
+      "sku": "FS040",
+      "nombre": "PIÑON 14T HUNK150, CB 190R",
+      "marca": "NRP",
+      "categoria": "PIÑONES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/FS040.jpg",
+      "imagen_size": 8381,
       "activo": true
     },
     {
@@ -31619,13 +33593,34 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "FS018",
+      "nombre": "PIÑON 14T SZ 150D / SZ 16R / XTZ 150",
+      "marca": "NRP",
+      "categoria": "PIÑONES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/FS018.jpg",
+      "imagen_size": 7056,
       "activo": true
     },
     {
@@ -31640,8 +33635,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31661,8 +33656,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31692,6 +33687,27 @@
       "activo": true
     },
     {
+      "sku": "FS022",
+      "nombre": "PIÑON 15T DEFENDER200/FIRE125/CGL125/XL125/MOTO CHINA/SL 150-9/ASPID125-150/FORZA150/NAGA200",
+      "marca": "NRP",
+      "categoria": "PIÑONES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/FS022.jpg",
+      "imagen_size": 8276,
+      "activo": true
+    },
+    {
       "sku": "FS045",
       "nombre": "PIÑON 15T FIRE 125 / HJ 125-7 / MOTO CHINA 125",
       "marca": "NRP",
@@ -31703,8 +33719,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31745,8 +33761,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31766,8 +33782,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31815,6 +33831,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/FS020.jpg",
       "imagen_size": 7520,
+      "activo": true
+    },
+    {
+      "sku": "FS004",
+      "nombre": "PIÑON 15T PULSAR 160NS",
+      "marca": "NRP",
+      "categoria": "PIÑONES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -31913,8 +33950,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32637,6 +34674,27 @@
       "activo": true
     },
     {
+      "sku": "SC021",
+      "nombre": "PLANTA AX100 VOLT NRP",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 31,
+        "taller": 24,
+        "distribuidor": 20.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/SC021.jpg",
+      "imagen_size": 9894,
+      "activo": true
+    },
+    {
       "sku": "741540189915",
       "nombre": "PLANTA BM150 VINI",
       "marca": "VINI",
@@ -32655,6 +34713,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189915.png",
       "imagen_size": 169229,
+      "activo": true
+    },
+    {
+      "sku": "SC018",
+      "nombre": "PLANTA CB 125F TWISTER",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -32711,7 +34790,7 @@
         "taller": 25,
         "distribuidor": 23
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32826,6 +34905,48 @@
       "activo": true
     },
     {
+      "sku": "SC012",
+      "nombre": "PLANTA DAWN 125 / HUNK 150-200 / NAVI 110",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "SC007",
+      "nombre": "PLANTA DAWN150-ECO150-CBF125 STUNNER VOLT NRP",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 31,
+        "taller": 24,
+        "distribuidor": 20.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/SC007.jpg",
+      "imagen_size": 10908,
+      "activo": true
+    },
+    {
       "sku": "741540189626",
       "nombre": "PLANTA DEKER 200 VINI(FL)",
       "marca": "VINI",
@@ -32907,6 +35028,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190147.png",
       "imagen_size": 164552,
+      "activo": true
+    },
+    {
+      "sku": "SC026",
+      "nombre": "PLANTA FZ 3.0-2.0 / FZ25 / SZ 150D",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -33054,6 +35196,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189425.png",
       "imagen_size": 140669,
+      "activo": true
+    },
+    {
+      "sku": "SC010",
+      "nombre": "PLANTA IGNITOR125-CB160-UNICORN-HORNET-XBLADE160 VOLT NRP",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 31,
+        "taller": 22,
+        "distribuidor": 18.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -33225,6 +35388,27 @@
       "activo": true
     },
     {
+      "sku": "SC017",
+      "nombre": "PLANTA SHADOW 150",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189684",
       "nombre": "PLANTA SPITZER  200 VINI(FL)",
       "marca": "VINI",
@@ -33264,6 +35448,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188267.png",
       "imagen_size": 136349,
+      "activo": true
+    },
+    {
+      "sku": "SC033",
+      "nombre": "PLANTA STRYKER 125",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -33372,6 +35577,27 @@
       "activo": true
     },
     {
+      "sku": "SC013",
+      "nombre": "PLANTA XL 200 VOLT NRP",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 31,
+        "taller": 25,
+        "distribuidor": 21
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "SC016",
       "nombre": "PLANTA XR150L VOLT NRP",
       "marca": "NRP",
@@ -33411,6 +35637,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540122269.png",
       "imagen_size": 141632,
+      "activo": true
+    },
+    {
+      "sku": "SC035",
+      "nombre": "PLANTA YD 110S CRUX",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -34506,6 +36753,27 @@
       "activo": true
     },
     {
+      "sku": "VR033",
+      "nombre": "REGULADOR VOLTAJE",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1003519",
       "nombre": "REGULADOR VOLTAJE 4 LINEAS",
       "marca": "MEK",
@@ -34524,6 +36792,132 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003519.png",
       "imagen_size": 28139,
+      "activo": true
+    },
+    {
+      "sku": "VR019",
+      "nombre": "REGULADOR VOLTAJE APACHE RTR 160 4V",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "VR020",
+      "nombre": "REGULADOR VOLTAJE APACHE RTR 160-180 / 160 2V",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "VR004",
+      "nombre": "REGULADOR VOLTAJE BOXER 150 / PULSAR 125NS / PULSAR 135 VOLT",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 19,
+        "taller": 14.25,
+        "distribuidor": 12.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/VR004.jpg",
+      "imagen_size": 9234,
+      "activo": true
+    },
+    {
+      "sku": "VR008",
+      "nombre": "REGULADOR VOLTAJE CB 190R",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "VR010",
+      "nombre": "REGULADOR VOLTAJE CGL 125",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 7.5,
+        "distribuidor": 0
+      },
+      "stock": 9,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "VR018",
+      "nombre": "REGULADOR VOLTAJE GIXXER 150",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -34601,7 +36995,133 @@
         "taller": 17,
         "distribuidor": 14.5
       },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "VR012",
+      "nombre": "REGULADOR VOLTAJE SHADOW 150",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "VR025",
+      "nombre": "REGULADOR VOLTAJE SZ 150D",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "VR011",
+      "nombre": "REGULADOR VOLTAJE V-MEN 125 VOLT",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "VR028",
+      "nombre": "REGULADOR VOLTAJE XBLADE 160",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "VR021",
+      "nombre": "REGULADOR VOLTAJE XTZ 125 / YBR 125",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "VR024",
+      "nombre": "REGULADOR VOLTAJE YD 110 CRUX REV",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34644,6 +37164,69 @@
         "distribuidor": 4.75
       },
       "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "SR005",
+      "nombre": "RELAY ARRANQUE CBF 110 / DREAM NEO 110 / NAVI 110",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 6,
+        "distribuidor": 5
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "SR010",
+      "nombre": "RELAY ARRANQUE FZ 2.0-3.0 / FZN 150-250 / SZ 150D",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "SR012",
+      "nombre": "RELAY ARRANQUE YD 110 CRUX REV",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 10,
+        "taller": 6,
+        "distribuidor": 5
+      },
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35777,8 +38360,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 20,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35798,7 +38381,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 20,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36365,7 +38948,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 7,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36512,8 +39095,8 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 15,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36848,13 +39431,34 @@
         "taller": 8,
         "distribuidor": 6.5
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "WB001",
+      "nombre": "SET BUJES DE RUEDA TRASERA YARA200 / MOTO CHINA 200 / SMX200",
+      "marca": "NRP",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7.5,
+        "taller": 6,
+        "distribuidor": 5
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/WB001.jpg",
+      "imagen_size": 9180,
       "activo": true
     },
     {
@@ -40155,6 +42759,27 @@
       "activo": true
     },
     {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1001076",
       "nombre": "VALVULA PASO GASOLINA  GY6150(SCOOTER)",
       "marca": "MEK",
@@ -40502,8 +43127,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40600,28 +43225,6 @@
       "activo": true
     },
     {
-      "sku": "BRB005",
-      "nombre": "KIT DE CUNAS DE DIRECCION",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "BRB006",
       "nombre": "KIT DE CUNAS DE DIRECCION",
       "marca": "NRP",
@@ -40641,28 +43244,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/BRB006.jpg",
       "imagen_size": 6583,
-      "activo": true
-    },
-    {
-      "sku": "BRB007",
-      "nombre": "KIT DE CUNAS DE DIRECCION",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/BRB007.jpg",
-      "imagen_size": 6247,
       "activo": true
     },
     {
@@ -40754,28 +43335,6 @@
       "activo": true
     },
     {
-      "sku": "BRB012",
-      "nombre": "KIT DE CUNAS DE DIRECCION",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/BRB012.jpg",
-      "imagen_size": 5697,
-      "activo": true
-    },
-    {
       "sku": "BRB014",
       "nombre": "KIT DE CUNAS DE DIRECCION",
       "marca": "NRP",
@@ -40817,28 +43376,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/BRB015.jpg",
       "imagen_size": 6786,
-      "activo": true
-    },
-    {
-      "sku": "BRB016",
-      "nombre": "KIT DE CUNAS DE DIRECCION",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -40908,50 +43445,6 @@
       "activo": true
     },
     {
-      "sku": "BRB020",
-      "nombre": "KIT DE CUNAS DE DIRECCION",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "BRB021",
-      "nombre": "KIT DE CUNAS DE DIRECCION",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1109016KT444L",
       "nombre": "LLANTA 110/90-16 TL",
       "marca": "KML",
@@ -40976,28 +43469,6 @@
     {
       "sku": "909018KT043L",
       "nombre": "LLANTA 90/90-18 TL",
-      "marca": "KML",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "909017KT043L",
-      "nombre": "LLANTA 90/90-17 TL",
       "marca": "KML",
       "categoria": "LLANTAS",
       "presentacion": "UND",
@@ -41130,50 +43601,6 @@
     {
       "sku": "30018KTA512L",
       "nombre": "LLANTA 3.00-18 TL",
-      "marca": "KML",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1307017KT030L",
-      "nombre": "LLANTA 130/70-17 TL",
-      "marca": "KML",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "35010KT754L",
-      "nombre": "LLANTA 3.50-10 TL",
       "marca": "KML",
       "categoria": "LLANTAS",
       "presentacion": "UND",
@@ -41568,28 +43995,6 @@
       "activo": true
     },
     {
-      "sku": "1008017KT106L",
-      "nombre": "LLANTA 100/80-17 TL",
-      "marca": "KML",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1407017KT030L",
       "nombre": "LLANTA 140/70-17 TL",
       "marca": "KML",
@@ -41746,28 +44151,6 @@
     {
       "sku": "30018KTA512T",
       "nombre": "LLANTA 3.00-18 TT",
-      "marca": "KML",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "909019KT380T",
-      "nombre": "LLANTA 90/90-19 TT",
       "marca": "KML",
       "categoria": "LLANTAS",
       "presentacion": "UND",
@@ -42096,28 +44479,6 @@
       "activo": true
     },
     {
-      "sku": "WB001",
-      "nombre": "SET DE BUJES DE RUEDA TRASERA CON PERNOS",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "JGO 4",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/WB001.jpg",
-      "imagen_size": 9180,
-      "activo": true
-    },
-    {
       "sku": "WB101",
       "nombre": "SET DE BUJES METALICOS DE RUEDA TRASERA CON PERNOS",
       "marca": "NRP",
@@ -42159,28 +44520,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/WD002.jpg",
       "imagen_size": 9850,
-      "activo": true
-    },
-    {
-      "sku": "WD003",
-      "nombre": "HULES DE BUFA TRASERA",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "JGO 4",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/WD003.jpg",
-      "imagen_size": 6388,
       "activo": true
     },
     {
@@ -42250,50 +44589,6 @@
       "activo": true
     },
     {
-      "sku": "RS049",
-      "nombre": "CATARINA 50T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RS051",
-      "nombre": "CATARINA 56T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/RS051.jpg",
-      "imagen_size": 10687,
-      "activo": true
-    },
-    {
       "sku": "RS059",
       "nombre": "CATARINA 41T",
       "marca": "NRP",
@@ -42316,95 +44611,7 @@
       "activo": true
     },
     {
-      "sku": "RS070",
-      "nombre": "CATARINA 45T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RS072",
-      "nombre": "CATARINA 45T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/RS072.jpg",
-      "imagen_size": 9962,
-      "activo": true
-    },
-    {
       "sku": "RS073",
-      "nombre": "CATARINA 50T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RS084",
-      "nombre": "CATARINA 46T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RS085",
       "nombre": "CATARINA 50T",
       "marca": "NRP",
       "categoria": "TRANSMISION",
@@ -42514,28 +44721,6 @@
       "activo": true
     },
     {
-      "sku": "RS102",
-      "nombre": "CATARINA 37T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/RS102.jpg",
-      "imagen_size": 11682,
-      "activo": true
-    },
-    {
       "sku": "RS103",
       "nombre": "CATARINA 33T",
       "marca": "NRP",
@@ -42555,28 +44740,6 @@
       "fuente": "NRP",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RS107",
-      "nombre": "CATARINA 46T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/RS107.jpg",
-      "imagen_size": 8719,
       "activo": true
     },
     {
@@ -43042,50 +45205,6 @@
       "activo": true
     },
     {
-      "sku": "FS003",
-      "nombre": "PIÑON 13T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "FS004",
-      "nombre": "PIÑON 15T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "FS005",
       "nombre": "PIÑON 15T",
       "marca": "NRP",
@@ -43130,72 +45249,6 @@
       "activo": true
     },
     {
-      "sku": "FS018",
-      "nombre": "PIÑON 14T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/FS018.jpg",
-      "imagen_size": 7056,
-      "activo": true
-    },
-    {
-      "sku": "FS022",
-      "nombre": "PIÑON 15T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/FS022.jpg",
-      "imagen_size": 8276,
-      "activo": true
-    },
-    {
-      "sku": "FS033",
-      "nombre": "PIÑON 14T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/FS033.jpg",
-      "imagen_size": 6953,
-      "activo": true
-    },
-    {
       "sku": "FS034",
       "nombre": "PIÑON 17T",
       "marca": "NRP",
@@ -43215,50 +45268,6 @@
       "fuente": "NRP",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "FS039",
-      "nombre": "PIÑON 13T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "FS040",
-      "nombre": "PIÑON 14T",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/FS040.jpg",
-      "imagen_size": 8381,
       "activo": true
     },
     {
@@ -43658,28 +45667,6 @@
       "activo": true
     },
     {
-      "sku": "BP009",
-      "nombre": "PASTILLAS DE FRENO",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "JGO",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/BP009.jpg",
-      "imagen_size": 4214,
-      "activo": true
-    },
-    {
       "sku": "BP011",
       "nombre": "PASTILLAS DE FRENO",
       "marca": "NRP",
@@ -43985,50 +45972,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/BP030.jpg",
       "imagen_size": 10077,
-      "activo": true
-    },
-    {
-      "sku": "BP031",
-      "nombre": "PASTILLAS DE FRENO",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "JGO",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "BP034",
-      "nombre": "PASTILLAS DE FRENO",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "JGO",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -44428,28 +46371,6 @@
       "activo": true
     },
     {
-      "sku": "BD020",
-      "nombre": "DISCO DE FRENO DELANTERO",
-      "marca": "NRP",
-      "categoria": "FRENOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "BD022",
       "nombre": "DISCO DE FRENO DELANTERO",
       "marca": "NRP",
@@ -44711,28 +46632,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/BD033.jpg",
       "imagen_size": 8977,
-      "activo": true
-    },
-    {
-      "sku": "BD034",
-      "nombre": "DISCO DE FRENO DELANTERO",
-      "marca": "NRP",
-      "categoria": "FRENOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/BD034.jpg",
-      "imagen_size": 9555,
       "activo": true
     },
     {
@@ -45044,28 +46943,6 @@
       "activo": true
     },
     {
-      "sku": "THC006",
-      "nombre": "CABLE DE ACELERADOR",
-      "marca": "NRP",
-      "categoria": "CABLES",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "THC007",
       "nombre": "CABLE DE ACELERADOR",
       "marca": "NRP",
@@ -45239,28 +47116,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/THC017.jpg",
       "imagen_size": 6093,
-      "activo": true
-    },
-    {
-      "sku": "THC018",
-      "nombre": "CABLE DE ACELERADOR",
-      "marca": "NRP",
-      "categoria": "CABLES",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -45547,50 +47402,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/THC041.jpg",
       "imagen_size": 5277,
-      "activo": true
-    },
-    {
-      "sku": "THC042",
-      "nombre": "CABLE DE ACELERADOR",
-      "marca": "NRP",
-      "categoria": "CABLES",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/THC042.jpg",
-      "imagen_size": 5105,
-      "activo": true
-    },
-    {
-      "sku": "THC043",
-      "nombre": "CABLE DE ACELERADOR",
-      "marca": "NRP",
-      "categoria": "CABLES",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -46012,28 +47823,6 @@
       "activo": true
     },
     {
-      "sku": "CLC008",
-      "nombre": "CABLE DE CLUTCH",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/CLC008.jpg",
-      "imagen_size": 5119,
-      "activo": true
-    },
-    {
       "sku": "CLC009",
       "nombre": "CABLE DE CLUTCH",
       "marca": "NRP",
@@ -46119,28 +47908,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/CLC013.jpg",
       "imagen_size": 6044,
-      "activo": true
-    },
-    {
-      "sku": "CLC014",
-      "nombre": "CABLE DE CLUTCH",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -46254,28 +48021,6 @@
       "activo": true
     },
     {
-      "sku": "CLC020",
-      "nombre": "CABLE DE CLUTCH",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/CLC020.jpg",
-      "imagen_size": 6120,
-      "activo": true
-    },
-    {
       "sku": "CLC021",
       "nombre": "CABLE DE CLUTCH",
       "marca": "NRP",
@@ -46299,28 +48044,6 @@
     },
     {
       "sku": "CLC022",
-      "nombre": "CABLE DE CLUTCH",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CLC023",
       "nombre": "CABLE DE CLUTCH",
       "marca": "NRP",
       "categoria": "TRANSMISION",
@@ -46585,28 +48308,6 @@
     },
     {
       "sku": "CLC038",
-      "nombre": "CABLE DE CLUTCH",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CLC039",
       "nombre": "CABLE DE CLUTCH",
       "marca": "NRP",
       "categoria": "TRANSMISION",
@@ -47244,28 +48945,6 @@
       "activo": true
     },
     {
-      "sku": "SPC011",
-      "nombre": "CABLE DE VELOCIMETRO",
-      "marca": "NRP",
-      "categoria": "CABLES",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/SPC011.jpg",
-      "imagen_size": 5536,
-      "activo": true
-    },
-    {
       "sku": "SPC012",
       "nombre": "CABLE DE VELOCIMETRO",
       "marca": "NRP",
@@ -47307,28 +48986,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/SPC013.jpg",
       "imagen_size": 5360,
-      "activo": true
-    },
-    {
-      "sku": "SPC014",
-      "nombre": "CABLE DE VELOCIMETRO",
-      "marca": "NRP",
-      "categoria": "CABLES",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/SPC014.jpg",
-      "imagen_size": 5113,
       "activo": true
     },
     {
@@ -48168,28 +49825,6 @@
       "activo": true
     },
     {
-      "sku": "6301-2RS",
-      "nombre": "BALERO 6301",
-      "marca": "KOYO",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "63/22-2RS",
       "nombre": "BALERO 63/22",
       "marca": "KOYO",
@@ -48412,28 +50047,6 @@
     {
       "sku": "HK1015",
       "nombre": "BALERO HK1015",
-      "marca": "KOYO",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "HK1512",
-      "nombre": "BALERO HK1512",
       "marca": "KOYO",
       "categoria": "REPUESTOS",
       "presentacion": "UND",
@@ -49620,50 +51233,6 @@
       "activo": true
     },
     {
-      "sku": "SC010",
-      "nombre": "ESTATOR",
-      "marca": "VOLT",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "SC012",
-      "nombre": "ESTATOR",
-      "marca": "VOLT",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "SC014",
       "nombre": "ESTATOR",
       "marca": "VOLT",
@@ -49687,28 +51256,6 @@
     },
     {
       "sku": "SC015",
-      "nombre": "ESTATOR",
-      "marca": "VOLT",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "SC018",
       "nombre": "ESTATOR",
       "marca": "VOLT",
       "categoria": "REPUESTOS",
@@ -49837,28 +51384,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/SM001.jpg",
       "imagen_size": 4561,
-      "activo": true
-    },
-    {
-      "sku": "SM002",
-      "nombre": "MOTOR DE ARRANQUE",
-      "marca": "VOLT",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/SM002.jpg",
-      "imagen_size": 4782,
       "activo": true
     },
     {
@@ -49991,50 +51516,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/SM009.jpg",
       "imagen_size": 5485,
-      "activo": true
-    },
-    {
-      "sku": "SM012",
-      "nombre": "MOTOR DE ARRANQUE",
-      "marca": "VOLT",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "SM013",
-      "nombre": "MOTOR DE ARRANQUE",
-      "marca": "VOLT",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/SM013.jpg",
-      "imagen_size": 5933,
       "activo": true
     },
     {
@@ -50280,50 +51761,6 @@
       "activo": true
     },
     {
-      "sku": "SM027",
-      "nombre": "MOTOR DE ARRANQUE",
-      "marca": "VOLT",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "SM029",
-      "nombre": "MOTOR DE ARRANQUE",
-      "marca": "VOLT",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/SM029.jpg",
-      "imagen_size": 6163,
-      "activo": true
-    },
-    {
       "sku": "VR001",
       "nombre": "REGULADOR DE VOLTAJE",
       "marca": "VOLT",
@@ -50368,51 +51805,7 @@
       "activo": true
     },
     {
-      "sku": "VR011",
-      "nombre": "REGULADOR DE VOLTAJE",
-      "marca": "VOLT",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "VR016",
-      "nombre": "REGULADOR DE VOLTAJE",
-      "marca": "VOLT",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "VR021",
       "nombre": "REGULADOR DE VOLTAJE",
       "marca": "VOLT",
       "categoria": "ELECTRICOS",
@@ -50438,28 +51831,6 @@
       "nombre": "REGULADOR DE VOLTAJE",
       "marca": "VOLT",
       "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "FL001",
-      "nombre": "FLASHER ELECTRONICO 6V-12V",
-      "marca": "VOLT",
-      "categoria": "REPUESTOS",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -50590,28 +51961,6 @@
     {
       "sku": "IC002",
       "nombre": "BOBINA DE ENCENDIDO CON CAPUCHON",
-      "marca": "VOLT",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "IC003",
-      "nombre": "BOBINA DE ENCENDIDO CON CAPUCHONES",
       "marca": "VOLT",
       "categoria": "ELECTRICOS",
       "presentacion": "UND",
@@ -50764,28 +52113,6 @@
       "activo": true
     },
     {
-      "sku": "IC016",
-      "nombre": "BOBINA DE ENCENDIDO CON CAPUCHON",
-      "marca": "VOLT",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "IC017",
       "nombre": "BOBINA DE ENCENDIDO CON CAPUCHON",
       "marca": "VOLT",
@@ -50809,50 +52136,6 @@
     },
     {
       "sku": "IC020",
-      "nombre": "BOBINA DE ENCENDIDO CON CAPUCHON",
-      "marca": "VOLT",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "IC021",
-      "nombre": "BOBINA DE ENCENDIDO CON CAPUCHON",
-      "marca": "VOLT",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "IC022",
       "nombre": "BOBINA DE ENCENDIDO CON CAPUCHON",
       "marca": "VOLT",
       "categoria": "ELECTRICOS",
@@ -50959,50 +52242,6 @@
       "fuente": "NRP",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "TV001",
-      "nombre": "VALVULA DE LLANTA",
-      "marca": "KML",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CK001",
-      "nombre": "KIT DE CILINDRO COMPLETO",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/CK001.jpg",
-      "imagen_size": 10381,
       "activo": true
     },
     {
@@ -51135,28 +52374,6 @@
       "fuente": "NRP",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CK011",
-      "nombre": "KIT DE CILINDRO COMPLETO",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/CK011.jpg",
-      "imagen_size": 11159,
       "activo": true
     },
     {
@@ -51446,50 +52663,6 @@
       "activo": true
     },
     {
-      "sku": "CK031",
-      "nombre": "KIT DE CILINDRO COMPLETO",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CK032",
-      "nombre": "KIT DE CILINDRO COMPLETO",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CK033",
       "nombre": "KIT DE CILINDRO COMPLETO",
       "marca": "NRP",
@@ -51512,28 +52685,6 @@
       "activo": true
     },
     {
-      "sku": "CK034",
-      "nombre": "KIT DE CILINDRO COMPLETO",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CK035",
       "nombre": "KIT DE CILINDRO COMPLETO",
       "marca": "NRP",
@@ -51553,28 +52704,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/CK035.jpg",
       "imagen_size": 10500,
-      "activo": true
-    },
-    {
-      "sku": "CK036",
-      "nombre": "KIT DE CILINDRO COMPLETO",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/CK036.jpg",
-      "imagen_size": 8998,
       "activo": true
     },
     {
@@ -51619,28 +52748,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/CK038.jpg",
       "imagen_size": 10725,
-      "activo": true
-    },
-    {
-      "sku": "CK039",
-      "nombre": "KIT DE CILINDRO COMPLETO",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/CK039.jpg",
-      "imagen_size": 11020,
       "activo": true
     },
     {
@@ -52191,28 +53298,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/CRB004.jpg",
       "imagen_size": 8911,
-      "activo": true
-    },
-    {
-      "sku": "CRB006",
-      "nombre": "CARBURADOR COMPLETO",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -53181,28 +54266,6 @@
       "fuente": "NRP",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "AF004",
-      "nombre": "FILTRO DE AIRE",
-      "marca": "NRP",
-      "categoria": "FILTROS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/AF004.jpg",
-      "imagen_size": 3108,
       "activo": true
     },
     {
@@ -54350,28 +55413,6 @@
       "activo": true
     },
     {
-      "sku": "AF062",
-      "nombre": "FILTRO DE AIRE",
-      "marca": "NRP",
-      "categoria": "FILTROS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "AF063",
       "nombre": "FILTRO DE AIRE",
       "marca": "NRP",
@@ -54809,28 +55850,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/CD006.jpg",
       "imagen_size": 4239,
-      "activo": true
-    },
-    {
-      "sku": "CD007",
-      "nombre": "DISCOS DE CLUTCH",
-      "marca": "NRP",
-      "categoria": "TRANSMISION",
-      "presentacion": "SET 5",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "imagenes/CD007.jpg",
-      "imagen_size": 4761,
       "activo": true
     },
     {
