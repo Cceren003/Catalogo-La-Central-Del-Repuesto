@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T19:35:27.678Z",
-  "count": 5751,
+  "generated_at": "2026-05-28T22:42:00.337Z",
+  "count": 5747,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 129,
+      "stock": 128,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 86,
+      "stock": 74,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2208,27 +2208,6 @@
       "activo": true
     },
     {
-      "sku": "TS12N7-4A",
-      "nombre": "BATERIA DE GEL 12N7-4A TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29,
-        "taller": 21,
-        "distribuidor": 19.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TSLB6.5L-BS",
       "nombre": "BATERIA DE GEL LB6.5L-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2240,7 +2219,7 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2373,27 +2352,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189449.png",
       "imagen_size": 94470,
-      "activo": true
-    },
-    {
-      "sku": "741540189154",
-      "nombre": "BATERIA GEL YTX7A-BS  (FL)",
-      "marca": "MOTUL",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33.75,
-        "taller": 21,
-        "distribuidor": 20.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189154.png",
-      "imagen_size": 125933,
       "activo": true
     },
     {
@@ -2681,8 +2639,8 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4613,7 +4571,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7458,27 +7416,6 @@
       "activo": true
     },
     {
-      "sku": "741540189119",
-      "nombre": "CADENA TIEMPO YARA-FXR200 (51L PASO 3X2)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189119.png",
-      "imagen_size": 65260,
-      "activo": true
-    },
-    {
       "sku": "741540100508",
       "nombre": "CADENA TIEMPO YBR125 VINI (FL)",
       "marca": "VINI",
@@ -8729,8 +8666,8 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -17381,7 +17318,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20489,7 +20426,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24689,7 +24626,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27881,7 +27818,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28371,27 +28308,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3602-22.png",
       "imagen_size": 92899,
-      "activo": true
-    },
-    {
-      "sku": "LA1C-3501-22",
-      "nombre": "LLANTA AXUS 90-90-12 SCOOTER NAVI AX2281 6PR/TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29.75,
-        "taller": 22,
-        "distribuidor": 19.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -30569,7 +30485,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30674,7 +30590,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37625,7 +37541,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42077,7 +41993,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42675,27 +42591,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42709,6 +42604,27 @@
       },
       "stock": 7,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
