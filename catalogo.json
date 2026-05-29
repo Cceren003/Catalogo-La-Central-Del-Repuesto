@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T16:42:20.819Z",
-  "count": 5746,
+  "generated_at": "2026-05-29T19:32:16.593Z",
+  "count": 5745,
   "productos": [
     {
       "sku": "LM120106",
@@ -161,7 +161,7 @@
         "taller": 15,
         "distribuidor": 13
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1820,7 +1820,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1841,7 +1841,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3878,7 +3878,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 36,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6860,7 +6860,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7490,7 +7490,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 57,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7532,7 +7532,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 43,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7574,8 +7574,8 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7889,7 +7889,7 @@
         "taller": 58,
         "distribuidor": 49.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13065,27 +13065,6 @@
       "activo": true
     },
     {
-      "sku": "741540189349",
-      "nombre": "CIGUEÑAL COMPLETO NAGA 200 / SPITZER200 / CG200",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 124.5,
-        "taller": 103.5,
-        "distribuidor": 89.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189349.png",
-      "imagen_size": 89016,
-      "activo": true
-    },
-    {
       "sku": "741540187992",
       "nombre": "CIGUEÑAL COMPLETO SL150-9 PIN15 SIN CONTRAPESA (CG125/CG150) VINI(FL)",
       "marca": "VINI",
@@ -13286,7 +13265,7 @@
         "taller": 65.5,
         "distribuidor": 56.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16436,7 +16415,7 @@
         "taller": 18,
         "distribuidor": 15.3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21917,7 +21896,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22704,27 +22683,6 @@
       "activo": true
     },
     {
-      "sku": "741540188658",
-      "nombre": "KIT BALANCIN CG -200 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10.5,
-        "taller": 9.5,
-        "distribuidor": 8
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188658.png",
-      "imagen_size": 39801,
-      "activo": true
-    },
-    {
       "sku": "741540188278",
       "nombre": "KIT BALANCIN CG125/CG150/CG200 VINI (RODILLO)(FL)",
       "marca": "VINI",
@@ -23100,6 +23058,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540107411.png",
       "imagen_size": 67323,
+      "activo": true
+    },
+    {
+      "sku": "741540100455",
+      "nombre": "KIT BALANCIN XL200 / YARA200 / TORNADO250 / SPITZER250",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 13,
+        "taller": 10,
+        "distribuidor": 8.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100455.png",
+      "imagen_size": 78776,
       "activo": true
     },
     {
@@ -23891,7 +23870,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 4,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27619,7 +27598,7 @@
     },
     {
       "sku": "741540189514",
-      "nombre": "KIT VALVULA XTZ 150",
+      "nombre": "KIT VALVULA XTZ150-FZ2.0",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -28784,7 +28763,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
