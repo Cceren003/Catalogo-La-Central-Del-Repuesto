@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T19:32:16.593Z",
-  "count": 5745,
+  "generated_at": "2026-05-29T22:38:05.082Z",
+  "count": 5744,
   "productos": [
     {
       "sku": "LM120106",
@@ -14,7 +14,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 52,
+      "stock": 51,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 128,
+      "stock": 127,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -833,7 +833,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 15,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -959,7 +959,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 20,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1043,7 +1043,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 20,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1064,7 +1064,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 20,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1190,7 +1190,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 20,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1232,7 +1232,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2208,6 +2208,27 @@
       "activo": true
     },
     {
+      "sku": "TS12N7-4A",
+      "nombre": "BATERIA DE GEL 12N7-4A TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29,
+        "taller": 21,
+        "distribuidor": 19.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "TSLB6.5L-BS",
       "nombre": "BATERIA DE GEL LB6.5L-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2282,7 +2303,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2324,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2345,7 +2366,7 @@
         "taller": 22.5,
         "distribuidor": 22
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,7 +2429,7 @@
         "taller": 22,
         "distribuidor": 20.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3605,7 +3626,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3752,7 +3773,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 35,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3878,7 +3899,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 35,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3899,7 +3920,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 43,
+      "stock": 41,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3920,7 +3941,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 34,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4074,27 +4095,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188544.png",
       "imagen_size": 73481,
-      "activo": true
-    },
-    {
-      "sku": "1005281",
-      "nombre": "BUSHING TIJERA CG125-CG150",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2,
-        "distribuidor": 1.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005281.png",
-      "imagen_size": 29251,
       "activo": true
     },
     {
@@ -6608,7 +6608,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7511,7 +7511,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 62,
+      "stock": 61,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7574,7 +7574,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9128,7 +9128,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15523,7 +15523,7 @@
     },
     {
       "sku": "1006119",
-      "nombre": "DISCO FRENO DELANTERO NAGA200/DAYUN150/SPITZER200",
+      "nombre": "DISCO FRENO DELANTERO NAGA200 / DAYUN150-200 / SPITZER200",
       "marca": "MEK",
       "categoria": "FRENOS",
       "presentacion": "UNIDAD",
@@ -15687,27 +15687,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189211.png",
       "imagen_size": 188080,
-      "activo": true
-    },
-    {
-      "sku": "741540189210",
-      "nombre": "DISCO FRENO NAGA 200 TRASERO FRX150",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 32.75,
-        "taller": 24,
-        "distribuidor": 20.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189210.png",
-      "imagen_size": 142029,
       "activo": true
     },
     {
@@ -19586,7 +19565,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 53,
+      "stock": 51,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19712,7 +19691,7 @@
         "taller": 2.5,
         "distribuidor": 2.2
       },
-      "stock": 40,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20048,7 +20027,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22274,7 +22253,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25088,7 +25067,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26327,7 +26306,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28847,7 +28826,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 27,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30926,7 +30905,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31787,7 +31766,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42938,7 +42917,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
