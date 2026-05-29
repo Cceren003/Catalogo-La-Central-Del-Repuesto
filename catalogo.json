@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T22:42:00.337Z",
-  "count": 5747,
+  "generated_at": "2026-05-29T16:42:20.819Z",
+  "count": 5746,
   "productos": [
     {
       "sku": "LM120106",
@@ -1841,8 +1841,8 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6860,7 +6860,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7532,7 +7532,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 49,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7847,7 +7847,7 @@
         "taller": 44.25,
         "distribuidor": 38.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8568,27 +8568,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005916.jpg",
       "imagen_size": 271807,
-      "activo": true
-    },
-    {
-      "sku": "741540191170",
-      "nombre": "CANASTA CLUTCH CON CORONA XBLADE 160",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 65.75,
-        "taller": 54,
-        "distribuidor": 46.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540191170.jpg",
-      "imagen_size": 13142,
       "activo": true
     },
     {
@@ -14325,6 +14304,27 @@
       "activo": true
     },
     {
+      "sku": "741540191170",
+      "nombre": "CLUTCH COMPLETO XBLADE 160 CBF160",
+      "marca": "VINI",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 65.75,
+        "taller": 54,
+        "distribuidor": 46.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540191170.jpg",
+      "imagen_size": 13142,
+      "activo": true
+    },
+    {
       "sku": "741540190267",
       "nombre": "CLUTCH COMPLETO XR190L 69T",
       "marca": "VINI",
@@ -16632,27 +16632,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189202.png",
       "imagen_size": 49677,
-      "activo": true
-    },
-    {
-      "sku": "741540188545",
-      "nombre": "EJE PATA ARRANQUE  CG150/200 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15.25,
-        "taller": 14,
-        "distribuidor": 12
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188545.png",
-      "imagen_size": 77974,
       "activo": true
     },
     {
@@ -24458,7 +24437,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24539,10 +24518,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 0,
-        "taller": 0,
+        "taller": 13,
         "distribuidor": 0
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32396,8 +32375,8 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32417,7 +32396,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
