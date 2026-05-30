@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T14:41:20.741Z",
-  "count": 5744,
+  "generated_at": "2026-05-30T18:02:46.122Z",
+  "count": 5740,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 127,
+      "stock": 125,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 74,
+      "stock": 72,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -980,7 +980,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2208,27 +2208,6 @@
       "activo": true
     },
     {
-      "sku": "TS12N7-4A",
-      "nombre": "BATERIA DE GEL 12N7-4A TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29,
-        "taller": 21,
-        "distribuidor": 19.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TSLB6.5L-BS",
       "nombre": "BATERIA DE GEL LB6.5L-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2261,7 +2240,7 @@
         "taller": 14.9,
         "distribuidor": 13.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2544,7 +2523,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2565,7 +2544,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -3644,10 +3623,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 16.75,
-        "taller": 10.5,
-        "distribuidor": 9.25
+        "taller": 10,
+        "distribuidor": 8.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6314,7 +6293,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 77,
+      "stock": 73,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6860,7 +6839,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9989,7 +9968,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12820,7 +12799,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 30,
+        "publico": 35,
         "taller": 23,
         "distribuidor": 20
       },
@@ -15176,7 +15155,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16485,27 +16464,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540108056.jpg",
       "imagen_size": 6303,
-      "activo": true
-    },
-    {
-      "sku": "741540190139",
-      "nombre": "EJE LEVAS XPULSE200/HUNK200 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30.5,
-        "taller": 23.75,
-        "distribuidor": 19.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190139.jpg",
-      "imagen_size": 6909,
       "activo": true
     },
     {
@@ -22841,7 +22799,7 @@
         "taller": 19.5,
         "distribuidor": 16.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29130,27 +29088,6 @@
       "activo": true
     },
     {
-      "sku": "1004819",
-      "nombre": "MANGUERA FRENO FRONTAL TODOTERRENO UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 5.5,
-        "distribuidor": 4.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004819.png",
-      "imagen_size": 33367,
-      "activo": true
-    },
-    {
       "sku": "1004818",
       "nombre": "MANGUERA FRENOS CORTA TRASERA  UNIVERSAL",
       "marca": "MEK",
@@ -32543,7 +32480,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34139,7 +34076,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39693,27 +39630,6 @@
       "activo": true
     },
     {
-      "sku": "1003838",
-      "nombre": "SILVIN CROMADO GN125",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 15,
-        "distribuidor": 13.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003838.png",
-      "imagen_size": 46490,
-      "activo": true
-    },
-    {
       "sku": "741540189267",
       "nombre": "SISTEMA ELECTRICO NAGA 200",
       "marca": "VINI",
@@ -41689,7 +41605,7 @@
     },
     {
       "sku": "741540189604",
-      "nombre": "TAPON TANQUE CR1",
+      "nombre": "TAPON TANQUE CR1-CR2",
       "marca": "VINI",
       "categoria": "REPUESTOS",
       "presentacion": "UNIDAD",
@@ -42528,27 +42444,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42562,6 +42457,27 @@
       },
       "stock": 4,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
