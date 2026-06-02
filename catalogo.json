@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T17:24:11.318Z",
-  "count": 5774,
+  "generated_at": "2026-06-02T23:03:27.571Z",
+  "count": 5763,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 100,
+      "stock": 83,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 11,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 44,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -833,7 +833,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -980,7 +980,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 16,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1022,7 +1022,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1694,8 +1694,8 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2282,7 +2282,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2670,27 +2670,6 @@
       "activo": true
     },
     {
-      "sku": "741540190335",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190335.png",
-      "imagen_size": 63806,
-      "activo": true
-    },
-    {
       "sku": "IC018",
       "nombre": "BOBINA ALTA AX100",
       "marca": "NRP",
@@ -2709,6 +2688,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540190335",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190335.png",
+      "imagen_size": 63806,
       "activo": true
     },
     {
@@ -4025,7 +4025,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 33,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5096,7 +5096,7 @@
         "taller": 3.5,
         "distribuidor": 2.5
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7595,7 +7595,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 115,
+      "stock": 112,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8582,7 +8582,7 @@
         "taller": 23.75,
         "distribuidor": 20.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8652,27 +8652,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006116.jpg",
       "imagen_size": 207479,
-      "activo": true
-    },
-    {
-      "sku": "1005917",
-      "nombre": "CALIPER TRASERO AKT TT200R",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20,
-        "taller": 15,
-        "distribuidor": 13
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005917.jpg",
-      "imagen_size": 236207,
       "activo": true
     },
     {
@@ -9233,7 +9212,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10104,27 +10083,6 @@
       "activo": true
     },
     {
-      "sku": "RS090",
-      "nombre": "CATARINA 41T CR1 150 / CR2 210 / MOTO CHINA CON CENTRO DE YBR125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 8.75,
-        "distribuidor": 7.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS090.jpg",
-      "imagen_size": 10149,
-      "activo": true
-    },
-    {
       "sku": "RS104",
       "nombre": "CATARINA 41T DREAM NEO 110",
       "marca": "NRP",
@@ -10472,7 +10430,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10619,7 +10577,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12120,27 +12078,6 @@
       "activo": true
     },
     {
-      "sku": "CDI014",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI007",
       "nombre": "CDI",
       "marca": "NRP",
@@ -12195,6 +12132,27 @@
         "distribuidor": 0
       },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI014",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12852,27 +12810,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540191117.jpg",
       "imagen_size": 6138,
-      "activo": true
-    },
-    {
-      "sku": "741540100309",
-      "nombre": "CDI YBR125 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 27.25,
-        "taller": 19.75,
-        "distribuidor": 16.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100309.png",
-      "imagen_size": 61662,
       "activo": true
     },
     {
@@ -16110,27 +16047,6 @@
       "activo": true
     },
     {
-      "sku": "741540190826",
-      "nombre": "DISCO FRENO TRAS. XPULSE200 / HUNK160",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 32,
-        "taller": 24,
-        "distribuidor": 20.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190826.png",
-      "imagen_size": 88798,
-      "activo": true
-    },
-    {
       "sku": "BD021",
       "nombre": "DISCO FRENO TRASERO APACHE RTR 160-180",
       "marca": "NRP",
@@ -17853,27 +17769,6 @@
       "activo": true
     },
     {
-      "sku": "741540100700",
-      "nombre": "ESPEJO SET 10MM UNIVERSAL RH-RH",
-      "marca": "VINI",
-      "categoria": "ESPEJOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9.75,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100700.png",
-      "imagen_size": 53838,
-      "activo": true
-    },
-    {
       "sku": "741540188827",
       "nombre": "ESPEJO SET APACHE 160/180",
       "marca": "VINI",
@@ -17934,27 +17829,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189180.png",
       "imagen_size": 65519,
-      "activo": true
-    },
-    {
-      "sku": "741540165207",
-      "nombre": "ESPEJO SET NIQUEL (-017-000) CHOPER-FIRE150  VINI RH-RH 10MM(FL)",
-      "marca": "VINI",
-      "categoria": "ESPEJOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10.75,
-        "taller": 7,
-        "distribuidor": 5.5
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540165207.jpg",
-      "imagen_size": 5874,
       "activo": true
     },
     {
@@ -18578,7 +18452,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19166,7 +19040,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19313,7 +19187,7 @@
         "taller": 5.25,
         "distribuidor": 4.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19341,27 +19215,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189190.png",
       "imagen_size": 59621,
-      "activo": true
-    },
-    {
-      "sku": "17210-KVT-D00",
-      "nombre": "FILTRO AIRE NAVI110",
-      "marca": "MEK",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/17210-KVT-D00.jpg",
-      "imagen_size": 426239,
       "activo": true
     },
     {
@@ -19523,7 +19376,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19922,7 +19775,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20447,7 +20300,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 87,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20468,7 +20321,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 69,
+      "stock": 66,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21231,27 +21084,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189787.png",
       "imagen_size": 115129,
-      "activo": true
-    },
-    {
-      "sku": "741540140574",
-      "nombre": "HERRAMIENTA CORTADOR CADENA VINI",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11.25,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540140574.png",
-      "imagen_size": 61522,
       "activo": true
     },
     {
@@ -26537,7 +26369,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26558,7 +26390,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29697,27 +29529,6 @@
       "activo": true
     },
     {
-      "sku": "741540190700",
-      "nombre": "MANGUERA FRENO DISCO XR150L (128CM LARGO)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 19,
-        "taller": 16,
-        "distribuidor": 13.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190700.png",
-      "imagen_size": 83254,
-      "activo": true
-    },
-    {
       "sku": "1004818",
       "nombre": "MANGUERA FRENOS CORTA TRASERA  UNIVERSAL",
       "marca": "MEK",
@@ -30999,27 +30810,6 @@
       "activo": true
     },
     {
-      "sku": "LB1A-0030-10",
-      "nombre": "NEUMATICO AXUS 110/90-17",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.75,
-        "distribuidor": 3.25
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "LB1A-0001-10",
       "nombre": "NEUMATICO AXUS 120-80-18 - 460-18",
       "marca": "AXUS",
@@ -31031,7 +30821,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31115,7 +30905,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31493,7 +31283,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31535,7 +31325,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 82,
+      "stock": 81,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31598,7 +31388,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 23,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32102,7 +31892,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33908,8 +33698,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34769,7 +34559,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34937,8 +34727,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34979,8 +34769,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -37646,7 +37436,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38602,7 +38392,7 @@
     },
     {
       "sku": "741540188765",
-      "nombre": "RETENEDOR 27X40X6",
+      "nombre": "RETENEDOR 27X40X6 PIÑON ATAQUE GN",
       "marca": "VINI",
       "categoria": "RETENEDOR",
       "presentacion": "UNIDAD",
@@ -38612,7 +38402,7 @@
         "taller": 3,
         "distribuidor": 2
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42455,7 +42245,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42630,27 +42420,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188219.png",
       "imagen_size": 58327,
-      "activo": true
-    },
-    {
-      "sku": "741540188220",
-      "nombre": "TENSOR AUTOMATICO HUNK",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17,
-        "taller": 13.5,
-        "distribuidor": 11.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188220.png",
-      "imagen_size": 69856,
       "activo": true
     },
     {
@@ -43263,27 +43032,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -43297,6 +43045,27 @@
       },
       "stock": 7,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
