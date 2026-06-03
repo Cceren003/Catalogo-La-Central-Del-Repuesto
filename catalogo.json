@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T18:00:36.780Z",
-  "count": 5758,
+  "generated_at": "2026-06-03T23:06:02.908Z",
+  "count": 5753,
   "productos": [
     {
       "sku": "LM120106",
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 31,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -329,7 +329,7 @@
         "taller": 32.75,
         "distribuidor": 28.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -497,7 +497,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -875,7 +875,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -959,7 +959,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1211,7 +1211,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 19,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,7 +2282,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2670,27 +2670,6 @@
       "activo": true
     },
     {
-      "sku": "IC018",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540190335",
       "nombre": "BOBINA ALTA AX100",
       "marca": "VINI",
@@ -2709,6 +2688,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190335.png",
       "imagen_size": 63806,
+      "activo": true
+    },
+    {
+      "sku": "IC018",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -2744,7 +2744,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3626,7 +3626,7 @@
         "taller": 13,
         "distribuidor": 11.25
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3710,7 +3710,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3731,7 +3731,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3836,7 +3836,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 54,
+      "stock": 53,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,7 +3983,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 34,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4025,7 +4025,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 15,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5096,7 +5096,7 @@
         "taller": 3.5,
         "distribuidor": 2.5
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6398,7 +6398,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 247,
+      "stock": 246,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6692,8 +6692,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7616,7 +7616,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 59,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7637,7 +7637,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 89,
+      "stock": 79,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15323,7 +15323,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 67,
+      "stock": 66,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17654,7 +17654,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18935,7 +18935,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19103,8 +19103,8 @@
         "taller": 5.25,
         "distribuidor": 4.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19124,8 +19124,8 @@
         "taller": 7.25,
         "distribuidor": 6.25
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19194,27 +19194,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189539.png",
       "imagen_size": 114898,
-      "activo": true
-    },
-    {
-      "sku": "741540189435",
-      "nombre": "FILTRO AIRE PULSAR 125-135-BOXER150",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189435.png",
-      "imagen_size": 44412,
       "activo": true
     },
     {
@@ -19512,27 +19491,6 @@
       "activo": true
     },
     {
-      "sku": "741540189255",
-      "nombre": "FILTRO AIRE YARA 200 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 11.25,
-        "distribuidor": 9.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189255.png",
-      "imagen_size": 66126,
-      "activo": true
-    },
-    {
       "sku": "AF011",
       "nombre": "FILTRO AIRE YBR 125",
       "marca": "NRP",
@@ -19680,6 +19638,27 @@
       "activo": true
     },
     {
+      "sku": "FC060132",
+      "nombre": "FILTRO DE ACEITE PULSAR 135 CON RESORTE",
+      "marca": "VARROC",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3,
+        "taller": 1.5,
+        "distribuidor": 1.3
+      },
+      "stock": 100,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540188617",
       "nombre": "FILTRO GASOLINA CON ROSCA UNIVERSAL VINI (RC)",
       "marca": "VINI",
@@ -19733,7 +19712,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 45,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20174,7 +20153,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 49,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20237,7 +20216,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 11,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20328,27 +20307,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004021.png",
       "imagen_size": 35068,
-      "activo": true
-    },
-    {
-      "sku": "2000010",
-      "nombre": "GUARDAFANGO DELANTERO GN150",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 27,
-        "taller": 17,
-        "distribuidor": 14.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/2000010.png",
-      "imagen_size": 55259,
       "activo": true
     },
     {
@@ -22652,7 +22610,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26180,7 +26138,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28133,7 +28091,7 @@
         "taller": 32,
         "distribuidor": 30
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28448,34 +28406,13 @@
         "taller": 33.5,
         "distribuidor": 31.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-1332-22.png",
       "imagen_size": 118021,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-3603-22",
-      "nombre": "LLANTA AXUS 120-90-17 DOBLE PROPOSITO AX7231",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3603-22.png",
-      "imagen_size": 95946,
       "activo": true
     },
     {
@@ -30537,27 +30474,6 @@
       "activo": true
     },
     {
-      "sku": "SM029",
-      "nombre": "MOTOR ARRANQUE MOTO CHINA 150-200-FORZA 150-NAGA 200 VOLT",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 39,
-        "taller": 27,
-        "distribuidor": 23
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/SM029.jpg",
-      "imagen_size": 6163,
-      "activo": true
-    },
-    {
       "sku": "SM012",
       "nombre": "MOTOR ARRANQUE NAVI110",
       "marca": "NRP",
@@ -31283,7 +31199,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31325,7 +31241,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 78,
+      "stock": 75,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31409,7 +31325,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 26,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32228,7 +32144,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 22,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32270,7 +32186,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33383,7 +33299,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33425,7 +33341,7 @@
         "taller": 8.75,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34433,7 +34349,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34622,7 +34538,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34727,7 +34643,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35126,7 +35042,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36155,7 +36071,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 30,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36239,7 +36155,7 @@
         "taller": 29,
         "distribuidor": 24.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36386,7 +36302,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 64,
+      "stock": 63,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37163,7 +37079,7 @@
         "taller": 7.5,
         "distribuidor": 0
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37212,27 +37128,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006450.png",
       "imagen_size": 21265,
-      "activo": true
-    },
-    {
-      "sku": "1006455",
-      "nombre": "REGULADOR VOLTAJE MEK PRO 5L HEMBRA UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 5,
-        "distribuidor": 4.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006455.png",
-      "imagen_size": 14871,
       "activo": true
     },
     {
@@ -38234,7 +38129,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 25,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38612,7 +38507,7 @@
         "taller": 4,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38717,7 +38612,7 @@
         "taller": 4,
         "distribuidor": 3.25
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38780,7 +38675,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39137,7 +39032,7 @@
         "taller": 1,
         "distribuidor": 0.5
       },
-      "stock": 57,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
