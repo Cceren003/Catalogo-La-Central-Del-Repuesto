@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T19:23:53.646Z",
-  "count": 5746,
+  "generated_at": "2026-06-04T22:22:01.189Z",
+  "count": 5742,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 6,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,8 +98,8 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 123,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2649,27 +2649,6 @@
       "activo": true
     },
     {
-      "sku": "741540190335",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190335.png",
-      "imagen_size": 63806,
-      "activo": true
-    },
-    {
       "sku": "IC018",
       "nombre": "BOBINA ALTA AX100",
       "marca": "NRP",
@@ -2688,6 +2667,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540190335",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190335.png",
+      "imagen_size": 63806,
       "activo": true
     },
     {
@@ -3647,7 +3647,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3710,8 +3710,8 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3878,7 +3878,7 @@
         "taller": 1,
         "distribuidor": 0.5
       },
-      "stock": 70,
+      "stock": 60,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3962,7 +3962,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 28,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4319,8 +4319,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7291,7 +7291,7 @@
     },
     {
       "sku": "741540189892",
-      "nombre": "CADENA TIEMPO PULSAR 125NS (48L PASO 2X1)",
+      "nombre": "CADENA TIEMPO PULSAR 125NS / BENELLI 150 (48L PASO 2X1)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -7301,7 +7301,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7532,8 +7532,8 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 12,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -12173,7 +12173,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16656,27 +16656,6 @@
       "activo": true
     },
     {
-      "sku": "741540189329",
-      "nombre": "EJE LEVAS YARA 200-GP 180 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26.75,
-        "taller": 20,
-        "distribuidor": 17
-      },
-      "stock": 9,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189329.png",
-      "imagen_size": 66814,
-      "activo": true
-    },
-    {
       "sku": "741540189202",
       "nombre": "EJE LEVAS YBR125 VINI(FL)",
       "marca": "VINI",
@@ -18872,7 +18851,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20279,7 +20258,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20706,27 +20685,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189771.png",
       "imagen_size": 85747,
-      "activo": true
-    },
-    {
-      "sku": "741540189786",
-      "nombre": "HERRAMIENTA ANTENA TELESCOPICA",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3.5,
-        "taller": 3,
-        "distribuidor": 2.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189786.png",
-      "imagen_size": 39393,
       "activo": true
     },
     {
@@ -21350,7 +21308,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22936,7 +22894,7 @@
     },
     {
       "sku": "741540188216",
-      "nombre": "KIT BALANCIN HUNK/XR150L VINI(FL)",
+      "nombre": "KIT BALANCIN HUNK/XR150L / BENELLI 150 VINI(FL)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -22946,7 +22904,7 @@
         "taller": 20,
         "distribuidor": 17
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24258,48 +24216,6 @@
       "activo": true
     },
     {
-      "sku": "CK045",
-      "nombre": "KIT DE CILINDRO COMPLETO  NAVI 110, DIO 110",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 70,
-        "taller": 48,
-        "distribuidor": 40.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/CK045.jpg",
-      "imagen_size": 9320,
-      "activo": true
-    },
-    {
-      "sku": "CK001",
-      "nombre": "KIT DE CILINDRO COMPLETO (BOXER 150,2019)",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 75,
-        "taller": 46,
-        "distribuidor": 39
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/CK001.jpg",
-      "imagen_size": 10381,
-      "activo": true
-    },
-    {
       "sku": "CK050",
       "nombre": "KIT DE CILINDRO COMPLETO, APACHE RTR 160, APACHE RTR 160 2V",
       "marca": "NRP",
@@ -24836,7 +24752,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26642,7 +26558,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 20,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27713,7 +27629,7 @@
         "taller": 10.75,
         "distribuidor": 9.25
       },
-      "stock": 17,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29015,7 +28931,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 60,
+      "stock": 57,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30569,7 +30485,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30590,7 +30506,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36134,7 +36050,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 26,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36155,7 +36071,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 63,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36470,7 +36386,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38528,7 +38444,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
