@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T18:58:27.269Z",
-  "count": 5739,
+  "generated_at": "2026-06-05T22:15:19.627Z",
+  "count": 5747,
   "productos": [
     {
       "sku": "LM120106",
@@ -2649,27 +2649,6 @@
       "activo": true
     },
     {
-      "sku": "741540190335",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190335.png",
-      "imagen_size": 63806,
-      "activo": true
-    },
-    {
       "sku": "IC018",
       "nombre": "BOBINA ALTA AX100",
       "marca": "NRP",
@@ -2688,6 +2667,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540190335",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190335.png",
+      "imagen_size": 63806,
       "activo": true
     },
     {
@@ -6944,7 +6944,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7364,7 +7364,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8666,8 +8666,8 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 11,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -9926,7 +9926,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12057,48 +12057,6 @@
       "activo": true
     },
     {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI016",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI014",
       "nombre": "CDI",
       "marca": "NRP",
@@ -12132,6 +12090,48 @@
         "distribuidor": 0
       },
       "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI016",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13538,7 +13538,7 @@
         "taller": 95,
         "distribuidor": 80
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13965,27 +13965,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190084.png",
       "imagen_size": 88670,
-      "activo": true
-    },
-    {
-      "sku": "741540100024",
-      "nombre": "CILINDRO COMPLETO PULSAR 135 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 77.5,
-        "taller": 65,
-        "distribuidor": 55.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100024.png",
-      "imagen_size": 82386,
       "activo": true
     },
     {
@@ -15522,6 +15501,27 @@
       "activo": true
     },
     {
+      "sku": "1006118",
+      "nombre": "DISCO FRENO DELANTERO   NAGA200 2018",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22,
+        "taller": 15,
+        "distribuidor": 12.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006118.png",
+      "imagen_size": 27613,
+      "activo": true
+    },
+    {
       "sku": "2000029",
       "nombre": "DISCO FRENO DELANTERO CR1",
       "marca": "MEK",
@@ -15582,27 +15582,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001158.jpg",
       "imagen_size": 158449,
-      "activo": true
-    },
-    {
-      "sku": "1006119",
-      "nombre": "DISCO FRENO DELANTERO NAGA200 / DAYUN150-200 / SPITZER200",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22,
-        "taller": 15,
-        "distribuidor": 12.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -18546,6 +18525,27 @@
       "activo": true
     },
     {
+      "sku": "1003226",
+      "nombre": "FILTRO AIRE BROS TODO TERRENO",
+      "marca": "MEK",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 4.5,
+        "distribuidor": 4
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003226.png",
+      "imagen_size": 36117,
+      "activo": true
+    },
+    {
       "sku": "990560288119",
       "nombre": "FILTRO AIRE CB 190R",
       "marca": "MEK",
@@ -18704,7 +18704,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18753,6 +18753,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190282.png",
       "imagen_size": 119680,
+      "activo": true
+    },
+    {
+      "sku": "1006146",
+      "nombre": "FILTRO AIRE ESPONJA NAGA200",
+      "marca": "MEK",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006146.png",
+      "imagen_size": 14360,
       "activo": true
     },
     {
@@ -19670,8 +19691,8 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 34,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20163,6 +20184,27 @@
       "activo": true
     },
     {
+      "sku": "2000010",
+      "nombre": "GUARDAFANGO DELANTERO GN150",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 27,
+        "taller": 17,
+        "distribuidor": 14.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/2000010.png",
+      "imagen_size": 55259,
+      "activo": true
+    },
+    {
       "sku": "1005523",
       "nombre": "GUARDAFANGO DELANTERO NEGRO CR1",
       "marca": "MEK",
@@ -20223,27 +20265,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540188580",
-      "nombre": "GUIA CADENA  PULSAR 135-BOX 150 VINI (RC)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10.75,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188580.png",
-      "imagen_size": 69340,
       "activo": true
     },
     {
@@ -22526,7 +22547,7 @@
         "taller": 7.25,
         "distribuidor": 6.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25151,8 +25172,8 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -25425,6 +25446,27 @@
         "distribuidor": 21.5
       },
       "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1006564",
+      "nombre": "KIT MANECILLAS LH/RH CON BOMBA FRENO ROJO",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 25,
+        "taller": 21,
+        "distribuidor": 19
+      },
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25802,8 +25844,8 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28007,7 +28049,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28028,7 +28070,7 @@
         "taller": 32,
         "distribuidor": 29
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28164,6 +28206,48 @@
       "activo": true
     },
     {
+      "sku": "LA1A-3507-22",
+      "nombre": "LLANTA AXUS 130-70-17 LISA AX30 66S TL DEPORTIVAS",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 48,
+        "taller": 36,
+        "distribuidor": 34.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3507-22.png",
+      "imagen_size": 76331,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3505-22",
+      "nombre": "LLANTA AXUS 140-60-17 LISA AX30F 6PR RADIAL FZ16 TRASERA",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 49,
+        "taller": 39,
+        "distribuidor": 37
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "LA1A-3801-22",
       "nombre": "LLANTA AXUS 140-70-14 LISA DEPORTIVA AX9440",
       "marca": "AXUS",
@@ -28175,7 +28259,7 @@
         "taller": 37,
         "distribuidor": 35
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28196,7 +28280,7 @@
         "taller": 25,
         "distribuidor": 23
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28322,7 +28406,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29169,6 +29253,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190705.png",
       "imagen_size": 71214,
+      "activo": true
+    },
+    {
+      "sku": "1004819",
+      "nombre": "MANGUERA FRENO FRONTAL TODOTERRENO UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 5.5,
+        "distribuidor": 4.75
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004819.png",
+      "imagen_size": 33367,
       "activo": true
     },
     {
@@ -30485,7 +30590,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33656,7 +33761,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34401,6 +34506,27 @@
       "activo": true
     },
     {
+      "sku": "1001710",
+      "nombre": "PIÑON BALINERA  CG150-CG125 CGL125 CR1",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 9,
+        "distribuidor": 7.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001710.png",
+      "imagen_size": 42354,
+      "activo": true
+    },
+    {
       "sku": "1001187",
       "nombre": "PIÑON BALINERA CG200/250 NAGA200 AKT200TT YARA200",
       "marca": "MEK",
@@ -34454,7 +34580,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35787,6 +35913,27 @@
       "activo": true
     },
     {
+      "sku": "1001283",
+      "nombre": "PRENSA CLUTCH COMPLETA  4T5D CG125-CG150 73 DIENTES",
+      "marca": "MEK",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 45,
+        "taller": 29,
+        "distribuidor": 24.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001283.jpg",
+      "imagen_size": 489856,
+      "activo": true
+    },
+    {
       "sku": "1001281",
       "nombre": "PRENSA CLUTCH COMPLETA  6T6D CG200 TODOTERRENO  70 DIENTES",
       "marca": "MEK",
@@ -35805,6 +35952,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001281.jpg",
       "imagen_size": 1612048,
+      "activo": true
+    },
+    {
+      "sku": "1005258",
+      "nombre": "PRENSA CLUTCH COMPLETA YBR125",
+      "marca": "MEK",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 55,
+        "taller": 45,
+        "distribuidor": 38.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005258.png",
+      "imagen_size": 31516,
       "activo": true
     },
     {
@@ -36834,6 +37002,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006450.png",
       "imagen_size": 21265,
+      "activo": true
+    },
+    {
+      "sku": "1006455",
+      "nombre": "REGULADOR VOLTAJE MEK PRO 5L HEMBRA UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9,
+        "taller": 5,
+        "distribuidor": 4.5
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006455.png",
+      "imagen_size": 14871,
       "activo": true
     },
     {
@@ -39777,6 +39966,27 @@
       "activo": true
     },
     {
+      "sku": "1003838",
+      "nombre": "SILVIN CROMADO GN125",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 18,
+        "taller": 15,
+        "distribuidor": 13.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003838.png",
+      "imagen_size": 46490,
+      "activo": true
+    },
+    {
       "sku": "RE070225003",
       "nombre": "SOCKET FOCO DE VIA UNIVERSAL NRP",
       "marca": "NRP",
@@ -40019,7 +40229,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40187,8 +40397,8 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40418,7 +40628,7 @@
         "taller": 2,
         "distribuidor": 1.25
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41279,8 +41489,8 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -41538,6 +41748,48 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1000084",
+      "nombre": "TAPADERA PIÑON TODOTERRENO BROSS CHINA 200",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000084.jpg",
+      "imagen_size": 76387,
+      "activo": true
+    },
+    {
+      "sku": "1000087",
+      "nombre": "TAPADERA SPROCKET CORAL 150",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 10,
+        "distribuidor": 8
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000087.jpg",
+      "imagen_size": 82407,
       "activo": true
     },
     {
@@ -42612,27 +42864,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42646,6 +42877,27 @@
       },
       "stock": 4,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -109099,28 +109351,6 @@
       "activo": true
     },
     {
-      "sku": "1005258",
-      "nombre": "CANASTA CLUTCH COMPLETA YBR125",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1005258.png",
-      "imagen_size": 31516,
-      "activo": true
-    },
-    {
       "sku": "1000319",
       "nombre": "CIGUEÑAL APACHE16020",
       "marca": "MEK",
@@ -116315,28 +116545,6 @@
       "activo": true
     },
     {
-      "sku": "1000084",
-      "nombre": "TAPADERA PIÑÓN ATAQUE TODO TERRENO BROSS CHINA CRII MOTORES 200",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1000084.jpg",
-      "imagen_size": 76387,
-      "activo": true
-    },
-    {
       "sku": "1004454",
       "nombre": "TAPON TANQUE COMBUSTIBLE GN125 FIRE125 ZN150",
       "marca": "MEK",
@@ -121287,28 +121495,6 @@
       "activo": true
     },
     {
-      "sku": "1006564",
-      "nombre": "KIT MANECILLAS LH/RH CON BOMBA FRENO UNIVERSALES ROJO",
-      "marca": "MEK",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "2000025",
       "nombre": "KIT MANECILLA STD COLOR AZUL C/LUZ LED",
       "marca": "MEK",
@@ -123242,28 +123428,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1006371.png",
       "imagen_size": 28927,
-      "activo": true
-    },
-    {
-      "sku": "1006146",
-      "nombre": "FILTRO AIRE ESPONJA NAGA200",
-      "marca": "MEK",
-      "categoria": "FILTROS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1006146.png",
-      "imagen_size": 14360,
       "activo": true
     },
     {
