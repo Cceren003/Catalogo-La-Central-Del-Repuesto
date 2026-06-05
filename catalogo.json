@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T22:22:01.189Z",
-  "count": 5742,
+  "generated_at": "2026-06-05T15:54:28.753Z",
+  "count": 5741,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 76,
+      "stock": 64,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2586,7 +2586,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2607,7 +2607,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -14910,27 +14910,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188270.png",
       "imagen_size": 199029,
-      "activo": true
-    },
-    {
-      "sku": "741540188341",
-      "nombre": "DISCO CLUTCH FIBRA-METAL SET CG200 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 14,
-        "distribuidor": 12
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188341.png",
-      "imagen_size": 198841,
       "activo": true
     },
     {
@@ -39557,7 +39536,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
