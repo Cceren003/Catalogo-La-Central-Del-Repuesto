@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T18:06:07.277Z",
-  "count": 5744,
+  "generated_at": "2026-06-06T22:03:07.834Z",
+  "count": 5742,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 64,
+      "stock": 62,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 111,
+      "stock": 95,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,7 +2282,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2586,7 +2586,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2607,7 +2607,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -23565,27 +23565,6 @@
       "activo": true
     },
     {
-      "sku": "1002363",
-      "nombre": "KIT CILINDRO COMPLETO VARILLA PIN13 CG150-FIRE150",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 50,
-        "taller": 34,
-        "distribuidor": 29.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002363.png",
-      "imagen_size": 30941,
-      "activo": true
-    },
-    {
       "sku": "CK015",
       "nombre": "KIT CILINDRO COMPLETO XTZ 150 SZ",
       "marca": "NRP",
@@ -31094,7 +31073,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31724,7 +31703,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31913,7 +31892,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36648,27 +36627,6 @@
       "activo": true
     },
     {
-      "sku": "1000604",
-      "nombre": "REGULADOR DE CADENA TODO TERRENO AKT200 MEK",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 4.25,
-        "distribuidor": 3.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000604.jpg",
-      "imagen_size": 361754,
-      "activo": true
-    },
-    {
       "sku": "1005954",
       "nombre": "REGULADOR DE CADENA TODO TERRENO AKT200. MEK",
       "marca": "MEK",
@@ -36680,7 +36638,7 @@
         "taller": 4.25,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39557,7 +39515,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42801,27 +42759,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42835,6 +42772,27 @@
       },
       "stock": 7,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
