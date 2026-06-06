@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T14:41:42.870Z",
-  "count": 5747,
+  "generated_at": "2026-06-06T18:06:07.277Z",
+  "count": 5744,
   "productos": [
     {
       "sku": "LM120106",
@@ -2471,7 +2471,7 @@
         "taller": 18,
         "distribuidor": 15.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2649,27 +2649,6 @@
       "activo": true
     },
     {
-      "sku": "741540190335",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190335.png",
-      "imagen_size": 63806,
-      "activo": true
-    },
-    {
       "sku": "IC018",
       "nombre": "BOBINA ALTA AX100",
       "marca": "NRP",
@@ -2688,6 +2667,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540190335",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190335.png",
+      "imagen_size": 63806,
       "activo": true
     },
     {
@@ -4214,8 +4214,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7574,7 +7574,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 105,
+      "stock": 103,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7973,7 +7973,7 @@
         "taller": 77.25,
         "distribuidor": 66.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9926,7 +9926,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20027,7 +20027,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 44,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23439,27 +23439,6 @@
       "activo": true
     },
     {
-      "sku": "CK011",
-      "nombre": "KIT CILINDRO COMPLETO DAWN 150 / ECO 150 / HUNK 150 / DAYUN 150 CB 150 INVICTA, CADENILLA PIN 14",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 89,
-        "taller": 59,
-        "distribuidor": 50.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/CK011.jpg",
-      "imagen_size": 11159,
-      "activo": true
-    },
-    {
       "sku": "CK025",
       "nombre": "KIT CILINDRO COMPLETO FZ 16",
       "marca": "NRP",
@@ -24049,7 +24028,7 @@
     },
     {
       "sku": "741540188543",
-      "nombre": "KIT CUNA STORM-CBF-INVICTA-NAVI-UNICOR / KATANA MK1 VINI (FL)",
+      "nombre": "KIT CUNA STORM-CBF-INVICTA-NAVI-UNICOR / KATANA MK1 DAYUN150-29 VINI (FL)",
       "marca": "VINI",
       "categoria": "DIRECCION",
       "presentacion": "UNIDAD",
@@ -24059,7 +24038,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25088,7 +25067,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28721,7 +28700,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30264,27 +30243,6 @@
       "activo": true
     },
     {
-      "sku": "741540189825",
-      "nombre": "MOTOR ARRANQUE HORNET CB160, CB190 INYECTADA",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 42.75,
-        "taller": 35.75,
-        "distribuidor": 30.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189825.png",
-      "imagen_size": 86829,
-      "activo": true
-    },
-    {
       "sku": "SM012",
       "nombre": "MOTOR ARRANQUE NAVI110",
       "marca": "NRP",
@@ -30527,7 +30485,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 20,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31367,7 +31325,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 37,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32711,7 +32669,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32795,7 +32753,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33509,8 +33467,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33957,27 +33915,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "FS032",
-      "nombre": "PIÑON 17T MOTO CHINA 125-150-200",
-      "marca": "NRP",
-      "categoria": "PIÑONES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/FS032.jpg",
-      "imagen_size": 7386,
       "activo": true
     },
     {
@@ -37457,7 +37394,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 52,
+      "stock": 51,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39032,7 +38969,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39683,7 +39620,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42864,27 +42801,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42898,6 +42814,27 @@
       },
       "stock": 4,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
