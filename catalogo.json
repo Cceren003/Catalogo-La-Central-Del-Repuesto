@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T19:22:11.858Z",
+  "generated_at": "2026-06-08T22:40:26.085Z",
   "count": 5738,
   "productos": [
     {
@@ -24,6 +24,27 @@
       "activo": true
     },
     {
+      "sku": "LM120202",
+      "nombre": "ACEITE BAJAJ 20W50 1.2 LITROS",
+      "marca": "BAJAJ",
+      "categoria": "ACEITES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 13,
+        "taller": 9.75,
+        "distribuidor": 9.25
+      },
+      "stock": 30,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "LM120103",
       "nombre": "ACEITE MOTUL 10W40 5100 4T SEMI SINTETICO",
       "marca": "MOTUL",
@@ -35,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 61,
+      "stock": 60,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1064,7 +1085,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1736,8 +1757,8 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 9,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4057,7 +4078,7 @@
     },
     {
       "sku": "LKR6D-10E-K",
-      "nombre": "BUJIA NICKEL",
+      "nombre": "BUJIA NICKEL NGK",
       "marca": "NGK",
       "categoria": "BUJIAS",
       "presentacion": "UNIDAD",
@@ -5705,7 +5726,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5873,7 +5894,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6356,7 +6377,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 225,
+      "stock": 223,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7511,8 +7532,8 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 27,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7553,7 +7574,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 103,
+      "stock": 101,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7837,7 +7858,7 @@
     },
     {
       "sku": "741540190797",
-      "nombre": "CAJA TRANSMISION CR4 250/CR2 210/FXR 200",
+      "nombre": "CAJA TRANSMISION CR4250-FXR 200",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -7921,7 +7942,7 @@
     },
     {
       "sku": "741540189424",
-      "nombre": "CAJA TRANSMISION SPITZER 200",
+      "nombre": "CAJA TRANSMISION SPITZER 200-CR2",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -9128,7 +9149,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9170,7 +9191,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14542,7 +14563,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8.75,
+        "publico": 17,
         "taller": 8,
         "distribuidor": 7
       },
@@ -18788,7 +18809,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19302,27 +19323,6 @@
       "activo": true
     },
     {
-      "sku": "AF073",
-      "nombre": "FILTRO AIRE XTZ 150",
-      "marca": "NRP",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11,
-        "taller": 8,
-        "distribuidor": 7
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/AF073.jpg",
-      "imagen_size": 8747,
-      "activo": true
-    },
-    {
       "sku": "1006373",
       "nombre": "FILTRO AIRE XTZ125",
       "marca": "MEK",
@@ -19502,7 +19502,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 99,
+      "stock": 89,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20006,7 +20006,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 66,
+      "stock": 65,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22400,7 +22400,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22428,6 +22428,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189271.png",
       "imagen_size": 87861,
+      "activo": true
+    },
+    {
+      "sku": "741540100778",
+      "nombre": "HULE MASA SET YBR 125 VINI (RC)",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 30,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100778.png",
+      "imagen_size": 88378,
       "activo": true
     },
     {
@@ -22537,7 +22558,7 @@
     },
     {
       "sku": "WD003",
-      "nombre": "HULE MASA TRASERA HUNK150-190R-200/CB160F HORNET/CB190R/CB150 INVICTA",
+      "nombre": "HULE MASA TRASERA HUNK150-190R-200-CB160F HORNET-CB190R-CB150 INVICTA DAYUN-250R",
       "marca": "NRP",
       "categoria": "REPUESTOS",
       "presentacion": "UNIDAD",
@@ -22547,7 +22568,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25760,7 +25781,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28343,7 +28364,7 @@
         "taller": 33,
         "distribuidor": 31
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30359,7 +30380,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30380,7 +30401,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 16,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30401,8 +30422,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31493,7 +31514,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32312,7 +32333,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32333,7 +32354,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32354,7 +32375,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32942,7 +32963,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35175,27 +35196,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189707.png",
       "imagen_size": 131897,
-      "activo": true
-    },
-    {
-      "sku": "741540189436",
-      "nombre": "PLANTA RTX150 - SPITZER 250-200 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 34.75,
-        "taller": 28.75,
-        "distribuidor": 24.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189436.png",
-      "imagen_size": 170257,
       "activo": true
     },
     {
@@ -41570,11 +41570,11 @@
       "empaque": "1*1",
       "precios": {
         "publico": 0,
-        "taller": 0,
+        "taller": 8.75,
         "distribuidor": 0
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -41592,10 +41592,10 @@
       "precios": {
         "publico": 14,
         "taller": 10,
-        "distribuidor": 8
+        "distribuidor": 8.75
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -42203,7 +42203,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42675,27 +42675,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42709,6 +42688,27 @@
       },
       "stock": 4,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
