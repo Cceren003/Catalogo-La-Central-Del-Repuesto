@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T16:48:52.429Z",
-  "count": 5742,
+  "generated_at": "2026-06-08T19:22:11.858Z",
+  "count": 5738,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 62,
+      "stock": 61,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 94,
+      "stock": 88,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2261,7 +2261,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,8 +2282,8 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2366,8 +2366,8 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2408,8 +2408,8 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3752,7 +3752,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 79,
+      "stock": 78,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3930,27 +3930,6 @@
       "activo": true
     },
     {
-      "sku": "1003042",
-      "nombre": "BUJIA CR7HSA CUELLO CORTO",
-      "marca": "MEK",
-      "categoria": "BUJIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3,
-        "taller": 2.25,
-        "distribuidor": 1.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003042.png",
-      "imagen_size": 7471,
-      "activo": true
-    },
-    {
       "sku": "BA020430",
       "nombre": "BUJIA NGK C7EA CUELLO LARGO",
       "marca": "NGK",
@@ -3983,7 +3962,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 31,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5411,7 +5390,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6377,7 +6356,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 235,
+      "stock": 225,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6944,7 +6923,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10388,7 +10367,7 @@
         "taller": 8.25,
         "distribuidor": 7.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10430,7 +10409,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17823,27 +17802,6 @@
         "distribuidor": 0
       },
       "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "SC009",
-      "nombre": "ESTATOR TT 200",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27891,27 +27849,6 @@
       "activo": true
     },
     {
-      "sku": "1208017KT891L",
-      "nombre": "LLANTA 120-80-17 CAMEL LISA DEPORTIVA TL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 43.25,
-        "taller": 33.5,
-        "distribuidor": 31.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "30021KT994T",
       "nombre": "LLANTA 300-21 CAMEL TARUGO PEQUEÑO TL",
       "marca": "NRP",
@@ -27922,27 +27859,6 @@
         "publico": 37.75,
         "taller": 29,
         "distribuidor": 26.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "909017KT043L",
-      "nombre": "LLANTA 90-90-17 TL",
-      "marca": "CAMEL",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 30,
-        "distribuidor": 0
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -30852,27 +30768,6 @@
       "activo": true
     },
     {
-      "sku": "1005986",
-      "nombre": "PASTILLA DE FRENO CBF 125",
-      "marca": "MEK",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 3,
-        "distribuidor": 2
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005986.jpg",
-      "imagen_size": 290177,
-      "activo": true
-    },
-    {
       "sku": "741540188775",
       "nombre": "PASTILLA FRENO APACHE NEW 2017 VINI(FL)",
       "marca": "VINI",
@@ -32375,7 +32270,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34391,7 +34286,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34748,7 +34643,7 @@
         "taller": 24,
         "distribuidor": 20.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34790,7 +34685,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 21,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35448,6 +35343,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188524.png",
       "imagen_size": 116296,
+      "activo": true
+    },
+    {
+      "sku": "SC009",
+      "nombre": "PLANTA TT 200",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -40292,8 +40208,8 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -41384,8 +41300,8 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
