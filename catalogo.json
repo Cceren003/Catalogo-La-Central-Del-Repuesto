@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T15:58:44.503Z",
+  "generated_at": "2026-06-09T19:14:27.745Z",
   "count": 5738,
   "productos": [
     {
@@ -35,7 +35,7 @@
         "taller": 9.75,
         "distribuidor": 9.25
       },
-      "stock": 30,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 81,
+      "stock": 69,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2355,6 +2355,27 @@
       "activo": true
     },
     {
+      "sku": "TSLB6.5L-BS",
+      "nombre": "BATERIA DE GEL LB6.5L-BS TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29,
+        "taller": 19,
+        "distribuidor": 17.5
+      },
+      "stock": 8,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "TSYTX4L-BS",
       "nombre": "BATERIA DE GEL YTX4L-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -3962,7 +3983,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 18,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +4025,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 10,
+      "stock": 80,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4046,7 +4067,7 @@
         "taller": 9.5,
         "distribuidor": 9
       },
-      "stock": 11,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5432,7 +5453,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 16,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6377,7 +6398,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 213,
+      "stock": 203,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7574,7 +7595,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 100,
+      "stock": 79,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7963,7 +7984,7 @@
     },
     {
       "sku": "741540189346",
-      "nombre": "CAJA TRANSMISION YARA 200 NEW VINI(FL)",
+      "nombre": "CAJA TRANSMISION YARA 200-250 NEW VINI(FL)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -8708,7 +8729,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 32,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10115,8 +10136,8 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -10913,7 +10934,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12057,48 +12078,6 @@
       "activo": true
     },
     {
-      "sku": "CDI014",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI007",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI025",
       "nombre": "CDI",
       "marca": "NRP",
@@ -12132,6 +12111,48 @@
         "distribuidor": 0
       },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI014",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI007",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19145,7 +19166,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19628,7 +19649,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 34,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20006,7 +20027,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26474,7 +26495,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 18,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28175,7 +28196,7 @@
         "taller": 25,
         "distribuidor": 23
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30380,7 +30401,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 13,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30506,7 +30527,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 12,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30968,7 +30989,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 19,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31367,7 +31388,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32606,7 +32627,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34706,7 +34727,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 21,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37142,8 +37163,8 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -37289,7 +37310,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39683,7 +39704,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41310,27 +41331,6 @@
       "activo": true
     },
     {
-      "sku": "1001007",
-      "nombre": "SWITCH LUCES LH NAGA150 COBRA125 CR1",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001007.jpg",
-      "imagen_size": 120544,
-      "activo": true
-    },
-    {
       "sku": "1001005",
       "nombre": "SWITCH LUCES LH NAGA200 CR2",
       "marca": "MEK",
@@ -42675,27 +42675,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42709,6 +42688,27 @@
       },
       "stock": 7,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
