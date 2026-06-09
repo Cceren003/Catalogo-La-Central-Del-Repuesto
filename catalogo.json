@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T22:40:26.085Z",
+  "generated_at": "2026-06-09T15:58:44.503Z",
   "count": 5738,
   "productos": [
     {
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 88,
+      "stock": 81,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2429,8 +2429,8 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2670,27 +2670,6 @@
       "activo": true
     },
     {
-      "sku": "IC018",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540190335",
       "nombre": "BOBINA ALTA AX100",
       "marca": "VINI",
@@ -2709,6 +2688,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190335.png",
       "imagen_size": 63806,
+      "activo": true
+    },
+    {
+      "sku": "IC018",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -3962,7 +3962,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 13,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6377,7 +6377,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 223,
+      "stock": 213,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7574,7 +7574,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 101,
+      "stock": 100,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12057,48 +12057,6 @@
       "activo": true
     },
     {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI016",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI014",
       "nombre": "CDI",
       "marca": "NRP",
@@ -12132,6 +12090,48 @@
         "distribuidor": 0
       },
       "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI016",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17885,7 +17885,7 @@
         "taller": 17,
         "distribuidor": 14.5
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17913,27 +17913,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189721.png",
       "imagen_size": 44010,
-      "activo": true
-    },
-    {
-      "sku": "741540100218",
-      "nombre": "ESTRIBO SET  CON BASE  HB-00604 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.25,
-        "taller": 4.75,
-        "distribuidor": 4.25
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100218.png",
-      "imagen_size": 78860,
       "activo": true
     },
     {
@@ -18270,27 +18249,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100385.png",
       "imagen_size": 74421,
-      "activo": true
-    },
-    {
-      "sku": "1005254",
-      "nombre": "FILTRO ACEITE PULSAR FZ160 CON RESORTE",
-      "marca": "MEK",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3.5,
-        "taller": 2,
-        "distribuidor": 1.5
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005254.png",
-      "imagen_size": 22927,
       "activo": true
     },
     {
@@ -19323,6 +19281,27 @@
       "activo": true
     },
     {
+      "sku": "AF073",
+      "nombre": "FILTRO AIRE XTZ 150",
+      "marca": "NRP",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 8,
+        "distribuidor": 7
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/AF073.jpg",
+      "imagen_size": 8747,
+      "activo": true
+    },
+    {
       "sku": "1006373",
       "nombre": "FILTRO AIRE XTZ125",
       "marca": "MEK",
@@ -19628,7 +19607,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 14,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19901,7 +19880,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19985,7 +19964,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 43,
+      "stock": 41,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27870,6 +27849,27 @@
       "activo": true
     },
     {
+      "sku": "1307017KT030L",
+      "nombre": "LLANTA 130-70-17 TL",
+      "marca": "CAMEL",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 36,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "30021KT994T",
       "nombre": "LLANTA 300-21 CAMEL TARUGO PEQUEÑO TL",
       "marca": "NRP",
@@ -28112,7 +28112,7 @@
         "taller": 36,
         "distribuidor": 34.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28245,27 +28245,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3602-22.png",
       "imagen_size": 92899,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-3705-22",
-      "nombre": "LLANTA AXUS 90-90-17 DOBLE PROPOSITO AX9184",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 40.5,
-        "taller": 29,
-        "distribuidor": 26
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3705-22.png",
-      "imagen_size": 96217,
       "activo": true
     },
     {
@@ -30401,7 +30380,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 11,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30422,8 +30401,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30443,7 +30422,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 11,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30506,7 +30485,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 9,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30527,7 +30506,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 9,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31619,7 +31598,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 13,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32606,7 +32585,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32627,7 +32606,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33131,8 +33110,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33173,8 +33152,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33194,8 +33173,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33278,7 +33257,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33320,8 +33299,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33383,7 +33362,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33404,8 +33383,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33467,8 +33446,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33509,8 +33488,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33530,7 +33509,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33614,7 +33593,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33656,7 +33635,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33677,7 +33656,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33698,8 +33677,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33740,7 +33719,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33782,7 +33761,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33803,13 +33782,34 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "FS032",
+      "nombre": "PIÑON 17T MOTO CHINA 125-150-200",
+      "marca": "NRP",
+      "categoria": "PIÑONES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/FS032.jpg",
+      "imagen_size": 7386,
       "activo": true
     },
     {
@@ -34706,7 +34706,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 19,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36323,7 +36323,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 24,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37058,7 +37058,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37079,7 +37079,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37100,7 +37100,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37142,8 +37142,8 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -37268,7 +37268,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 51,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37289,7 +37289,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39326,7 +39326,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
