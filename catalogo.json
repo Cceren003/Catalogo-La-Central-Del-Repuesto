@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T19:14:27.745Z",
-  "count": 5738,
+  "generated_at": "2026-06-09T22:24:25.427Z",
+  "count": 5736,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 9.75,
         "distribuidor": 9.25
       },
-      "stock": 20,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 60,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 69,
+      "stock": 57,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -854,7 +854,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2366,7 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +4004,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 30,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4088,8 +4088,8 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6398,7 +6398,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 203,
+      "stock": 198,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6923,8 +6923,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7616,7 +7616,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7679,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8729,7 +8729,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 22,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17906,7 +17906,7 @@
         "taller": 17,
         "distribuidor": 14.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19628,7 +19628,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19649,7 +19649,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 24,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19691,7 +19691,7 @@
         "taller": 2.5,
         "distribuidor": 2.2
       },
-      "stock": 40,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24017,7 +24017,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26495,7 +26495,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 15,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27859,27 +27859,6 @@
         "publico": 45,
         "taller": 34,
         "distribuidor": 31.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1307017KT030L",
-      "nombre": "LLANTA 130-70-17 TL",
-      "marca": "CAMEL",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 36,
-        "distribuidor": 0
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -30401,7 +30380,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30506,7 +30485,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30989,7 +30968,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32627,7 +32606,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34727,7 +34706,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 19,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35742,27 +35721,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000066.jpg",
       "imagen_size": 204879,
-      "activo": true
-    },
-    {
-      "sku": "741540100130",
-      "nombre": "PRENSA CABLE M5  (PRISIONERO)",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 1.25,
-        "taller": 0.5,
-        "distribuidor": 0.4
-      },
-      "stock": 10,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100130.png",
-      "imagen_size": 33366,
       "activo": true
     },
     {
@@ -40187,7 +40145,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41132,7 +41090,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
