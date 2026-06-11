@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T22:51:23.089Z",
-  "count": 5734,
+  "generated_at": "2026-06-11T16:55:22.155Z",
+  "count": 5726,
   "productos": [
     {
       "sku": "LM120106",
@@ -14,7 +14,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 50,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 46,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 44,
+      "stock": 116,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1442,8 +1442,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2303,8 +2303,8 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2691,27 +2691,6 @@
       "activo": true
     },
     {
-      "sku": "IC018",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540190335",
       "nombre": "BOBINA ALTA AX100",
       "marca": "VINI",
@@ -2730,6 +2709,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190335.png",
       "imagen_size": 63806,
+      "activo": true
+    },
+    {
+      "sku": "IC018",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -7553,7 +7553,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 27,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7595,7 +7595,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 77,
+      "stock": 76,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9149,7 +9149,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10010,7 +10010,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10409,8 +10409,8 @@
         "taller": 8.25,
         "distribuidor": 7.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -11364,27 +11364,6 @@
       "activo": true
     },
     {
-      "sku": "RS049",
-      "nombre": "CATARINA 50T MOTO CHINA 125-150-200-250",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1006505",
       "nombre": "CATARINA 520H 40T HUNK160",
       "marca": "MEK",
@@ -12057,48 +12036,6 @@
       "activo": true
     },
     {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI016",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI014",
       "nombre": "CDI",
       "marca": "NRP",
@@ -12132,6 +12069,48 @@
         "distribuidor": 0
       },
       "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI016",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12789,27 +12768,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189912.png",
       "imagen_size": 166042,
-      "activo": true
-    },
-    {
-      "sku": "741540188280",
-      "nombre": "CENTRO CLUTCH CG125/ SL125-3C VINI(FL)",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26.75,
-        "taller": 20,
-        "distribuidor": 17.5
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188280.png",
-      "imagen_size": 158830,
       "activo": true
     },
     {
@@ -14273,7 +14231,7 @@
         "taller": 39.75,
         "distribuidor": 33.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19544,7 +19502,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19670,7 +19628,7 @@
         "taller": 2.5,
         "distribuidor": 2.2
       },
-      "stock": 37,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25917,27 +25875,6 @@
       "activo": true
     },
     {
-      "sku": "FOS010",
-      "nombre": "KIT RETENEDOR BARRA 41X53X8",
-      "marca": "NRP",
-      "categoria": "SELLO BARRA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 8,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/FOS010.jpg",
-      "imagen_size": 5082,
-      "activo": true
-    },
-    {
       "sku": "FOS009",
       "nombre": "KIT RETENEDOR BARRA 41X54X11",
       "marca": "NRP",
@@ -27387,27 +27324,6 @@
       "activo": true
     },
     {
-      "sku": "741540100311",
-      "nombre": "KIT VALVULA SANLG SL150 CUÑERO LARGO VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 10,
-        "distribuidor": 9
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100311.png",
-      "imagen_size": 37863,
-      "activo": true
-    },
-    {
       "sku": "741540100647",
       "nombre": "KIT VALVULA SG200GY-2-SPITZER200 CUÑERO CORTO",
       "marca": "VINI",
@@ -27594,27 +27510,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189675.png",
       "imagen_size": 63927,
-      "activo": true
-    },
-    {
-      "sku": "741540100507",
-      "nombre": "KIT VALVULA YBR125 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.25,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100507.png",
-      "imagen_size": 50523,
       "activo": true
     },
     {
@@ -27975,27 +27870,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-2729-22",
-      "nombre": "LLANTA AXUS 110-90-16 LISA P265 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 42,
-        "taller": 32,
-        "distribuidor": 30
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-2729-22.png",
-      "imagen_size": 82660,
-      "activo": true
-    },
-    {
       "sku": "LA1A-3701-22",
       "nombre": "LLANTA AXUS 110-90-17 DOBLE PROPOSITO AX9184 6PR TL TUBULAR",
       "marca": "AXUS",
@@ -28238,7 +28112,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28784,7 +28658,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 57,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29652,27 +29526,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005991.png",
       "imagen_size": 18923,
-      "activo": true
-    },
-    {
-      "sku": "741540188613",
-      "nombre": "MONOSHOCK FREEDOM SPITZER VINI(FL)",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 90,
-        "taller": 65,
-        "distribuidor": 55.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188613.png",
-      "imagen_size": 102937,
       "activo": true
     },
     {
@@ -31094,7 +30947,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31640,7 +31493,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31668,27 +31521,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188998.png",
       "imagen_size": 96132,
-      "activo": true
-    },
-    {
-      "sku": "BP009",
-      "nombre": "PASTILLA FRENO YBR 125 / YZF R15 DEL.",
-      "marca": "NRP",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 6,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/BP009.jpg",
-      "imagen_size": 4214,
       "activo": true
     },
     {
@@ -33509,8 +33341,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33950,7 +33782,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42591,27 +42423,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42625,6 +42436,27 @@
       },
       "stock": 4,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
