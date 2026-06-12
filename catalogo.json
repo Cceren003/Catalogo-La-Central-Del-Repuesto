@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T16:18:50.350Z",
-  "count": 5722,
+  "generated_at": "2026-06-12T19:05:07.692Z",
+  "count": 5719,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 41,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -854,7 +854,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,7 +2408,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2691,27 +2691,6 @@
       "activo": true
     },
     {
-      "sku": "IC018",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540190335",
       "nombre": "BOBINA ALTA AX100",
       "marca": "VINI",
@@ -2730,6 +2709,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190335.png",
       "imagen_size": 63806,
+      "activo": true
+    },
+    {
+      "sku": "IC018",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -3636,27 +3636,6 @@
       "activo": true
     },
     {
-      "sku": "741540188670",
-      "nombre": "BOMBA FRENO DEL UNIVERSAL TB-110 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 13,
-        "distribuidor": 11.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188670.png",
-      "imagen_size": 74296,
-      "activo": true
-    },
-    {
       "sku": "741540190693",
       "nombre": "BOMBA FRENO DELANTERA GIXXER 150 VINI",
       "marca": "VINI",
@@ -3962,7 +3941,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4025,7 +4004,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 69,
+      "stock": 67,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4382,7 +4361,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6965,7 +6944,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 27,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7595,7 +7574,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 75,
+      "stock": 65,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7658,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8729,7 +8708,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 31,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11648,7 +11627,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15092,7 +15071,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 33,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15176,7 +15155,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 62,
+      "stock": 61,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15645,27 +15624,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190718.png",
       "imagen_size": 142396,
-      "activo": true
-    },
-    {
-      "sku": "741540189103",
-      "nombre": "DISCO FRENO FZ16 DELANTERO",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 32,
-        "taller": 25,
-        "distribuidor": 20.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189103.png",
-      "imagen_size": 149470,
       "activo": true
     },
     {
@@ -16425,27 +16383,6 @@
       "activo": true
     },
     {
-      "sku": "741540189096",
-      "nombre": "EJE LEVAS NAGA 200",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 23,
-        "taller": 18,
-        "distribuidor": 15.3
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189096.png",
-      "imagen_size": 86790,
-      "activo": true
-    },
-    {
       "sku": "741540100722",
       "nombre": "EJE LEVAS PULSAR 135 VINI(FL)",
       "marca": "VINI",
@@ -16646,7 +16583,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17759,7 +17696,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18893,7 +18830,7 @@
         "taller": 7.25,
         "distribuidor": 6.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19418,7 +19355,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 88,
+      "stock": 85,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19607,7 +19544,7 @@
         "taller": 2.5,
         "distribuidor": 2.2
       },
-      "stock": 36,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19922,7 +19859,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 65,
+      "stock": 61,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21014,7 +20951,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25445,7 +25382,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26327,7 +26264,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30107,8 +30044,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30233,7 +30170,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30737,7 +30674,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33929,7 +33866,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38780,7 +38717,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 21,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39536,8 +39473,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -41531,7 +41468,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41720,7 +41657,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42339,27 +42276,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42373,6 +42289,27 @@
       },
       "stock": 4,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
