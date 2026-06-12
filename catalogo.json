@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T19:05:07.692Z",
-  "count": 5719,
+  "generated_at": "2026-06-12T22:25:31.748Z",
+  "count": 5717,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 39,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -336,27 +336,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540187983.png",
       "imagen_size": 107579,
-      "activo": true
-    },
-    {
-      "sku": "741540100398",
-      "nombre": "AMORTIGUADOR SET YBR125-CR1 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 55,
-        "taller": 32.75,
-        "distribuidor": 28.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100398.png",
-      "imagen_size": 124294,
       "activo": true
     },
     {
@@ -2691,27 +2670,6 @@
       "activo": true
     },
     {
-      "sku": "741540190335",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190335.png",
-      "imagen_size": 63806,
-      "activo": true
-    },
-    {
       "sku": "IC018",
       "nombre": "BOBINA ALTA AX100",
       "marca": "NRP",
@@ -2730,6 +2688,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540190335",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190335.png",
+      "imagen_size": 63806,
       "activo": true
     },
     {
@@ -3773,7 +3752,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 78,
+      "stock": 73,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3857,7 +3836,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 64,
+      "stock": 54,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3899,7 +3878,7 @@
         "taller": 1,
         "distribuidor": 0.5
       },
-      "stock": 60,
+      "stock": 50,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4739,7 +4718,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5138,7 +5117,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5327,7 +5306,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5411,8 +5390,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5495,7 +5474,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5621,7 +5600,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5810,7 +5789,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5915,7 +5894,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5936,7 +5915,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6020,7 +5999,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6377,7 +6356,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 198,
+      "stock": 188,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6776,7 +6755,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10073,7 +10052,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15813,27 +15792,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/BD021.jpg",
       "imagen_size": 10549,
-      "activo": true
-    },
-    {
-      "sku": "BD019",
-      "nombre": "DISCO FRENO TRASERO GSX 150 GIXXER",
-      "marca": "NRP",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 37,
-        "taller": 28,
-        "distribuidor": 24
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -27626,10 +27584,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 0,
-        "taller": 0,
+        "taller": 30,
         "distribuidor": 0
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27671,7 +27629,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30611,7 +30569,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31031,7 +30989,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31157,7 +31115,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31430,7 +31388,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32921,8 +32879,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36134,7 +36092,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42276,27 +42234,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42310,6 +42247,27 @@
       },
       "stock": 7,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
