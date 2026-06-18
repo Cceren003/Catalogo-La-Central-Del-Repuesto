@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T22:45:41.831Z",
-  "count": 5743,
+  "generated_at": "2026-06-18T16:33:00.104Z",
+  "count": 5733,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 19,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 65,
+      "stock": 59,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1001,7 +1001,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 11,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1106,7 +1106,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1169,8 +1169,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1757,7 +1757,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,7 +2282,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 16,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 19,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 12,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2345,8 +2345,8 @@
         "taller": 25,
         "distribuidor": 23
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2366,7 +2366,7 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 12,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,7 +2408,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2628,7 +2628,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2649,7 +2649,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2691,27 +2691,6 @@
       "activo": true
     },
     {
-      "sku": "741540190335",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190335.png",
-      "imagen_size": 63806,
-      "activo": true
-    },
-    {
       "sku": "IC018",
       "nombre": "BOBINA ALTA AX100",
       "marca": "NRP",
@@ -2730,6 +2709,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540190335",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190335.png",
+      "imagen_size": 63806,
       "activo": true
     },
     {
@@ -3181,7 +3181,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.5,
+        "publico": 20,
         "taller": 10,
         "distribuidor": 8
       },
@@ -3538,7 +3538,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.75,
+        "publico": 20,
         "taller": 10,
         "distribuidor": 8
       },
@@ -4004,7 +4004,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 46,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5432,7 +5432,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 12,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6251,7 +6251,7 @@
         "taller": 4.5,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6335,7 +6335,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 184,
+      "stock": 164,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,7 +7658,7 @@
         "taller": 17.5,
         "distribuidor": 15.5
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8704,11 +8704,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 2.75,
-        "taller": 2.25,
-        "distribuidor": 1.75
+        "publico": 3.5,
+        "taller": 1.75,
+        "distribuidor": 1.5
       },
-      "stock": 18,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8726,10 +8726,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 2.5,
-        "taller": 2,
-        "distribuidor": 1.5
+        "taller": 1.75,
+        "distribuidor": 1.35
       },
-      "stock": 28,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11928,27 +11928,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540100586",
-      "nombre": "CATARINA Y PIÑON PULSAR 135 (428-14-42T) VINI (FL)",
-      "marca": "VINI",
-      "categoria": "KIT TRACCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14.25,
-        "taller": 11,
-        "distribuidor": 9.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100586.png",
-      "imagen_size": 89497,
       "activo": true
     },
     {
@@ -17360,7 +17339,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17829,27 +17808,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540165207.jpg",
       "imagen_size": 5874,
-      "activo": true
-    },
-    {
-      "sku": "741540100907",
-      "nombre": "ESPEJO SET PULSAR 135 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "ESPEJOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.75,
-        "taller": 5.5,
-        "distribuidor": 4.75
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100907.png",
-      "imagen_size": 65211,
       "activo": true
     },
     {
@@ -18725,7 +18683,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19397,7 +19355,7 @@
         "taller": 6.5,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21675,27 +21633,6 @@
       "activo": true
     },
     {
-      "sku": "741540189790",
-      "nombre": "HERRAMIENTA EXTRACTOR VZ12003",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189790.png",
-      "imagen_size": 48611,
-      "activo": true
-    },
-    {
       "sku": "741540189794",
       "nombre": "HERRAMIENTA EXTRACTOR YAMAHA RX 2T",
       "marca": "VINI",
@@ -22841,7 +22778,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22925,7 +22862,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 37,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24248,7 +24185,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24311,7 +24248,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26348,8 +26285,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28353,27 +28290,6 @@
       "activo": true
     },
     {
-      "sku": "909019KT380T",
-      "nombre": "LLANTA 90-90-19 TL",
-      "marca": "CAMEL",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 30,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "909021KT430T",
       "nombre": "LLANTA 90-90-21 CAMEL TL DOBLE PROPOSITO",
       "marca": "NRP",
@@ -29046,27 +28962,6 @@
       "activo": true
     },
     {
-      "sku": "741540188107",
-      "nombre": "LODERA TRASERA XR150L / XR125L",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12.25,
-        "taller": 9,
-        "distribuidor": 7.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188107.png",
-      "imagen_size": 75264,
-      "activo": true
-    },
-    {
       "sku": "741540189676",
       "nombre": "LUZ H4 LED UNIVERSAL VINI",
       "marca": "VINI",
@@ -29666,7 +29561,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31304,7 +31199,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33351,27 +33246,6 @@
       "activo": true
     },
     {
-      "sku": "741540187955",
-      "nombre": "PIDE VIA SET FZ16 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9.5,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540187955.png",
-      "imagen_size": 128489,
-      "activo": true
-    },
-    {
       "sku": "741540189434",
       "nombre": "PIDE VIA SET NAVI 110 VINI(FL)",
       "marca": "VINI",
@@ -33404,7 +33278,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36365,7 +36239,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 41,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40428,27 +40302,6 @@
       "activo": true
     },
     {
-      "sku": "1004674",
-      "nombre": "SWITCH ARRANQUE ASPID-FIRE-HJ125-7/HJ150-9",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004674.jpg",
-      "imagen_size": 253773,
-      "activo": true
-    },
-    {
       "sku": "35150K38",
       "nombre": "SWITCH ARRANQUE CBF160F (3 LINEAS)",
       "marca": "MEK",
@@ -40502,7 +40355,7 @@
         "taller": 7.25,
         "distribuidor": 6.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40670,7 +40523,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40985,7 +40838,7 @@
         "taller": 12,
         "distribuidor": 10.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41289,27 +41142,6 @@
       "activo": true
     },
     {
-      "sku": "741540190719",
-      "nombre": "SWITCH IGNICION XTZ125",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 12,
-        "distribuidor": 10.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190719.png",
-      "imagen_size": 45723,
-      "activo": true
-    },
-    {
       "sku": "741540189088",
       "nombre": "SWITCH IGNICION YARA 200 - UM200",
       "marca": "VINI",
@@ -41328,27 +41160,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189088.png",
       "imagen_size": 99489,
-      "activo": true
-    },
-    {
-      "sku": "741540100259",
-      "nombre": "SWITCH IGNICION YBR125",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14.75,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100259.png",
-      "imagen_size": 81221,
       "activo": true
     },
     {
@@ -42738,27 +42549,6 @@
       "activo": true
     },
     {
-      "sku": "741540188656",
-      "nombre": "VALVULA GAS AG-50",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9.25,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188656.png",
-      "imagen_size": 77473,
-      "activo": true
-    },
-    {
       "sku": "741540190594",
       "nombre": "VALVULA GAS AK 200SM/180XM",
       "marca": "VINI",
@@ -42959,7 +42749,7 @@
         "taller": 6.75,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
