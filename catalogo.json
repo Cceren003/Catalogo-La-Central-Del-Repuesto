@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T16:33:00.104Z",
-  "count": 5733,
+  "generated_at": "2026-06-18T19:28:59.602Z",
+  "count": 5734,
   "productos": [
     {
       "sku": "LM120106",
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 59,
+      "stock": 53,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1757,8 +1757,8 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 11,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2628,7 +2628,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2649,7 +2649,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -3731,8 +3731,8 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 11,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3962,7 +3962,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 36,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,7 +3983,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 22,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +4004,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 36,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4739,7 +4739,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 15,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5001,6 +5001,27 @@
       "activo": true
     },
     {
+      "sku": "741540191020",
+      "nombre": "CABLE ACELERADOR SZ150D VINI",
+      "marca": "VINI",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540100659",
       "nombre": "CABLE ACELERADOR TVS APACHE VINI (DOBLE)(FL)",
       "marca": "VINI",
@@ -5061,6 +5082,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540191029",
+      "nombre": "CABLE ACELERADOR X-BLADE 160",
+      "marca": "VINI",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 8,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540191029.png",
+      "imagen_size": 53916,
       "activo": true
     },
     {
@@ -5138,7 +5180,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5159,7 +5201,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5904,6 +5946,27 @@
       "activo": true
     },
     {
+      "sku": "741540100660",
+      "nombre": "CABLE CLUTCH TVS APACHE VINI (FL)",
+      "marca": "VINI",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.25,
+        "taller": 3.5,
+        "distribuidor": 3
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100660.png",
+      "imagen_size": 54019,
+      "activo": true
+    },
+    {
       "sku": "741540188060",
       "nombre": "CABLE CLUTCH V-MEN",
       "marca": "VINI",
@@ -6195,6 +6258,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100293.png",
       "imagen_size": 49635,
+      "activo": true
+    },
+    {
+      "sku": "741540191150",
+      "nombre": "CABLE FRENO DELANTERO NAVI 110",
+      "marca": "VINI",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -7217,7 +7301,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7553,7 +7637,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 59,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,8 +7742,8 @@
         "taller": 17.5,
         "distribuidor": 15.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -8967,27 +9051,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188242.png",
       "imagen_size": 126167,
-      "activo": true
-    },
-    {
-      "sku": "CRB014",
-      "nombre": "CARBURADOR EN125-2A/GN125/APACHE RTR 160/APACHE RTR 160 2V",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 53,
-        "taller": 43.75,
-        "distribuidor": 37.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/CRB014.jpg",
-      "imagen_size": 10151,
       "activo": true
     },
     {
@@ -11385,27 +11448,6 @@
       "activo": true
     },
     {
-      "sku": "1000382",
-      "nombre": "CATARINA 520H 42T XM200Z / KMF200",
-      "marca": "MEK",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 8.5,
-        "distribuidor": 7.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000382.jpg",
-      "imagen_size": 202360,
-      "activo": true
-    },
-    {
       "sku": "1004369",
       "nombre": "CATARINA 520H 45T CG-DM150-SX4",
       "marca": "MEK",
@@ -11928,6 +11970,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540100586",
+      "nombre": "CATARINA Y PIÑON PULSAR 135 (428-14-42T) VINI (FL)",
+      "marca": "VINI",
+      "categoria": "KIT TRACCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14.25,
+        "taller": 11,
+        "distribuidor": 9.5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100586.png",
+      "imagen_size": 89497,
       "activo": true
     },
     {
@@ -15239,7 +15302,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 61,
+      "stock": 60,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18063,6 +18126,27 @@
       "activo": true
     },
     {
+      "sku": "741540100218",
+      "nombre": "ESTRIBO SET  CON BASE  HB-00604 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.25,
+        "taller": 4.75,
+        "distribuidor": 4.25
+      },
+      "stock": 12,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100218.png",
+      "imagen_size": 78860,
+      "activo": true
+    },
+    {
       "sku": "741540100219",
       "nombre": "ESTRIBO SET GN  HB-00602A VINI(FL)",
       "marca": "VINI",
@@ -19229,7 +19313,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22778,8 +22862,8 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -24185,7 +24269,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24248,8 +24332,8 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -26285,8 +26369,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -27881,8 +27965,8 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 11,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -27996,27 +28080,6 @@
       "activo": true
     },
     {
-      "sku": "741540100449",
-      "nombre": "KIT VALVULA XL 200-YARA200 / DRACO250",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17,
-        "taller": 12.75,
-        "distribuidor": 11
-      },
-      "stock": 6,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100449.png",
-      "imagen_size": 56577,
-      "activo": true
-    },
-    {
       "sku": "741540188206",
       "nombre": "KIT VALVULA XR150L / DAYUN-SHADOW-HUNK (150)",
       "marca": "VINI",
@@ -28028,7 +28091,7 @@
         "taller": 10.75,
         "distribuidor": 9.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28458,27 +28521,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-3507-22",
-      "nombre": "LLANTA AXUS 130-70-17 LISA AX30 66S TL DEPORTIVAS",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 48,
-        "taller": 36,
-        "distribuidor": 34.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3507-22.png",
-      "imagen_size": 76331,
-      "activo": true
-    },
-    {
       "sku": "LA1A-3505-22",
       "nombre": "LLANTA AXUS 140-60-17 LISA AX30F 6PR RADIAL FZ16 TRASERA",
       "marca": "AXUS",
@@ -28584,6 +28626,27 @@
       "activo": true
     },
     {
+      "sku": "741540189923",
+      "nombre": "LLANTA VINI 100-80X17 VT 1008 (FL)",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 43,
+        "taller": 31,
+        "distribuidor": 29
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540190994",
       "nombre": "LLANTA VINI 110-90-17 VT DOBLE PROPOSITO",
       "marca": "VINI",
@@ -28626,6 +28689,90 @@
       "activo": true
     },
     {
+      "sku": "741540189925",
+      "nombre": "LLANTA VINI 110-90X17 VT 1009",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 42,
+        "taller": 32.5,
+        "distribuidor": 30
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189925.jpg",
+      "imagen_size": 7751,
+      "activo": true
+    },
+    {
+      "sku": "741540189936",
+      "nombre": "LLANTA VINI 120-80-17 VT 1004 LISA DEPORTIVA",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 43.25,
+        "taller": 33.5,
+        "distribuidor": 31.5
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189936.png",
+      "imagen_size": 69014,
+      "activo": true
+    },
+    {
+      "sku": "741540189930",
+      "nombre": "LLANTA VINI 130-70-17 VT 1010 LISA DEPORTIVA (FL)",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 47.75,
+        "taller": 36,
+        "distribuidor": 33.5
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189930.png",
+      "imagen_size": 67381,
+      "activo": true
+    },
+    {
+      "sku": "741540189931",
+      "nombre": "LLANTA VINI 140-70X17 VT1010 LISA DEPORTIVA (FL)",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 52.25,
+        "taller": 39.5,
+        "distribuidor": 37.5
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189931.png",
+      "imagen_size": 66992,
+      "activo": true
+    },
+    {
       "sku": "741540189929",
       "nombre": "LLANTA VINI 2.75X21 VT 1006 (FL)",
       "marca": "VINI",
@@ -28658,7 +28805,7 @@
         "taller": 26,
         "distribuidor": 23
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28679,7 +28826,49 @@
         "taller": 25,
         "distribuidor": 22.5
       },
-      "stock": 1,
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540190531",
+      "nombre": "LLANTA VINI 90-90X18 DOBLE PROPOSITO",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540189926",
+      "nombre": "LLANTA VINI 90-90X19 VT 1009 (FL)",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 42,
+        "taller": 29,
+        "distribuidor": 27
+      },
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29981,7 +30170,7 @@
         "taller": 65,
         "distribuidor": 55.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30674,7 +30863,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30716,7 +30905,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30737,8 +30926,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30779,7 +30968,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32868,6 +33057,27 @@
       "activo": true
     },
     {
+      "sku": "741540181709",
+      "nombre": "PATA VELOCIDAD VINI DT125K (18G) (FL)",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5.5,
+        "taller": 5,
+        "distribuidor": 4.5
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540181709.png",
+      "imagen_size": 51107,
+      "activo": true
+    },
+    {
       "sku": "741540181704",
       "nombre": "PATA VELOCIDAD VINI YBR125 (CHINESE) (FL)",
       "marca": "VINI",
@@ -33383,8 +33593,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34139,7 +34349,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37436,7 +37646,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 36,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38507,8 +38717,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 28,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -38591,7 +38801,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38703,6 +38913,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189511.jpg",
       "imagen_size": 7733,
+      "activo": true
+    },
+    {
+      "sku": "741540191158",
+      "nombre": "RETENEDOR BARRA XTZ150 (INDIVIDUAL)",
+      "marca": "VINI",
+      "categoria": "SELLO BARRA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540191158.jpg",
+      "imagen_size": 8321,
       "activo": true
     },
     {
@@ -38913,6 +39144,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006290.png",
       "imagen_size": 8510,
+      "activo": true
+    },
+    {
+      "sku": "741540188794",
+      "nombre": "SEGURO CADENA 520H VINI",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188794.jpg",
+      "imagen_size": 8699,
       "activo": true
     },
     {
@@ -41961,27 +42213,6 @@
       "activo": true
     },
     {
-      "sku": "741540188054",
-      "nombre": "TAPON TANQUE STORM VINI(FL)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188054.jpg",
-      "imagen_size": 9315,
-      "activo": true
-    },
-    {
       "sku": "1001519",
       "nombre": "TAPON TANQUE TODO TERRENO",
       "marca": "MEK",
@@ -42654,6 +42885,27 @@
       "activo": true
     },
     {
+      "sku": "741540188356",
+      "nombre": "VALVULA GAS GY6 VINI",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188356.png",
+      "imagen_size": 99286,
+      "activo": true
+    },
+    {
       "sku": "741540100114",
       "nombre": "VALVULA GAS XL 125",
       "marca": "VINI",
@@ -42780,27 +43032,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42814,6 +43045,27 @@
       },
       "stock": 7,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -61065,28 +61317,6 @@
       "activo": true
     },
     {
-      "sku": "741540191020",
-      "nombre": "CABLE ACELERADOR SZ150D VINI",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540191011",
       "nombre": "CABLE ACELERADOR TNT135 VINI",
       "marca": "VINI",
@@ -61639,28 +61869,6 @@
     {
       "sku": "741540191016",
       "nombre": "CABLE FRENO DEL ECO DELUXE VINI",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540191150",
-      "nombre": "CABLE FRENO DEL NAVI110 VINI",
       "marca": "VINI",
       "categoria": "CABLES",
       "presentacion": "UND",
@@ -85925,50 +86133,6 @@
       "activo": true
     },
     {
-      "sku": "741540189925",
-      "nombre": "LLANTA VINI 110/90X17 VT 1009",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189925.jpg",
-      "imagen_size": 7751,
-      "activo": true
-    },
-    {
-      "sku": "741540189936",
-      "nombre": "LLANTA VINI 120/80X17 VT 1004",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189936.png",
-      "imagen_size": 69014,
-      "activo": true
-    },
-    {
       "sku": "741540190535",
       "nombre": "LLANTA VINI 120/90-17 VT1011",
       "marca": "VINI",
@@ -86010,50 +86174,6 @@
       "fuente": "VINI",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189930",
-      "nombre": "LLANTA VINI 130/70X17 VT 1010",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189930.png",
-      "imagen_size": 67381,
-      "activo": true
-    },
-    {
-      "sku": "741540189931",
-      "nombre": "LLANTA VINI 140/70X17 VT 1010",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189931.png",
-      "imagen_size": 66992,
       "activo": true
     },
     {
@@ -86301,50 +86421,6 @@
     {
       "sku": "741540189939",
       "nombre": "LLANTA VINI 90/90X18 VT 1001",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540190531",
-      "nombre": "LLANTA VINI 90/90X18 VT1009",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189926",
-      "nombre": "LLANTA VINI 90/90X19 VT1009",
       "marca": "VINI",
       "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UND",
@@ -98773,28 +98849,6 @@
       "activo": true
     },
     {
-      "sku": "741540191158",
-      "nombre": "RETENEDOR BARRA XTZ150 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540191158.jpg",
-      "imagen_size": 8321,
-      "activo": true
-    },
-    {
       "sku": "741540189254",
       "nombre": "RETENEDOR BARRA YARA 200 ESPECIAL 37X50X11 VINI",
       "marca": "VINI",
@@ -98880,28 +98934,6 @@
       "fuente": "VINI",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540188794",
-      "nombre": "SEGURO CADENA 520H VINI",
-      "marca": "VINI",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188794.jpg",
-      "imagen_size": 8699,
       "activo": true
     },
     {
@@ -106668,28 +106700,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540188355.png",
       "imagen_size": 64067,
-      "activo": true
-    },
-    {
-      "sku": "741540188356",
-      "nombre": "VALVULA GAS GY6 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188356.png",
-      "imagen_size": 99286,
       "activo": true
     },
     {
