@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T18:12:02.619Z",
-  "count": 5769,
+  "generated_at": "2026-06-20T22:07:22.293Z",
+  "count": 5762,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 127,
+      "stock": 113,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2208,27 +2208,6 @@
       "activo": true
     },
     {
-      "sku": "741540100225",
-      "nombre": "BASE CATARINA CGL125 / CR1 VINI (RC)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22,
-        "taller": 17,
-        "distribuidor": 14.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100225.png",
-      "imagen_size": 68347,
-      "activo": true
-    },
-    {
       "sku": "741540189270",
       "nombre": "BASE CATARINA FORZA 150",
       "marca": "VINI",
@@ -2247,27 +2226,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189270.png",
       "imagen_size": 67638,
-      "activo": true
-    },
-    {
-      "sku": "741540100741",
-      "nombre": "BASE CATARINA GN125",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 19.5,
-        "taller": 16.5,
-        "distribuidor": 14.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100741.png",
-      "imagen_size": 86097,
       "activo": true
     },
     {
@@ -2376,27 +2334,6 @@
       "activo": true
     },
     {
-      "sku": "TS12N9-4B-1",
-      "nombre": "BATERIA DE GEL 12N9-4B-1 TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33,
-        "taller": 25,
-        "distribuidor": 23
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TSLB6.5L-BS",
       "nombre": "BATERIA DE GEL LB6.5L-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2429,28 +2366,7 @@
         "taller": 14.9,
         "distribuidor": 13.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "TSYTX5L-BS",
-      "nombre": "BATERIA DE GEL YTX5L-BS TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29,
-        "taller": 18,
-        "distribuidor": 16
-      },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2471,7 +2387,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2670,7 +2586,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2691,7 +2607,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2912,7 +2828,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4046,7 +3962,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 32,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4088,7 +4004,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 21,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5306,7 +5222,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7763,7 +7679,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 50,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8631,27 +8547,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188423.png",
       "imagen_size": 84481,
-      "activo": true
-    },
-    {
-      "sku": "741540190526",
-      "nombre": "CALIPER FRENO DELANTERO CB150",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33.25,
-        "taller": 23,
-        "distribuidor": 19.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190526.png",
-      "imagen_size": 127526,
       "activo": true
     },
     {
@@ -18872,7 +18767,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19313,7 +19208,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20174,7 +20069,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 85,
+      "stock": 82,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20657,7 +20552,7 @@
         "taller": 5.5,
         "distribuidor": 5
       },
-      "stock": 16,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21476,7 +21371,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24353,7 +24248,7 @@
         "taller": 75,
         "distribuidor": 63.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26841,27 +26736,6 @@
       "activo": true
     },
     {
-      "sku": "741540188582",
-      "nombre": "KIT RETENEDOR BARRA 31X43X10.3",
-      "marca": "VINI",
-      "categoria": "SELLO BARRA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.75,
-        "distribuidor": 3.25
-      },
-      "stock": 8,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188582.png",
-      "imagen_size": 151738,
-      "activo": true
-    },
-    {
       "sku": "FOS011",
       "nombre": "KIT RETENEDOR BARRA 32X43X10.5",
       "marca": "NRP",
@@ -28238,7 +28112,7 @@
         "taller": 10.75,
         "distribuidor": 9.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29655,27 +29529,6 @@
       "activo": true
     },
     {
-      "sku": "1005946",
-      "nombre": "LODERA DELANTERA AKT 200 TT",
-      "marca": "MEK",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 24,
-        "taller": 18,
-        "distribuidor": 15.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005946.png",
-      "imagen_size": 12522,
-      "activo": true
-    },
-    {
       "sku": "741540100682",
       "nombre": "LODERA TRASERA GN125 METAL",
       "marca": "VINI",
@@ -30317,7 +30170,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30359,7 +30212,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31976,7 +31829,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31997,7 +31850,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32627,7 +32480,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35819,7 +35672,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38402,7 +38255,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 21,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44103,27 +43956,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -44137,6 +43969,27 @@
       },
       "stock": 7,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
