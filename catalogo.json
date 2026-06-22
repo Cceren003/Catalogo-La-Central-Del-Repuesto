@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T17:40:27.878Z",
-  "count": 5761,
+  "generated_at": "2026-06-22T22:48:07.360Z",
+  "count": 5758,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 108,
+      "stock": 105,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2649,27 +2649,6 @@
       "activo": true
     },
     {
-      "sku": "741540190335",
-      "nombre": "BOBINA ALTA AX100",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190335.png",
-      "imagen_size": 63806,
-      "activo": true
-    },
-    {
       "sku": "IC018",
       "nombre": "BOBINA ALTA AX100",
       "marca": "NRP",
@@ -2688,6 +2667,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540190335",
+      "nombre": "BOBINA ALTA AX100",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190335.png",
+      "imagen_size": 63806,
       "activo": true
     },
     {
@@ -5138,8 +5138,8 @@
         "taller": 3.5,
         "distribuidor": 2.5
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7007,7 +7007,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 23,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7763,7 +7763,7 @@
         "taller": 17.5,
         "distribuidor": 15.5
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14052,27 +14052,6 @@
       "activo": true
     },
     {
-      "sku": "741540189601",
-      "nombre": "CILINDRO COMPLETO MRT250 VINI (FL)",
-      "marca": "MOTUL",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 85.25,
-        "taller": 72.5,
-        "distribuidor": 62.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189601.png",
-      "imagen_size": 99061,
-      "activo": true
-    },
-    {
       "sku": "741540140567",
       "nombre": "CILINDRO COMPLETO NAGA150-CADENILLA PIN14 VINI(FL)",
       "marca": "VINI",
@@ -18158,7 +18137,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25203,27 +25182,6 @@
       "activo": true
     },
     {
-      "sku": "RM004000048",
-      "nombre": "KIT EMPAQUE COMPLETO CB 160 UNICORN-HORNET / XBLADE 160",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 8,
-        "distribuidor": 6.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RM004000004",
       "nombre": "KIT EMPAQUE COMPLETO DIO 110 / NAVI 110",
       "marca": "NRP",
@@ -28049,7 +28007,7 @@
         "taller": 11.25,
         "distribuidor": 9.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29225,7 +29183,7 @@
         "taller": 25,
         "distribuidor": 22.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29645,7 +29603,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 40,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30023,7 +29981,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31955,7 +31913,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32333,8 +32291,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32816,7 +32774,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33551,7 +33509,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33572,7 +33530,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37289,7 +37247,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 28,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38234,7 +38192,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39368,7 +39326,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40026,27 +39984,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100535.png",
       "imagen_size": 72159,
-      "activo": true
-    },
-    {
-      "sku": "1006548",
-      "nombre": "SEGURO ESLABON CADENA DORADO 520H UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "CADENAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 1.75,
-        "taller": 1.25,
-        "distribuidor": 0.75
-      },
-      "stock": 10,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
