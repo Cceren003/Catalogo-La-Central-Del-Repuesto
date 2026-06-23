@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T15:51:41.464Z",
-  "count": 5758,
+  "generated_at": "2026-06-23T19:09:17.353Z",
+  "count": 5757,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 103,
+      "stock": 101,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -896,7 +896,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1106,7 +1106,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 20,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2586,7 +2586,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2607,7 +2607,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -3689,8 +3689,8 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3815,7 +3815,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 53,
+      "stock": 52,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3878,7 +3878,7 @@
         "taller": 1,
         "distribuidor": 0.5
       },
-      "stock": 50,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4382,7 +4382,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 22,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4487,7 +4487,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 27,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5474,7 +5474,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6440,7 +6440,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 155,
+      "stock": 145,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7679,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 49,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9240,27 +9240,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190683.png",
       "imagen_size": 116936,
-      "activo": true
-    },
-    {
-      "sku": "741540188136",
-      "nombre": "CARBURADOR PULSAR 180 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 60.25,
-        "taller": 45,
-        "distribuidor": 38.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188136.png",
-      "imagen_size": 87973,
       "activo": true
     },
     {
@@ -16730,8 +16709,8 @@
         "taller": 18,
         "distribuidor": 15.3
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -17759,8 +17738,8 @@
         "taller": 14.5,
         "distribuidor": 12.25
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20048,7 +20027,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 82,
+      "stock": 81,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24752,7 +24731,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 26,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28679,7 +28658,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29603,7 +29582,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 37,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33299,7 +33278,7 @@
         "taller": 12,
         "distribuidor": 10.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35609,7 +35588,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40187,7 +40166,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
