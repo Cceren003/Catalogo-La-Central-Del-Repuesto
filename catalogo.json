@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T18:52:31.625Z",
+  "generated_at": "2026-06-24T22:18:13.595Z",
   "count": 5750,
   "productos": [
     {
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 81,
+      "stock": 80,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 12,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 166,
+      "stock": 153,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2366,7 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,7 +2387,7 @@
         "taller": 14.9,
         "distribuidor": 13.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2429,7 +2429,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2450,7 +2450,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2628,7 +2628,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2649,7 +2649,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -3794,7 +3794,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 59,
+      "stock": 58,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3962,8 +3962,8 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4046,7 +4046,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 47,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5432,7 +5432,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5600,7 +5600,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5726,7 +5726,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5915,7 +5915,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5978,7 +5978,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6482,7 +6482,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 145,
+      "stock": 133,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6839,7 +6839,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6881,7 +6881,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7805,7 +7805,7 @@
         "taller": 17.5,
         "distribuidor": 15.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9380,7 +9380,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9527,7 +9527,7 @@
         "taller": 55,
         "distribuidor": 49
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12614,7 +12614,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18347,7 +18347,7 @@
         "taller": 12.5,
         "distribuidor": 10.6
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19418,7 +19418,7 @@
         "taller": 7.25,
         "distribuidor": 6.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20216,7 +20216,7 @@
         "taller": 2.5,
         "distribuidor": 2.2
       },
-      "stock": 32,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20510,7 +20510,7 @@
         "taller": 5.5,
         "distribuidor": 5
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26001,6 +26001,27 @@
       "activo": true
     },
     {
+      "sku": "1006565",
+      "nombre": "KIT MANECILLAS LH/RH CON BOMBA FRENO AZUL",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 30.5,
+        "taller": 25,
+        "distribuidor": 21.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1006566",
       "nombre": "KIT MANECILLAS LH/RH CON BOMBA FRENO NEGRO",
       "marca": "MEK",
@@ -26222,8 +26243,8 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28868,7 +28889,7 @@
         "taller": 30,
         "distribuidor": 28
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28973,7 +28994,7 @@
         "taller": 36,
         "distribuidor": 33.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28994,8 +29015,8 @@
         "taller": 39.5,
         "distribuidor": 37.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29393,7 +29414,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29477,7 +29498,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 36,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31199,7 +31220,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31220,7 +31241,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31241,7 +31262,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31262,7 +31283,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31745,7 +31766,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32217,27 +32238,6 @@
       "activo": true
     },
     {
-      "sku": "741540188996",
-      "nombre": "PASTILLA FRENO SC125ELITE/V-MEN125",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.5,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188996.png",
-      "imagen_size": 102542,
-      "activo": true
-    },
-    {
       "sku": "741540189576",
       "nombre": "PASTILLA FRENO SERPENTO TORNADO 250 VINI(FL)",
       "marca": "VINI",
@@ -32270,7 +32270,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35084,7 +35084,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40796,7 +40796,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40985,7 +40985,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42875,7 +42875,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
