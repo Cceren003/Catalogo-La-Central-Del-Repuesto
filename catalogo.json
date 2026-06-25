@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T22:18:13.595Z",
-  "count": 5750,
+  "generated_at": "2026-06-25T15:40:05.316Z",
+  "count": 5745,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 80,
+      "stock": 79,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2628,7 +2628,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2649,7 +2649,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -4424,7 +4424,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6146,7 +6146,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7791,27 +7791,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100121.png",
       "imagen_size": 113973,
-      "activo": true
-    },
-    {
-      "sku": "741540189013",
-      "nombre": "CADENA TRACCION 520HX120 GOLDEN VINI(FL)",
-      "marca": "VINI",
-      "categoria": "CADENAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26.75,
-        "taller": 17.5,
-        "distribuidor": 15.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189013.png",
-      "imagen_size": 163491,
       "activo": true
     },
     {
@@ -18872,8 +18851,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -26001,27 +25980,6 @@
       "activo": true
     },
     {
-      "sku": "1006565",
-      "nombre": "KIT MANECILLAS LH/RH CON BOMBA FRENO AZUL",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30.5,
-        "taller": 25,
-        "distribuidor": 21.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1006566",
       "nombre": "KIT MANECILLAS LH/RH CON BOMBA FRENO NEGRO",
       "marca": "MEK",
@@ -26033,28 +25991,7 @@
         "taller": 25,
         "distribuidor": 21.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1006564",
-      "nombre": "KIT MANECILLAS LH/RH CON BOMBA FRENO ROJO",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 25,
-        "taller": 21,
-        "distribuidor": 19
-      },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28878,27 +28815,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-0702-22",
-      "nombre": "LLANTA AXUS 90-90-18 LISA AX4418 DESPORTIVAS",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 42,
-        "taller": 30,
-        "distribuidor": 28
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0702-22.png",
-      "imagen_size": 85845,
-      "activo": true
-    },
-    {
       "sku": "741540189923",
       "nombre": "LLANTA VINI 100-80X17 VT 1008 (FL)",
       "marca": "VINI",
@@ -28910,7 +28826,7 @@
         "taller": 31,
         "distribuidor": 29
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35262,27 +35178,6 @@
       "activo": true
     },
     {
-      "sku": "SC021",
-      "nombre": "PLANTA AX100 VOLT NRP",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 31,
-        "taller": 24,
-        "distribuidor": 20.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/SC021.jpg",
-      "imagen_size": 9894,
-      "activo": true
-    },
-    {
       "sku": "741540189915",
       "nombre": "PLANTA BM150 VINI",
       "marca": "VINI",
@@ -35462,7 +35357,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38885,7 +38780,7 @@
         "taller": 3,
         "distribuidor": 2
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
