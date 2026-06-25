@@ -204,7 +204,7 @@ function renderProduct(p) {
   const dispoTag = d === 'inmediato'
     ? `<span class="detail-tag in_stock">${stockLabel(p)} · ${p.stock} ud.</span>`
     : (isPedido
-        ? `<span class="detail-tag a_pedido">A pedido · bodega central</span>`
+        ? `<span class="detail-tag a_pedido">En bodega central</span>`
         : `<span class="detail-tag out_of_stock">Agotado</span>`);
 
   const aPedidoNotice = isPedido ? `

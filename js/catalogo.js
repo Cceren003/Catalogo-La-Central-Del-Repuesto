@@ -205,7 +205,7 @@ function renderStockFilter() {
   el.innerHTML = `
     <button class="chip active" data-v="all">Todos</button>
     <button class="chip" data-v="inmediato">Entrega inmediata <span class="chip-count">${inmediato}</span></button>
-    <button class="chip" data-v="a_pedido">A pedido <span class="chip-count">${aPedido}</span></button>`;
+    <button class="chip" data-v="a_pedido">En bodega central <span class="chip-count">${aPedido}</span></button>`;
   // Disponibilidad = master filter: NO cambia de modo, coexiste con todo
   chipGroupHandler(el, v => { state.dispo = v; }, { master: true });
 }
@@ -390,7 +390,7 @@ function renderCard(p) {
 
 function stockLabel(p) {
   const d = dispoOf(p);
-  if (d === 'a_pedido') return 'A pedido';
+  if (d === 'a_pedido') return 'En bodega central';
   if (d === 'agotado') return 'Agotado';
   if (p.stock_status === 'low_stock') return `Últimas ${p.stock}`;
   return 'En stock';
@@ -432,7 +432,7 @@ function showDetail(sku) {
   const dispoTag = d === 'inmediato'
     ? `<span class="detail-tag in_stock">${stockLabel(p)} · ${p.stock} ud.</span>`
     : (isPedido
-        ? `<span class="detail-tag a_pedido">A pedido · bodega central</span>`
+        ? `<span class="detail-tag a_pedido">En bodega central</span>`
         : `<span class="detail-tag out_of_stock">Agotado</span>`);
 
   const aPedidoNotice = isPedido ? `
