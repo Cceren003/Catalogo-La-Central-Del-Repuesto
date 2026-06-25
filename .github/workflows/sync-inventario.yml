@@ -12,7 +12,10 @@ name: Sync inventario LCR
 
 on:
   schedule:
-    - cron: '0 13,17,21 * * *'
+    # 7 minutos pasada la hora en vez de la hora en punto: los minutos :00 están
+    # MUY congestionados (miles de repos schedulean ahí) y GH Actions descarta
+    # corridas silenciosamente. Los :07 son mucho menos saturados.
+    - cron: '7 13,17,21 * * *'
   # Permite correr a mano desde la pestaña Actions
   workflow_dispatch:
 
