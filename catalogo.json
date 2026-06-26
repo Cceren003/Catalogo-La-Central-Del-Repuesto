@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T18:57:25.337Z",
-  "count": 5738,
+  "generated_at": "2026-06-26T22:20:20.998Z",
+  "count": 5735,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 76,
+      "stock": 75,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,8 +2366,8 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2450,7 +2450,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4025,7 +4025,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 46,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6461,7 +6461,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 133,
+      "stock": 126,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7028,7 +7028,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7427,7 +7427,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7679,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8936,7 +8936,7 @@
       "empaque": "1*1",
       "precios": {
         "publico": 0,
-        "taller": 0,
+        "taller": 87,
         "distribuidor": 0
       },
       "stock": 1,
@@ -9296,7 +9296,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17024,7 +17024,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22946,7 +22946,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24972,27 +24972,6 @@
       "activo": true
     },
     {
-      "sku": "RM004000006",
-      "nombre": "KIT EMPAQUE COMPLETO FZ 3.0-2.0",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RM004000047",
       "nombre": "KIT EMPAQUE COMPLETO GIXXER 150",
       "marca": "NRP",
@@ -25284,27 +25263,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003578.png",
       "imagen_size": 60364,
-      "activo": true
-    },
-    {
-      "sku": "1003577",
-      "nombre": "KIT EMPAQUE GY6150 SCOOTER",
-      "marca": "MOTUL",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3.25,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003577.png",
-      "imagen_size": 45949,
       "activo": true
     },
     {
@@ -28119,27 +28077,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190265.png",
       "imagen_size": 61965,
-      "activo": true
-    },
-    {
-      "sku": "741540189514",
-      "nombre": "KIT VALVULA XTZ150-FZ2.0",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16,
-        "taller": 11.75,
-        "distribuidor": 10.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189514.png",
-      "imagen_size": 43899,
       "activo": true
     },
     {
@@ -32039,8 +31976,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40208,7 +40145,7 @@
         "taller": 9.25,
         "distribuidor": 8
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41846,7 +41783,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42056,7 +41993,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43452,27 +43389,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -43486,6 +43402,27 @@
       },
       "stock": 4,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
