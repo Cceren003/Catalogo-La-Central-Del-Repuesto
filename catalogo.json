@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T14:49:18.337Z",
-  "count": 5735,
+  "generated_at": "2026-06-27T18:11:21.523Z",
+  "count": 5736,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 73,
+      "stock": 72,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,7 +3983,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 48,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8330,7 +8330,7 @@
         "taller": 15,
         "distribuidor": 13
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12078,6 +12078,27 @@
       "activo": true
     },
     {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "CDI016",
       "nombre": "CDI",
       "marca": "NRP",
@@ -12132,27 +12153,6 @@
         "distribuidor": 0
       },
       "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14094,27 +14094,6 @@
       "activo": true
     },
     {
-      "sku": "741540190047",
-      "nombre": "CILINDRO COMPLETO SERPENTO TORNADO 250 PIN13",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 111,
-        "taller": 85,
-        "distribuidor": 74
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190047.png",
-      "imagen_size": 86851,
-      "activo": true
-    },
-    {
       "sku": "741540139001",
       "nombre": "CILINDRO COMPLETO SG200GY-2 NAGA200 (63.5MM) 196CC VARILLA PIN 15 VINI(FL)",
       "marca": "VINI",
@@ -14133,27 +14112,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540139001.png",
       "imagen_size": 96827,
-      "activo": true
-    },
-    {
-      "sku": "741540139002",
-      "nombre": "CILINDRO COMPLETO VARILLA PIN 15 SANLG SL150-(9) VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 66.75,
-        "taller": 39,
-        "distribuidor": 33.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540139002.png",
-      "imagen_size": 74852,
       "activo": true
     },
     {
@@ -25161,27 +25119,6 @@
       "activo": true
     },
     {
-      "sku": "741540100816",
-      "nombre": "KIT EMPAQUE DSF-DSR-RTX-SPITZER-KEEWAY-CG-TRAXX (200) / CR2 / AKT TT200 VINI(FL) BALANCIADO",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16.25,
-        "taller": 8.5,
-        "distribuidor": 7.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100816.png",
-      "imagen_size": 91192,
-      "activo": true
-    },
-    {
       "sku": "741540188373",
       "nombre": "KIT EMPAQUE DTK175 VINI(FL)",
       "marca": "VINI",
@@ -28332,6 +28269,27 @@
       "activo": true
     },
     {
+      "sku": "LA1C-3401-22",
+      "nombre": "LLANTA AXUS 100-90-10 NAVI AX2238 6PR TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 33.5,
+        "taller": 20,
+        "distribuidor": 18
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "LA1A-1201-22",
       "nombre": "LLANTA AXUS 100-90-18 LISA AX827 6PR TL TUBULAR",
       "marca": "AXUS",
@@ -28455,6 +28413,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3701-22.png",
       "imagen_size": 96196,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0601-22",
+      "nombre": "LLANTA AXUS 110-90-18 LISA AX4453 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 47.75,
+        "taller": 36,
+        "distribuidor": 34
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0601-22.png",
+      "imagen_size": 85045,
       "activo": true
     },
     {
@@ -28602,6 +28581,48 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3602-22.png",
       "imagen_size": 92899,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0701-22",
+      "nombre": "LLANTA AXUS 90-90-17 LISA AX4418 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 40,
+        "taller": 30,
+        "distribuidor": 28
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0701-22.png",
+      "imagen_size": 83896,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0702-22",
+      "nombre": "LLANTA AXUS 90-90-18 LISA AX4418 DESPORTIVAS",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 42,
+        "taller": 30,
+        "distribuidor": 28
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0702-22.png",
+      "imagen_size": 85845,
       "activo": true
     },
     {
@@ -32039,7 +32060,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32333,7 +32354,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
