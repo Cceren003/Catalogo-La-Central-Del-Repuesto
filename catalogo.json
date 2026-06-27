@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T18:11:21.523Z",
-  "count": 5736,
+  "generated_at": "2026-06-27T22:10:09.100Z",
+  "count": 5735,
   "productos": [
     {
       "sku": "LM120106",
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 152,
+      "stock": 151,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,7 +3983,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 47,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4067,7 +4067,7 @@
         "taller": 9.5,
         "distribuidor": 9
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6461,7 +6461,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 126,
+      "stock": 125,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7028,7 +7028,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9233,7 +9233,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9282,27 +9282,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100314.png",
       "imagen_size": 69144,
-      "activo": true
-    },
-    {
-      "sku": "741540188247",
-      "nombre": "CARBURADOR SMX200-CG200-CG300-PZ30",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33.25,
-        "taller": 20,
-        "distribuidor": 18
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188247.png",
-      "imagen_size": 78151,
       "activo": true
     },
     {
@@ -12908,7 +12887,7 @@
         "taller": 23,
         "distribuidor": 20
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17108,7 +17087,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20363,7 +20342,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 32,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22820,7 +22799,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 32,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23933,7 +23912,7 @@
         "taller": 75,
         "distribuidor": 63.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28700,7 +28679,7 @@
         "taller": 33.5,
         "distribuidor": 31.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34685,7 +34664,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34706,7 +34685,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38759,7 +38738,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38906,7 +38885,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39536,8 +39515,8 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -41657,7 +41636,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41951,8 +41930,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -43410,27 +43389,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -43444,6 +43402,27 @@
       },
       "stock": 7,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
