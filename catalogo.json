@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T22:08:13.603Z",
-  "count": 5735,
+  "generated_at": "2026-06-29T16:40:58.113Z",
+  "count": 5728,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 72,
+      "stock": 71,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -896,7 +896,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -917,7 +917,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -980,7 +980,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 26,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1085,7 +1085,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 11,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1736,8 +1736,8 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2429,7 +2429,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2554,27 +2554,6 @@
         "publico": 32,
         "taller": 22,
         "distribuidor": 20.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "20719",
-      "nombre": "BATERIA MEGAFORCE YTX5L-BS",
-      "marca": "MEGAFORCE",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26,
-        "taller": 18,
-        "distribuidor": 16
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -2765,8 +2744,8 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3773,7 +3752,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 58,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +3983,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 20,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4025,7 +4004,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 45,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4403,7 +4382,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5022,27 +5001,6 @@
       "activo": true
     },
     {
-      "sku": "THC035",
-      "nombre": "CABLE ACELERADOR SZ150D / YBR125ED",
-      "marca": "NRP",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 7.25,
-        "distribuidor": 6.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540191020",
       "nombre": "CABLE ACELERADOR SZ150D VINI",
       "marca": "VINI",
@@ -5243,7 +5201,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5516,7 +5474,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6461,7 +6419,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 125,
+      "stock": 115,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6755,7 +6713,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,7 +7616,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 44,
+      "stock": 41,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7637,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 23,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8813,7 +8771,7 @@
         "taller": 1.75,
         "distribuidor": 1.35
       },
-      "stock": 20,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14199,27 +14157,6 @@
       "activo": true
     },
     {
-      "sku": "741540188075",
-      "nombre": "CILINDRO COMPLETO YBR125 56.5 MODIFICADO VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 108.75,
-        "taller": 81,
-        "distribuidor": 69.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188075.png",
-      "imagen_size": 103074,
-      "activo": true
-    },
-    {
       "sku": "741540125001",
       "nombre": "CLUTCH AUTOMATICO GY6 DELANTERO VINI(RC)",
       "marca": "VINI",
@@ -15155,7 +15092,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15239,7 +15176,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 48,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19208,7 +19145,7 @@
         "taller": 5.25,
         "distribuidor": 4.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19617,27 +19554,6 @@
       "activo": true
     },
     {
-      "sku": "AF073",
-      "nombre": "FILTRO AIRE XTZ 150",
-      "marca": "NRP",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11,
-        "taller": 8,
-        "distribuidor": 7
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/AF073.jpg",
-      "imagen_size": 8747,
-      "activo": true
-    },
-    {
       "sku": "1006373",
       "nombre": "FILTRO AIRE XTZ125",
       "marca": "MEK",
@@ -19964,8 +19880,8 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20237,8 +20153,8 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20342,7 +20258,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 31,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20363,7 +20279,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 54,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20517,27 +20433,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004021.png",
       "imagen_size": 35068,
-      "activo": true
-    },
-    {
-      "sku": "2000010",
-      "nombre": "GUARDAFANGO DELANTERO GN150",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 27,
-        "taller": 17,
-        "distribuidor": 14.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/2000010.png",
-      "imagen_size": 55259,
       "activo": true
     },
     {
@@ -22799,7 +22694,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 31,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26306,7 +26201,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26873,7 +26768,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 14,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28469,7 +28364,7 @@
         "taller": 37,
         "distribuidor": 33.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29256,27 +29151,6 @@
       "activo": true
     },
     {
-      "sku": "741540163204",
-      "nombre": "MANECILLA FRENO COMPLETA RH CGL125",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540163204.png",
-      "imagen_size": 73719,
-      "activo": true
-    },
-    {
       "sku": "741540188309",
       "nombre": "MANECILLA FRENO DISCO DAKAR 200 BOMBAS METALICAS MOTO CHINA VINI",
       "marca": "VINI",
@@ -29379,27 +29253,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540187985.png",
       "imagen_size": 37918,
-      "activo": true
-    },
-    {
-      "sku": "1000856",
-      "nombre": "MANECILLA FRENOS COMPLETA CGL125",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.75,
-        "distribuidor": 3.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000856.jpg",
-      "imagen_size": 76373,
       "activo": true
     },
     {
@@ -30905,7 +30758,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31283,7 +31136,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31367,7 +31220,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32249,7 +32102,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35147,7 +35000,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38738,7 +38591,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 14,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39263,7 +39116,7 @@
         "taller": 1,
         "distribuidor": 0.5
       },
-      "stock": 43,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40817,7 +40670,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41909,8 +41762,8 @@
         "taller": 6.25,
         "distribuidor": 5.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
