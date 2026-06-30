@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T15:37:38.011Z",
-  "count": 5730,
+  "generated_at": "2026-06-30T19:00:55.788Z",
+  "count": 5723,
   "productos": [
     {
       "sku": "LM120106",
@@ -98,7 +98,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 142,
+      "stock": 130,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2429,7 +2429,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2450,8 +2450,8 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2723,7 +2723,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2744,7 +2744,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3836,7 +3836,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 74,
+      "stock": 64,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,8 +3983,8 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 10,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5180,8 +5180,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5474,7 +5474,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6398,7 +6398,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 175,
+      "stock": 164,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7595,7 +7595,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 60,
+      "stock": 58,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7742,7 +7742,7 @@
         "taller": 14,
         "distribuidor": 12.5
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8645,7 +8645,7 @@
         "taller": 15,
         "distribuidor": 13
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8708,7 +8708,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 20,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8729,7 +8729,7 @@
         "taller": 1.75,
         "distribuidor": 1.5
       },
-      "stock": 14,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8750,7 +8750,7 @@
         "taller": 1.75,
         "distribuidor": 1.35
       },
-      "stock": 35,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9075,27 +9075,6 @@
       "activo": true
     },
     {
-      "sku": "741540190866",
-      "nombre": "CARBURADOR HOT PARTS CG250 (3MM) VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 45,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190866.png",
-      "imagen_size": 97553,
-      "activo": true
-    },
-    {
       "sku": "741540188511",
       "nombre": "CARBURADOR HUNK 150/CBF 150 VINI(FL)",
       "marca": "VINI",
@@ -9233,7 +9212,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 12,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12015,6 +11994,27 @@
       "activo": true
     },
     {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "CDI016",
       "nombre": "CDI",
       "marca": "NRP",
@@ -12069,27 +12069,6 @@
         "distribuidor": 0
       },
       "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12488,7 +12467,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14861,7 +14840,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19302,27 +19281,6 @@
       "activo": true
     },
     {
-      "sku": "741540100381",
-      "nombre": "FILTRO AIRE PULSAR 200NS",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 6.5,
-        "distribuidor": 6
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100381.png",
-      "imagen_size": 103880,
-      "activo": true
-    },
-    {
       "sku": "AF057",
       "nombre": "FILTRO AIRE RTX 150-200 / MOTO CHINA 150-200",
       "marca": "NRP",
@@ -19376,7 +19334,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22715,7 +22673,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 29,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26778,27 +26736,6 @@
       "activo": true
     },
     {
-      "sku": "1004626",
-      "nombre": "KIT SELLOS BARRA 35X48X11 TODOTERRENO CXT200",
-      "marca": "MEK",
-      "categoria": "DIRECCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004626.png",
-      "imagen_size": 36532,
-      "activo": true
-    },
-    {
       "sku": "1001443",
       "nombre": "KIT SELLOS BARRA INVERSA 37X50X11",
       "marca": "MEK",
@@ -28353,27 +28290,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-0601-22",
-      "nombre": "LLANTA AXUS 110-90-18 LISA AX4453 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 47.75,
-        "taller": 36,
-        "distribuidor": 34
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0601-22.png",
-      "imagen_size": 85045,
-      "activo": true
-    },
-    {
       "sku": "LA1C-3101-22",
       "nombre": "LLANTA AXUS 120-70-12 LISA AX044 58J",
       "marca": "AXUS",
@@ -29834,7 +29750,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30758,8 +30674,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30779,7 +30695,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 27,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30800,8 +30716,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30821,8 +30737,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30842,7 +30758,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30905,7 +30821,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31010,7 +30926,7 @@
         "taller": 5.75,
         "distribuidor": 5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32165,7 +32081,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32403,27 +32319,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188781.png",
       "imagen_size": 51126,
-      "activo": true
-    },
-    {
-      "sku": "1003041",
-      "nombre": "PATA ARRANQUE BROSS TODO TERRENO",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003041.png",
-      "imagen_size": 8805,
       "activo": true
     },
     {
@@ -35000,7 +34895,7 @@
         "taller": 24,
         "distribuidor": 20.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37625,7 +37520,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 49,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39977,7 +39872,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40733,8 +40628,8 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -42087,27 +41982,6 @@
       "activo": true
     },
     {
-      "sku": "1006049",
-      "nombre": "TABLERO GN125F FIRE125 FIRE 150ASPID 150 ANALOGO",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 39,
-        "taller": 28.75,
-        "distribuidor": 24.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006049.png",
-      "imagen_size": 36232,
-      "activo": true
-    },
-    {
       "sku": "2000012",
       "nombre": "TANQUE GN125/FR150 NEGRO",
       "marca": "MEK",
@@ -43305,27 +43179,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -43339,6 +43192,27 @@
       },
       "stock": 7,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -43632,27 +43506,6 @@
         "distribuidor": 4.75
       },
       "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RO-VISOR-511-TR",
-      "nombre": "VISOR HRO 511 CLEAR",
-      "marca": "VINI",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17,
-        "taller": 8.5,
-        "distribuidor": 7.5
-      },
-      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
