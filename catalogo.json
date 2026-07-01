@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T22:19:32.604Z",
-  "count": 5723,
+  "generated_at": "2026-07-01T15:48:37.333Z",
+  "count": 5722,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 69,
+      "stock": 62,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 124,
+      "stock": 122,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3836,7 +3836,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 74,
+      "stock": 64,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16278,27 +16278,6 @@
       "activo": true
     },
     {
-      "sku": "741540189646",
-      "nombre": "EJE LEVAS CB160F VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29,
-        "taller": 20,
-        "distribuidor": 17
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189646.png",
-      "imagen_size": 70640,
-      "activo": true
-    },
-    {
       "sku": "741540189645",
       "nombre": "EJE LEVAS CRUX110REV",
       "marca": "VINI",
@@ -18620,8 +18599,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -43179,27 +43158,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -43213,6 +43171,27 @@
       },
       "stock": 7,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
