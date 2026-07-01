@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T15:48:37.333Z",
-  "count": 5722,
+  "generated_at": "2026-07-01T19:03:01.891Z",
+  "count": 5717,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 62,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 8,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 9,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 122,
+      "stock": 103,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2345,7 +2345,7 @@
         "taller": 25,
         "distribuidor": 23
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2450,7 +2450,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3878,7 +3878,7 @@
         "taller": 1,
         "distribuidor": 0.5
       },
-      "stock": 70,
+      "stock": 60,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3899,8 +3899,8 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4004,7 +4004,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 33,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4046,7 +4046,7 @@
         "taller": 9.5,
         "distribuidor": 9
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4508,7 +4508,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4592,7 +4592,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4760,8 +4760,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5201,7 +5201,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7595,7 +7595,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 55,
+      "stock": 53,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8750,7 +8750,7 @@
         "taller": 1.75,
         "distribuidor": 1.35
       },
-      "stock": 29,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9191,7 +9191,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9233,7 +9233,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14210,7 +14210,7 @@
         "taller": 39.75,
         "distribuidor": 33.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14840,7 +14840,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15396,27 +15396,6 @@
       "activo": true
     },
     {
-      "sku": "741540190249",
-      "nombre": "DISCO FRENO CBF160F HORNET",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 39,
-        "taller": 31.25,
-        "distribuidor": 27
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190249.png",
-      "imagen_size": 100341,
-      "activo": true
-    },
-    {
       "sku": "741540190247",
       "nombre": "DISCO FRENO DEFENDER TRAS. VINI",
       "marca": "VINI",
@@ -15519,27 +15498,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190000.png",
       "imagen_size": 112052,
-      "activo": true
-    },
-    {
-      "sku": "1006119",
-      "nombre": "DISCO FRENO DELANTERO NAGA200 / DAYUN150-200 / SPITZER200",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22,
-        "taller": 15,
-        "distribuidor": 12.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -15708,27 +15666,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189103.png",
       "imagen_size": 149470,
-      "activo": true
-    },
-    {
-      "sku": "741540190254",
-      "nombre": "DISCO FRENO GSX150/GIXXER (2016-2019)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 40,
-        "taller": 34.5,
-        "distribuidor": 30
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190254.png",
-      "imagen_size": 117933,
       "activo": true
     },
     {
@@ -17115,27 +17052,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189351.png",
       "imagen_size": 41907,
-      "activo": true
-    },
-    {
-      "sku": "741540188601",
-      "nombre": "EJE VELOCIDAD CGL/FORZA150 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.5,
-        "taller": 8,
-        "distribuidor": 7
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188601.png",
-      "imagen_size": 72397,
       "activo": true
     },
     {
@@ -18599,7 +18515,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19775,7 +19691,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 27,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20237,7 +20153,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 46,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24668,7 +24584,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25389,27 +25305,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000214.jpg",
       "imagen_size": 90123,
-      "activo": true
-    },
-    {
-      "sku": "741540189757",
-      "nombre": "KIT HERRAMIENTA LLAVES 6PCS",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 19,
-        "taller": 18,
-        "distribuidor": 15.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189757.png",
-      "imagen_size": 100585,
       "activo": true
     },
     {
@@ -28616,7 +28511,7 @@
         "taller": 26,
         "distribuidor": 23
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30653,7 +30548,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 27,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31073,7 +30968,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31115,7 +31010,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 15,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31178,7 +31073,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 61,
+      "stock": 59,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31262,7 +31157,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31325,7 +31220,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32858,7 +32753,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34895,7 +34790,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43158,27 +43053,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -43192,6 +43066,27 @@
       },
       "stock": 4,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
