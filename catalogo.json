@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T22:23:38.460Z",
-  "count": 5713,
+  "generated_at": "2026-07-02T15:23:47.008Z",
+  "count": 5711,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 55,
+      "stock": 54,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2607,7 +2607,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2628,7 +2628,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -7595,7 +7595,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 53,
+      "stock": 50,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10178,8 +10178,8 @@
         "taller": 10.25,
         "distribuidor": 9
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -10619,7 +10619,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11333,7 +11333,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20111,7 +20111,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 52,
+      "stock": 51,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20132,7 +20132,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 36,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21525,27 +21525,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189772.png",
       "imagen_size": 81285,
-      "activo": true
-    },
-    {
-      "sku": "741540189811",
-      "nombre": "HERRAMIENTA VINI AJUSTE TUERCA",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.5,
-        "taller": 5,
-        "distribuidor": 3.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -30786,27 +30765,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003616.png",
       "imagen_size": 39182,
-      "activo": true
-    },
-    {
-      "sku": "1005525",
-      "nombre": "PAR TOLVAS LATERALES   Z CR1 CR1S",
-      "marca": "MEK",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30,
-        "taller": 24,
-        "distribuidor": 20
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005525.png",
-      "imagen_size": 25340,
       "activo": true
     },
     {
@@ -41170,7 +41128,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 20.75,
+        "publico": 25,
         "taller": 16.5,
         "distribuidor": 14.75
       },
