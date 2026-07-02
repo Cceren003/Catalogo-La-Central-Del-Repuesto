@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T15:23:47.008Z",
-  "count": 5711,
+  "generated_at": "2026-07-02T18:40:52.894Z",
+  "count": 5708,
   "productos": [
     {
       "sku": "LM120106",
@@ -2198,7 +2198,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,7 +2387,7 @@
         "taller": 14.9,
         "distribuidor": 13.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,7 +2408,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3101,7 +3101,7 @@
         "taller": 12,
         "distribuidor": 10.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10566,27 +10566,6 @@
       "activo": true
     },
     {
-      "sku": "RS064",
-      "nombre": "CATARINA 43T MOTO CHINA 125-150-200",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS064.jpg",
-      "imagen_size": 9660,
-      "activo": true
-    },
-    {
       "sku": "RS028",
       "nombre": "CATARINA 43T MOTO CHINA CON CENTRO DE GN125",
       "marca": "NRP",
@@ -11151,27 +11130,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS095.jpg",
       "imagen_size": 9868,
-      "activo": true
-    },
-    {
-      "sku": "RS099",
-      "nombre": "CATARINA 47T CB 160F HORNET",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14.5,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS099.jpg",
-      "imagen_size": 9731,
       "activo": true
     },
     {
@@ -13051,7 +13009,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 103.75,
+        "publico": 115,
         "taller": 80,
         "distribuidor": 73
       },
@@ -18200,7 +18158,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22925,7 +22883,7 @@
         "taller": 19,
         "distribuidor": 16.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27944,34 +27902,13 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-1201-22",
-      "nombre": "LLANTA AXUS 100-90-18 LISA AX827 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 42.25,
-        "taller": 32,
-        "distribuidor": 29
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-1201-22.png",
-      "imagen_size": 107873,
       "activo": true
     },
     {
@@ -28238,7 +28175,7 @@
         "taller": 30,
         "distribuidor": 28
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28259,7 +28196,7 @@
         "taller": 30,
         "distribuidor": 28
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28280,7 +28217,7 @@
         "taller": 31,
         "distribuidor": 29
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28364,7 +28301,7 @@
         "taller": 36,
         "distribuidor": 33.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28385,7 +28322,7 @@
         "taller": 39.5,
         "distribuidor": 37.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29246,7 +29183,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29330,7 +29267,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31661,7 +31598,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33236,8 +33173,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34244,8 +34181,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -41132,7 +41069,7 @@
         "taller": 16.5,
         "distribuidor": 14.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42371,7 +42308,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
