@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T22:11:06.882Z",
-  "count": 5703,
+  "generated_at": "2026-07-04T14:42:47.088Z",
+  "count": 5701,
   "productos": [
     {
       "sku": "LM120106",
@@ -3647,7 +3647,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14178,27 +14178,6 @@
       "activo": true
     },
     {
-      "sku": "741540191170",
-      "nombre": "CLUTCH COMPLETO XBLADE 160 CBF160",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 65.75,
-        "taller": 54,
-        "distribuidor": 46.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540191170.jpg",
-      "imagen_size": 13142,
-      "activo": true
-    },
-    {
       "sku": "741540190267",
       "nombre": "CLUTCH COMPLETO XR190L 69T",
       "marca": "VINI",
@@ -24510,27 +24489,6 @@
       "activo": true
     },
     {
-      "sku": "RM004000048",
-      "nombre": "KIT EMPAQUE COMPLETO CB 160 UNICORN-HORNET / XBLADE 160",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 8,
-        "distribuidor": 6.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RM004000004",
       "nombre": "KIT EMPAQUE COMPLETO DIO 110 / NAVI 110",
       "marca": "NRP",
@@ -30758,7 +30716,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42759,27 +42717,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42793,6 +42730,27 @@
       },
       "stock": 4,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
