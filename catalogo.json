@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T14:49:24.978Z",
+  "generated_at": "2026-07-05T18:10:39.678Z",
   "count": 5698,
   "productos": [
     {
@@ -11889,6 +11889,27 @@
       "activo": true
     },
     {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "CDI016",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11943,27 +11964,6 @@
         "distribuidor": 0
       },
       "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
