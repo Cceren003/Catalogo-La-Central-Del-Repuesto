@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T19:01:42.633Z",
-  "count": 5694,
+  "generated_at": "2026-07-06T22:20:45.862Z",
+  "count": 5703,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 48,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 52,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2744,8 +2744,8 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 13,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2835,27 +2835,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540100117",
-      "nombre": "BOBINA ALTA GY6 125 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.75,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100117.png",
-      "imagen_size": 50125,
       "activo": true
     },
     {
@@ -3962,7 +3941,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 45,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5180,8 +5159,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5432,7 +5411,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5453,7 +5432,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5474,8 +5453,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5537,7 +5516,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5579,7 +5558,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5768,7 +5747,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5915,8 +5894,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6398,7 +6377,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 159,
+      "stock": 184,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6965,7 +6944,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7521,6 +7500,27 @@
       "activo": true
     },
     {
+      "sku": "741540189119",
+      "nombre": "CADENA TIEMPO YARA-FXR200 (51L PASO 3X2)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 15,
+        "taller": 10,
+        "distribuidor": 8.5
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189119.png",
+      "imagen_size": 65260,
+      "activo": true
+    },
+    {
       "sku": "741540100508",
       "nombre": "CADENA TIEMPO YBR125 VINI (FL)",
       "marca": "VINI",
@@ -7595,7 +7595,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 44,
+      "stock": 63,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7616,7 +7616,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 7,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7679,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7742,7 +7742,7 @@
         "taller": 14,
         "distribuidor": 12.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9191,7 +9191,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 7,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11498,10 +11498,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 0,
-        "taller": 0,
+        "taller": 12,
         "distribuidor": 0
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11889,48 +11889,6 @@
       "activo": true
     },
     {
-      "sku": "CDI014",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI007",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI025",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11964,6 +11922,48 @@
         "distribuidor": 0
       },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI014",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI007",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13128,6 +13128,27 @@
       "activo": true
     },
     {
+      "sku": "741540189060",
+      "nombre": "CILINDRO COMPLETO AK150-TTR150-FORZA150-CG150 VARILLA PIN13 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 81.75,
+        "taller": 55,
+        "distribuidor": 46.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189060.png",
+      "imagen_size": 101597,
+      "activo": true
+    },
+    {
       "sku": "741540189058",
       "nombre": "CILINDRO COMPLETO AK200SM-SPITZER VARILLA PIN 15 200CC VINI(FL)",
       "marca": "VINI",
@@ -13842,6 +13863,27 @@
       "activo": true
     },
     {
+      "sku": "741540190047",
+      "nombre": "CILINDRO COMPLETO SERPENTO TORNADO 250 PIN13",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 111,
+        "taller": 85,
+        "distribuidor": 74
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190047.png",
+      "imagen_size": 86851,
+      "activo": true
+    },
+    {
       "sku": "741540139001",
       "nombre": "CILINDRO COMPLETO SG200GY-2 NAGA200 (63.5MM) 196CC VARILLA PIN 15 VINI(FL)",
       "marca": "VINI",
@@ -13860,6 +13902,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540139001.png",
       "imagen_size": 96827,
+      "activo": true
+    },
+    {
+      "sku": "741540139002",
+      "nombre": "CILINDRO COMPLETO VARILLA PIN 15 SANLG SL150-(9) VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 66.75,
+        "taller": 39,
+        "distribuidor": 33.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540139002.png",
+      "imagen_size": 74852,
       "activo": true
     },
     {
@@ -13965,6 +14028,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100317.png",
       "imagen_size": 77365,
+      "activo": true
+    },
+    {
+      "sku": "741540188075",
+      "nombre": "CILINDRO COMPLETO YBR125 56.5 MODIFICADO VINI",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 108.75,
+        "taller": 81,
+        "distribuidor": 69.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188075.png",
+      "imagen_size": 103074,
       "activo": true
     },
     {
@@ -14987,7 +15071,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 45,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15953,7 +16037,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15974,7 +16058,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18200,7 +18284,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19796,7 +19880,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19859,7 +19943,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19901,7 +19985,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 51,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21171,6 +21255,27 @@
       "activo": true
     },
     {
+      "sku": "741540189788",
+      "nombre": "HERRAMIENTA EXTRACTOR YBR-XTZ-VZ12027",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 23,
+        "taller": 18,
+        "distribuidor": 15.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189788.png",
+      "imagen_size": 68886,
+      "activo": true
+    },
+    {
       "sku": "741540189809",
       "nombre": "HERRAMIENTA INSTALADOR CUNAS DE VALVULAS",
       "marca": "VINI",
@@ -21735,6 +21840,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189804.png",
       "imagen_size": 41469,
+      "activo": true
+    },
+    {
+      "sku": "741540189813",
+      "nombre": "HERRAMIENTA VINI LLAVE COMBINADA VT120001",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5.5,
+        "taller": 5,
+        "distribuidor": 4.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189813.png",
+      "imagen_size": 36629,
       "activo": true
     },
     {
@@ -24573,6 +24699,27 @@
       "activo": true
     },
     {
+      "sku": "741540100816",
+      "nombre": "KIT EMPAQUE DSF-DSR-RTX-SPITZER-KEEWAY-CG-TRAXX (200) / CR2 / AKT TT200 VINI(FL) BALANCIADO",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 16.25,
+        "taller": 8.5,
+        "distribuidor": 7.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100816.png",
+      "imagen_size": 91192,
+      "activo": true
+    },
+    {
       "sku": "741540188373",
       "nombre": "KIT EMPAQUE DTK175 VINI(FL)",
       "marca": "VINI",
@@ -26075,8 +26222,8 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28164,6 +28311,27 @@
       "activo": true
     },
     {
+      "sku": "741540189935",
+      "nombre": "LLANTA VINI 90-90-17 VT1004 P918 LISA DEPORTIVA",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 39.75,
+        "taller": 30,
+        "distribuidor": 27
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189935.png",
+      "imagen_size": 65414,
+      "activo": true
+    },
+    {
       "sku": "741540190531",
       "nombre": "LLANTA VINI 90-90-18 DOBLE PROPOSITO",
       "marca": "VINI",
@@ -28182,6 +28350,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540189934",
+      "nombre": "LLANTA VINI 90-90-18 VT1004 LISA DEPORTIVA",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 32,
+        "taller": 30,
+        "distribuidor": 27
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189934.png",
+      "imagen_size": 70540,
       "activo": true
     },
     {
@@ -28868,7 +29057,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29120,7 +29309,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30548,7 +30737,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30611,7 +30800,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30632,8 +30821,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 16,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30674,7 +30863,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 58,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30695,7 +30884,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31220,8 +31409,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31367,7 +31556,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32270,8 +32459,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32312,7 +32501,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34391,7 +34580,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 11,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34412,7 +34601,7 @@
         "taller": 19.75,
         "distribuidor": 17
       },
-      "stock": 11,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34524,27 +34713,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189685.png",
       "imagen_size": 145483,
-      "activo": true
-    },
-    {
-      "sku": "741540190147",
-      "nombre": "PLANTA FXR200 / KATANA R1",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 38.5,
-        "taller": 29.25,
-        "distribuidor": 25.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190147.png",
-      "imagen_size": 164552,
       "activo": true
     },
     {
@@ -34706,7 +34874,7 @@
         "taller": 24,
         "distribuidor": 20.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35714,7 +35882,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 21,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36008,7 +36176,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 25,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36848,7 +37016,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 3,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37814,8 +37982,8 @@
         "taller": 3,
         "distribuidor": 2
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -38454,6 +38622,27 @@
       "activo": true
     },
     {
+      "sku": "741540188794",
+      "nombre": "SEGURO CADENA 520H VINI",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 1.5,
+        "taller": 1,
+        "distribuidor": 0.75
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188794.jpg",
+      "imagen_size": 8699,
+      "activo": true
+    },
+    {
       "sku": "1001645",
       "nombre": "SEGURO CATARINA",
       "marca": "MEK",
@@ -38738,8 +38927,8 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40061,7 +40250,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
