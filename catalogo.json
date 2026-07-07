@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T19:07:41.813Z",
-  "count": 5733,
+  "generated_at": "2026-07-07T22:17:31.985Z",
+  "count": 5725,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 28,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 93,
+      "stock": 57,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -791,8 +791,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 11,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1253,8 +1253,8 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 15,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1337,7 +1337,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 15,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1830,27 +1830,6 @@
       "activo": true
     },
     {
-      "sku": "1005705",
-      "nombre": "BALERO MEK PRO 6004 2RS",
-      "marca": "MEK",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 10,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005705.png",
-      "imagen_size": 27436,
-      "activo": true
-    },
-    {
       "sku": "1005707",
       "nombre": "BALERO MEK PRO 6202 2RS / NAGA200",
       "marca": "MEK",
@@ -1862,8 +1841,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 11,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3689,7 +3668,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4424,7 +4403,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5789,7 +5768,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7700,7 +7679,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 62,
+      "stock": 61,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10955,7 +10934,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12078,6 +12057,27 @@
       "activo": true
     },
     {
+      "sku": "CDI014",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "CDI007",
       "nombre": "CDI",
       "marca": "NRP",
@@ -12132,27 +12132,6 @@
         "distribuidor": 0
       },
       "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI014",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15585,27 +15564,6 @@
       "activo": true
     },
     {
-      "sku": "741540190709",
-      "nombre": "DISCO FRENO DELANT. XPULSE200-HUNK160-HORNET160",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 34.25,
-        "taller": 28,
-        "distribuidor": 23.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190709.png",
-      "imagen_size": 71061,
-      "activo": true
-    },
-    {
       "sku": "1006118",
       "nombre": "DISCO FRENO DELANTERO   NAGA200 2018",
       "marca": "MEK",
@@ -18137,7 +18095,7 @@
         "taller": 14,
         "distribuidor": 12.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18893,7 +18851,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19145,7 +19103,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19292,7 +19250,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20363,7 +20321,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 41,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20468,7 +20426,7 @@
         "taller": 0.3,
         "distribuidor": 0.2
       },
-      "stock": 98,
+      "stock": 97,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21161,8 +21119,8 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -23618,7 +23576,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25897,7 +25855,7 @@
     },
     {
       "sku": "741540100821",
-      "nombre": "KIT MEDIO CGL125 VINI(RC)",
+      "nombre": "KIT MEDIO CGL125-FIERE125 VINI(RC)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -25907,8 +25865,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28511,7 +28469,7 @@
         "taller": 32.5,
         "distribuidor": 30.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28560,27 +28518,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1C-3101-22.png",
       "imagen_size": 56592,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-1332-22",
-      "nombre": "LLANTA AXUS 120-80-17 LISA AX031 6PR TL PULSAR TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 47,
-        "taller": 33.5,
-        "distribuidor": 31.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-1332-22.png",
-      "imagen_size": 118021,
       "activo": true
     },
     {
@@ -28763,7 +28700,7 @@
         "taller": 30,
         "distribuidor": 28
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28826,7 +28763,7 @@
         "taller": 31,
         "distribuidor": 29
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29109,27 +29046,6 @@
       "activo": true
     },
     {
-      "sku": "1000536",
-      "nombre": "LLAVIN IGNICION CGL125 GY8 XL200 AKT200T",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 5,
-        "distribuidor": 4.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000536.jpg",
-      "imagen_size": 125217,
-      "activo": true
-    },
-    {
       "sku": "1005494",
       "nombre": "LLAVIN IGNICION CR1 CR1S / CR2",
       "marca": "MEK",
@@ -29193,27 +29109,6 @@
       "activo": true
     },
     {
-      "sku": "1000541",
-      "nombre": "LLAVIN IGNICION GN125 HJ125 NAGA200",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 6.5,
-        "distribuidor": 5.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000541.jpg",
-      "imagen_size": 122640,
-      "activo": true
-    },
-    {
       "sku": "1000539",
       "nombre": "LLAVIN IGNICION HONDA VMEN",
       "marca": "MEK",
@@ -29235,27 +29130,6 @@
       "activo": true
     },
     {
-      "sku": "1006136",
-      "nombre": "LLAVIN IGNICION NAGA200",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 7.5,
-        "distribuidor": 6.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006136.png",
-      "imagen_size": 29689,
-      "activo": true
-    },
-    {
       "sku": "1006042",
       "nombre": "LLAVIN IGNICION PULSAR 135",
       "marca": "MEK",
@@ -29274,27 +29148,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006042.png",
       "imagen_size": 27992,
-      "activo": true
-    },
-    {
-      "sku": "1000537",
-      "nombre": "LLAVIN IGNICION PULSAR180 YARA200 TODOTERRENO FT180",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 6.5,
-        "distribuidor": 5.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000537.jpg",
-      "imagen_size": 78559,
       "activo": true
     },
     {
@@ -29477,7 +29330,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 43,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29781,27 +29634,6 @@
       "activo": true
     },
     {
-      "sku": "1004818",
-      "nombre": "MANGUERA FRENOS CORTA TRASERA  UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4.5
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004818.png",
-      "imagen_size": 35155,
-      "activo": true
-    },
-    {
       "sku": "1004817",
       "nombre": "MANGUERA FRENOS FRONTAL TURISMO CR1 (92.5 CM LARGO)",
       "marca": "MEK",
@@ -29834,7 +29666,7 @@
         "taller": 19.5,
         "distribuidor": 17
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31325,7 +31157,7 @@
         "taller": 5.75,
         "distribuidor": 5
       },
-      "stock": 10,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31619,7 +31451,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 50,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32522,8 +32354,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33656,7 +33488,7 @@
         "taller": 8.75,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33761,7 +33593,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34055,7 +33887,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35861,7 +35693,7 @@
         "taller": 28,
         "distribuidor": 24
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36974,7 +36806,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37184,7 +37016,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39788,7 +39620,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43704,27 +43536,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -43738,6 +43549,27 @@
       },
       "stock": 4,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
