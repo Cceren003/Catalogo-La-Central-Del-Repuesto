@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T15:46:29.037Z",
-  "count": 5715,
+  "generated_at": "2026-07-07T19:07:41.813Z",
+  "count": 5733,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 34,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 45,
+      "stock": 93,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1232,7 +1232,7 @@
         "taller": 4,
         "distribuidor": 3.25
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1830,6 +1830,27 @@
       "activo": true
     },
     {
+      "sku": "1005705",
+      "nombre": "BALERO MEK PRO 6004 2RS",
+      "marca": "MEK",
+      "categoria": "BALEROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005705.png",
+      "imagen_size": 27436,
+      "activo": true
+    },
+    {
       "sku": "1005707",
       "nombre": "BALERO MEK PRO 6202 2RS / NAGA200",
       "marca": "MEK",
@@ -1841,8 +1862,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 11,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2597,7 +2618,7 @@
         "taller": 18,
         "distribuidor": 15.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2681,7 +2702,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2744,7 +2765,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 13,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2835,6 +2856,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540100117",
+      "nombre": "BOBINA ALTA GY6 125 VINI (FL)",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8.75,
+        "taller": 6,
+        "distribuidor": 5.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100117.png",
+      "imagen_size": 50125,
       "activo": true
     },
     {
@@ -3594,6 +3636,27 @@
       "activo": true
     },
     {
+      "sku": "741540188670",
+      "nombre": "BOMBA FRENO DEL UNIVERSAL TB-110 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 18,
+        "taller": 13,
+        "distribuidor": 11.25
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188670.png",
+      "imagen_size": 74296,
+      "activo": true
+    },
+    {
       "sku": "741540190693",
       "nombre": "BOMBA FRENO DELANTERA GIXXER 150 VINI",
       "marca": "VINI",
@@ -3626,8 +3689,8 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3899,8 +3962,8 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6692,8 +6755,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -8361,6 +8424,27 @@
       "activo": true
     },
     {
+      "sku": "1000005",
+      "nombre": "CALIPER DELANTERO YBR125ED",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 20,
+        "taller": 15,
+        "distribuidor": 13
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000005.jpg",
+      "imagen_size": 304637,
+      "activo": true
+    },
+    {
       "sku": "1005201",
       "nombre": "CALIPER DELANTERO YBR125G",
       "marca": "MEK",
@@ -8466,6 +8550,27 @@
       "activo": true
     },
     {
+      "sku": "741540190526",
+      "nombre": "CALIPER FRENO DELANTERO CB150",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 33.25,
+        "taller": 23,
+        "distribuidor": 19.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190526.png",
+      "imagen_size": 127526,
+      "activo": true
+    },
+    {
       "sku": "741540190571",
       "nombre": "CALIPER FRENO DELANTERO CR150/CG125/R2-250",
       "marca": "VINI",
@@ -8540,7 +8645,7 @@
         "taller": 24.75,
         "distribuidor": 21.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9054,27 +9159,6 @@
       "activo": true
     },
     {
-      "sku": "1003575",
-      "nombre": "CARBURADOR GY6 125SCOOTER",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 44,
-        "taller": 28,
-        "distribuidor": 23.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003575.jpg",
-      "imagen_size": 356637,
-      "activo": true
-    },
-    {
       "sku": "741540188633",
       "nombre": "CARBURADOR HERO HF DAWN VINI(FL)",
       "marca": "VINI",
@@ -9159,6 +9243,27 @@
       "activo": true
     },
     {
+      "sku": "741540188136",
+      "nombre": "CARBURADOR PULSAR 180 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 60.25,
+        "taller": 45,
+        "distribuidor": 38.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188136.png",
+      "imagen_size": 87973,
+      "activo": true
+    },
+    {
       "sku": "1003573",
       "nombre": "CARBURADOR PZ26 CG125",
       "marca": "MEK",
@@ -9191,7 +9296,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 10,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9254,7 +9359,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11385,6 +11490,27 @@
       "activo": true
     },
     {
+      "sku": "1000382",
+      "nombre": "CATARINA 520H 42T XM200Z / KMF200",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 8.5,
+        "distribuidor": 7.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000382.jpg",
+      "imagen_size": 202360,
+      "activo": true
+    },
+    {
       "sku": "1004369",
       "nombre": "CATARINA 520H 45T CG-DM150-SX4",
       "marca": "MEK",
@@ -11403,6 +11529,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004369.jpg",
       "imagen_size": 88624,
+      "activo": true
+    },
+    {
+      "sku": "1001640",
+      "nombre": "CATARINA 520H-38T",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 8,
+        "distribuidor": 6.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001640.png",
+      "imagen_size": 17640,
       "activo": true
     },
     {
@@ -11931,6 +12078,27 @@
       "activo": true
     },
     {
+      "sku": "CDI007",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "CDI025",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11974,27 +12142,6 @@
     },
     {
       "sku": "CDI014",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI007",
       "nombre": "CDI",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -12110,7 +12257,7 @@
         "taller": 19,
         "distribuidor": 16.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12446,7 +12593,7 @@
         "taller": 23,
         "distribuidor": 19.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13569,6 +13716,27 @@
       "activo": true
     },
     {
+      "sku": "741540189322",
+      "nombre": "CILINDRO COMPLETO FALCON 250-CR4-UM XTREET 250-SPITZER 250 KARISMA 230 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 105,
+        "taller": 78,
+        "distribuidor": 66.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189322.png",
+      "imagen_size": 89180,
+      "activo": true
+    },
+    {
       "sku": "741540189423",
       "nombre": "CILINDRO COMPLETO FREEDON FIRE125 / CG125",
       "marca": "VINI",
@@ -14259,6 +14427,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190267.png",
       "imagen_size": 154379,
+      "activo": true
+    },
+    {
+      "sku": "1003567",
+      "nombre": "CLUTCH DELANTERO GY6 (125-150) SCOOTER",
+      "marca": "MEK",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 25,
+        "taller": 17,
+        "distribuidor": 14.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003567.png",
+      "imagen_size": 41724,
       "activo": true
     },
     {
@@ -15113,7 +15302,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 43,
+      "stock": 41,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15354,6 +15543,27 @@
       "activo": true
     },
     {
+      "sku": "741540189215",
+      "nombre": "DISCO FRENO AK TTR200 FXR150 TRASERO VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 27.25,
+        "taller": 22,
+        "distribuidor": 18.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189215.png",
+      "imagen_size": 111006,
+      "activo": true
+    },
+    {
       "sku": "741540190247",
       "nombre": "DISCO FRENO DEFENDER TRAS. VINI",
       "marca": "VINI",
@@ -15417,6 +15627,27 @@
       "activo": true
     },
     {
+      "sku": "1006071",
+      "nombre": "DISCO FRENO DELANTERO   YARA200",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22,
+        "taller": 15,
+        "distribuidor": 12.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006071.png",
+      "imagen_size": 30575,
+      "activo": true
+    },
+    {
       "sku": "2000029",
       "nombre": "DISCO FRENO DELANTERO CR1",
       "marca": "MEK",
@@ -15456,6 +15687,48 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190000.png",
       "imagen_size": 112052,
+      "activo": true
+    },
+    {
+      "sku": "1001158",
+      "nombre": "DISCO FRENO DELANTERO GN 125",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 24,
+        "taller": 15,
+        "distribuidor": 12.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001158.jpg",
+      "imagen_size": 158449,
+      "activo": true
+    },
+    {
+      "sku": "1006119",
+      "nombre": "DISCO FRENO DELANTERO NAGA200 / DAYUN150-200 / SPITZER200",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22,
+        "taller": 15,
+        "distribuidor": 12.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -15522,6 +15795,27 @@
       "activo": true
     },
     {
+      "sku": "2000039",
+      "nombre": "DISCO FRENO DELANTERO TVS RTR 160",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "BD012",
       "nombre": "DISCO FRENO DELANTERO XR 125-150-190L",
       "marca": "NRP",
@@ -15561,6 +15855,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1000354",
+      "nombre": "DISCO FRENO DELANTERO YBR125G",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22,
+        "taller": 15,
+        "distribuidor": 12.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000354.jpg",
+      "imagen_size": 16914,
       "activo": true
     },
     {
@@ -15750,6 +16065,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189214.png",
       "imagen_size": 114526,
+      "activo": true
+    },
+    {
+      "sku": "741540189218",
+      "nombre": "DISCO FRENO SMX 150 DELANTERO VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 35,
+        "taller": 28,
+        "distribuidor": 23.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189218.png",
+      "imagen_size": 121003,
       "activo": true
     },
     {
@@ -16065,27 +16401,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190928.png",
       "imagen_size": 35914,
-      "activo": true
-    },
-    {
-      "sku": "741540190597",
-      "nombre": "EJE DELANTERO HUNK160-APACHE160 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 4,
-        "distribuidor": 3.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190597.png",
-      "imagen_size": 42670,
       "activo": true
     },
     {
@@ -17118,27 +17433,6 @@
       "activo": true
     },
     {
-      "sku": "1005648",
-      "nombre": "EMPAQUE CULATA/CILINDRO MEK PRO CG200",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4.25,
-        "taller": 3.75,
-        "distribuidor": 3.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005648.jpg",
-      "imagen_size": 730546,
-      "activo": true
-    },
-    {
       "sku": "1005647",
       "nombre": "EMPAQUE CULATA/CILINDRO MEK PRO CG200 / CR2 63MM",
       "marca": "MEK",
@@ -17696,7 +17990,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17885,7 +18179,7 @@
         "taller": 12.5,
         "distribuidor": 10.6
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18158,7 +18452,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 2,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18242,7 +18536,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18956,7 +19250,7 @@
         "taller": 5.25,
         "distribuidor": 4.75
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19019,7 +19313,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19964,8 +20258,8 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20069,7 +20363,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 47,
+      "stock": 41,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20405,7 +20699,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20751,6 +21045,27 @@
       "activo": true
     },
     {
+      "sku": "741540189786",
+      "nombre": "HERRAMIENTA ANTENA TELESCOPICA",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3.5,
+        "taller": 3,
+        "distribuidor": 2.5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189786.png",
+      "imagen_size": 39393,
+      "activo": true
+    },
+    {
       "sku": "741540189807",
       "nombre": "HERRAMIENTA BROCA DE IMPACTO",
       "marca": "VINI",
@@ -20846,7 +21161,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21336,6 +21651,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189795.png",
       "imagen_size": 56996,
+      "activo": true
+    },
+    {
+      "sku": "741540189815",
+      "nombre": "HERRAMIENTA EXTRACTOR UNIVERSAL BROCA DE IMPACTO",
+      "marca": "MOTUL",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189815.png",
+      "imagen_size": 79878,
       "activo": true
     },
     {
@@ -22022,7 +22358,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22589,7 +22925,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 27,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22988,7 +23324,7 @@
         "taller": 20,
         "distribuidor": 17
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24185,8 +24521,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -24857,7 +25193,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24952,7 +25288,7 @@
     },
     {
       "sku": "741540189740",
-      "nombre": "KIT EMPAQUE INVICTA-HUNK 150-200 XR150 VINI (FL)",
+      "nombre": "KIT EMPAQUE INVICTA-HUNK 150-200 XR150-DAYUN150-29 VINI (FL)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -25109,7 +25445,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25582,7 +25918,7 @@
     },
     {
       "sku": "741540189312",
-      "nombre": "KIT MEDIO DK200 / DRACO250 VINI(RC)",
+      "nombre": "KIT MEDIO DK200-DRACO250-CG200 VINI(RC)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -28038,6 +28374,48 @@
       "activo": true
     },
     {
+      "sku": "LA1A-4101-22",
+      "nombre": "LLANTA AXUS 100-90-17 LISA AX6171",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-4101-22.png",
+      "imagen_size": 86440,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-1201-22",
+      "nombre": "LLANTA AXUS 100-90-18 LISA AX827 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 42.25,
+        "taller": 32,
+        "distribuidor": 29
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-1201-22.png",
+      "imagen_size": 107873,
+      "activo": true
+    },
+    {
       "sku": "LA1A-3501-22",
       "nombre": "LLANTA AXUS 110-70-17 LISA AX30F",
       "marca": "AXUS",
@@ -28133,13 +28511,34 @@
         "taller": 32.5,
         "distribuidor": 30.5
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3701-22.png",
       "imagen_size": 96196,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0601-22",
+      "nombre": "LLANTA AXUS 110-90-18 LISA AX4453 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 47.75,
+        "taller": 36,
+        "distribuidor": 34
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0601-22.png",
+      "imagen_size": 85045,
       "activo": true
     },
     {
@@ -28203,6 +28602,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-2813-22.png",
       "imagen_size": 110786,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3341-12",
+      "nombre": "LLANTA AXUS 130-70-17 LISA  AX298 4PR TL RADIAL",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 52,
+        "taller": 38,
+        "distribuidor": 36
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3341-12.png",
+      "imagen_size": 72575,
       "activo": true
     },
     {
@@ -28290,6 +28710,48 @@
       "activo": true
     },
     {
+      "sku": "LA1C-3501-22",
+      "nombre": "LLANTA AXUS 90-90-12 SCOOTER NAVI AX2281 6PR/TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29.75,
+        "taller": 22,
+        "distribuidor": 19.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3705-22",
+      "nombre": "LLANTA AXUS 90-90-17 DOBLE PROPOSITO AX9184",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 40.5,
+        "taller": 29,
+        "distribuidor": 26
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3705-22.png",
+      "imagen_size": 96217,
+      "activo": true
+    },
+    {
       "sku": "LA1A-0701-22",
       "nombre": "LLANTA AXUS 90-90-17 LISA AX4418 6PR TL TUBULAR",
       "marca": "AXUS",
@@ -28301,13 +28763,34 @@
         "taller": 30,
         "distribuidor": 28
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0701-22.png",
       "imagen_size": 83896,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-1323-22",
+      "nombre": "LLANTA AXUS 90-90-18 LISA AX031  6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 26,
+        "taller": 24,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-1323-22.png",
+      "imagen_size": 118028,
       "activo": true
     },
     {
@@ -28836,6 +29319,27 @@
       "activo": true
     },
     {
+      "sku": "741540100669",
+      "nombre": "LODERA DELANTERA GN125",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100669.png",
+      "imagen_size": 79613,
+      "activo": true
+    },
+    {
       "sku": "741540100682",
       "nombre": "LODERA TRASERA GN125 METAL",
       "marca": "VINI",
@@ -28889,7 +29393,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29435,8 +29939,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30569,7 +31073,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30590,7 +31094,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30611,7 +31115,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30632,8 +31136,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30653,7 +31157,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30674,7 +31178,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 7,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30695,8 +31199,8 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30716,7 +31220,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30758,7 +31262,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30849,6 +31353,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006095.png",
       "imagen_size": 21377,
+      "activo": true
+    },
+    {
+      "sku": "1004857",
+      "nombre": "PAR ESPEJOS RETROVISORES  TODOTERRENO GXT200",
+      "marca": "MEK",
+      "categoria": "ACCESORIOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4.5,
+        "taller": 4,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004857.png",
+      "imagen_size": 41131,
       "activo": true
     },
     {
@@ -31094,7 +31619,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 55,
+      "stock": 50,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31682,8 +32207,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32669,7 +33194,7 @@
         "taller": 8,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32879,7 +33404,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33509,7 +34034,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34811,7 +35336,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36491,7 +37016,7 @@
         "taller": 18,
         "distribuidor": 15.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36519,6 +37044,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189132.png",
       "imagen_size": 88897,
+      "activo": true
+    },
+    {
+      "sku": "741540100727",
+      "nombre": "RECTIFICADOR CORRIENTE YBR125",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100727.png",
+      "imagen_size": 70571,
       "activo": true
     },
     {
@@ -36638,7 +37184,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36701,7 +37247,7 @@
         "taller": 4.25,
         "distribuidor": 3.5
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37422,6 +37968,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189131.png",
       "imagen_size": 116689,
+      "activo": true
+    },
+    {
+      "sku": "741540190478",
+      "nombre": "RELOJ ASPIROMETRO FIRE 125 NEW",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 60.25,
+        "taller": 49,
+        "distribuidor": 41
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190478.png",
+      "imagen_size": 131845,
       "activo": true
     },
     {
@@ -38549,7 +39116,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 21,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40092,6 +40659,27 @@
       "activo": true
     },
     {
+      "sku": "741540100084",
+      "nombre": "SILVIN RF-434 (AX100) VINI",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100084.png",
+      "imagen_size": 78541,
+      "activo": true
+    },
+    {
       "sku": "741540189267",
       "nombre": "SISTEMA ELECTRICO NAGA 200",
       "marca": "VINI",
@@ -40239,6 +40827,27 @@
       "activo": true
     },
     {
+      "sku": "741540100328",
+      "nombre": "STOP COMPLETO NXR-150 VINI",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 16.5,
+        "taller": 12,
+        "distribuidor": 10.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100328.png",
+      "imagen_size": 173417,
+      "activo": true
+    },
+    {
       "sku": "1006628",
       "nombre": "STOP LED GN125",
       "marca": "MEK",
@@ -40278,6 +40887,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005519.jpg",
       "imagen_size": 123418,
+      "activo": true
+    },
+    {
+      "sku": "2000007",
+      "nombre": "STOP TRASERO GN125 MEK",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 20,
+        "taller": 15,
+        "distribuidor": 12.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/2000007.png",
+      "imagen_size": 41034,
       "activo": true
     },
     {
@@ -41279,7 +41909,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41601,6 +42231,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1005495",
+      "nombre": "SWITCH LUCES LH CR CR  GTX1- FREEDOM CR1",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 6,
+        "distribuidor": 5
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005495.jpg",
+      "imagen_size": 10760,
       "activo": true
     },
     {
@@ -42129,6 +42780,27 @@
       "activo": true
     },
     {
+      "sku": "1004454",
+      "nombre": "TAPON TANQUE GN125",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 4,
+        "distribuidor": 3.5
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004454.png",
+      "imagen_size": 23194,
+      "activo": true
+    },
+    {
       "sku": "741540191206",
       "nombre": "TAPON TANQUE PULSAR 125NS VINI",
       "marca": "VINI",
@@ -42168,6 +42840,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100761.png",
       "imagen_size": 63525,
+      "activo": true
+    },
+    {
+      "sku": "741540188054",
+      "nombre": "TAPON TANQUE STORM VINI(FL)",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 13,
+        "taller": 10,
+        "distribuidor": 8.5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188054.jpg",
+      "imagen_size": 9315,
       "activo": true
     },
     {
@@ -42476,7 +43169,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42539,7 +43232,7 @@
         "taller": 10.5,
         "distribuidor": 9.25
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43011,27 +43704,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -43053,24 +43725,24 @@
       "activo": true
     },
     {
-      "sku": "1001076",
-      "nombre": "VALVULA PASO GASOLINA  GY6150(SCOOTER)",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
-        "taller": 4,
-        "distribuidor": 3.25
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001076.jpg",
-      "imagen_size": 364709,
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -75308,28 +75980,6 @@
       "activo": true
     },
     {
-      "sku": "741540189815",
-      "nombre": "HERRA/ VINI CUBO TORRE DOBLE VZ12013",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189815.png",
-      "imagen_size": 79878,
-      "activo": true
-    },
-    {
       "sku": "741540190192",
       "nombre": "HERRA/ VINI EMBANQUE PARA MOTO UNIV.",
       "marca": "VINI",
@@ -86899,28 +87549,6 @@
       "fuente": "VINI",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540100669",
-      "nombre": "LODERA DELANTERA GN125 METAL VINI",
-      "marca": "VINI",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540100669.png",
-      "imagen_size": 79613,
       "activo": true
     },
     {
@@ -100146,28 +100774,6 @@
       "activo": true
     },
     {
-      "sku": "741540100084",
-      "nombre": "SILVIN RF-434 (AX100) VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540100084.png",
-      "imagen_size": 78541,
-      "activo": true
-    },
-    {
       "sku": "741540100160",
       "nombre": "SILVIN SANLG SL150-9 VINI",
       "marca": "VINI",
@@ -101287,28 +101893,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540189228.png",
       "imagen_size": 101600,
-      "activo": true
-    },
-    {
-      "sku": "741540100328",
-      "nombre": "STOP COMPLETO NXR-150 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540100328.png",
-      "imagen_size": 173417,
       "activo": true
     },
     {
@@ -108528,28 +109112,6 @@
       "activo": true
     },
     {
-      "sku": "2000039",
-      "nombre": "Disco freno delantero TVS RTR160",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "2000042",
       "nombre": "Pedal de arranque Serpento Defender200",
       "marca": "MEK",
@@ -110992,28 +111554,6 @@
       "activo": true
     },
     {
-      "sku": "1001640",
-      "nombre": "520H 428HΔ Traccion CATARINA 520H-38T",
-      "marca": "MEK",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1001640.png",
-      "imagen_size": 17640,
-      "activo": true
-    },
-    {
       "sku": "1004891",
       "nombre": "14T 428HΔ Traccion PIÑÓN ATAQUE 14T DISCOVER APACHE180 Actualización: 11-02-26 PRECIO STOCKCODIGOIMAGENANOTACIONESDESCRIPCIONGRUPO",
       "marca": "MEK",
@@ -111737,28 +112277,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1003274.png",
       "imagen_size": 13402,
-      "activo": true
-    },
-    {
-      "sku": "1005705",
-      "nombre": "MEK: 1003274 Balinera BALERO MEK PRO 6004 2RS",
-      "marca": "MEK",
-      "categoria": "REPUESTOS MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1005705.png",
-      "imagen_size": 27436,
       "activo": true
     },
     {
@@ -113145,50 +113663,6 @@
       "fuente": "MEK",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1006071",
-      "nombre": "DISCO FRENO DELANTERO YARA200",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1006071.png",
-      "imagen_size": 30575,
-      "activo": true
-    },
-    {
-      "sku": "1000354",
-      "nombre": "DISCO FRENO DELANTERO YBR125G",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1000354.jpg",
-      "imagen_size": 16914,
       "activo": true
     },
     {
@@ -115150,28 +115624,6 @@
       "activo": true
     },
     {
-      "sku": "1004857",
-      "nombre": "PAR ESPEJOS RETROVISORES TODOTERRENO GXT200",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1004857.png",
-      "imagen_size": 41131,
-      "activo": true
-    },
-    {
       "sku": "1003728",
       "nombre": "PAR ESPEJOS RETROVISORES TURISMO UNIVERSAL TODAS MOTOS",
       "marca": "MEK",
@@ -115961,28 +116413,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/2000013.png",
       "imagen_size": 29818,
-      "activo": true
-    },
-    {
-      "sku": "1004454",
-      "nombre": "TAPON TANQUE COMBUSTIBLE GN125 FIRE125 ZN150",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1004454.png",
-      "imagen_size": 23194,
       "activo": true
     },
     {
@@ -123180,28 +123610,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-4101-22",
-      "nombre": "LLANTA AXUS 100/90-17 LISA AX6171 61P TL REFORZADA",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-4101-22.png",
-      "imagen_size": 86440,
-      "activo": true
-    },
-    {
       "sku": "LA1A-3128-21",
       "nombre": "LLANTA AXUS 110/80-17 LISA AX6052 63P TT REFORZADA",
       "marca": "AXUS",
@@ -123290,28 +123698,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-3341-12",
-      "nombre": "LLANTA AXUS 130/70-17 LISA AX298 62P TL REFORZADA",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-3341-12.png",
-      "imagen_size": 72575,
-      "activo": true
-    },
-    {
       "sku": "LA1A-1105-22",
       "nombre": "LLANTA AXUS 275-17 LISA AX1156 47P TL REFORZADA",
       "marca": "AXUS",
@@ -123375,28 +123761,6 @@
       "fuente": "AXUS",
       "imagen": "imagenes/LA1B-1139-21.png",
       "imagen_size": 64210,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-1323-22",
-      "nombre": "LLANTA AXUS 90/90-18 LISA AX031 57P TL REFORZADA",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-1323-22.png",
-      "imagen_size": 118028,
       "activo": true
     },
     {
