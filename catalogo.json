@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T15:28:09.512Z",
-  "count": 5726,
+  "generated_at": "2026-07-08T18:23:48.007Z",
+  "count": 5723,
   "productos": [
     {
       "sku": "LM120106",
@@ -896,8 +896,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1736,7 +1736,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 5,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3731,7 +3731,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9275,7 +9275,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16068,27 +16068,6 @@
       "activo": true
     },
     {
-      "sku": "741540190857",
-      "nombre": "DISCO FRENO TRASERO FZ2.0-3.0",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 25,
-        "taller": 22,
-        "distribuidor": 18.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190857.png",
-      "imagen_size": 95184,
-      "activo": true
-    },
-    {
       "sku": "2000032",
       "nombre": "DISCO FRENO TRASERO HUNK160",
       "marca": "MEK",
@@ -19838,7 +19817,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 72,
+      "stock": 70,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23723,7 +23702,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24048,27 +24027,6 @@
       "activo": true
     },
     {
-      "sku": "1002363",
-      "nombre": "KIT CILINDRO COMPLETO VARILLA PIN13 CG150-FIRE150",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 50,
-        "taller": 34,
-        "distribuidor": 29.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002363.png",
-      "imagen_size": 30941,
-      "activo": true
-    },
-    {
       "sku": "CK015",
       "nombre": "KIT CILINDRO COMPLETO XTZ 150 SZ",
       "marca": "NRP",
@@ -24269,7 +24227,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24353,8 +24311,8 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -24836,7 +24794,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27923,7 +27881,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30023,7 +29981,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30947,7 +30905,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 19,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30968,7 +30926,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35189,7 +35147,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 22,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38003,7 +37961,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41037,27 +40995,6 @@
       "activo": true
     },
     {
-      "sku": "1005496",
-      "nombre": "SWITCH ARRANQUE RH CR1CR1S NAGA200",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005496.jpg",
-      "imagen_size": 12048,
-      "activo": true
-    },
-    {
       "sku": "741540189588",
       "nombre": "SWITCH ARRANQUE RH CRUX110REV VINI(FL)",
       "marca": "VINI",
@@ -42098,8 +42035,8 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
