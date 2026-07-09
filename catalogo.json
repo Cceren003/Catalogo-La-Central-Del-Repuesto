@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T22:14:07.406Z",
-  "count": 5723,
+  "generated_at": "2026-07-09T16:05:49.095Z",
+  "count": 5721,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,8 +56,8 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 15,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -434,7 +434,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6356,7 +6356,7 @@
         "taller": 4.5,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8956,9 +8956,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0,
-        "taller": 87,
-        "distribuidor": 0
+        "publico": 110,
+        "taller": 92,
+        "distribuidor": 82
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -9254,7 +9254,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12036,48 +12036,6 @@
       "activo": true
     },
     {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI016",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI014",
       "nombre": "CDI",
       "marca": "NRP",
@@ -12111,6 +12069,48 @@
         "distribuidor": 0
       },
       "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI016",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13254,27 +13254,6 @@
       "activo": true
     },
     {
-      "sku": "741540189134",
-      "nombre": "CILINDRO CG125 HOT PARTS 175CC",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 96.25,
-        "taller": 72.25,
-        "distribuidor": 62.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189134.png",
-      "imagen_size": 88697,
-      "activo": true
-    },
-    {
       "sku": "741540189060",
       "nombre": "CILINDRO COMPLETO AK150-TTR150-FORZA150-CG150 VARILLA PIN13 VINI(FL)",
       "marca": "VINI",
@@ -13566,6 +13545,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100899.png",
       "imagen_size": 90272,
+      "activo": true
+    },
+    {
+      "sku": "741540189134",
+      "nombre": "CILINDRO COMPLETO CG125 HOT PARTS MODIFICADO 175CC",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 96.25,
+        "taller": 72.25,
+        "distribuidor": 62.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189134.png",
+      "imagen_size": 88697,
       "activo": true
     },
     {
@@ -15792,27 +15792,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1000354",
-      "nombre": "DISCO FRENO DELANTERO YBR125G",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22,
-        "taller": 15,
-        "distribuidor": 12.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000354.jpg",
-      "imagen_size": 16914,
       "activo": true
     },
     {
@@ -32291,7 +32270,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43473,24 +43452,24 @@
       "activo": true
     },
     {
-      "sku": "1005327",
-      "nombre": "VALVULA LLANTA RADIAL CROMADA UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1.5,
-        "taller": 1,
-        "distribuidor": 0.85
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005327.png",
-      "imagen_size": 22889,
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -43507,27 +43486,6 @@
       },
       "stock": 6,
       "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
