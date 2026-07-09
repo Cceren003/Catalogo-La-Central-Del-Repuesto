@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T18:53:45.432Z",
-  "count": 5718,
+  "generated_at": "2026-07-09T22:37:48.107Z",
+  "count": 5711,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3174,27 +3174,6 @@
       "activo": true
     },
     {
-      "sku": "741540190355",
-      "nombre": "BOMBA ACEITE AK180XM/AK200SM",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20,
-        "taller": 10,
-        "distribuidor": 8
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190355.png",
-      "imagen_size": 121361,
-      "activo": true
-    },
-    {
       "sku": "741540100213",
       "nombre": "BOMBA ACEITE AX100 VINI(FL)",
       "marca": "VINI",
@@ -3983,7 +3962,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 41,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,8 +3983,8 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 45,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4025,7 +4004,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 13,
+      "stock": 73,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5705,8 +5684,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6797,7 +6776,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 32,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,7 +7637,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 61,
+      "stock": 60,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7931,8 +7910,8 @@
         "taller": 44.75,
         "distribuidor": 38.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -12750,27 +12729,6 @@
       "activo": true
     },
     {
-      "sku": "741540190374",
-      "nombre": "CENTRO CLUTCH  YBR125 COMPLETA",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 85.25,
-        "taller": 75,
-        "distribuidor": 65
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190374.png",
-      "imagen_size": 56471,
-      "activo": true
-    },
-    {
       "sku": "741540189912",
       "nombre": "CENTRO CLUTCH BOXER BM150",
       "marca": "VINI",
@@ -12978,27 +12936,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190376.png",
       "imagen_size": 187008,
-      "activo": true
-    },
-    {
-      "sku": "741540188286",
-      "nombre": "CENTRO CLUTCH YBR125",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30.75,
-        "taller": 23,
-        "distribuidor": 19.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188286.png",
-      "imagen_size": 150439,
       "activo": true
     },
     {
@@ -13527,27 +13464,6 @@
       "activo": true
     },
     {
-      "sku": "741540189134",
-      "nombre": "CILINDRO COMPLETO CG125 HOT PARTS MODIFICADO 175CC",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 96.25,
-        "taller": 72.25,
-        "distribuidor": 62.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189134.png",
-      "imagen_size": 88697,
-      "activo": true
-    },
-    {
       "sku": "741540189598",
       "nombre": "CILINDRO COMPLETO CRUXX110REV",
       "marca": "VINI",
@@ -14042,7 +13958,7 @@
         "taller": 55.5,
         "distribuidor": 47.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15918,27 +15834,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188841.png",
       "imagen_size": 97615,
-      "activo": true
-    },
-    {
-      "sku": "741540190845",
-      "nombre": "DISCO FRENO PULSAR125NS/135 SPEED",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30,
-        "taller": 23,
-        "distribuidor": 19.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190845.png",
-      "imagen_size": 98590,
       "activo": true
     },
     {
@@ -18347,7 +18242,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19208,7 +19103,7 @@
         "taller": 10,
         "distribuidor": 0
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19775,7 +19670,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 70,
+      "stock": 69,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23303,7 +23198,7 @@
         "taller": 14.5,
         "distribuidor": 12.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23429,7 +23324,7 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25088,7 +24983,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26369,7 +26264,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27492,27 +27387,6 @@
       "activo": true
     },
     {
-      "sku": "741540189633",
-      "nombre": "KIT VALVULA CRUXX 110 REV",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 14,
-        "distribuidor": 12
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189633.png",
-      "imagen_size": 40082,
-      "activo": true
-    },
-    {
       "sku": "741540188207",
       "nombre": "KIT VALVULA FZ16",
       "marca": "VINI",
@@ -27965,7 +27839,7 @@
         "taller": 10.75,
         "distribuidor": 9.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28175,7 +28049,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31419,27 +31293,6 @@
       "activo": true
     },
     {
-      "sku": "741540100366",
-      "nombre": "PASTILLA FRENO DEL GN125H VINI (FL)",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.25,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 19,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100366.png",
-      "imagen_size": 110322,
-      "activo": true
-    },
-    {
       "sku": "741540100370",
       "nombre": "PASTILLA FRENO DEL PULSAR 180,   DISCOVERY 125",
       "marca": "VINI",
@@ -31955,7 +31808,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33341,7 +33194,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
