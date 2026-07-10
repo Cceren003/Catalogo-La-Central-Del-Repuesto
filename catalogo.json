@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T22:37:48.107Z",
+  "generated_at": "2026-07-10T15:36:26.806Z",
   "count": 5711,
   "productos": [
     {
@@ -56,8 +56,8 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 72,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 43,
+      "stock": 102,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27724,7 +27724,7 @@
     },
     {
       "sku": "741540100647",
-      "nombre": "KIT VALVULA SG200GY-2-SPITZER200 CUÑERO CORTO",
+      "nombre": "KIT VALVULA SG200GY-2-SPITZER200 / CR2",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -27734,7 +27734,7 @@
         "taller": 10.5,
         "distribuidor": 9.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28133,7 +28133,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
