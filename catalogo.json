@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T18:26:20.744Z",
-  "count": 5709,
+  "generated_at": "2026-07-10T22:11:46.116Z",
+  "count": 5703,
   "productos": [
     {
       "sku": "LM120106",
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 102,
+      "stock": 101,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1064,7 +1064,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 25,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1127,7 +1127,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 19,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1192,27 +1192,6 @@
       },
       "stock": 16,
       "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "6301-2RS",
-      "nombre": "BALERO 6301 KOYO",
-      "marca": "KOYO",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.5,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2639,7 +2618,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3731,7 +3710,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 45,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3941,7 +3920,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 37,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6755,7 +6734,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7616,7 +7595,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 59,
+      "stock": 58,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8162,7 +8141,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11931,48 +11910,6 @@
       "activo": true
     },
     {
-      "sku": "CDI014",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI007",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI025",
       "nombre": "CDI",
       "marca": "NRP",
@@ -12006,6 +11943,48 @@
         "distribuidor": 0
       },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI014",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI007",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12068,7 +12047,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15113,7 +15092,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 41,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15351,27 +15330,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189206.png",
       "imagen_size": 111332,
-      "activo": true
-    },
-    {
-      "sku": "741540189215",
-      "nombre": "DISCO FRENO AK TTR200 FXR150 TRASERO VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 27.25,
-        "taller": 22,
-        "distribuidor": 18.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189215.png",
-      "imagen_size": 111006,
       "activo": true
     },
     {
@@ -15708,27 +15666,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189103.png",
       "imagen_size": 149470,
-      "activo": true
-    },
-    {
-      "sku": "741540189207",
-      "nombre": "DISCO FRENO HUNK DELANTERO VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 35.5,
-        "taller": 28.5,
-        "distribuidor": 23.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189207.png",
-      "imagen_size": 145001,
       "activo": true
     },
     {
@@ -17633,7 +17570,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18914,7 +18851,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19061,8 +18998,8 @@
         "taller": 10,
         "distribuidor": 0
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20132,7 +20069,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 44,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20153,7 +20090,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 35,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28700,7 +28637,7 @@
         "taller": 25,
         "distribuidor": 22.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30537,27 +30474,6 @@
       "activo": true
     },
     {
-      "sku": "741540124003",
-      "nombre": "MOTOR ARRANQUE SANLG SL125-3C / KATANA R1",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 37.25,
-        "taller": 30.5,
-        "distribuidor": 26.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540124003.png",
-      "imagen_size": 97542,
-      "activo": true
-    },
-    {
       "sku": "SM027",
       "nombre": "MOTOR ARRANQUE TT200 / CR2 210 / SMX200 VOLT",
       "marca": "NRP",
@@ -31094,7 +31010,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31199,7 +31115,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 38,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33173,7 +33089,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33488,7 +33404,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33614,7 +33530,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33887,7 +33803,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34118,7 +34034,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34181,34 +34097,13 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188305.png",
       "imagen_size": 95781,
-      "activo": true
-    },
-    {
-      "sku": "741540190914",
-      "nombre": "PIÑON ATAQUE CB160 HORNET / HUNK 160 / UNIRCORN X-BLADE 16T (428)",
-      "marca": "VINI",
-      "categoria": "PIÑONES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190914.png",
-      "imagen_size": 58722,
       "activo": true
     },
     {
@@ -34223,7 +34118,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34454,7 +34349,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34475,7 +34370,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34517,7 +34412,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34601,8 +34496,8 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -39851,7 +39746,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41573,7 +41468,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41664,27 +41559,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188088.png",
       "imagen_size": 84345,
-      "activo": true
-    },
-    {
-      "sku": "B69H39",
-      "nombre": "SWITCH LUCES CRUX110",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 10,
-        "distribuidor": 8.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
