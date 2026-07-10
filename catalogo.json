@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T15:36:26.806Z",
-  "count": 5711,
+  "generated_at": "2026-07-10T18:26:20.744Z",
+  "count": 5709,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 72,
+      "stock": 71,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -896,7 +896,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1785,27 +1785,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100392.png",
       "imagen_size": 142611,
-      "activo": true
-    },
-    {
-      "sku": "741540100391",
-      "nombre": "BALERO LLANTA 6301 2RS VINI (FL)",
-      "marca": "VINI",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 2.75,
-        "taller": 2.25,
-        "distribuidor": 1.75
-      },
-      "stock": 10,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100391.png",
-      "imagen_size": 165176,
       "activo": true
     },
     {
@@ -3752,7 +3731,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 48,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3836,7 +3815,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 63,
+      "stock": 62,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,7 +3962,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 45,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +3983,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 73,
+      "stock": 63,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5537,7 +5516,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6104,7 +6083,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6986,7 +6965,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7637,7 +7616,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 60,
+      "stock": 59,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8813,7 +8792,7 @@
         "taller": 1.75,
         "distribuidor": 1.35
       },
-      "stock": 21,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10451,7 +10430,7 @@
         "taller": 8.25,
         "distribuidor": 7.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10503,27 +10482,6 @@
       "activo": true
     },
     {
-      "sku": "RS091",
-      "nombre": "CATARINA 42T YD110 CRUX / MOTO CHINA CON CENTRO DE YBR125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RS031",
       "nombre": "CATARINA 43T CBF 125 STUNNER",
       "marca": "NRP",
@@ -10556,7 +10514,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11130,27 +11088,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS110.jpg",
       "imagen_size": 9485,
-      "activo": true
-    },
-    {
-      "sku": "RS095",
-      "nombre": "CATARINA 46T YARA 200, SMX200, PULSAR 160",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14.5,
-        "taller": 10,
-        "distribuidor": 8.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS095.jpg",
-      "imagen_size": 9868,
       "activo": true
     },
     {
@@ -11994,48 +11931,6 @@
       "activo": true
     },
     {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI016",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI014",
       "nombre": "CDI",
       "marca": "NRP",
@@ -12069,6 +11964,48 @@
         "distribuidor": 0
       },
       "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI016",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12936,6 +12873,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190376.png",
       "imagen_size": 187008,
+      "activo": true
+    },
+    {
+      "sku": "741540188286",
+      "nombre": "CENTRO CLUTCH YBR125",
+      "marca": "VINI",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 30.75,
+        "taller": 23,
+        "distribuidor": 19.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188286.png",
+      "imagen_size": 150439,
       "activo": true
     },
     {
@@ -18952,9 +18910,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
+        "publico": 7,
+        "taller": 4,
+        "distribuidor": 3.5
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -19649,7 +19607,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20174,7 +20132,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 47,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28028,7 +27986,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28280,7 +28238,7 @@
         "taller": 32.5,
         "distribuidor": 30.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29729,7 +29687,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31808,8 +31766,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33614,7 +33572,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34244,8 +34202,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34370,7 +34328,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34496,7 +34454,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35084,7 +35042,7 @@
         "taller": 35,
         "distribuidor": 29.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35189,7 +35147,7 @@
         "taller": 22.25,
         "distribuidor": 19.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36743,7 +36701,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37520,7 +37478,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 37,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39074,7 +39032,7 @@
         "taller": 1,
         "distribuidor": 0.5
       },
-      "stock": 23,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
