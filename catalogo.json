@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T22:11:46.116Z",
-  "count": 5703,
+  "generated_at": "2026-07-11T14:25:13.703Z",
+  "count": 5700,
   "productos": [
     {
       "sku": "LM120106",
@@ -2261,7 +2261,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7763,7 +7763,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8078,7 +8078,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8771,7 +8771,7 @@
         "taller": 1.75,
         "distribuidor": 1.35
       },
-      "stock": 16,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12897,27 +12897,6 @@
       "activo": true
     },
     {
-      "sku": "741540189584",
-      "nombre": "CIGUEÑAL COMPLETO GIXXER 150 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 146.5,
-        "taller": 119.75,
-        "distribuidor": 103
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189584.png",
-      "imagen_size": 78367,
-      "activo": true
-    },
-    {
       "sku": "741540100525",
       "nombre": "CIGUEÑAL COMPLETO GN125H VINI(FL)",
       "marca": "VINI",
@@ -16992,27 +16971,6 @@
       "activo": true
     },
     {
-      "sku": "741540189341",
-      "nombre": "EJE VELOCIDAD NAGA 200 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12.25,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189341.png",
-      "imagen_size": 42830,
-      "activo": true
-    },
-    {
       "sku": "741540189116",
       "nombre": "EJE VELOCIDAD YARA 200 VINI(FL)",
       "marca": "VINI",
@@ -18945,27 +18903,6 @@
       "activo": true
     },
     {
-      "sku": "741540189190",
-      "nombre": "FILTRO AIRE NAGA 200 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.75,
-        "taller": 7.25,
-        "distribuidor": 6.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189190.png",
-      "imagen_size": 59621,
-      "activo": true
-    },
-    {
       "sku": "741540189965",
       "nombre": "FILTRO AIRE NAVI110 VINI",
       "marca": "VINI",
@@ -18998,7 +18935,7 @@
         "taller": 10,
         "distribuidor": 0
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19397,7 +19334,7 @@
         "taller": 11.25,
         "distribuidor": 9.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31703,7 +31640,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
