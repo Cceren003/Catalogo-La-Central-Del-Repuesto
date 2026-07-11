@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T17:59:51.564Z",
-  "count": 5699,
+  "generated_at": "2026-07-11T21:56:57.266Z",
+  "count": 5695,
   "productos": [
     {
       "sku": "LM120106",
@@ -1127,7 +1127,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1883,7 +1883,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1953,27 +1953,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100395.png",
       "imagen_size": 145694,
-      "activo": true
-    },
-    {
-      "sku": "741540100139",
-      "nombre": "BALERO MOTOR 63/28 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9.5,
-        "taller": 9,
-        "distribuidor": 7.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100139.png",
-      "imagen_size": 127027,
       "activo": true
     },
     {
@@ -7143,27 +7122,6 @@
       "activo": true
     },
     {
-      "sku": "741540189672",
-      "nombre": "CADENA TIEMPO DRS200 (19L PASO 2X1)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189672.png",
-      "imagen_size": 60329,
-      "activo": true
-    },
-    {
       "sku": "741540189114",
       "nombre": "CADENA TIEMPO DSR200 (50L PASO 3X2)",
       "marca": "VINI",
@@ -7679,7 +7637,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7868,7 +7826,7 @@
         "taller": 44.75,
         "distribuidor": 38.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8253,27 +8211,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005199.jpg",
       "imagen_size": 271856,
-      "activo": true
-    },
-    {
-      "sku": "1005197",
-      "nombre": "CALIPER DELANTERO GN-FIRE MEK",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20,
-        "taller": 15,
-        "distribuidor": 13
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005197.jpg",
-      "imagen_size": 211275,
       "activo": true
     },
     {
@@ -11910,6 +11847,27 @@
       "activo": true
     },
     {
+      "sku": "CDI007",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "CDI025",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11953,27 +11911,6 @@
     },
     {
       "sku": "CDI014",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI007",
       "nombre": "CDI",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -12362,7 +12299,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14105,7 +14042,7 @@
         "taller": 40,
         "distribuidor": 34
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16268,8 +16205,8 @@
         "taller": 18,
         "distribuidor": 15.3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20027,7 +19964,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22652,7 +22589,7 @@
         "taller": 6,
         "distribuidor": 4.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28353,27 +28290,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-0702-22",
-      "nombre": "LLANTA AXUS 90-90-18 LISA AX4418 DESPORTIVAS",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 42,
-        "taller": 30,
-        "distribuidor": 28
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0702-22.png",
-      "imagen_size": 85845,
-      "activo": true
-    },
-    {
       "sku": "741540189923",
       "nombre": "LLANTA VINI 100-80-17 VT 1008 (FL)",
       "marca": "VINI",
@@ -30149,7 +30065,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37289,7 +37205,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 32,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42770,7 +42686,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
