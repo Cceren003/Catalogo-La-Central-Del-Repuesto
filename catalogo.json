@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T21:56:57.266Z",
+  "generated_at": "2026-07-12T14:36:26.717Z",
   "count": 5695,
   "productos": [
     {
@@ -14,7 +14,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 47,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11847,6 +11847,27 @@
       "activo": true
     },
     {
+      "sku": "CDI014",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "CDI007",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11901,27 +11922,6 @@
         "distribuidor": 0
       },
       "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI014",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30958,7 +30958,7 @@
     },
     {
       "sku": "741540188926",
-      "nombre": "PASTILLA FRENO CRB250R / CR4 8MM / CYCLONE150",
+      "nombre": "PASTILLA FRENO CRB250R / CR4 8MM / CYCLONE150 / SERPENTO TORNADO250",
       "marca": "VINI",
       "categoria": "PASTILLA DE FRENO",
       "presentacion": "UNIDAD",
@@ -30968,7 +30968,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
