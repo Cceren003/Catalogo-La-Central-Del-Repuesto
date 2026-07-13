@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T18:47:18.892Z",
-  "count": 5691,
+  "generated_at": "2026-07-13T22:02:12.348Z",
+  "count": 5683,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 70,
+      "stock": 66,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -854,7 +854,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 24,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -987,27 +987,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1003271",
-      "nombre": "BALERO 6201 2RS",
-      "marca": "MEK",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3,
-        "taller": 2.25,
-        "distribuidor": 1.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003271.png",
-      "imagen_size": 48656,
       "activo": true
     },
     {
@@ -1274,7 +1253,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1694,7 +1673,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1841,34 +1820,13 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188596.png",
       "imagen_size": 153344,
-      "activo": true
-    },
-    {
-      "sku": "741540100393",
-      "nombre": "BALERO MOTOR 6004 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.25,
-        "taller": 4,
-        "distribuidor": 3.5
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100393.png",
-      "imagen_size": 167275,
       "activo": true
     },
     {
@@ -2345,8 +2303,8 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2544,7 +2502,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2565,7 +2523,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -6356,7 +6314,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 179,
+      "stock": 174,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6923,8 +6881,8 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7553,7 +7511,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 50,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7616,7 +7574,7 @@
         "taller": 35,
         "distribuidor": 30
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9611,8 +9569,8 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -14136,27 +14094,6 @@
       "activo": true
     },
     {
-      "sku": "1003567",
-      "nombre": "CLUTCH DELANTERO GY6 (125-150) SCOOTER",
-      "marca": "MEK",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 25,
-        "taller": 17,
-        "distribuidor": 14.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003567.png",
-      "imagen_size": 41724,
-      "activo": true
-    },
-    {
       "sku": "2000040",
       "nombre": "CLUTCH DELANTERO NAVI 110",
       "marca": "MEK",
@@ -17948,7 +17885,7 @@
         "taller": 12.5,
         "distribuidor": 10.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27429,27 +27366,6 @@
       "activo": true
     },
     {
-      "sku": "741540190803",
-      "nombre": "KIT VALVULA PULSAR180 / PULSAR 180UG",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14.25,
-        "taller": 11.5,
-        "distribuidor": 9.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190803.png",
-      "imagen_size": 15003,
-      "activo": true
-    },
-    {
       "sku": "741540100311",
       "nombre": "KIT VALVULA SANLG SL150 CUÑERO LARGO VINI",
       "marca": "VINI",
@@ -29088,27 +29004,6 @@
       "activo": true
     },
     {
-      "sku": "741540190705",
-      "nombre": "MANGUERA FRENO DISCO GN125 (102CM LARGO)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12.25,
-        "taller": 9.75,
-        "distribuidor": 8.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190705.png",
-      "imagen_size": 71214,
-      "activo": true
-    },
-    {
       "sku": "741540190700",
       "nombre": "MANGUERA FRENO DISCO XR150L (128CM LARGO)",
       "marca": "VINI",
@@ -30030,27 +29925,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189658.png",
       "imagen_size": 95878,
-      "activo": true
-    },
-    {
-      "sku": "741540188192",
-      "nombre": "MOTOR ARRANQUE FZ16 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 57.25,
-        "taller": 44.75,
-        "distribuidor": 38.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188192.png",
-      "imagen_size": 90850,
       "activo": true
     },
     {
@@ -31031,7 +30905,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31199,7 +31073,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31353,27 +31227,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188985.png",
       "imagen_size": 107551,
-      "activo": true
-    },
-    {
-      "sku": "741540188993",
-      "nombre": "PASTILLA FRENO RX115S",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -31535,7 +31388,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33677,8 +33530,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34139,7 +33992,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39420,27 +39273,6 @@
       "activo": true
     },
     {
-      "sku": "1001679",
-      "nombre": "SET CUNAS DIRECCION BROSS CHINA SMX200 / KEEWAY 200 / DAYUN GY3 200",
-      "marca": "MEK",
-      "categoria": "DIRECCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001679.png",
-      "imagen_size": 31515,
-      "activo": true
-    },
-    {
       "sku": "1000806",
       "nombre": "SET CUNAS DIRECCION CG125/150 COLT125/150 CR2 TAYPAN XL125",
       "marca": "MEK",
@@ -41426,7 +41258,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
