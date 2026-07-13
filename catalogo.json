@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T15:46:14.141Z",
-  "count": 5693,
+  "generated_at": "2026-07-13T18:47:18.892Z",
+  "count": 5691,
   "productos": [
     {
       "sku": "LM120106",
@@ -2198,7 +2198,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2544,7 +2544,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2565,7 +2565,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -7553,7 +7553,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 57,
+      "stock": 50,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9947,7 +9947,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11942,7 +11942,7 @@
         "taller": 18.5,
         "distribuidor": 16
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14164,9 +14164,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 24.25,
-        "taller": 19.75,
-        "distribuidor": 17
+        "publico": 32,
+        "taller": 22,
+        "distribuidor": 19
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -15974,7 +15974,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17360,8 +17360,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28868,7 +28868,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 42,
+      "stock": 41,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30030,27 +30030,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189658.png",
       "imagen_size": 95878,
-      "activo": true
-    },
-    {
-      "sku": "SM023",
-      "nombre": "MOTOR ARRANQUE FZ16 / FZ3.0-2.0 / SZ150D VOLT",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 35,
-        "taller": 22,
-        "distribuidor": 20
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/SM023.jpg",
-      "imagen_size": 5477,
       "activo": true
     },
     {
@@ -34181,8 +34160,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -39442,7 +39421,7 @@
     },
     {
       "sku": "1001679",
-      "nombre": "SET CUNAS DIRECCION BROSS CHINA SMX200 / KEEWAY 200 TODOTERRNEO",
+      "nombre": "SET CUNAS DIRECCION BROSS CHINA SMX200 / KEEWAY 200 / DAYUN GY3 200",
       "marca": "MEK",
       "categoria": "DIRECCION",
       "presentacion": "UNIDAD",
@@ -40236,27 +40215,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1004674",
-      "nombre": "SWITCH ARRANQUE ASPID-FIRE-HJ125-7/HJ150-9",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004674.jpg",
-      "imagen_size": 253773,
       "activo": true
     },
     {
