@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T15:00:04.045Z",
-  "count": 5683,
+  "generated_at": "2026-07-14T18:10:27.283Z",
+  "count": 5692,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 64,
+      "stock": 62,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 75,
+      "stock": 74,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1799,7 +1799,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3402,27 +3402,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540118008.png",
       "imagen_size": 78460,
-      "activo": true
-    },
-    {
-      "sku": "741540190890",
-      "nombre": "BOMBA ACEITE SMX200 / TTR180",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20,
-        "taller": 10,
-        "distribuidor": 8
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190890.png",
-      "imagen_size": 105338,
       "activo": true
     },
     {
@@ -7532,7 +7511,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10010,7 +9989,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10766,7 +10745,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11805,27 +11784,6 @@
       "activo": true
     },
     {
-      "sku": "CDI007",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI025",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11869,6 +11827,27 @@
     },
     {
       "sku": "CDI014",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI007",
       "nombre": "CDI",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -16887,6 +16866,27 @@
       "activo": true
     },
     {
+      "sku": "1003587",
+      "nombre": "EMPAQUE CULATA-CILINDRO  CG150",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.5,
+        "distribuidor": 2
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003587.png",
+      "imagen_size": 36740,
+      "activo": true
+    },
+    {
       "sku": "1005131",
       "nombre": "EMPAQUE CULATA/CILINDRO CBB250 / FALCON250 / CR4",
       "marca": "MEK",
@@ -17969,7 +17969,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18459,6 +18459,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190282.png",
       "imagen_size": 119680,
+      "activo": true
+    },
+    {
+      "sku": "1006644",
+      "nombre": "FILTRO AIRE ECO 150 HUNK 150",
+      "marca": "MEK",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -19838,7 +19859,7 @@
         "taller": 5.5,
         "distribuidor": 5
       },
-      "stock": 8,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20013,6 +20034,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1005946",
+      "nombre": "GUARDAFANGO DELANTERA AKT 200 TT",
+      "marca": "MEK",
+      "categoria": "ACCESORIOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 24,
+        "taller": 18,
+        "distribuidor": 15.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005946.png",
+      "imagen_size": 12522,
       "activo": true
     },
     {
@@ -23187,6 +23229,27 @@
       "activo": true
     },
     {
+      "sku": "1005956",
+      "nombre": "KIT BARRAS XM200Z/AKT200TT/",
+      "marca": "MOTUL",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 110,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005956.png",
+      "imagen_size": 57507,
+      "activo": true
+    },
+    {
       "sku": "741540189537",
       "nombre": "KIT BIELA PULSAR 160NS",
       "marca": "VINI",
@@ -24615,6 +24678,27 @@
       "activo": true
     },
     {
+      "sku": "1003586",
+      "nombre": "KIT EMPAQUE CULATA -CILINDRO CG125",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0.75,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003586.png",
+      "imagen_size": 30302,
+      "activo": true
+    },
+    {
       "sku": "741540188375",
       "nombre": "KIT EMPAQUE DK200-AVATAR200-FIRE150 CADENILLA VINI",
       "marca": "VINI",
@@ -24759,6 +24843,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003578.png",
       "imagen_size": 60364,
+      "activo": true
+    },
+    {
+      "sku": "1003577",
+      "nombre": "KIT EMPAQUE GY6150 SCOOTER",
+      "marca": "MOTUL",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3.25,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003577.png",
+      "imagen_size": 45949,
       "activo": true
     },
     {
@@ -25319,7 +25424,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25340,7 +25445,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27839,7 +27944,7 @@
         "taller": 32,
         "distribuidor": 29
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28098,6 +28203,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0703-22.png",
       "imagen_size": 84066,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0901-22",
+      "nombre": "LLANTA AXUS 300-17LISA AX1155 6PR TL TUBULAR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 38.75,
+        "taller": 28,
+        "distribuidor": 26
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0901-22.png",
+      "imagen_size": 90623,
       "activo": true
     },
     {
@@ -28500,6 +28626,27 @@
       "activo": true
     },
     {
+      "sku": "1000536",
+      "nombre": "LLAVIN IGNICION CGL125 GY8 XL200 AKT200T",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 10,
+        "taller": 5,
+        "distribuidor": 4.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000536.jpg",
+      "imagen_size": 125217,
+      "activo": true
+    },
+    {
       "sku": "1005494",
       "nombre": "LLAVIN IGNICION CR1 CR1S / CR2",
       "marca": "MEK",
@@ -28511,7 +28658,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28563,6 +28710,27 @@
       "activo": true
     },
     {
+      "sku": "1000541",
+      "nombre": "LLAVIN IGNICION GN125 HJ125 NAGA200",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 6.5,
+        "distribuidor": 5.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000541.jpg",
+      "imagen_size": 122640,
+      "activo": true
+    },
+    {
       "sku": "1000539",
       "nombre": "LLAVIN IGNICION HONDA VMEN",
       "marca": "MEK",
@@ -28584,6 +28752,27 @@
       "activo": true
     },
     {
+      "sku": "1006136",
+      "nombre": "LLAVIN IGNICION NAGA200",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 13,
+        "taller": 7.5,
+        "distribuidor": 6.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006136.png",
+      "imagen_size": 29689,
+      "activo": true
+    },
+    {
       "sku": "1006042",
       "nombre": "LLAVIN IGNICION PULSAR 135",
       "marca": "MEK",
@@ -28602,6 +28791,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006042.png",
       "imagen_size": 27992,
+      "activo": true
+    },
+    {
+      "sku": "1000537",
+      "nombre": "LLAVIN IGNICION PULSAR180 YARA200 TODOTERRENO FT180",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 6.5,
+        "distribuidor": 5.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000537.jpg",
+      "imagen_size": 78559,
       "activo": true
     },
     {
@@ -34391,7 +34601,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 20,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35469,6 +35679,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100130.png",
       "imagen_size": 33366,
+      "activo": true
+    },
+    {
+      "sku": "1001283",
+      "nombre": "PRENSA CLUTCH COMPLETA  4T5D CG125-CG150 73 DIENTES",
+      "marca": "MEK",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 45,
+        "taller": 29,
+        "distribuidor": 24.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001283.jpg",
+      "imagen_size": 489856,
       "activo": true
     },
     {
@@ -37940,7 +38171,7 @@
         "taller": 4,
         "distribuidor": 3
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40061,7 +40292,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40131,6 +40362,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1000999",
+      "nombre": "SWITCH ARRANQUE RH  CGL125 NAGA150 COBRA125  COLT125",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5.1,
+        "taller": 3.5,
+        "distribuidor": 0
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000999.jpg",
+      "imagen_size": 121753,
       "activo": true
     },
     {
@@ -41216,8 +41468,8 @@
         "taller": 5.5,
         "distribuidor": 4.5
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -115982,28 +116234,6 @@
       "activo": true
     },
     {
-      "sku": "1003586",
-      "nombre": "1005646Δ MotorA EMPAQUE CULATA/CILINDRO CG125",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1003586.png",
-      "imagen_size": 30302,
-      "activo": true
-    },
-    {
       "sku": "1005666",
       "nombre": "57 MM PIN 15Δ MotorA KIT PISTON MEK PRO CG125",
       "marca": "MEK",
@@ -116969,28 +117199,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1000403.png",
       "imagen_size": 41505,
-      "activo": true
-    },
-    {
-      "sku": "1003587",
-      "nombre": "1000403Δ MotorA EMPAQUE CULATA/CILINDRO CG150",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1003587.png",
-      "imagen_size": 36740,
       "activo": true
     },
     {
@@ -119235,28 +119443,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1003309.jpg",
       "imagen_size": 8969,
-      "activo": true
-    },
-    {
-      "sku": "1000999",
-      "nombre": "SWITCH ARRANQUE RH CGL125 NAGA150 COBRAS6 COLT125 ASPID FIRE",
-      "marca": "MEK",
-      "categoria": "CONTROLES",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1000999.jpg",
-      "imagen_size": 121753,
       "activo": true
     },
     {
