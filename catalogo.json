@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T22:05:11.296Z",
-  "count": 5689,
+  "generated_at": "2026-07-15T14:58:43.574Z",
+  "count": 5686,
   "productos": [
     {
       "sku": "LM120106",
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 60,
+      "stock": 71,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1043,7 +1043,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 20,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2261,8 +2261,8 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2303,8 +2303,8 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3626,7 +3626,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 35,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3836,7 +3836,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 35,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5334,27 +5334,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189679.png",
       "imagen_size": 55561,
-      "activo": true
-    },
-    {
-      "sku": "741540100281",
-      "nombre": "CABLE CLUTCH CGL125 (SHOE) VINI(FL)",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3,
-        "distribuidor": 2.5
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100281.png",
-      "imagen_size": 66224,
       "activo": true
     },
     {
@@ -9086,7 +9065,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11900,8 +11879,8 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -13902,27 +13881,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188075.png",
       "imagen_size": 103074,
-      "activo": true
-    },
-    {
-      "sku": "741540125001",
-      "nombre": "CLUTCH AUTOMATICO GY6 DELANTERO VINI(RC)",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 32,
-        "taller": 20,
-        "distribuidor": 17
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540125001.jpg",
-      "imagen_size": 16385,
       "activo": true
     },
     {
@@ -25466,7 +25424,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25718,7 +25676,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25760,7 +25718,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26264,8 +26222,8 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -26285,8 +26243,8 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30443,7 +30401,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34538,7 +34496,7 @@
         "taller": 24,
         "distribuidor": 20.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34818,27 +34776,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188148.png",
       "imagen_size": 133534,
-      "activo": true
-    },
-    {
-      "sku": "741540188266",
-      "nombre": "PLANTA GY6 125/150 (8 NUCLEOS)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30,
-        "taller": 22.25,
-        "distribuidor": 19.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188266.png",
-      "imagen_size": 151334,
       "activo": true
     },
     {
@@ -42843,27 +42780,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42877,6 +42793,27 @@
       },
       "stock": 6,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
