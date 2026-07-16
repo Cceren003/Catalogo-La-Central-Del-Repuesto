@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T22:08:38.159Z",
-  "count": 5684,
+  "generated_at": "2026-07-16T15:08:42.235Z",
+  "count": 5681,
   "productos": [
     {
       "sku": "LM120106",
@@ -2786,7 +2786,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,7 +3983,7 @@
         "taller": 3,
         "distribuidor": 2.25
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6818,7 +6818,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8862,27 +8862,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003034.jpg",
       "imagen_size": 14913,
-      "activo": true
-    },
-    {
-      "sku": "1003575",
-      "nombre": "CARBURADOR GY6 125SCOOTER",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 44,
-        "taller": 28,
-        "distribuidor": 23.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003575.jpg",
-      "imagen_size": 356637,
       "activo": true
     },
     {
@@ -11742,48 +11721,6 @@
       "activo": true
     },
     {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI016",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI014",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11817,6 +11754,48 @@
         "distribuidor": 0
       },
       "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI016",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13251,27 +13230,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100315.png",
       "imagen_size": 87296,
-      "activo": true
-    },
-    {
-      "sku": "741540189426",
-      "nombre": "CILINDRO COMPLETO DRACO 250 PIN 17 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 109.25,
-        "taller": 87.25,
-        "distribuidor": 75.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189426.png",
-      "imagen_size": 87943,
       "activo": true
     },
     {
@@ -17234,7 +17192,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20573,7 +20531,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20615,7 +20573,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20748,27 +20706,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189769.png",
       "imagen_size": 65110,
-      "activo": true
-    },
-    {
-      "sku": "741540189766",
-      "nombre": "HERRAMIENTA CUBO IMPACTO 8MM",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189766.png",
-      "imagen_size": 80760,
       "activo": true
     },
     {
@@ -24353,7 +24290,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
