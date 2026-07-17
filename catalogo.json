@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T22:09:37.063Z",
+  "generated_at": "2026-07-17T14:49:22.048Z",
   "count": 5678,
   "productos": [
     {
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 43,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7448,7 +7448,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 48,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8561,7 +8561,7 @@
         "taller": 1.75,
         "distribuidor": 1.35
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12621,27 +12621,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190376.png",
       "imagen_size": 187008,
-      "activo": true
-    },
-    {
-      "sku": "741540188286",
-      "nombre": "CENTRO CLUTCH YBR125",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30.75,
-        "taller": 23,
-        "distribuidor": 19.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188286.png",
-      "imagen_size": 150439,
       "activo": true
     },
     {
@@ -27923,7 +27902,7 @@
         "taller": 38,
         "distribuidor": 36
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28091,7 +28070,7 @@
         "taller": 30,
         "distribuidor": 28
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29505,6 +29484,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189100.png",
       "imagen_size": 99401,
+      "activo": true
+    },
+    {
+      "sku": "1005961",
+      "nombre": "MONOSHOCK AKT TT200R",
+      "marca": "MEK",
+      "categoria": "SUSPENCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 75,
+        "taller": 48,
+        "distribuidor": 42
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005961.png",
+      "imagen_size": 15174,
       "activo": true
     },
     {
