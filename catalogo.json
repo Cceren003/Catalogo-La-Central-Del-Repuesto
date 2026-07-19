@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T21:57:25.810Z",
-  "count": 5667,
+  "generated_at": "2026-07-19T14:26:09.134Z",
+  "count": 5666,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 43,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11700,48 +11700,6 @@
       "activo": true
     },
     {
-      "sku": "CDI014",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI007",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI025",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11775,6 +11733,48 @@
         "distribuidor": 0
       },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI014",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI007",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17171,7 +17171,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30527,7 +30527,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34129,7 +34129,7 @@
     },
     {
       "sku": "741540190255",
-      "nombre": "PLANTA CB190R VINI",
+      "nombre": "PLANTA CB190R / GIXXER 150 INYECTADA",
       "marca": "VINI",
       "categoria": "ELECTRICOS",
       "presentacion": "UNIDAD",
@@ -34139,7 +34139,7 @@
         "taller": 35,
         "distribuidor": 29.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34482,27 +34482,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188147.png",
       "imagen_size": 144444,
-      "activo": true
-    },
-    {
-      "sku": "741540188148",
-      "nombre": "PLANTA GY6 / NOVA 150 / F15 (8 BOBINAS, AUTOMATICA 2 HOYOS ) VINI(FL)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26.25,
-        "taller": 20,
-        "distribuidor": 17
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188148.png",
-      "imagen_size": 133534,
       "activo": true
     },
     {
