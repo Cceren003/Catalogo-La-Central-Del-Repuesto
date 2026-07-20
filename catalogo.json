@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T18:58:56.371Z",
-  "count": 5664,
+  "generated_at": "2026-07-20T22:07:18.312Z",
+  "count": 5656,
   "productos": [
     {
       "sku": "LM120106",
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 90,
+      "stock": 84,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -434,7 +434,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 19,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1253,7 +1253,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 14,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2523,7 +2523,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2544,7 +2544,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -4382,8 +4382,8 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5054,7 +5054,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 19,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5306,7 +5306,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5894,7 +5894,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6251,7 +6251,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 123,
+      "stock": 113,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7238,7 +7238,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7448,7 +7448,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7469,7 +7469,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9044,7 +9044,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11679,6 +11679,27 @@
       "activo": true
     },
     {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "CDI016",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11733,27 +11754,6 @@
         "distribuidor": 0
       },
       "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13293,27 +13293,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189475.png",
       "imagen_size": 75077,
-      "activo": true
-    },
-    {
-      "sku": "741540190194",
-      "nombre": "CILINDRO COMPLETO GLAMOUR 125",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 86.5,
-        "taller": 68.5,
-        "distribuidor": 58.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190194.png",
-      "imagen_size": 150008,
       "activo": true
     },
     {
@@ -18347,7 +18326,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18725,7 +18704,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19880,7 +19859,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20034,27 +20013,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100819.png",
       "imagen_size": 66304,
-      "activo": true
-    },
-    {
-      "sku": "741540189644",
-      "nombre": "GUIA CADENA TIEMPO SET HORNET 160 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189644.png",
-      "imagen_size": 72383,
       "activo": true
     },
     {
@@ -23552,10 +23510,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 0,
-        "taller": 0,
+        "taller": 7,
         "distribuidor": 0
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25235,7 +25193,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26684,7 +26642,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27125,7 +27083,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27272,7 +27230,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27629,7 +27587,7 @@
         "taller": 32,
         "distribuidor": 30
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27657,27 +27615,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3701-22.png",
       "imagen_size": 96196,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-0601-22",
-      "nombre": "LLANTA AXUS 110-90-18 LISA AX4453 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 47.75,
-        "taller": 36,
-        "distribuidor": 34
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0601-22.png",
-      "imagen_size": 85045,
       "activo": true
     },
     {
@@ -27839,7 +27776,7 @@
         "taller": 28,
         "distribuidor": 26
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27930,27 +27867,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0701-22.png",
       "imagen_size": 83896,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-1323-22",
-      "nombre": "LLANTA AXUS 90-90-18 LISA AX031  6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26,
-        "taller": 24,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-1323-22.png",
-      "imagen_size": 118028,
       "activo": true
     },
     {
@@ -29088,27 +29004,6 @@
       "activo": true
     },
     {
-      "sku": "741540189664",
-      "nombre": "MANIFUL PULSAR 180-220 / HORNET 160 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.75,
-        "taller": 4.5,
-        "distribuidor": 4
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189664.png",
-      "imagen_size": 94538,
-      "activo": true
-    },
-    {
       "sku": "741540190361",
       "nombre": "MANIFUL PULSAR 200NS",
       "marca": "VINI",
@@ -30023,7 +29918,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30170,8 +30065,8 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30464,7 +30359,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33099,27 +32994,6 @@
       "activo": true
     },
     {
-      "sku": "FS022",
-      "nombre": "PIÑON 15T DEFENDER200/FIRE125/CGL125/XL125/MOTO CHINA/SL 150-9/ASPID125-150/FORZA150/NAGA200",
-      "marca": "NRP",
-      "categoria": "PIÑONES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/FS022.jpg",
-      "imagen_size": 8276,
-      "activo": true
-    },
-    {
       "sku": "FS045",
       "nombre": "PIÑON 15T FIRE 125 / HJ 125-7 / MOTO CHINA 125",
       "marca": "NRP",
@@ -35241,27 +35115,6 @@
       "activo": true
     },
     {
-      "sku": "1001283",
-      "nombre": "PRENSA CLUTCH COMPLETA  4T5D CG125-CG150 73 DIENTES",
-      "marca": "MEK",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 45,
-        "taller": 29,
-        "distribuidor": 24.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001283.jpg",
-      "imagen_size": 489856,
-      "activo": true
-    },
-    {
       "sku": "1001281",
       "nombre": "PRENSA CLUTCH COMPLETA  6T6D CG200 TODOTERRENO  70 DIENTES",
       "marca": "MEK",
@@ -36701,7 +36554,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37814,7 +37667,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41583,27 +41436,6 @@
       "activo": true
     },
     {
-      "sku": "741540189910",
-      "nombre": "TENSOR AUTOMATICO BM150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10.75,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189910.png",
-      "imagen_size": 85615,
-      "activo": true
-    },
-    {
       "sku": "741540189642",
       "nombre": "TENSOR AUTOMATICO CRUXX VINI",
       "marca": "VINI",
@@ -42119,7 +41951,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42339,6 +42171,27 @@
       "activo": true
     },
     {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 9,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42352,27 +42205,6 @@
       },
       "stock": 3,
       "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 10,
-      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
