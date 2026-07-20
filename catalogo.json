@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T15:16:57.816Z",
-  "count": 5666,
+  "generated_at": "2026-07-20T18:58:56.371Z",
+  "count": 5664,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 42,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 92,
+      "stock": 90,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2240,7 +2240,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 14.9,
         "distribuidor": 13.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3521,7 +3521,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3836,7 +3836,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 33,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3857,7 +3857,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 44,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3878,7 +3878,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 49,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5516,7 +5516,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5894,7 +5894,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6251,7 +6251,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 153,
+      "stock": 123,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7448,7 +7448,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 45,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7532,7 +7532,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10377,27 +10377,6 @@
       "activo": true
     },
     {
-      "sku": "1002653",
-      "nombre": "CATARINA 43T YBR125 FT125",
-      "marca": "MEK",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 6.5,
-        "distribuidor": 5.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002653.png",
-      "imagen_size": 50226,
-      "activo": true
-    },
-    {
       "sku": "RS054",
       "nombre": "CATARINA 43T YZF R3 / MT 03",
       "marca": "NRP",
@@ -11700,27 +11679,6 @@
       "activo": true
     },
     {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI016",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11775,6 +11733,27 @@
         "distribuidor": 0
       },
       "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI025",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16446,27 +16425,6 @@
       "activo": true
     },
     {
-      "sku": "741540190658",
-      "nombre": "EJE TRASERO PULSAR135 / DISCOVER100 / XCD125 YARA DELANTERO",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.25,
-        "taller": 4,
-        "distribuidor": 3.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190658.png",
-      "imagen_size": 34306,
-      "activo": true
-    },
-    {
       "sku": "741540190657",
       "nombre": "EJE TRASERO PULSAR180UG",
       "marca": "VINI",
@@ -19145,7 +19103,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 64,
+      "stock": 59,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20468,7 +20426,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21371,7 +21329,7 @@
         "taller": 12.75,
         "distribuidor": 11
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22169,7 +22127,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22211,7 +22169,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22337,8 +22295,8 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -23030,29 +22988,8 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1009008",
-      "nombre": "KIT BUSHING MASA METAL C/TORNILLO",
-      "marca": "MEK",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28007,7 +27944,7 @@
         "taller": 24,
         "distribuidor": 0
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28637,7 +28574,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 39,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29152,7 +29089,7 @@
     },
     {
       "sku": "741540189664",
-      "nombre": "MANIFUL PULSAR 180/220 VINI (FL)",
+      "nombre": "MANIFUL PULSAR 180-220 / HORNET 160 VINI (FL)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -34482,6 +34419,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188147.png",
       "imagen_size": 144444,
+      "activo": true
+    },
+    {
+      "sku": "741540188148",
+      "nombre": "PLANTA GY6 / NOVA 150 / F15 (8 BOBINAS, AUTOMATICA 2 HOYOS ) VINI(FL)",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 26.25,
+        "taller": 20,
+        "distribuidor": 17
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188148.png",
+      "imagen_size": 133534,
       "activo": true
     },
     {
@@ -39926,16 +39884,16 @@
     {
       "sku": "1000999",
       "nombre": "SWITCH ARRANQUE RH  CGL125 NAGA150 COBRA125  COLT125",
-      "marca": "MEK",
+      "marca": "MOTUL",
       "categoria": "ELECTRICOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
         "publico": 5.1,
         "taller": 3.5,
-        "distribuidor": 0
+        "distribuidor": 5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40985,7 +40943,7 @@
         "taller": 5.5,
         "distribuidor": 4.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42381,27 +42339,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 10,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42415,6 +42352,27 @@
       },
       "stock": 3,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
