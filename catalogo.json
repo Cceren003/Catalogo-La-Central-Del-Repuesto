@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T18:19:36.337Z",
-  "count": 5655,
+  "generated_at": "2026-07-21T22:08:40.824Z",
+  "count": 5645,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 28,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4235,7 +4235,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6818,7 +6818,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 29,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7448,7 +7448,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 16,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7469,8 +7469,8 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -10272,27 +10272,6 @@
       "activo": true
     },
     {
-      "sku": "RS029",
-      "nombre": "CATARINA 43T DISCOVER 125-150, PULSAR 125NS-135, PULSAR180 UG, HUNK 150, CB 160 UNICORN",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.5,
-        "taller": 8,
-        "distribuidor": 6.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS029.jpg",
-      "imagen_size": 9617,
-      "activo": true
-    },
-    {
       "sku": "RS097",
       "nombre": "CATARINA 43T GLAMOUR125",
       "marca": "NRP",
@@ -10920,27 +10899,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS068.jpg",
       "imagen_size": 10171,
-      "activo": true
-    },
-    {
-      "sku": "RS106",
-      "nombre": "CATARINA 48T XR 190L",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -16740,27 +16698,6 @@
       "activo": true
     },
     {
-      "sku": "1002943",
-      "nombre": "EMPAQUE ESCAPE BRONCE UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 1.75,
-        "taller": 1.25,
-        "distribuidor": 0.75
-      },
-      "stock": 18,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002943.png",
-      "imagen_size": 38225,
-      "activo": true
-    },
-    {
       "sku": "741540189036",
       "nombre": "EMPAQUE PUNTERIA PULSAR 135",
       "marca": "VINI",
@@ -17391,27 +17328,6 @@
       "activo": true
     },
     {
-      "sku": "741540189314",
-      "nombre": "ESTRIBO YARA 200 TRASERO",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16,
-        "taller": 12.5,
-        "distribuidor": 10.6
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189314.png",
-      "imagen_size": 93135,
-      "activo": true
-    },
-    {
       "sku": "RCEST-0531000-0012",
       "nombre": "ESTRIBOS DELANTEROS SET SMX150",
       "marca": "KATANA",
@@ -17969,8 +17885,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18694,7 +18610,7 @@
     },
     {
       "sku": "741540188850",
-      "nombre": "FILTRO AIRE SRZ160-HORNET VINI(FL)",
+      "nombre": "FILTRO AIRE SZ-SRZ160-HORNET VINI(FL)",
       "marca": "VINI",
       "categoria": "FILTROS",
       "presentacion": "UNIDAD",
@@ -18851,7 +18767,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19586,7 +19502,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 24,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22127,7 +22043,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 23,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23534,7 +23450,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25182,27 +25098,6 @@
       "activo": true
     },
     {
-      "sku": "1002438",
-      "nombre": "KIT PERNOS DE CATARINA UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3.5,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002438.png",
-      "imagen_size": 41928,
-      "activo": true
-    },
-    {
       "sku": "1000003",
       "nombre": "KIT PERNOS DE CATARINA YBR125",
       "marca": "MEK",
@@ -25571,7 +25466,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29214,48 +29109,6 @@
       "activo": true
     },
     {
-      "sku": "1005961",
-      "nombre": "MONOSHOCK AKT TT200R",
-      "marca": "MEK",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 75,
-        "taller": 48,
-        "distribuidor": 42
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005961.png",
-      "imagen_size": 15174,
-      "activo": true
-    },
-    {
-      "sku": "1000376",
-      "nombre": "MONOSHOCK BROSS CHINA TODOTERRENO",
-      "marca": "MEK",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 75,
-        "taller": 48,
-        "distribuidor": 41
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000376.jpg",
-      "imagen_size": 189260,
-      "activo": true
-    },
-    {
       "sku": "741540189682",
       "nombre": "MONOSHOCK CRF230 VINI",
       "marca": "VINI",
@@ -29939,8 +29792,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30464,7 +30317,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 27,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31430,8 +31283,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32396,8 +32249,8 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32718,27 +32571,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/FS046.jpg",
       "imagen_size": 9875,
-      "activo": true
-    },
-    {
-      "sku": "FS013",
-      "nombre": "PIÑON 14T CR1 150 / CR2 210 / MOTO CHINA 125-150-200",
-      "marca": "NRP",
-      "categoria": "PIÑONES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -34055,7 +33887,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34293,27 +34125,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188147.png",
       "imagen_size": 144444,
-      "activo": true
-    },
-    {
-      "sku": "741540188148",
-      "nombre": "PLANTA GY6 / NOVA 150 / F15 (8 BOBINAS, AUTOMATICA 2 HOYOS ) VINI(FL)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26.25,
-        "taller": 20,
-        "distribuidor": 17
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188148.png",
-      "imagen_size": 133534,
       "activo": true
     },
     {
@@ -35787,27 +35598,6 @@
       "activo": true
     },
     {
-      "sku": "1000605",
-      "nombre": "REGULADOR DE CADENA 125 GN-150 MEK",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.25,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000605.jpg",
-      "imagen_size": 227397,
-      "activo": true
-    },
-    {
       "sku": "1000606",
       "nombre": "REGULADOR DE CADENA CG125",
       "marca": "MEK",
@@ -36365,7 +36155,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39746,7 +39536,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42150,27 +41940,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 9,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42184,6 +41953,27 @@
       },
       "stock": 3,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
