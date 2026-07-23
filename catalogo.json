@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T22:11:03.629Z",
-  "count": 5644,
+  "generated_at": "2026-07-23T15:16:42.572Z",
+  "count": 5656,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 13,
+      "stock": 83,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3521,7 +3521,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8823,6 +8823,27 @@
       "activo": true
     },
     {
+      "sku": "1003575",
+      "nombre": "CARBURADOR GY6 125SCOOTER",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 44,
+        "taller": 28,
+        "distribuidor": 23.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003575.jpg",
+      "imagen_size": 356637,
+      "activo": true
+    },
+    {
       "sku": "1002590",
       "nombre": "CARBURADOR GY6 150 SCOOTER",
       "marca": "MEK",
@@ -9432,6 +9453,27 @@
       "activo": true
     },
     {
+      "sku": "1002645",
+      "nombre": "CATARINA 38T CGL125",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 10,
+        "taller": 8,
+        "distribuidor": 6.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002645.png",
+      "imagen_size": 42411,
+      "activo": true
+    },
+    {
       "sku": "RS011",
       "nombre": "CATARINA 38T COBRA150 / MOTO CHINA 125-150",
       "marca": "NRP",
@@ -9513,6 +9555,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1002861",
+      "nombre": "CATARINA 38T YBR125 FT125 XTZ125",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002861.png",
+      "imagen_size": 37530,
       "activo": true
     },
     {
@@ -10017,6 +10080,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1002638.png",
       "imagen_size": 42245,
+      "activo": true
+    },
+    {
+      "sku": "1002641",
+      "nombre": "CATARINA 428H-43T PULSAR 135-PULSAR 180 / VMEN 4 HOYOS",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 10,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002641.png",
+      "imagen_size": 47424,
       "activo": true
     },
     {
@@ -11091,6 +11175,27 @@
       "activo": true
     },
     {
+      "sku": "1000867",
+      "nombre": "CATARINA 520H-34T 7MM CR4",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000867.jpg",
+      "imagen_size": 196058,
+      "activo": true
+    },
+    {
       "sku": "1001640",
       "nombre": "CATARINA 520H-38T",
       "marca": "MEK",
@@ -11637,48 +11742,6 @@
       "activo": true
     },
     {
-      "sku": "CDI014",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI007",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI025",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11712,6 +11775,48 @@
         "distribuidor": 0
       },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI014",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI007",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13818,6 +13923,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190267.png",
       "imagen_size": 154379,
+      "activo": true
+    },
+    {
+      "sku": "1003567",
+      "nombre": "CLUTCH DELANTERO GY6 (125-150) SCOOTER",
+      "marca": "MEK",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 25,
+        "taller": 17,
+        "distribuidor": 14.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003567.png",
+      "imagen_size": 41724,
       "activo": true
     },
     {
@@ -16695,6 +16821,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1002942.png",
       "imagen_size": 29187,
+      "activo": true
+    },
+    {
+      "sku": "1002943",
+      "nombre": "EMPAQUE ESCAPE BRONCE UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 1.75,
+        "taller": 1.25,
+        "distribuidor": 0.75
+      },
+      "stock": 25,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002943.png",
+      "imagen_size": 38225,
       "activo": true
     },
     {
@@ -24689,8 +24836,8 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 26,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -27398,7 +27545,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27426,6 +27573,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-4101-22.png",
       "imagen_size": 86440,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-1201-22",
+      "nombre": "LLANTA AXUS 100-90-18 LISA AX827 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 42.25,
+        "taller": 32,
+        "distribuidor": 29
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-1201-22.png",
+      "imagen_size": 107873,
       "activo": true
     },
     {
@@ -27471,6 +27639,27 @@
       "activo": true
     },
     {
+      "sku": "LA1A-3703-22",
+      "nombre": "LLANTA AXUS 110-90-16 DOBLE PROPOSITO AX9184 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 44,
+        "taller": 33,
+        "distribuidor": 31
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3703-22.png",
+      "imagen_size": 96042,
+      "activo": true
+    },
+    {
       "sku": "LA1A-2729-22",
       "nombre": "LLANTA AXUS 110-90-16 LISA P265 6PR TL TUBULAR",
       "marca": "AXUS",
@@ -27510,6 +27699,48 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3701-22.png",
       "imagen_size": 96196,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-2808-22",
+      "nombre": "LLANTA AXUS 110-90-17 DOBLE PROPOSITO AX923 66P TL",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 43.25,
+        "taller": 32.5,
+        "distribuidor": 29
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2808-22.png",
+      "imagen_size": 112693,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0601-22",
+      "nombre": "LLANTA AXUS 110-90-18 LISA AX4453 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 47.75,
+        "taller": 36,
+        "distribuidor": 34
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0601-22.png",
+      "imagen_size": 85045,
       "activo": true
     },
     {
@@ -27762,6 +27993,48 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0701-22.png",
       "imagen_size": 83896,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0904-22",
+      "nombre": "LLANTA AXUS 90-90-18 LISA AX6155",
+      "marca": "MEK",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 28,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0904-22.png",
+      "imagen_size": 89021,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-2812-22",
+      "nombre": "LLANTA AXUS 90-90-19 DOBLE PROPOSITO AX923 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 39.5,
+        "taller": 29,
+        "distribuidor": 26
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2812-22.png",
+      "imagen_size": 112745,
       "activo": true
     },
     {
@@ -28385,7 +28658,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 36,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28539,6 +28812,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540187985.png",
       "imagen_size": 37918,
+      "activo": true
+    },
+    {
+      "sku": "1000856",
+      "nombre": "MANECILLA FRENOS COMPLETA CGL125",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 3.75,
+        "distribuidor": 3.25
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000856.jpg",
+      "imagen_size": 76373,
       "activo": true
     },
     {
@@ -29792,8 +30086,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 30,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29834,7 +30128,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29855,8 +30149,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29897,8 +30191,8 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29918,7 +30212,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31220,8 +31514,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31542,6 +31836,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189129.png",
       "imagen_size": 59300,
+      "activo": true
+    },
+    {
+      "sku": "1006642",
+      "nombre": "PATA CAMBIO HUNK 150-190R",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -34926,6 +35241,27 @@
       "activo": true
     },
     {
+      "sku": "1001283",
+      "nombre": "PRENSA CLUTCH COMPLETA  4T5D CG125-CG150 73 DIENTES",
+      "marca": "MEK",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 45,
+        "taller": 29,
+        "distribuidor": 24.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001283.jpg",
+      "imagen_size": 489856,
+      "activo": true
+    },
+    {
       "sku": "1001281",
       "nombre": "PRENSA CLUTCH COMPLETA  6T6D CG200 TODOTERRENO  70 DIENTES",
       "marca": "MEK",
@@ -34944,6 +35280,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001281.jpg",
       "imagen_size": 1612048,
+      "activo": true
+    },
+    {
+      "sku": "1005258",
+      "nombre": "PRENSA CLUTCH COMPLETA YBR125",
+      "marca": "MEK",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 55,
+        "taller": 45,
+        "distribuidor": 38.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005258.png",
+      "imagen_size": 31516,
       "activo": true
     },
     {
@@ -38339,7 +38696,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 17,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -109615,28 +109972,6 @@
       "activo": true
     },
     {
-      "sku": "1002645",
-      "nombre": "38T 428H Traccion CATARINA 38T CGL125",
-      "marca": "MEK",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1002645.png",
-      "imagen_size": 42411,
-      "activo": true
-    },
-    {
       "sku": "1002635",
       "nombre": "38T 428H CATARINA 428H-38T GN125 GS125 TX200 HJ125 7 4 HOYOS",
       "marca": "MEK",
@@ -109656,28 +109991,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1002635.png",
       "imagen_size": 38020,
-      "activo": true
-    },
-    {
-      "sku": "1002861",
-      "nombre": "38T 428HΔ Traccion CATARINA 38T YBR125 FT125 XTZ125",
-      "marca": "MEK",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1002861.png",
-      "imagen_size": 37530,
       "activo": true
     },
     {
@@ -109703,28 +110016,6 @@
       "activo": true
     },
     {
-      "sku": "1002641",
-      "nombre": "43T 428H Traccion CATARINA 428H-43T PULSAR 135/PULSAR 180 4 HOYOS",
-      "marca": "MEK",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1002641.png",
-      "imagen_size": 47424,
-      "activo": true
-    },
-    {
       "sku": "1004221",
       "nombre": "50T 428H Traccion CATARINA 428H-50T CG125 HOYOS",
       "marca": "MEK",
@@ -109744,28 +110035,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1004221.png",
       "imagen_size": 12729,
-      "activo": true
-    },
-    {
-      "sku": "1000867",
-      "nombre": "520H 408H Traccion CATARINA 520H-34T 7MM CR4100",
-      "marca": "MEK",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1000867.jpg",
-      "imagen_size": 196058,
       "activo": true
     },
     {
@@ -121778,28 +122047,6 @@
       "fuente": "AXUS",
       "imagen": "imagenes/LA1A-2630-21.png",
       "imagen_size": 96011,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-2808-22",
-      "nombre": "Llanta AXUS 110/90-17 DOBLE PROPOSITO AX923 66P TL REFORZADA 661Lbs 150Km/h",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-2808-22.png",
-      "imagen_size": 112693,
       "activo": true
     },
     {
