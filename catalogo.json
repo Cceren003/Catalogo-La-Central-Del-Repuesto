@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T22:11:53.896Z",
+  "generated_at": "2026-07-25T14:40:44.733Z",
   "count": 5641,
   "productos": [
     {
@@ -2198,7 +2198,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14536,7 +14536,7 @@
     },
     {
       "sku": "741540189145",
-      "nombre": "DISCO CLUTCH SET HERO GLAMOUR/SPLENDOR VINI(FL)",
+      "nombre": "DISCO CLUTCH SET HERO GLAMOUR-IGNITOR-SPLENDOR VINI(FL)",
       "marca": "VINI",
       "categoria": "EMBRAGUE",
       "presentacion": "UNIDAD",
