@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T15:27:01.708Z",
-  "count": 5652,
+  "generated_at": "2026-07-28T18:20:03.743Z",
+  "count": 5653,
   "productos": [
     {
       "sku": "LM120106",
@@ -14,7 +14,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 41,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 67,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3479,7 +3479,7 @@
         "taller": 13,
         "distribuidor": 11.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3815,7 +3815,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 9,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3836,7 +3836,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 31,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3857,7 +3857,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 15,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3899,7 +3899,7 @@
         "taller": 9.5,
         "distribuidor": 9
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4802,7 +4802,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6797,7 +6797,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11658,48 +11658,6 @@
       "activo": true
     },
     {
-      "sku": "CDI014",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI007",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CDI025",
       "nombre": "CDI",
       "marca": "NRP",
@@ -11733,6 +11691,48 @@
         "distribuidor": 0
       },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI014",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "CDI007",
+      "nombre": "CDI",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13580,7 +13580,7 @@
         "taller": 55.5,
         "distribuidor": 47.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14735,7 +14735,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 74,
+      "stock": 72,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17234,7 +17234,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19124,7 +19124,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21465,6 +21465,27 @@
       "activo": true
     },
     {
+      "sku": "741540190178",
+      "nombre": "HERRAMIENTA VINI KIT EXTRACTOR DE BALERO",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 115.25,
+        "taller": 108,
+        "distribuidor": 93
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190178.png",
+      "imagen_size": 160455,
+      "activo": true
+    },
+    {
       "sku": "741540189806",
       "nombre": "HERRAMIENTA VINI KIT LLAVES ALLEN",
       "marca": "VINI",
@@ -21476,7 +21497,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22554,6 +22575,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540189097",
+      "nombre": "KIT BALANCIN NAGA200/FORZA150/DEFENDER200",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 20.25,
+        "taller": 14.5,
+        "distribuidor": 12.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189097.png",
+      "imagen_size": 66061,
       "activo": true
     },
     {
@@ -24153,27 +24195,6 @@
       "activo": true
     },
     {
-      "sku": "RM004000000",
-      "nombre": "KIT EMPAQUE COMPLETO PULSAR 160NS",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 19,
-        "taller": 13,
-        "distribuidor": 10.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RM004000007",
       "nombre": "KIT EMPAQUE COMPLETO PULSAR 180",
       "marca": "NRP",
@@ -24605,7 +24626,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27062,7 +27083,7 @@
         "taller": 10.5,
         "distribuidor": 9.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28805,7 +28826,7 @@
         "taller": 19.5,
         "distribuidor": 17
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29526,6 +29547,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100641.png",
       "imagen_size": 80972,
+      "activo": true
+    },
+    {
+      "sku": "741540189916",
+      "nombre": "MOTOR ARRANQUE BOXER BM150",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 45,
+        "taller": 35,
+        "distribuidor": 29.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189916.png",
+      "imagen_size": 85153,
       "activo": true
     },
     {
@@ -30401,8 +30443,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31136,7 +31178,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31955,7 +31997,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32123,8 +32165,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32382,27 +32424,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100067.png",
       "imagen_size": 74725,
-      "activo": true
-    },
-    {
-      "sku": "741540100070",
-      "nombre": "PIDE VIA RF-208 SET VINI YELOW (A)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5.5,
-        "distribuidor": 4.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100070.png",
-      "imagen_size": 116102,
       "activo": true
     },
     {
@@ -33698,7 +33719,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34317,6 +34338,27 @@
       "activo": true
     },
     {
+      "sku": "741540188148",
+      "nombre": "PLANTA GY6 / NOVA 150 / F15 (8 BOBINAS, AUTOMATICA 2 HOYOS ) VINI(FL)",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 26.25,
+        "taller": 20,
+        "distribuidor": 17
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188148.png",
+      "imagen_size": 133534,
+      "activo": true
+    },
+    {
       "sku": "741540189448",
       "nombre": "PLANTA HERO GLAMOUR-IGNITOR VINI(FL)",
       "marca": "VINI",
@@ -34769,7 +34811,7 @@
         "taller": 19,
         "distribuidor": 16.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39263,7 +39305,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40544,7 +40586,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41741,7 +41783,7 @@
         "taller": 10.5,
         "distribuidor": 9.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41804,7 +41846,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -91317,28 +91359,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190017.png",
       "imagen_size": 93343,
-      "activo": true
-    },
-    {
-      "sku": "741540189916",
-      "nombre": "MOTOR ARRANQUE BOXER BM150 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189916.png",
-      "imagen_size": 85153,
       "activo": true
     },
     {
