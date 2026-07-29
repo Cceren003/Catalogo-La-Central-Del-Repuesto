@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T18:12:08.337Z",
-  "count": 5662,
+  "generated_at": "2026-07-29T22:06:08.380Z",
+  "count": 5660,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 51,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 130,
+      "stock": 128,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1820,7 +1820,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3920,7 +3920,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 43,
+      "stock": 41,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6293,7 +6293,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 147,
+      "stock": 141,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6587,8 +6587,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7448,7 +7448,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9274,27 +9274,6 @@
         "publico": 105,
         "taller": 109.25,
         "distribuidor": 99.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "157208",
-      "nombre": "CASCO INTEGRAL SHAFT SH-598 GTR (M, NEGRO / FUCSIA)",
-      "marca": "SHAFT",
-      "categoria": "CASCOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 115,
-        "taller": 116,
-        "distribuidor": 105.75
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -11795,7 +11774,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11942,7 +11921,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14735,7 +14714,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14777,7 +14756,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 24,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14861,7 +14840,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 72,
+      "stock": 71,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18095,7 +18074,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27325,7 +27304,7 @@
     },
     {
       "sku": "741540100647",
-      "nombre": "KIT VALVULA SG200GY-2-SPITZER200 / CR2",
+      "nombre": "KIT VALVULA SG200GY-2-SPITZER200 / CR2 / KARISMA 230",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -27335,7 +27314,7 @@
         "taller": 10.5,
         "distribuidor": 9.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28700,7 +28679,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 49,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30758,7 +30737,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30863,7 +30842,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 44,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30884,7 +30863,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34349,7 +34328,7 @@
         "taller": 24,
         "distribuidor": 20.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34391,7 +34370,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 53,
+      "stock": 52,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34412,7 +34391,7 @@
         "taller": 19.75,
         "distribuidor": 17
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35714,7 +35693,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35735,7 +35714,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 39,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42087,27 +42066,6 @@
       "activo": true
     },
     {
-      "sku": "741540100457",
-      "nombre": "TENSOR AUTOMATICO XL200",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100457.png",
-      "imagen_size": 89032,
-      "activo": true
-    },
-    {
       "sku": "741540190629",
       "nombre": "TENSOR CADENILLA SPLENDOR / AK110",
       "marca": "VINI",
@@ -42612,27 +42570,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42646,6 +42583,27 @@
       },
       "stock": 9,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
