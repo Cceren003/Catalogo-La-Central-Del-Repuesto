@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:24:39.565Z",
+  "generated_at": "2026-07-31T18:24:59.213Z",
   "count": 5655,
   "productos": [
     {
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 115,
+      "stock": 111,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1106,7 +1106,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2345,7 +2345,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2366,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3563,7 +3563,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4256,7 +4256,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6839,7 +6839,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9863,7 +9863,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18578,7 +18578,7 @@
         "taller": 5.25,
         "distribuidor": 4.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22232,7 +22232,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27776,7 +27776,7 @@
         "taller": 36,
         "distribuidor": 34
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28133,28 +28133,7 @@
         "taller": 25,
         "distribuidor": 22.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540190531",
-      "nombre": "LLANTA VINI 90-90-18 DOBLE PROPOSITO",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30149,7 +30128,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 28,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30191,7 +30170,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30212,7 +30191,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30233,7 +30212,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30653,7 +30632,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 45,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30716,7 +30695,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 42,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31304,7 +31283,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31325,8 +31304,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33908,7 +33887,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33971,7 +33950,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37835,7 +37814,7 @@
         "taller": 4,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39522,6 +39501,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1003838",
+      "nombre": "SILVIN CROMADO GN125",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 18,
+        "taller": 15,
+        "distribuidor": 13.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003838.png",
+      "imagen_size": 46490,
       "activo": true
     },
     {
@@ -42465,27 +42465,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42499,6 +42478,27 @@
       },
       "stock": 9,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
