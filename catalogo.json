@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T22:13:53.042Z",
-  "count": 5657,
+  "generated_at": "2026-07-31T15:24:39.565Z",
+  "count": 5655,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 45,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2240,8 +2240,8 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2345,7 +2345,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3563,8 +3563,8 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7469,7 +7469,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 70,
+      "stock": 69,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7784,7 +7784,7 @@
         "taller": 44.25,
         "distribuidor": 38.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12887,7 +12887,7 @@
         "taller": 55,
         "distribuidor": 46.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17024,7 +17024,7 @@
         "taller": 14.5,
         "distribuidor": 12.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17822,7 +17822,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22704,27 +22704,6 @@
       "activo": true
     },
     {
-      "sku": "741540189097",
-      "nombre": "KIT BALANCIN NAGA200/FORZA150/DEFENDER200",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20.25,
-        "taller": 14.5,
-        "distribuidor": 12.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189097.png",
-      "imagen_size": 66061,
-      "activo": true
-    },
-    {
       "sku": "741540189899",
       "nombre": "KIT BALANCIN NAVI 110 VINI(FL)",
       "marca": "VINI",
@@ -22841,8 +22820,8 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -24521,7 +24500,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27804,27 +27783,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0601-22.png",
       "imagen_size": 85045,
-      "activo": true
-    },
-    {
-      "sku": "LA1C-3101-22",
-      "nombre": "LLANTA AXUS 120-70-12 LISA AX044 58J",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 36,
-        "taller": 25,
-        "distribuidor": 23
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1C-3101-22.png",
-      "imagen_size": 56592,
       "activo": true
     },
     {
@@ -36890,7 +36848,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 44,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
