@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T18:04:28.801Z",
-  "count": 5646,
+  "generated_at": "2026-08-01T22:03:02.863Z",
+  "count": 5642,
   "productos": [
     {
       "sku": "LM120106",
@@ -308,7 +308,7 @@
         "taller": 32.75,
         "distribuidor": 28.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -504,27 +504,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001034.jpg",
       "imagen_size": 120293,
-      "activo": true
-    },
-    {
-      "sku": "1001605",
-      "nombre": "ARNES COMPLETO MG125-7-CG125-MG150-7S-FT125",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30,
-        "taller": 15,
-        "distribuidor": 12.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001605.png",
-      "imagen_size": 1147923,
       "activo": true
     },
     {
@@ -2324,8 +2303,8 @@
         "taller": 14.9,
         "distribuidor": 13.75
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3647,7 +3626,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 45,
+      "stock": 41,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4382,7 +4361,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5432,7 +5411,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7448,7 +7427,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 69,
+      "stock": 68,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11301,27 +11280,6 @@
       "activo": true
     },
     {
-      "sku": "741540100421",
-      "nombre": "CATARINA GN125H 42T VINI (FL)",
-      "marca": "VINI",
-      "categoria": "KIT TRACCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100421.png",
-      "imagen_size": 116801,
-      "activo": true
-    },
-    {
       "sku": "741540188302",
       "nombre": "CATARINA PULSAR 180-ZMR (520) 39T VINI(FL)",
       "marca": "VINI",
@@ -12467,7 +12425,7 @@
         "taller": 23,
         "distribuidor": 20
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15428,7 +15386,7 @@
         "taller": 24,
         "distribuidor": 20.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18557,7 +18515,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19334,7 +19292,7 @@
         "taller": 2.5,
         "distribuidor": 2.2
       },
-      "stock": 27,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22281,27 +22239,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/WD014.jpg",
       "imagen_size": 8826,
-      "activo": true
-    },
-    {
-      "sku": "WD003",
-      "nombre": "HULE MASA TRASERA HUNK150-190R-200-CB160F HORNET-CB190R-CB150 INVICTA DAYUN-250R",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/WD003.jpg",
-      "imagen_size": 6388,
       "activo": true
     },
     {
@@ -28364,7 +28301,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 47,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29298,27 +29235,6 @@
       "activo": true
     },
     {
-      "sku": "741540188613",
-      "nombre": "MONOSHOCK FREEDOM SPITZER VINI(FL)",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 90,
-        "taller": 65,
-        "distribuidor": 55.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188613.png",
-      "imagen_size": 102937,
-      "activo": true
-    },
-    {
       "sku": "741540190748",
       "nombre": "MONOSHOCK FZ16 VINI",
       "marca": "VINI",
@@ -29834,7 +29750,7 @@
         "taller": 30.5,
         "distribuidor": 26.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30065,7 +29981,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31304,7 +31220,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31367,7 +31283,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36638,7 +36554,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 40,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39410,7 +39326,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41804,7 +41720,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
