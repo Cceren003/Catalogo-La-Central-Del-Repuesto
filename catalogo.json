@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T18:43:09.187Z",
-  "count": 5668,
+  "generated_at": "2026-08-04T22:18:45.731Z",
+  "count": 5665,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 104,
+      "stock": 102,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -294,27 +294,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540187983.png",
       "imagen_size": 107579,
-      "activo": true
-    },
-    {
-      "sku": "741540100398",
-      "nombre": "AMORTIGUADOR SET YBR125-CR1 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 55,
-        "taller": 32.75,
-        "distribuidor": 28.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100398.png",
-      "imagen_size": 124294,
       "activo": true
     },
     {
@@ -2240,8 +2219,8 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2334,6 +2313,27 @@
       "activo": true
     },
     {
+      "sku": "TSYTX5L-BS",
+      "nombre": "BATERIA DE GEL YTX5L-BS TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29,
+        "taller": 18,
+        "distribuidor": 16
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "TSYTX7A-BS",
       "nombre": "BATERIA DE GEL YTX7A-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2345,8 +2345,8 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2618,7 +2618,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 18,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3174,27 +3174,6 @@
       "activo": true
     },
     {
-      "sku": "1004622",
-      "nombre": "BOMBA ACEITE CG150/CG200/CR1/CG125",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004622.png",
-      "imagen_size": 37623,
-      "activo": true
-    },
-    {
       "sku": "741540190889",
       "nombre": "BOMBA ACEITE DAKAR200",
       "marca": "VINI",
@@ -3563,7 +3542,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6293,7 +6272,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 111,
+      "stock": 63,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6965,7 +6944,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7490,7 +7469,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 58,
+      "stock": 57,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7791,27 +7770,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188467.png",
       "imagen_size": 83160,
-      "activo": true
-    },
-    {
-      "sku": "741540112501",
-      "nombre": "CAJA TRANSMISION SANLG SL125-C [SIN CONTRAPESA] VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 64.25,
-        "taller": 44.25,
-        "distribuidor": 38.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540112501.png",
-      "imagen_size": 79495,
       "activo": true
     },
     {
@@ -9065,7 +9023,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 13,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13380,27 +13338,6 @@
       "activo": true
     },
     {
-      "sku": "741540189322",
-      "nombre": "CILINDRO COMPLETO FALCON 250-CR4-UM XTREET 250-SPITZER 250 KARISMA 230 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 105,
-        "taller": 78,
-        "distribuidor": 66.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189322.png",
-      "imagen_size": 89180,
-      "activo": true
-    },
-    {
       "sku": "741540189423",
       "nombre": "CILINDRO COMPLETO FREEDON FIRE125 / CG125",
       "marca": "VINI",
@@ -17402,7 +17339,7 @@
         "taller": 14.5,
         "distribuidor": 12.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18473,7 +18410,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18494,7 +18431,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18977,7 +18914,7 @@
         "taller": 5.25,
         "distribuidor": 4.75
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20090,7 +20027,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 67,
+      "stock": 63,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20111,7 +20048,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 48,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24458,7 +24395,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24605,7 +24542,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26768,7 +26705,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27776,7 +27713,7 @@
         "taller": 11.25,
         "distribuidor": 9.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28049,8 +27986,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30443,7 +30380,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 22,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30527,7 +30464,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30548,7 +30485,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31619,7 +31556,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32102,7 +32039,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37331,7 +37268,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39956,7 +39893,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
