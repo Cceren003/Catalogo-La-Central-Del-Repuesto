@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T18:27:59.263Z",
-  "count": 5662,
+  "generated_at": "2026-08-05T22:16:34.456Z",
+  "count": 5661,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 99,
+      "stock": 97,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1316,7 +1316,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2394,27 +2394,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189156",
-      "nombre": "BATERIA GEL YTX7L-BS VINI (FL)",
-      "marca": "VINI",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29.5,
-        "taller": 21,
-        "distribuidor": 18.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189156.png",
-      "imagen_size": 128520,
       "activo": true
     },
     {
@@ -3605,7 +3584,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3731,7 +3710,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 41,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6461,7 +6440,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6860,7 +6839,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7490,7 +7469,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 57,
+      "stock": 54,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8624,7 +8603,7 @@
         "taller": 1.75,
         "distribuidor": 1.35
       },
-      "stock": 15,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11333,7 +11312,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13020,6 +12999,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189058.png",
       "imagen_size": 104720,
+      "activo": true
+    },
+    {
+      "sku": "741540189894",
+      "nombre": "CILINDRO COMPLETO APACHE 160 4V",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 102,
+        "taller": 75,
+        "distribuidor": 63.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189894.png",
+      "imagen_size": 84349,
       "activo": true
     },
     {
@@ -19544,7 +19544,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 22,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19880,7 +19880,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22631,7 +22631,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24318,27 +24318,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/CK019.jpg",
       "imagen_size": 11192,
-      "activo": true
-    },
-    {
-      "sku": "CK050",
-      "nombre": "KIT DE CILINDRO COMPLETO, APACHE RTR 160, APACHE RTR 160 2V",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 90,
-        "taller": 59,
-        "distribuidor": 50.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/CK050.jpg",
-      "imagen_size": 10044,
       "activo": true
     },
     {
@@ -27177,6 +27156,27 @@
       "activo": true
     },
     {
+      "sku": "741540190018",
+      "nombre": "KIT VALVULA APACHE160 RTR 4V",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 27,
+        "taller": 22.5,
+        "distribuidor": 19.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190018.png",
+      "imagen_size": 33198,
+      "activo": true
+    },
+    {
       "sku": "741540100544",
       "nombre": "KIT VALVULA BROSS 125 VINI",
       "marca": "VINI",
@@ -27678,27 +27678,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100203.png",
       "imagen_size": 38500,
-      "activo": true
-    },
-    {
-      "sku": "741540100214",
-      "nombre": "KIT VALVULA TVS 180 APACHE VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 14,
-        "distribuidor": 12
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100214.png",
-      "imagen_size": 31361,
       "activo": true
     },
     {
@@ -28784,7 +28763,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 44,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30317,7 +30296,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30779,7 +30758,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36092,7 +36071,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40145,8 +40124,8 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -42140,7 +42119,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
