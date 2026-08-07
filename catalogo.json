@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T17:53:33.832Z",
-  "count": 5663,
+  "generated_at": "2026-08-07T21:47:25.063Z",
+  "count": 5661,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 77,
+      "stock": 75,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1022,7 +1022,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1043,7 +1043,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1085,7 +1085,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1610,7 +1610,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 14,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2219,7 +2219,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2366,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4235,7 +4235,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5306,7 +5306,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5390,7 +5390,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13107,27 +13107,6 @@
       "activo": true
     },
     {
-      "sku": "741540100316",
-      "nombre": "CILINDRO COMPLETO BROSS 150 XR150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 97,
-        "taller": 82,
-        "distribuidor": 69.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100316.png",
-      "imagen_size": 70823,
-      "activo": true
-    },
-    {
       "sku": "741540189055",
       "nombre": "CILINDRO COMPLETO CB1 / CBF125 TWISTER PIN12-125CC VINI(FL)",
       "marca": "VINI",
@@ -20783,7 +20762,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30422,7 +30401,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30800,7 +30779,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30947,7 +30926,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31472,7 +31451,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 16,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31857,27 +31836,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003508.jpg",
       "imagen_size": 379001,
-      "activo": true
-    },
-    {
-      "sku": "1001579",
-      "nombre": "PATA ARRANQUE  CGL/CG125 UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001579.png",
-      "imagen_size": 9149,
       "activo": true
     },
     {
@@ -32480,7 +32438,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34958,7 +34916,7 @@
         "taller": 28.75,
         "distribuidor": 24.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36113,7 +36071,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42266,7 +42224,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42675,27 +42633,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 9,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42709,6 +42646,27 @@
       },
       "stock": 3,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
