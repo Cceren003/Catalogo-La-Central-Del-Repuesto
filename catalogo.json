@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T17:37:39.068Z",
-  "count": 5657,
+  "generated_at": "2026-08-08T21:37:34.060Z",
+  "count": 5655,
   "productos": [
     {
       "sku": "LM120106",
@@ -2345,7 +2345,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11774,7 +11774,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17507,7 +17507,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26253,27 +26253,6 @@
       "activo": true
     },
     {
-      "sku": "1006332",
-      "nombre": "KIT RETROVISORES HONDA NAVI 110",
-      "marca": "MEK",
-      "categoria": "ESPEJOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006332.png",
-      "imagen_size": 24300,
-      "activo": true
-    },
-    {
       "sku": "741540188191",
       "nombre": "KIT ROLLER AUTOMATICO / MRT NIU 150 VINI",
       "marca": "VINI",
@@ -31472,7 +31451,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37173,27 +37152,6 @@
       "activo": true
     },
     {
-      "sku": "741540188751",
-      "nombre": "RETENEDOR 12X22X5",
-      "marca": "VINI",
-      "categoria": "RETENEDOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 2.5,
-        "taller": 2,
-        "distribuidor": 1.5
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188751.png",
-      "imagen_size": 120148,
-      "activo": true
-    },
-    {
       "sku": "741540188769",
       "nombre": "RETENEDOR 12X22X7",
       "marca": "VINI",
@@ -37499,7 +37457,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 16,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40019,7 +39977,7 @@
         "taller": 3.5,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41552,7 +41510,7 @@
         "taller": 8.25,
         "distribuidor": 7.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
