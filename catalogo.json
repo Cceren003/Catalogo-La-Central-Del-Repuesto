@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:47:25.063Z",
+  "generated_at": "2026-08-08T13:50:30.570Z",
   "count": 5661,
   "productos": [
     {
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 82,
+      "stock": 80,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 75,
+      "stock": 62,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -413,7 +413,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 28,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 8,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2597,7 +2597,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8823,27 +8823,6 @@
       "activo": true
     },
     {
-      "sku": "1002338",
-      "nombre": "CARBURADOR FZ16/YAMAHA FZ16",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 68,
-        "taller": 55,
-        "distribuidor": 47
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002338.png",
-      "imagen_size": 15501,
-      "activo": true
-    },
-    {
       "sku": "1003034",
       "nombre": "CARBURADOR GN125 APACHE 160-180",
       "marca": "MEK",
@@ -9023,7 +9002,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 9,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9086,7 +9065,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11795,7 +11774,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17465,7 +17444,7 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18683,8 +18662,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30338,7 +30317,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 16,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31248,6 +31227,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/BP032.jpg",
       "imagen_size": 8462,
+      "activo": true
+    },
+    {
+      "sku": "BP033",
+      "nombre": "PASTILLA FRENO MT 03 / YZF R3 (TRASERAS)",
+      "marca": "NRP",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 5,
+        "distribuidor": 4
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/BP033.jpg",
+      "imagen_size": 4310,
       "activo": true
     },
     {
@@ -33971,8 +33971,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -38444,7 +38444,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38465,8 +38465,8 @@
         "taller": 1,
         "distribuidor": 0.75
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -42413,7 +42413,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
