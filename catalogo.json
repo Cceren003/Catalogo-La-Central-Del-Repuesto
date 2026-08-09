@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T21:37:34.060Z",
-  "count": 5655,
+  "generated_at": "2026-08-09T13:53:51.746Z",
+  "count": 5654,
   "productos": [
     {
       "sku": "LM120106",
@@ -3836,7 +3836,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 36,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6713,7 +6713,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7469,7 +7469,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 50,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9891,27 +9891,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RS089",
-      "nombre": "CATARINA 40T MOTO CHINA CON CENTRO DE YBR125",
-      "marca": "NRP",
-      "categoria": "KIT TRACCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 7.5,
-        "distribuidor": 6.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS089.jpg",
-      "imagen_size": 11806,
       "activo": true
     },
     {
@@ -14861,7 +14840,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 68,
+      "stock": 67,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22904,7 +22883,7 @@
         "taller": 20,
         "distribuidor": 17
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25487,7 +25466,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25571,7 +25550,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32711,7 +32690,7 @@
         "taller": 8.75,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36890,7 +36869,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 39,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
