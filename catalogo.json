@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T21:50:38.343Z",
-  "count": 5657,
+  "generated_at": "2026-08-11T14:22:49.507Z",
+  "count": 5655,
   "productos": [
     {
       "sku": "LM120106",
@@ -14,7 +14,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 37,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -434,7 +434,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 38,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -686,7 +686,7 @@
         "taller": 12,
         "distribuidor": 10
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2156,7 +2156,7 @@
         "taller": 20.25,
         "distribuidor": 17.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2481,7 +2481,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2502,7 +2502,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -4214,7 +4214,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4970,7 +4970,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5348,7 +5348,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6377,8 +6377,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6587,7 +6587,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6629,7 +6629,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6650,7 +6650,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7490,7 +7490,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 49,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8624,7 +8624,7 @@
         "taller": 1.75,
         "distribuidor": 1.35
       },
-      "stock": 12,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9905,7 +9905,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10010,7 +10010,7 @@
         "taller": 10.25,
         "distribuidor": 9
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10346,7 +10346,7 @@
         "taller": 8.25,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12789,27 +12789,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189349.png",
       "imagen_size": 89016,
-      "activo": true
-    },
-    {
-      "sku": "741540187992",
-      "nombre": "CIGUEÑAL COMPLETO SL150-9 PIN15 SIN CONTRAPESA (CG125/CG150) VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 81.25,
-        "taller": 65,
-        "distribuidor": 55.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540187992.png",
-      "imagen_size": 83175,
       "activo": true
     },
     {
@@ -20006,7 +19985,7 @@
         "taller": 0.3,
         "distribuidor": 0.2
       },
-      "stock": 77,
+      "stock": 75,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21717,27 +21696,6 @@
       "activo": true
     },
     {
-      "sku": "741540189758",
-      "nombre": "HERRAMIENTA VINI DESTORNI- IMPACTO UNIVERSAL",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 27,
-        "taller": 22,
-        "distribuidor": 19
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189758.png",
-      "imagen_size": 93888,
-      "activo": true
-    },
-    {
       "sku": "741540189799",
       "nombre": "HERRAMIENTA VINI DESTORNILLADOR 6*150-",
       "marca": "VINI",
@@ -23051,8 +23009,8 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -24374,7 +24332,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26936,7 +26894,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27398,7 +27356,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28805,7 +28763,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 40,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37016,7 +36974,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 37,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37835,7 +37793,7 @@
         "taller": 3,
         "distribuidor": 2
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42633,27 +42591,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42667,6 +42604,27 @@
       },
       "stock": 9,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
