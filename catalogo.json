@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:00:41.975Z",
-  "count": 5654,
+  "generated_at": "2026-08-11T21:56:33.566Z",
+  "count": 5645,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 50,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1190,7 +1190,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1232,7 +1232,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1484,7 +1484,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1764,27 +1764,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1005708",
-      "nombre": "BALERO MEK PRO 6301 2RS/NAGA200",
-      "marca": "MEK",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3,
-        "taller": 2.25,
-        "distribuidor": 1.75
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005708.png",
-      "imagen_size": 27592,
       "activo": true
     },
     {
@@ -2345,7 +2324,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2481,7 +2460,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2502,7 +2481,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -3647,7 +3626,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 41,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3794,7 +3773,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3822,27 +3801,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001105.jpg",
       "imagen_size": 123618,
-      "activo": true
-    },
-    {
-      "sku": "1003042",
-      "nombre": "BUJIA CR7HSA CUELLO CORTO",
-      "marca": "MEK",
-      "categoria": "BUJIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3,
-        "taller": 2.25,
-        "distribuidor": 1.75
-      },
-      "stock": 10,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003042.png",
-      "imagen_size": 7471,
       "activo": true
     },
     {
@@ -4256,8 +4214,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4340,7 +4298,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4466,7 +4424,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4508,7 +4466,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4956,27 +4914,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540191029",
-      "nombre": "CABLE ACELERADOR X-BLADE 160",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540191029.png",
-      "imagen_size": 53916,
       "activo": true
     },
     {
@@ -5621,7 +5558,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6293,7 +6230,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 75,
+      "stock": 79,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8519,7 +8456,7 @@
         "taller": 15.25,
         "distribuidor": 13.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11774,7 +11711,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11921,7 +11858,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14672,7 +14609,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14714,7 +14651,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15155,7 +15092,7 @@
         "taller": 15,
         "distribuidor": 12.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17654,7 +17591,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18238,7 +18175,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.75,
+        "publico": 9,
         "taller": 6,
         "distribuidor": 5.25
       },
@@ -18249,27 +18186,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189342.png",
       "imagen_size": 114499,
-      "activo": true
-    },
-    {
-      "sku": "990560288119",
-      "nombre": "FILTRO AIRE CB 190R",
-      "marca": "MEK",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 5.5,
-        "distribuidor": 4.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -18315,24 +18231,24 @@
       "activo": true
     },
     {
-      "sku": "741540189185",
-      "nombre": "FILTRO AIRE CBF125 VINI",
-      "marca": "VINI",
+      "sku": "990560288119",
+      "nombre": "FILTRO AIRE CB190R-CB160-XBLADE",
+      "marca": "MEK",
       "categoria": "FILTROS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 9,
-        "taller": 6,
-        "distribuidor": 5.25
+        "publico": 8,
+        "taller": 5.5,
+        "distribuidor": 4.75
       },
       "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189185.png",
-      "imagen_size": 121880,
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -19754,7 +19670,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 17,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23975,8 +23891,8 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29592,27 +29508,6 @@
       "activo": true
     },
     {
-      "sku": "741540189682",
-      "nombre": "MONOSHOCK CRF230 VINI",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 102,
-        "taller": 101.5,
-        "distribuidor": 87.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189682.png",
-      "imagen_size": 103868,
-      "activo": true
-    },
-    {
       "sku": "741540185015",
       "nombre": "MONOSHOCK DAKAR 200",
       "marca": "VINI",
@@ -29697,27 +29592,6 @@
       "activo": true
     },
     {
-      "sku": "741540189159",
-      "nombre": "MONOSHOCK NAGA 200 VINI",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 94.75,
-        "taller": 77.5,
-        "distribuidor": 66.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189159.png",
-      "imagen_size": 115543,
-      "activo": true
-    },
-    {
       "sku": "741540100001",
       "nombre": "MONOSHOCK NXR-BROSS 125 VINI (FL)",
       "marca": "VINI",
@@ -29757,27 +29631,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190237.png",
       "imagen_size": 88000,
-      "activo": true
-    },
-    {
-      "sku": "741540189150",
-      "nombre": "MONOSHOCK YARA200-NAGA200 VINI",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 112,
-        "taller": 81.75,
-        "distribuidor": 70.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189150.png",
-      "imagen_size": 61671,
       "activo": true
     },
     {
@@ -30254,7 +30107,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30275,7 +30128,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 14,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30317,7 +30170,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30716,8 +30569,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30779,7 +30632,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30821,7 +30674,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 32,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31314,27 +31167,6 @@
       "activo": true
     },
     {
-      "sku": "741540188259",
-      "nombre": "PASTILLA FRENO SPITZER/VOPER150/RT200",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.25,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188259.png",
-      "imagen_size": 119776,
-      "activo": true
-    },
-    {
       "sku": "741540188986",
       "nombre": "PASTILLA FRENO SZ 150D",
       "marca": "VINI",
@@ -31430,7 +31262,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31986,27 +31818,6 @@
       "activo": true
     },
     {
-      "sku": "1006642",
-      "nombre": "PATA CAMBIO HUNK 150-190R",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540190136",
       "nombre": "PATA FRENO APACHE RTR 160-180",
       "marca": "VINI",
@@ -32102,7 +31913,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32123,7 +31934,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34370,7 +34181,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35399,8 +35210,8 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -37940,7 +37751,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 24,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40775,7 +40586,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
