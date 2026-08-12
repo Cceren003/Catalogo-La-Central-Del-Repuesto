@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:00:25.728Z",
+  "generated_at": "2026-08-12T21:54:29.316Z",
   "count": 5645,
   "productos": [
     {
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 30,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -770,7 +770,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4214,7 +4214,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19229,7 +19229,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 49,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22295,7 +22295,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27902,7 +27902,7 @@
         "taller": 22,
         "distribuidor": 19.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31262,7 +31262,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32522,8 +32522,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36029,7 +36029,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37331,7 +37331,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42381,27 +42381,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42415,6 +42394,27 @@
       },
       "stock": 9,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
