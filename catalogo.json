@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T21:56:33.566Z",
-  "count": 5645,
+  "generated_at": "2026-08-12T14:22:55.093Z",
+  "count": 5643,
   "productos": [
     {
       "sku": "LM120106",
@@ -1526,7 +1526,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2460,7 +2460,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2481,7 +2481,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -5568,27 +5568,6 @@
       "activo": true
     },
     {
-      "sku": "741540188506",
-      "nombre": "CABLE CLUTCH NAGA VINI(FL)",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.25,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 6,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188506.png",
-      "imagen_size": 64621,
-      "activo": true
-    },
-    {
       "sku": "741540190616",
       "nombre": "CABLE CLUTCH PULSAR 125NS",
       "marca": "VINI",
@@ -6510,27 +6489,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100475.png",
       "imagen_size": 58805,
-      "activo": true
-    },
-    {
-      "sku": "741540100514",
-      "nombre": "CABLE VELOCIMETRO GN-FREEDOM 125 125H",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100514.png",
-      "imagen_size": 68974,
       "activo": true
     },
     {
@@ -9023,7 +8981,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14651,7 +14609,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17612,7 +17570,7 @@
         "taller": 14,
         "distribuidor": 12.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17948,8 +17906,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -24500,7 +24458,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29498,7 +29456,7 @@
         "taller": 69,
         "distribuidor": 63
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34454,7 +34412,7 @@
         "taller": 22.25,
         "distribuidor": 19.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41048,7 +41006,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42381,27 +42339,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 9,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -42415,6 +42352,27 @@
       },
       "stock": 3,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
