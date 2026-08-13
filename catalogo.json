@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T14:24:52.095Z",
-  "count": 5701,
+  "generated_at": "2026-08-13T18:00:22.892Z",
+  "count": 5727,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 88,
+      "stock": 87,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 119,
+      "stock": 117,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1253,7 +1253,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1505,7 +1505,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3836,7 +3836,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 32,
+      "stock": 62,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3878,8 +3878,8 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 62,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3899,8 +3899,8 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3920,8 +3920,8 @@
         "taller": 9.5,
         "distribuidor": 9
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3941,7 +3941,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4214,8 +4214,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 16,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4256,8 +4256,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 21,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4634,8 +4634,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 17,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5327,7 +5327,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5631,6 +5631,27 @@
       "activo": true
     },
     {
+      "sku": "741540188506",
+      "nombre": "CABLE CLUTCH NAGA VINI(FL)",
+      "marca": "VINI",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.25,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 15,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188506.png",
+      "imagen_size": 64621,
+      "activo": true
+    },
+    {
       "sku": "741540190616",
       "nombre": "CABLE CLUTCH PULSAR 125NS",
       "marca": "VINI",
@@ -5705,8 +5726,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6272,7 +6293,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 45,
+      "stock": 145,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6671,7 +6692,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8319,6 +8340,27 @@
       "activo": true
     },
     {
+      "sku": "741540190571",
+      "nombre": "CALIPER FRENO DELANTERO CR150/CG125/R2-250",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 34.75,
+        "taller": 27.25,
+        "distribuidor": 23.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190571.png",
+      "imagen_size": 111498,
+      "activo": true
+    },
+    {
       "sku": "741540190539",
       "nombre": "CALIPER FRENO DELANTERO XR150L-190L",
       "marca": "VINI",
@@ -8498,7 +8540,7 @@
         "taller": 15.25,
         "distribuidor": 13.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8925,6 +8967,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003575.jpg",
       "imagen_size": 356637,
+      "activo": true
+    },
+    {
+      "sku": "1002590",
+      "nombre": "CARBURADOR GY6 150 SCOOTER",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 44.5,
+        "taller": 28,
+        "distribuidor": 25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002590.png",
+      "imagen_size": 39414,
       "activo": true
     },
     {
@@ -13233,27 +13296,6 @@
       "activo": true
     },
     {
-      "sku": "741540188286",
-      "nombre": "CENTRO CLUTCH YBR125",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30.75,
-        "taller": 23,
-        "distribuidor": 19.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188286.png",
-      "imagen_size": 150439,
-      "activo": true
-    },
-    {
       "sku": "741540189406",
       "nombre": "CIGUEÑAL AVATAR 200-DSR200 PIN16 VINI(FL)",
       "marca": "VINI",
@@ -13335,6 +13377,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189349.png",
       "imagen_size": 89016,
+      "activo": true
+    },
+    {
+      "sku": "741540187992",
+      "nombre": "CIGUEÑAL COMPLETO SL150-9 PIN15 SIN CONTRAPESA (CG125/CG150) VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 81.25,
+        "taller": 65,
+        "distribuidor": 55.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540187992.png",
+      "imagen_size": 83175,
       "activo": true
     },
     {
@@ -13779,6 +13842,27 @@
       "activo": true
     },
     {
+      "sku": "741540189426",
+      "nombre": "CILINDRO COMPLETO DRACO 250 PIN 17 VINI",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 109.25,
+        "taller": 87.25,
+        "distribuidor": 75.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189426.png",
+      "imagen_size": 87943,
+      "activo": true
+    },
+    {
       "sku": "741540100101",
       "nombre": "CILINDRO COMPLETO DSF200-AKT TT200 VARILLA PIN16 198CC VINI (FL)",
       "marca": "VINI",
@@ -13818,6 +13902,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100794.png",
       "imagen_size": 85711,
+      "activo": true
+    },
+    {
+      "sku": "741540189322",
+      "nombre": "CILINDRO COMPLETO FALCON 250-CR4-UM XTREET 250-SPITZER 250 KARISMA 230 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 105,
+        "taller": 78,
+        "distribuidor": 66.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189322.png",
+      "imagen_size": 89180,
       "activo": true
     },
     {
@@ -15564,6 +15669,27 @@
       "activo": true
     },
     {
+      "sku": "741540189217",
+      "nombre": "DISCO FRENO CBF125-150-HUNK-CR4 TRASERO VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 32,
+        "taller": 23,
+        "distribuidor": 19.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189217.png",
+      "imagen_size": 113222,
+      "activo": true
+    },
+    {
       "sku": "741540190247",
       "nombre": "DISCO FRENO DEFENDER TRAS. VINI",
       "marca": "VINI",
@@ -15627,6 +15753,27 @@
       "activo": true
     },
     {
+      "sku": "1006118",
+      "nombre": "DISCO FRENO DELANTERO   NAGA200 2018",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22,
+        "taller": 17,
+        "distribuidor": 13.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006118.png",
+      "imagen_size": 27613,
+      "activo": true
+    },
+    {
       "sku": "1006071",
       "nombre": "DISCO FRENO DELANTERO   YARA200",
       "marca": "MEK",
@@ -15687,6 +15834,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001158.jpg",
       "imagen_size": 158449,
+      "activo": true
+    },
+    {
+      "sku": "1006119",
+      "nombre": "DISCO FRENO DELANTERO NAGA200 / DAYUN150-200 / SPITZER200",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22,
+        "taller": 15,
+        "distribuidor": 12.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -15816,6 +15984,27 @@
       "activo": true
     },
     {
+      "sku": "1000354",
+      "nombre": "DISCO FRENO DELANTERO YBR125G",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22,
+        "taller": 15,
+        "distribuidor": 12.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000354.jpg",
+      "imagen_size": 16914,
+      "activo": true
+    },
+    {
       "sku": "741540188251",
       "nombre": "DISCO FRENO DISCOVER 125 ES VINI(FL)",
       "marca": "VINI",
@@ -15897,6 +16086,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190254.png",
       "imagen_size": 117933,
+      "activo": true
+    },
+    {
+      "sku": "741540189207",
+      "nombre": "DISCO FRENO HUNK DELANTERO VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 35.5,
+        "taller": 28.5,
+        "distribuidor": 23.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189207.png",
+      "imagen_size": 145001,
       "activo": true
     },
     {
@@ -16961,7 +17171,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17381,8 +17591,8 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 10,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -17969,7 +18179,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18557,8 +18767,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18777,6 +18987,27 @@
       "activo": true
     },
     {
+      "sku": "1003226",
+      "nombre": "FILTRO AIRE BROS TODO TERRENO",
+      "marca": "MEK",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 4.5,
+        "distribuidor": 4
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003226.png",
+      "imagen_size": 36117,
+      "activo": true
+    },
+    {
       "sku": "741540189342",
       "nombre": "FILTRO AIRE CB 160F-UNICOR-XBLADE / REPSOL 190 VINI(FL)",
       "marca": "VINI",
@@ -18788,8 +19019,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18893,7 +19124,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 6,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19271,7 +19502,7 @@
         "taller": 6,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19922,8 +20153,8 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 18,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20090,7 +20321,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 23,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20447,7 +20678,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 54,
+      "stock": 89,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21791,8 +22022,8 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -22001,7 +22232,7 @@
         "taller": 5,
         "distribuidor": 3.25
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22442,7 +22673,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22484,7 +22715,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23439,6 +23670,27 @@
       "activo": true
     },
     {
+      "sku": "741540188216",
+      "nombre": "KIT BALANCIN HUNK/XR150L / BENELLI 150 / DY200",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 28,
+        "taller": 20,
+        "distribuidor": 17
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188216.png",
+      "imagen_size": 96798,
+      "activo": true
+    },
+    {
       "sku": "741540189896",
       "nombre": "KIT BALANCIN HUNK200/XPULSE200 VINI(FL)",
       "marca": "VINI",
@@ -23478,6 +23730,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540189097",
+      "nombre": "KIT BALANCIN NAGA200/FORZA150/DEFENDER200",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 20.25,
+        "taller": 14.5,
+        "distribuidor": 12.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189097.png",
+      "imagen_size": 66061,
       "activo": true
     },
     {
@@ -23583,6 +23856,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189553.png",
       "imagen_size": 112481,
+      "activo": true
+    },
+    {
+      "sku": "741540188802",
+      "nombre": "KIT BALANCIN PULSAR 200NS",
+      "marca": "MOTUL",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188802.png",
+      "imagen_size": 90366,
       "activo": true
     },
     {
@@ -23851,6 +24145,27 @@
       },
       "stock": 7,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1009008",
+      "nombre": "KIT BUSHING MASA METAL C/TORNILLO",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 5,
+        "distribuidor": 4
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -25655,7 +25970,7 @@
         "taller": 9.5,
         "distribuidor": 8.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25914,6 +26229,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190120.jpg",
       "imagen_size": 10782,
+      "activo": true
+    },
+    {
+      "sku": "1000816",
+      "nombre": "KIT ESPARRAGOS ESCAPE 5.8MM UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 2.5,
+        "taller": 2,
+        "distribuidor": 1.5
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000816.jpg",
+      "imagen_size": 52862,
       "activo": true
     },
     {
@@ -26376,6 +26712,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100820.png",
       "imagen_size": 76463,
+      "activo": true
+    },
+    {
+      "sku": "1002438",
+      "nombre": "KIT PERNOS DE CATARINA UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3.5,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 8,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002438.png",
+      "imagen_size": 41928,
       "activo": true
     },
     {
@@ -27069,6 +27426,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1006332",
+      "nombre": "KIT RETROVISORES HONDA NAVI 110",
+      "marca": "MEK",
+      "categoria": "ESPEJOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9,
+        "taller": 6,
+        "distribuidor": 5.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006332.png",
+      "imagen_size": 24300,
       "activo": true
     },
     {
@@ -28941,27 +29319,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-0703-22",
-      "nombre": "LLANTA AXUS 275-18 LISA AX4418 REFORZADA",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 37,
-        "taller": 25,
-        "distribuidor": 23
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0703-22.png",
-      "imagen_size": 84066,
-      "activo": true
-    },
-    {
       "sku": "LA1A-0901-22",
       "nombre": "LLANTA AXUS 300-17LISA AX1155 6PR TL TUBULAR TL TUBULAR",
       "marca": "AXUS",
@@ -29141,7 +29498,7 @@
         "taller": 32.5,
         "distribuidor": 30
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29267,7 +29624,7 @@
         "taller": 25,
         "distribuidor": 22.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29358,6 +29715,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1001515",
+      "nombre": "LLAVIN IGNICIO CG125 XL 125 GXT200",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 4,
+        "distribuidor": 3.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001515.png",
+      "imagen_size": 38196,
       "activo": true
     },
     {
@@ -29949,6 +30327,27 @@
       "activo": true
     },
     {
+      "sku": "1001701",
+      "nombre": "MANECILLAS DE ALUMINIO UNIVERSAL AZUL MEK",
+      "marca": "MEK",
+      "categoria": "ACCESORIOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 30,
+        "taller": 25,
+        "distribuidor": 23
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001701.png",
+      "imagen_size": 19353,
+      "activo": true
+    },
+    {
       "sku": "741540100718",
       "nombre": "MANGOS SET XL-42 NORMAL (NEGRO) VINI(FL)",
       "marca": "VINI",
@@ -29960,7 +30359,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30072,6 +30471,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004819.png",
       "imagen_size": 33367,
+      "activo": true
+    },
+    {
+      "sku": "1004818",
+      "nombre": "MANGUERA FRENOS CORTA TRASERA  UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 5,
+        "distribuidor": 4.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004818.png",
+      "imagen_size": 35155,
       "activo": true
     },
     {
@@ -30569,8 +30989,8 @@
         "taller": 69,
         "distribuidor": 63
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30681,6 +31101,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189159.png",
       "imagen_size": 115543,
+      "activo": true
+    },
+    {
+      "sku": "1006127",
+      "nombre": "MONOSHOCK NAGA200 / SERPENTO NAGA",
+      "marca": "MOTUL",
+      "categoria": "SUSPENCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 45,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006127.jpg",
+      "imagen_size": 49822,
       "activo": true
     },
     {
@@ -31346,8 +31787,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31409,8 +31850,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31451,7 +31892,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 11,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31871,7 +32312,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32403,6 +32844,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189576.png",
       "imagen_size": 106266,
+      "activo": true
+    },
+    {
+      "sku": "741540188259",
+      "nombre": "PASTILLA FRENO SPITZER/VOPER150/RT200",
+      "marca": "VINI",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5.25,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 20,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188259.png",
+      "imagen_size": 119776,
       "activo": true
     },
     {
@@ -37425,6 +37887,27 @@
       "activo": true
     },
     {
+      "sku": "1000605",
+      "nombre": "REGULADOR DE CADENA 125 GN-150 MEK",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 3.25,
+        "distribuidor": 2.75
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000605.jpg",
+      "imagen_size": 227397,
+      "activo": true
+    },
+    {
       "sku": "1000606",
       "nombre": "REGULADOR DE CADENA CG125",
       "marca": "MEK",
@@ -37436,8 +37919,8 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -37982,7 +38465,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39546,6 +40029,27 @@
       "activo": true
     },
     {
+      "sku": "1001625",
+      "nombre": "RIN TRASERO COMPLETO BROSS CHINA TODO TERRENO 2.15-17",
+      "marca": "MEK",
+      "categoria": "ACCESORIOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 115,
+        "taller": 78,
+        "distribuidor": 68
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001625.jpg",
+      "imagen_size": 276918,
+      "activo": true
+    },
+    {
       "sku": "2000019",
       "nombre": "RIN TRASERO GN150/FIRE125/ MOTO CHINA 125-150",
       "marca": "MEK",
@@ -39683,8 +40187,8 @@
         "taller": 1,
         "distribuidor": 0.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 53,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40680,6 +41184,27 @@
       "activo": true
     },
     {
+      "sku": "1000347",
+      "nombre": "SET RAYOS DELANTEROS 1.85*19 TODOTERRENO",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 10,
+        "taller": 6,
+        "distribuidor": 5
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000347.jpg",
+      "imagen_size": 60315,
+      "activo": true
+    },
+    {
       "sku": "1002917",
       "nombre": "SET RAYOS TRASEROS 1.85*18 TODOTERRENO",
       "marca": "MEK",
@@ -41321,8 +41846,8 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -41489,7 +42014,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41940,6 +42465,27 @@
       "activo": true
     },
     {
+      "sku": "1005966",
+      "nombre": "SWITCH IGNICION KEEWAY RKS150 FIRE",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9,
+        "taller": 6.5,
+        "distribuidor": 5.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189089",
       "nombre": "SWITCH IGNICION NAGA 200 / ASPID 150",
       "marca": "VINI",
@@ -42339,6 +42885,27 @@
       "activo": true
     },
     {
+      "sku": "35200K",
+      "nombre": "SWITCH LUCES CBF160F",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 15,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1001004",
       "nombre": "SWITCH LUCES LH  DAKAR200 TODOTERRENO",
       "marca": "MEK",
@@ -42413,8 +42980,8 @@
         "taller": 5.5,
         "distribuidor": 4.5
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -42581,7 +43148,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42833,13 +43400,34 @@
         "taller": 8.25,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000547.jpg",
       "imagen_size": 251143,
+      "activo": true
+    },
+    {
+      "sku": "1000551",
+      "nombre": "TAPON TANQUE COMBUSTIBLE CG125/150",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 5,
+        "distribuidor": 4.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000551.jpg",
+      "imagen_size": 501074,
       "activo": true
     },
     {
@@ -42948,6 +43536,27 @@
       "activo": true
     },
     {
+      "sku": "1004454",
+      "nombre": "TAPON TANQUE GN125",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 4,
+        "distribuidor": 3.5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004454.png",
+      "imagen_size": 23194,
+      "activo": true
+    },
+    {
       "sku": "741540191206",
       "nombre": "TAPON TANQUE PULSAR 125NS VINI",
       "marca": "VINI",
@@ -43022,7 +43631,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43830,6 +44439,48 @@
       "activo": true
     },
     {
+      "sku": "1005327",
+      "nombre": "VALVULA LLANTA RADIAL CROMADA UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 1.5,
+        "taller": 1,
+        "distribuidor": 0.85
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005327.png",
+      "imagen_size": 22889,
+      "activo": true
+    },
+    {
+      "sku": "1005322-2",
+      "nombre": "VALVULA LLANTA RADIAL ROJA UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 1.5,
+        "taller": 1,
+        "distribuidor": 0.8
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -43932,6 +44583,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003335.png",
       "imagen_size": 7995,
+      "activo": true
+    },
+    {
+      "sku": "1000181",
+      "nombre": "VARILLA FRENO CG125-150 / MOTOS 125 PEQUEÑAS",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000181.jpg",
+      "imagen_size": 35619,
       "activo": true
     },
     {
@@ -77426,28 +78098,6 @@
       "activo": true
     },
     {
-      "sku": "741540188802",
-      "nombre": "KIT BALANCIN PULSAR 200NS VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188802.png",
-      "imagen_size": 90366,
-      "activo": true
-    },
-    {
       "sku": "741540190798",
       "nombre": "KIT BALANCIN SL125/CG125 VINI",
       "marca": "VINI",
@@ -108248,28 +108898,6 @@
       "activo": true
     },
     {
-      "sku": "1001625",
-      "nombre": "17\" RIN TRASERO COMPLETO BROSS CHINA TODO TERRENO 2.15-17",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1001625.jpg",
-      "imagen_size": 276918,
-      "activo": true
-    },
-    {
       "sku": "1006605",
       "nombre": "Kit protector manecillas negro",
       "marca": "MEK",
@@ -112780,28 +113408,6 @@
       "activo": true
     },
     {
-      "sku": "1000347",
-      "nombre": "SET RAYOS DELANTEROS 1.85X19 TODOTERRENO",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1000347.jpg",
-      "imagen_size": 60315,
-      "activo": true
-    },
-    {
       "sku": "1004266",
       "nombre": "BUFA DELANTERA GXT200TX200/GENESIS GXT200",
       "marca": "MEK",
@@ -113393,28 +113999,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1003080.jpg",
       "imagen_size": 147095,
-      "activo": true
-    },
-    {
-      "sku": "1006127",
-      "nombre": "MONOSHOCK NAGA200/SERPENTO NAGA",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1006127.jpg",
-      "imagen_size": 49822,
       "activo": true
     },
     {
@@ -115901,28 +116485,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1001073.jpg",
       "imagen_size": 109938,
-      "activo": true
-    },
-    {
-      "sku": "1000181",
-      "nombre": "VARILLA FRENO CG125/CG150 ASPID FIRE WY125 MOTOS 125 PEQUENAS",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1000181.jpg",
-      "imagen_size": 35619,
       "activo": true
     },
     {
@@ -121291,28 +121853,6 @@
       "fuente": "MEK",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1001701",
-      "nombre": "KIT MANECILLAS ALUMINIO AZUL UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1001701.png",
-      "imagen_size": 19353,
       "activo": true
     },
     {
