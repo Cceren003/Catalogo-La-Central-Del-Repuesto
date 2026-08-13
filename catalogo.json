@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T18:00:22.892Z",
-  "count": 5727,
+  "generated_at": "2026-08-13T21:54:15.872Z",
+  "count": 5725,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 117,
+      "stock": 116,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4949,7 +4949,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6293,7 +6293,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 145,
+      "stock": 135,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7511,7 +7511,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 36,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14462,7 +14462,7 @@
         "taller": 40,
         "distribuidor": 34
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15309,27 +15309,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189145.png",
       "imagen_size": 190754,
-      "activo": true
-    },
-    {
-      "sku": "741540188185",
-      "nombre": "DISCO CLUTCH SET HUNK VINI(FL)",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12.5,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188185.png",
-      "imagen_size": 211664,
       "activo": true
     },
     {
@@ -16275,27 +16254,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/BD021.jpg",
       "imagen_size": 10549,
-      "activo": true
-    },
-    {
-      "sku": "741540190711",
-      "nombre": "DISCO FRENO TRASERO CB190R",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 28,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190711.png",
-      "imagen_size": 66253,
       "activo": true
     },
     {
@@ -19019,8 +18977,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21518,7 +21476,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25487,7 +25445,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26915,7 +26873,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32669,7 +32627,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32879,8 +32837,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36029,7 +35987,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 22,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41468,7 +41426,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41825,7 +41783,7 @@
         "taller": 3.5,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42770,7 +42728,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
