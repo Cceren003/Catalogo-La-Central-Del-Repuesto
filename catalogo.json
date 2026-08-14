@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T21:54:15.872Z",
+  "generated_at": "2026-08-14T14:18:20.819Z",
   "count": 5725,
   "productos": [
     {
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 116,
+      "stock": 115,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3941,7 +3941,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6986,7 +6986,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18683,8 +18683,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20636,7 +20636,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 89,
+      "stock": 88,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29981,7 +29981,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32501,7 +32501,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44825,10 +44825,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 13,
-        "taller": 9.75,
+        "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
