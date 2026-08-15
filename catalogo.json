@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:36:03.976Z",
+  "generated_at": "2026-08-15T17:26:57.710Z",
   "count": 5718,
   "productos": [
     {
@@ -98,7 +98,7 @@
         "taller": 7.7,
         "distribuidor": 7.5
       },
-      "stock": 114,
+      "stock": 95,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1190,7 +1190,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3605,7 +3605,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4109,7 +4109,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5390,7 +5390,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17591,7 +17591,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24794,7 +24794,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26471,10 +26471,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 0,
-        "taller": 0,
+        "taller": 4.5,
         "distribuidor": 0
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26569,7 +26569,7 @@
     },
     {
       "sku": "741540100820",
-      "nombre": "KIT MEDIO SL150-SPITZER200-SMX200 VINI(RC)",
+      "nombre": "KIT MEDIO SL150-SPITZER200-SMX200-FXR200 VINI(RC)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -28973,7 +28973,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29372,7 +29372,7 @@
         "taller": 32.5,
         "distribuidor": 30
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33379,9 +33379,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 23.25,
-        "taller": 14.25,
-        "distribuidor": 12.5
+        "publico": 24,
+        "taller": 16,
+        "distribuidor": 14.25
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -39935,7 +39935,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42791,8 +42791,8 @@
         "taller": 5.5,
         "distribuidor": 4.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
