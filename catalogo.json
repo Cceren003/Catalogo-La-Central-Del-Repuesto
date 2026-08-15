@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T21:31:32.800Z",
-  "count": 5719,
+  "generated_at": "2026-08-15T13:36:03.976Z",
+  "count": 5718,
   "productos": [
     {
       "sku": "LM120106",
@@ -14,7 +14,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 36,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4256,7 +4256,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 21,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5348,7 +5348,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7490,7 +7490,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 41,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7574,8 +7574,8 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20258,7 +20258,7 @@
         "taller": 2.5,
         "distribuidor": 2.2
       },
-      "stock": 24,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21399,27 +21399,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189787.png",
       "imagen_size": 115129,
-      "activo": true
-    },
-    {
-      "sku": "741540140574",
-      "nombre": "HERRAMIENTA CORTADOR CADENA VINI",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11.25,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540140574.png",
-      "imagen_size": 61522,
       "activo": true
     },
     {
