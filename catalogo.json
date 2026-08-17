@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T17:33:45.646Z",
-  "count": 5713,
+  "generated_at": "2026-08-17T21:32:03.966Z",
+  "count": 5708,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 75,
+      "stock": 74,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 88,
+      "stock": 76,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5810,7 +5810,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6293,7 +6293,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 135,
+      "stock": 129,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8256,27 +8256,6 @@
       "activo": true
     },
     {
-      "sku": "741540190677",
-      "nombre": "CALIPER FRENO CB150 INVICTA-SERPENTO RAPTOR-CR4-MK1",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 53,
-        "taller": 45,
-        "distribuidor": 37
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190677.png",
-      "imagen_size": 62040,
-      "activo": true
-    },
-    {
       "sku": "741540189968",
       "nombre": "CALIPER FRENO CB190R VINI(FL)",
       "marca": "VINI",
@@ -9340,27 +9319,6 @@
       },
       "stock": 12,
       "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "156892",
-      "nombre": "CASCO INTEGRAL SHAFT 526SP (L, MASTER OF THE SEA AZUL / ROJO)",
-      "marca": "SHAFT",
-      "categoria": "CASCOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 115,
-        "taller": 123,
-        "distribuidor": 112
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -13349,7 +13307,7 @@
         "taller": 65,
         "distribuidor": 55.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14210,7 +14168,7 @@
         "taller": 39,
         "distribuidor": 33.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14238,27 +14196,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189061.png",
       "imagen_size": 109781,
-      "activo": true
-    },
-    {
-      "sku": "741540139036",
-      "nombre": "CILINDRO COMPLETO VARILLA PIN15 SANLG FIRE-SL125-3C-CGL-VMEN VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 57.75,
-        "taller": 39,
-        "distribuidor": 33.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540139036.png",
-      "imagen_size": 92107,
       "activo": true
     },
     {
@@ -14367,24 +14304,24 @@
       "activo": true
     },
     {
-      "sku": "741540188546",
-      "nombre": "CLUTCH COMPLETO CG200-70 DIENTES 6 PERNOS VINI(RC)",
+      "sku": "741540111510",
+      "nombre": "CLUTCH COMPLETO CG 73 DIENTES VINI(RC)",
       "marca": "VINI",
       "categoria": "EMBRAGUE",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 48,
-        "taller": 39.75,
-        "distribuidor": 33.5
+        "publico": 52,
+        "taller": 40,
+        "distribuidor": 34
       },
       "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188546.png",
-      "imagen_size": 159984,
+      "imagen": "imagenes/741540111510.png",
+      "imagen_size": 144191,
       "activo": true
     },
     {
@@ -17727,27 +17664,6 @@
       "activo": true
     },
     {
-      "sku": "RMEMP-E-1-4/6",
-      "nombre": "EMPAQUES DE MOTOR KIT SMX150",
-      "marca": "KATANA",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 13,
-        "distribuidor": 10
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RMEMP-1712012312",
       "nombre": "EMPAQUES DE MOTOR KIT SMX200",
       "marca": "KATANA",
@@ -19376,7 +19292,7 @@
         "taller": 5.25,
         "distribuidor": 4.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36900,27 +36816,6 @@
       "activo": true
     },
     {
-      "sku": "1001281",
-      "nombre": "PRENSA CLUTCH COMPLETA  6T6D CG200 TODOTERRENO  70 DIENTES",
-      "marca": "MEK",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 45,
-        "taller": 29,
-        "distribuidor": 24.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001281.jpg",
-      "imagen_size": 1612048,
-      "activo": true
-    },
-    {
       "sku": "1000175",
       "nombre": "PRENSA CLUTCH CON 5 DISCOS / 5 TORNILLOS CG125-CG150",
       "marca": "MEK",
@@ -38402,7 +38297,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 34,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38738,7 +38633,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38969,7 +38864,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39410,7 +39305,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43484,7 +43379,7 @@
         "taller": 6,
         "distribuidor": 5.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44187,27 +44082,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -44221,6 +44095,27 @@
       },
       "stock": 9,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
