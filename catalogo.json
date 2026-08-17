@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:26:50.268Z",
+  "generated_at": "2026-08-17T13:44:45.518Z",
   "count": 5717,
   "productos": [
     {
@@ -2481,7 +2481,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2502,7 +2502,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
