@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T13:49:02.042Z",
-  "count": 5714,
+  "generated_at": "2026-08-18T17:33:54.286Z",
+  "count": 5711,
   "productos": [
     {
       "sku": "LM120106",
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 76,
+      "stock": 58,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5411,7 +5411,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6650,7 +6650,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7490,7 +7490,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 39,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9716,7 +9716,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12299,7 +12299,7 @@
         "taller": 18.5,
         "distribuidor": 16
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12341,8 +12341,8 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -12467,7 +12467,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23754,27 +23754,6 @@
       "activo": true
     },
     {
-      "sku": "741540189553",
-      "nombre": "KIT BALANCIN PULSAR 160NS",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 28,
-        "taller": 21,
-        "distribuidor": 18
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189553.png",
-      "imagen_size": 112481,
-      "activo": true
-    },
-    {
       "sku": "741540188802",
       "nombre": "KIT BALANCIN PULSAR 200NS",
       "marca": "MOTUL",
@@ -23807,7 +23786,7 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29067,27 +29046,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-3501-22",
-      "nombre": "LLANTA AXUS 110-70-17 LISA AX30F",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 41,
-        "taller": 30,
-        "distribuidor": 28
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3501-22.png",
-      "imagen_size": 68310,
-      "activo": true
-    },
-    {
       "sku": "LA1A-3502-22",
       "nombre": "LLANTA AXUS 110-80-17 LISA  AX30F 6PR TUBULAR",
       "marca": "AXUS",
@@ -29456,7 +29414,7 @@
         "taller": 39.5,
         "distribuidor": 37.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29582,7 +29540,7 @@
         "taller": 30,
         "distribuidor": 27
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34128,27 +34086,6 @@
       "activo": true
     },
     {
-      "sku": "741540189560",
-      "nombre": "PIDE VIA SET FIRE 150",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 8.75,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189560.png",
-      "imagen_size": 131587,
-      "activo": true
-    },
-    {
       "sku": "741540187955",
       "nombre": "PIDE VIA SET FZ16 VINI(FL)",
       "marca": "VINI",
@@ -35882,7 +35819,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 20,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38486,7 +38423,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 33,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39914,7 +39851,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39935,7 +39872,7 @@
         "taller": 1,
         "distribuidor": 0.75
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
