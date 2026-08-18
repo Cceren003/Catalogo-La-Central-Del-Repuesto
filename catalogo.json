@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T21:32:03.966Z",
-  "count": 5708,
+  "generated_at": "2026-08-18T13:49:02.042Z",
+  "count": 5714,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 74,
+      "stock": 146,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1925,7 +1925,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,8 +2303,8 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3710,7 +3710,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 34,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3731,7 +3731,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7154,8 +7154,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 15,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7511,7 +7511,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 30,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9170,7 +9170,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13569,6 +13569,48 @@
       "activo": true
     },
     {
+      "sku": "741540100316",
+      "nombre": "CILINDRO COMPLETO BROSS 150 XR150",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 97,
+        "taller": 82,
+        "distribuidor": 69.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100316.png",
+      "imagen_size": 70823,
+      "activo": true
+    },
+    {
+      "sku": "741540100530",
+      "nombre": "CILINDRO COMPLETO CADENILLA PIN15 GL145-FIRE150 ( DK150 ) VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 85,
+        "taller": 69.5,
+        "distribuidor": 59
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100530.png",
+      "imagen_size": 71508,
+      "activo": true
+    },
+    {
       "sku": "741540189055",
       "nombre": "CILINDRO COMPLETO CB1 / CBF125 TWISTER PIN12-125CC VINI(FL)",
       "marca": "VINI",
@@ -13629,6 +13671,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100043.png",
       "imagen_size": 83813,
+      "activo": true
+    },
+    {
+      "sku": "741540100505",
+      "nombre": "CILINDRO COMPLETO CBF 125 STUNER CADENILLA PIN13",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 75,
+        "taller": 80,
+        "distribuidor": 68
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100505.png",
+      "imagen_size": 92017,
       "activo": true
     },
     {
@@ -13842,6 +13905,27 @@
       "activo": true
     },
     {
+      "sku": "741540188202",
+      "nombre": "CILINDRO COMPLETO FZ16",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 143,
+        "taller": 95,
+        "distribuidor": 81
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188202.png",
+      "imagen_size": 106832,
+      "activo": true
+    },
+    {
       "sku": "741540190804",
       "nombre": "CILINDRO COMPLETO FZ250",
       "marca": "VINI",
@@ -13860,6 +13944,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190804.png",
       "imagen_size": 119853,
+      "activo": true
+    },
+    {
+      "sku": "741540188951",
+      "nombre": "CILINDRO COMPLETO GIXXER 150",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 120,
+        "taller": 88,
+        "distribuidor": 75.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188951.png",
+      "imagen_size": 125084,
       "activo": true
     },
     {
@@ -14073,6 +14178,27 @@
       "activo": true
     },
     {
+      "sku": "741540189706",
+      "nombre": "CILINDRO COMPLETO PULSAR 160NS",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 95,
+        "taller": 82,
+        "distribuidor": 69.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189706.png",
+      "imagen_size": 86449,
+      "activo": true
+    },
+    {
       "sku": "741540100023",
       "nombre": "CILINDRO COMPLETO PULSAR 180 UG4 VINI(FL)",
       "marca": "VINI",
@@ -14196,6 +14322,69 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189061.png",
       "imagen_size": 109781,
+      "activo": true
+    },
+    {
+      "sku": "741540100458",
+      "nombre": "CILINDRO COMPLETO XL200-FXR200 YARA-CADENILLA COLOR GRIS PIN15",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 113,
+        "taller": 75,
+        "distribuidor": 63.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100458.png",
+      "imagen_size": 83854,
+      "activo": true
+    },
+    {
+      "sku": "741540190148",
+      "nombre": "CILINDRO COMPLETO XPULSE/HUNK200",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 125,
+        "taller": 95,
+        "distribuidor": 80
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190148.png",
+      "imagen_size": 83985,
+      "activo": true
+    },
+    {
+      "sku": "741540189519",
+      "nombre": "CILINDRO COMPLETO YAMAHA XTZ150 SZ",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 95,
+        "taller": 95,
+        "distribuidor": 80.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189519.png",
+      "imagen_size": 94147,
       "activo": true
     },
     {
@@ -20447,7 +20636,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 87,
+      "stock": 86,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20468,7 +20657,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 45,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42707,7 +42896,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -67623,28 +67812,6 @@
       "activo": true
     },
     {
-      "sku": "741540100505",
-      "nombre": "CILINDRO COMPLETO CBF 125 STUNER VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540100505.png",
-      "imagen_size": 92017,
-      "activo": true
-    },
-    {
       "sku": "741540188275",
       "nombre": "CILINDRO COMPLETO CBF150 (CBF125) HOT PARTS VINI",
       "marca": "VINI",
@@ -68038,28 +68205,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190435.png",
       "imagen_size": 110912,
-      "activo": true
-    },
-    {
-      "sku": "741540188202",
-      "nombre": "CILINDRO COMPLETO FZ16 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188202.png",
-      "imagen_size": 106832,
       "activo": true
     },
     {
@@ -68720,28 +68865,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190494.png",
       "imagen_size": 123264,
-      "activo": true
-    },
-    {
-      "sku": "741540189519",
-      "nombre": "CILINDRO COMPLETO YAMAHA XTZ150 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189519.png",
-      "imagen_size": 94147,
       "activo": true
     },
     {
