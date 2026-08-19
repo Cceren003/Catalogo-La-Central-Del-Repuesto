@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T13:50:13.945Z",
-  "count": 5703,
+  "generated_at": "2026-08-19T17:33:14.407Z",
+  "count": 5701,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 133,
+      "stock": 132,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 37,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -497,7 +497,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2219,7 +2219,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4235,7 +4235,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5621,7 +5621,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7469,7 +7469,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9086,7 +9086,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12677,7 +12677,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14273,7 +14273,7 @@
         "taller": 39,
         "distribuidor": 33.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15302,7 +15302,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17822,7 +17822,7 @@
         "taller": 14.5,
         "distribuidor": 12.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20594,7 +20594,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 43,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20678,7 +20678,7 @@
         "taller": 0.3,
         "distribuidor": 0.2
       },
-      "stock": 75,
+      "stock": 74,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23765,7 +23765,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24752,7 +24752,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29267,8 +29267,8 @@
         "taller": 32.5,
         "distribuidor": 30
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30240,27 +30240,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004819.png",
       "imagen_size": 33367,
-      "activo": true
-    },
-    {
-      "sku": "1004818",
-      "nombre": "MANGUERA FRENOS CORTA TRASERA  UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004818.png",
-      "imagen_size": 35155,
       "activo": true
     },
     {
@@ -31535,28 +31514,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "LB1A-0030-10",
-      "nombre": "NEUMATICO AXUS 110/90-17",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.75,
-        "distribuidor": 3.25
-      },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37467,6 +37425,27 @@
       "activo": true
     },
     {
+      "sku": "741540191119",
+      "nombre": "RECTIFICADOR DUKE200 VINI",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 59.5,
+        "taller": 46,
+        "distribuidor": 39.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540191119.png",
+      "imagen_size": 116668,
+      "activo": true
+    },
+    {
       "sku": "1002412",
       "nombre": "REFLECTOR OJO DE GATO UNIVERSAL",
       "marca": "MEK",
@@ -37695,27 +37674,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540191119",
-      "nombre": "REGULADOR DUKE200 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 59.5,
-        "taller": 46,
-        "distribuidor": 39.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540191119.png",
-      "imagen_size": 116668,
       "activo": true
     },
     {
@@ -43820,7 +43778,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
