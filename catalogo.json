@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T17:36:20.556Z",
-  "count": 5734,
+  "generated_at": "2026-08-20T21:34:39.163Z",
+  "count": 5731,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 129,
+      "stock": 117,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,8 +77,8 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 14,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 34,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1841,7 +1841,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2460,7 +2460,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2481,7 +2481,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -3605,7 +3605,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3752,7 +3752,7 @@
         "taller": 1,
         "distribuidor": 0.5
       },
-      "stock": 156,
+      "stock": 160,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6881,7 +6881,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 38,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7595,7 +7595,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10094,7 +10094,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11550,27 +11550,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RS045",
-      "nombre": "CATARINA 48T XTZ 125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS045.jpg",
-      "imagen_size": 10391,
       "activo": true
     },
     {
@@ -13503,6 +13482,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189398.png",
       "imagen_size": 95113,
+      "activo": true
+    },
+    {
+      "sku": "741540189584",
+      "nombre": "CIGUEÑAL COMPLETO GIXXER 150 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 146.5,
+        "taller": 119.75,
+        "distribuidor": 103
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189584.png",
+      "imagen_size": 78367,
       "activo": true
     },
     {
@@ -18315,27 +18315,6 @@
       "activo": true
     },
     {
-      "sku": "741540188827",
-      "nombre": "ESPEJO SET APACHE 160/180",
-      "marca": "VINI",
-      "categoria": "ESPEJOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188827.png",
-      "imagen_size": 47897,
-      "activo": true
-    },
-    {
       "sku": "741540189180",
       "nombre": "ESPEJO SET FORZA 150",
       "marca": "VINI",
@@ -19712,7 +19691,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20699,7 +20678,7 @@
         "taller": 1.25,
         "distribuidor": 0.75
       },
-      "stock": 36,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20867,7 +20846,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21035,8 +21014,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -25557,6 +25536,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190413.png",
       "imagen_size": 115211,
+      "activo": true
+    },
+    {
+      "sku": "741540190976",
+      "nombre": "KIT DISTRIBUCION DE TIEMPO GIXXER150",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190976.png",
+      "imagen_size": 74482,
       "activo": true
     },
     {
@@ -31272,27 +31272,6 @@
       "activo": true
     },
     {
-      "sku": "1005852",
-      "nombre": "MANUBRIO DECORADO NEGRO",
-      "marca": "MEK",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 39.75,
-        "taller": 32.5,
-        "distribuidor": 28
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540190290",
       "nombre": "MASA TRASERA XR150 / CFR230 / XR125 / XL200",
       "marca": "VINI",
@@ -35861,8 +35840,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -39053,7 +39032,7 @@
         "taller": 12,
         "distribuidor": 10.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40943,7 +40922,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43491,27 +43470,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006383.jpg",
       "imagen_size": 157282,
-      "activo": true
-    },
-    {
-      "sku": "1006057",
-      "nombre": "SWITCH LUCES LH YARA200",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006057.jpg",
-      "imagen_size": 222182,
       "activo": true
     },
     {
@@ -80361,28 +80319,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190971.png",
       "imagen_size": 87433,
-      "activo": true
-    },
-    {
-      "sku": "741540190976",
-      "nombre": "KIT DISTRIBUCION TIEMPO GIXXER150 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190976.png",
-      "imagen_size": 74482,
       "activo": true
     },
     {
