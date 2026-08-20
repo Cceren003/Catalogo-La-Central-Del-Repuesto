@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T21:32:07.349Z",
-  "count": 5736,
+  "generated_at": "2026-08-20T13:51:52.460Z",
+  "count": 5737,
   "productos": [
     {
       "sku": "LM120106",
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 36,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7899,6 +7899,27 @@
       "activo": true
     },
     {
+      "sku": "741540190289",
+      "nombre": "CAJA TRANSMISION XR150L",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189346",
       "nombre": "CAJA TRANSMISION YARA 200-250 NEW VINI(FL)",
       "marca": "VINI",
@@ -8001,6 +8022,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190099.png",
       "imagen_size": 85046,
+      "activo": true
+    },
+    {
+      "sku": "741540190749",
+      "nombre": "CAJA VELOCIMETRO AK RTX150 VINI",
+      "marca": "VINI",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190749.png",
+      "imagen_size": 91660,
       "activo": true
     },
     {
@@ -12225,6 +12267,27 @@
       "activo": true
     },
     {
+      "sku": "741540191111",
+      "nombre": "CATARINA Y PIÑON APACHE160 4V",
+      "marca": "VINI",
+      "categoria": "KIT TRACCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540100697",
       "nombre": "CATARINA Y PIÑON CBF125",
       "marca": "VINI",
@@ -13632,27 +13695,6 @@
       "activo": true
     },
     {
-      "sku": "741540189060",
-      "nombre": "CILINDRO COMPLETO AK150-TTR150-FORZA150-CG150 VARILLA PIN13 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 81.75,
-        "taller": 55,
-        "distribuidor": 46.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189060.png",
-      "imagen_size": 101597,
-      "activo": true
-    },
-    {
       "sku": "741540189058",
       "nombre": "CILINDRO COMPLETO AK200SM-SPITZER VARILLA PIN 15 200CC VINI(FL)",
       "marca": "VINI",
@@ -14553,6 +14595,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100458.png",
       "imagen_size": 83854,
+      "activo": true
+    },
+    {
+      "sku": "741540190536",
+      "nombre": "CILINDRO COMPLETO XR190L VINI",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190536.png",
+      "imagen_size": 130685,
       "activo": true
     },
     {
@@ -15659,7 +15722,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 61,
+      "stock": 59,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17864,8 +17927,8 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18900,6 +18963,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189602.png",
       "imagen_size": 58420,
+      "activo": true
+    },
+    {
+      "sku": "741540190278",
+      "nombre": "FAJA TRANSMISSION ZR RAY115",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190278.png",
+      "imagen_size": 64238,
       "activo": true
     },
     {
@@ -25518,6 +25602,69 @@
       "activo": true
     },
     {
+      "sku": "741540190979",
+      "nombre": "KIT DISTRIBUCION DE TIEMPO NAVI110",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190979.png",
+      "imagen_size": 94238,
+      "activo": true
+    },
+    {
+      "sku": "741540190969",
+      "nombre": "KIT DISTRIBUCION TIEMPO CB110 VINI",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190969.png",
+      "imagen_size": 79033,
+      "activo": true
+    },
+    {
+      "sku": "741540190974",
+      "nombre": "KIT DISTRIBUCION TIEMPO YBR125 / XTZ125",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190974.png",
+      "imagen_size": 92990,
+      "activo": true
+    },
+    {
       "sku": "741540188611",
       "nombre": "KIT EMPAQUE AK110 VINI",
       "marca": "VINI",
@@ -28889,7 +29036,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34685,7 +34832,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42483,6 +42630,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188128.png",
       "imagen_size": 77641,
+      "activo": true
+    },
+    {
+      "sku": "741540190929",
+      "nombre": "SWITCH IGNICION APACHE160 4V",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -64618,28 +64786,6 @@
       "activo": true
     },
     {
-      "sku": "741540190749",
-      "nombre": "CAJA VELOCIMETRO AK RTX150 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190749.png",
-      "imagen_size": 91660,
-      "activo": true
-    },
-    {
       "sku": "741540190634",
       "nombre": "CAJA VELOCIMETRO APACHE160 2V/180 CON CABLE VINI",
       "marca": "VINI",
@@ -69279,28 +69425,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540100864.png",
       "imagen_size": 114024,
-      "activo": true
-    },
-    {
-      "sku": "741540190536",
-      "nombre": "CILINDRO COMPLETO XR190L VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190536.png",
-      "imagen_size": 130685,
       "activo": true
     },
     {
@@ -74405,28 +74529,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190989.png",
       "imagen_size": 67428,
-      "activo": true
-    },
-    {
-      "sku": "741540190278",
-      "nombre": "FAJA TRANSMISSION ZR RAY115 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190278.png",
-      "imagen_size": 64238,
       "activo": true
     },
     {
@@ -80172,28 +80274,6 @@
       "activo": true
     },
     {
-      "sku": "741540190969",
-      "nombre": "KIT DISTRIBUCION TIEMPO CB110 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190969.png",
-      "imagen_size": 79033,
-      "activo": true
-    },
-    {
       "sku": "741540190968",
       "nombre": "KIT DISTRIBUCION TIEMPO CB125F VINI",
       "marca": "VINI",
@@ -80392,28 +80472,6 @@
       "activo": true
     },
     {
-      "sku": "741540190979",
-      "nombre": "KIT DISTRIBUCION TIEMPO NAVI110 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190979.png",
-      "imagen_size": 94238,
-      "activo": true
-    },
-    {
       "sku": "741540191220",
       "nombre": "KIT DISTRIBUCION TIEMPO PULSAR 135 VINI",
       "marca": "VINI",
@@ -80521,28 +80579,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190972.jpg",
       "imagen_size": 15747,
-      "activo": true
-    },
-    {
-      "sku": "741540190974",
-      "nombre": "KIT DISTRIBUCION TIEMPO YBR125/XTZ125 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190974.png",
-      "imagen_size": 92990,
       "activo": true
     },
     {
@@ -102873,28 +102909,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540189043.png",
       "imagen_size": 82845,
-      "activo": true
-    },
-    {
-      "sku": "741540190929",
-      "nombre": "SWITCH IGNICION APACHE160 4V VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
