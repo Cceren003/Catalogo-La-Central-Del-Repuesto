@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T13:51:52.460Z",
-  "count": 5737,
+  "generated_at": "2026-08-20T17:36:20.556Z",
+  "count": 5734,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 35,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1127,7 +1127,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3542,7 +3542,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6797,7 +6797,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6881,7 +6881,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 39,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7175,8 +7175,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 15,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -11963,7 +11963,7 @@
         "taller": 12,
         "distribuidor": 0
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14640,27 +14640,6 @@
       "activo": true
     },
     {
-      "sku": "741540189331",
-      "nombre": "CILINDRO COMPLETO YARA 200 CADENILLA 196CC PIN 15 COLOR NEGRO VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 88.25,
-        "taller": 75.75,
-        "distribuidor": 65.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189331.png",
-      "imagen_size": 111262,
-      "activo": true
-    },
-    {
       "sku": "741540188075",
       "nombre": "CILINDRO COMPLETO YBR125 56.5 MODIFICADO VINI",
       "marca": "VINI",
@@ -17192,7 +17171,7 @@
         "taller": 18,
         "distribuidor": 15.3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17339,7 +17318,7 @@
         "taller": 20,
         "distribuidor": 17
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17927,8 +17906,8 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18326,7 +18305,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23786,7 +23765,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24227,7 +24206,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24528,27 +24507,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005033.png",
       "imagen_size": 35179,
-      "activo": true
-    },
-    {
-      "sku": "CK031",
-      "nombre": "KIT CILINDRO COMPLETO 196CC, VARILLA PIN 15 CG200 GRIS NRP",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 80,
-        "taller": 52,
-        "distribuidor": 44.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -27503,7 +27461,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27818,7 +27776,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29393,7 +29351,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 18,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31482,27 +31440,6 @@
       "activo": true
     },
     {
-      "sku": "741540188613",
-      "nombre": "MONOSHOCK FREEDOM SPITZER VINI(FL)",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 90,
-        "taller": 65,
-        "distribuidor": 55.75
-      },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188613.png",
-      "imagen_size": 102937,
-      "activo": true
-    },
-    {
       "sku": "741540190748",
       "nombre": "MONOSHOCK FZ16 VINI",
       "marca": "VINI",
@@ -32658,6 +32595,27 @@
       "activo": true
     },
     {
+      "sku": "741540188988",
+      "nombre": "PASTILLA FRENO 125/150/200 TRASERA",
+      "marca": "VINI",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188988.png",
+      "imagen_size": 95080,
+      "activo": true
+    },
+    {
       "sku": "741540188775",
       "nombre": "PASTILLA FRENO APACHE NEW 2017-DAYUN150-29 VINI(FL)",
       "marca": "VINI",
@@ -32795,7 +32753,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 44,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38171,7 +38129,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 19,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39494,7 +39452,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 21,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39725,7 +39683,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 19,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42308,7 +42266,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 12,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -93999,28 +93957,6 @@
       "fuente": "VINI",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540188988",
-      "nombre": "PASTILLA FRENO 125/150/200 TRAS VINI",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188988.png",
-      "imagen_size": 95080,
       "activo": true
     },
     {
