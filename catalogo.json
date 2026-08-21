@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T13:51:08.732Z",
-  "count": 5730,
+  "generated_at": "2026-08-21T17:35:40.248Z",
+  "count": 5731,
   "productos": [
     {
       "sku": "LM120106",
@@ -413,7 +413,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,7 +2282,7 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2460,7 +2460,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2481,7 +2481,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -15260,8 +15260,8 @@
         "taller": 15.5,
         "distribuidor": 13.5
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -17308,7 +17308,7 @@
     },
     {
       "sku": "741540189329",
-      "nombre": "EJE LEVAS YARA 200-GP 180 VINI(FL)",
+      "nombre": "EJE LEVAS YARA 200-GP 180-R1 200 VINI(FL)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -20594,7 +20594,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 33,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24154,7 +24154,7 @@
     },
     {
       "sku": "741540100455",
-      "nombre": "KIT BALANCIN XL200 / YARA200 / TORNADO250 / SPITZER250",
+      "nombre": "KIT BALANCIN XL200 / YARA200 / TORNADO250 / SPITZER250- R1 200",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -29036,7 +29036,7 @@
         "taller": 11.25,
         "distribuidor": 9.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34643,7 +34643,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38297,8 +38297,8 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -38381,7 +38381,7 @@
         "taller": 4.25,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38402,7 +38402,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42875,7 +42875,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44859,6 +44859,27 @@
       "activo": true
     },
     {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -44880,24 +44901,24 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
+      "sku": "1001076",
+      "nombre": "VALVULA PASO GASOLINA  GY6150(SCOOTER)",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
+        "publico": 6,
+        "taller": 4,
+        "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
+      "imagen": "imagenes/1001076.jpg",
+      "imagen_size": 364709,
       "activo": true
     },
     {
