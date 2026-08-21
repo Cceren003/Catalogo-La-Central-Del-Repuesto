@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T17:35:40.248Z",
-  "count": 5731,
+  "generated_at": "2026-08-21T21:31:10.899Z",
+  "count": 5729,
   "productos": [
     {
       "sku": "LM120106",
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -329,7 +329,7 @@
         "taller": 32.75,
         "distribuidor": 28.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2460,7 +2460,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2481,7 +2481,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -4308,6 +4308,27 @@
       "activo": true
     },
     {
+      "sku": "1006032",
+      "nombre": "CABLE ACELERADOR DEFENDER 150",
+      "marca": "MEK",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 1.1,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006032.png",
+      "imagen_size": 9589,
+      "activo": true
+    },
+    {
       "sku": "1002821",
       "nombre": "CABLE ACELERADOR DISCOVER 125-135",
       "marca": "MEK",
@@ -5936,7 +5957,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13485,27 +13506,6 @@
       "activo": true
     },
     {
-      "sku": "741540189584",
-      "nombre": "CIGUEÑAL COMPLETO GIXXER 150 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 146.5,
-        "taller": 119.75,
-        "distribuidor": 103
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189584.png",
-      "imagen_size": 78367,
-      "activo": true
-    },
-    {
       "sku": "741540100525",
       "nombre": "CIGUEÑAL COMPLETO GN125H VINI(FL)",
       "marca": "VINI",
@@ -14196,27 +14196,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190804.png",
       "imagen_size": 119853,
-      "activo": true
-    },
-    {
-      "sku": "741540188951",
-      "nombre": "CILINDRO COMPLETO GIXXER 150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 120,
-        "taller": 88,
-        "distribuidor": 75.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188951.png",
-      "imagen_size": 125084,
       "activo": true
     },
     {
@@ -15250,7 +15229,7 @@
     },
     {
       "sku": "741540189137",
-      "nombre": "DISCO ARRANQUE SIN PIÑON MULTIBALIN YARA200",
+      "nombre": "DISCO ARRANQUE SIN PIÑON MULTIBALIN YARA200 / DAYUN 250",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -15701,7 +15680,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 59,
+      "stock": 58,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17073,27 +17052,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100428.jpg",
       "imagen_size": 4972,
-      "activo": true
-    },
-    {
-      "sku": "741540188949",
-      "nombre": "EJE LEVAS GIXXER150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 25,
-        "taller": 20,
-        "distribuidor": 17
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188949.png",
-      "imagen_size": 60748,
       "activo": true
     },
     {
@@ -19271,7 +19229,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24762,6 +24720,27 @@
       "activo": true
     },
     {
+      "sku": "1002363",
+      "nombre": "KIT CILINDRO COMPLETO VARILLA PIN13 CG150-FIRE150",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 50,
+        "taller": 34,
+        "distribuidor": 29.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002363.png",
+      "imagen_size": 30941,
+      "activo": true
+    },
+    {
       "sku": "CK015",
       "nombre": "KIT CILINDRO COMPLETO XTZ 150 SZ",
       "marca": "NRP",
@@ -25515,27 +25494,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190413.png",
       "imagen_size": 115211,
-      "activo": true
-    },
-    {
-      "sku": "741540190976",
-      "nombre": "KIT DISTRIBUCION DE TIEMPO GIXXER150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190976.png",
-      "imagen_size": 74482,
       "activo": true
     },
     {
@@ -26558,7 +26516,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 10,
+      "stock": 110,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28679,7 +28637,7 @@
         "taller": 12.25,
         "distribuidor": 10.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29435,7 +29393,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29456,7 +29414,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29673,6 +29631,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-2810-22",
+      "nombre": "LLANTA AXUS 90-90-18 DOBLE  PROPOSITO AX923 6PR TL  TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 37.75,
+        "taller": 29,
+        "distribuidor": 26.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2810-22.png",
+      "imagen_size": 112048,
       "activo": true
     },
     {
@@ -32144,7 +32123,7 @@
         "taller": 37.75,
         "distribuidor": 32.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32228,7 +32207,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32249,8 +32228,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 14,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32291,7 +32270,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 6,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32606,7 +32585,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33992,7 +33971,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34685,7 +34664,7 @@
         "taller": 8.75,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36921,27 +36900,6 @@
       "activo": true
     },
     {
-      "sku": "741540189436",
-      "nombre": "PLANTA RTX150 - SPITZER 250-200 / HOLKAN 160",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 34.75,
-        "taller": 28.75,
-        "distribuidor": 24.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189436.png",
-      "imagen_size": 170257,
-      "activo": true
-    },
-    {
       "sku": "SC017",
       "nombre": "PLANTA SHADOW 150",
       "marca": "NRP",
@@ -37548,6 +37506,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001283.jpg",
       "imagen_size": 489856,
+      "activo": true
+    },
+    {
+      "sku": "1005258",
+      "nombre": "PRENSA CLUTCH COMPLETA YBR125",
+      "marca": "MEK",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 55,
+        "taller": 45,
+        "distribuidor": 38.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005258.png",
+      "imagen_size": 31516,
       "activo": true
     },
     {
@@ -44859,27 +44838,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -44893,6 +44851,27 @@
       },
       "stock": 9,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -120733,28 +120712,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1000448.png",
       "imagen_size": 7372,
-      "activo": true
-    },
-    {
-      "sku": "1006032",
-      "nombre": "ACELERADOR DEFENDER150",
-      "marca": "MEK",
-      "categoria": "CABLES",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1006032.png",
-      "imagen_size": 9589,
       "activo": true
     },
     {
