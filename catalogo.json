@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T21:34:39.163Z",
-  "count": 5731,
+  "generated_at": "2026-08-21T13:51:08.732Z",
+  "count": 5730,
   "productos": [
     {
       "sku": "LM120106",
@@ -2460,7 +2460,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2481,7 +2481,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -7511,7 +7511,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 58,
+      "stock": 57,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20468,7 +20468,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20510,7 +20510,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20657,7 +20657,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20867,8 +20867,8 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21504,27 +21504,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188485.png",
       "imagen_size": 77968,
-      "activo": true
-    },
-    {
-      "sku": "741540189513",
-      "nombre": "GUIA CADENA TIEMPO SET XTZ125",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189513.png",
-      "imagen_size": 57393,
       "activo": true
     },
     {
@@ -32354,7 +32333,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32606,7 +32585,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32732,7 +32711,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 43,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36008,7 +35987,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
