@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T17:26:56.192Z",
-  "count": 5728,
+  "generated_at": "2026-08-22T21:28:17.366Z",
+  "count": 5726,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 100,
+      "stock": 98,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 21,
+      "stock": 79,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 14.9,
         "distribuidor": 13.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2366,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4256,7 +4256,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6902,7 +6902,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 36,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9317,7 +9317,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19555,17 +19555,17 @@
     },
     {
       "sku": "AF031",
-      "nombre": "FILTRO AIRE GIXXER 150",
+      "nombre": "FILTRO AIRE GIXXER 150 NRP",
       "marca": "NRP",
       "categoria": "FILTROS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
         "publico": 0,
-        "taller": 0,
+        "taller": 8,
         "distribuidor": 0
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20531,7 +20531,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20909,7 +20909,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 86,
+      "stock": 85,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23870,7 +23870,7 @@
         "taller": 20,
         "distribuidor": 17
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30422,7 +30422,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 39,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31566,27 +31566,6 @@
       "activo": true
     },
     {
-      "sku": "SM013",
-      "nombre": "MOTOR ARRANQUE CBF 110 / DREAM NEO 110",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/SM013.jpg",
-      "imagen_size": 5933,
-      "activo": true
-    },
-    {
       "sku": "SM011",
       "nombre": "MOTOR ARRANQUE CR1 150 / FIRE125 / CGL125 / V-MEN125 VOLT",
       "marca": "NRP",
@@ -32564,7 +32543,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33831,27 +33810,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001628.png",
       "imagen_size": 38552,
-      "activo": true
-    },
-    {
-      "sku": "741540181424",
-      "nombre": "PATA ARRANQUE VINI DT 18G (FL)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540181424.png",
-      "imagen_size": 39674,
       "activo": true
     },
     {
@@ -41384,7 +41342,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41699,7 +41657,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
