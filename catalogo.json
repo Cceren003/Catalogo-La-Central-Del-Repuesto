@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:31:10.899Z",
+  "generated_at": "2026-08-22T13:37:19.990Z",
   "count": 5729,
   "productos": [
     {
@@ -917,7 +917,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1232,7 +1232,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2460,7 +2460,7 @@
       "activo": true
     },
     {
-      "sku": "IC029",
+      "sku": "IC026",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -2481,7 +2481,7 @@
       "activo": true
     },
     {
-      "sku": "IC026",
+      "sku": "IC029",
       "nombre": "BOBINA ALTA",
       "marca": "NRP",
       "categoria": "ELECTRICOS",
@@ -7532,7 +7532,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 57,
+      "stock": 56,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10472,7 +10472,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18284,7 +18284,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18599,8 +18599,8 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35924,7 +35924,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36029,8 +36029,8 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -44342,10 +44342,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 14.5,
-        "taller": 10.5,
+        "taller": 10,
         "distribuidor": 9.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
