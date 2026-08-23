@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T21:28:17.366Z",
-  "count": 5726,
+  "generated_at": "2026-08-23T13:37:47.348Z",
+  "count": 5725,
   "productos": [
     {
       "sku": "LM120106",
@@ -3836,7 +3836,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 60,
+      "stock": 59,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3941,7 +3941,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8771,7 +8771,7 @@
         "taller": 1.75,
         "distribuidor": 1.35
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19239,27 +19239,6 @@
       "activo": true
     },
     {
-      "sku": "741540189342",
-      "nombre": "FILTRO AIRE CB 160F-UNICOR-XBLADE / REPSOL 190 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189342.png",
-      "imagen_size": 114499,
-      "activo": true
-    },
-    {
       "sku": "741540188483",
       "nombre": "FILTRO AIRE CB110 VINI(FL)",
       "marca": "VINI",
@@ -19355,7 +19334,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44775,27 +44754,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -44809,6 +44767,27 @@
       },
       "stock": 9,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
