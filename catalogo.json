@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T13:55:27.526Z",
-  "count": 5725,
+  "generated_at": "2026-08-25T17:39:27.291Z",
+  "count": 5722,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 84,
+      "stock": 81,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2229,27 +2229,6 @@
       "activo": true
     },
     {
-      "sku": "TS12N7-4A",
-      "nombre": "BATERIA DE GEL 12N7-4A TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29,
-        "taller": 21,
-        "distribuidor": 19.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TS12N7A-3A",
       "nombre": "BATERIA DE GEL 12N7A-3A TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2324,7 +2303,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2346,27 +2325,6 @@
         "distribuidor": 19.5
       },
       "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "TSYTX7L-BS",
-      "nombre": "BATERIA DE GEL YTX7L-BS TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 28,
-        "taller": 19,
-        "distribuidor": 17
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2786,7 +2744,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3710,7 +3668,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 32,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3731,7 +3689,7 @@
         "taller": 0.5,
         "distribuidor": 0.4
       },
-      "stock": 69,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3773,7 +3731,7 @@
         "taller": 0.35,
         "distribuidor": 0.25
       },
-      "stock": 49,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7532,7 +7490,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 67,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9254,7 +9212,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 19,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9296,7 +9254,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11581,9 +11539,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 15,
-        "taller": 11,
-        "distribuidor": 9.5
+        "publico": 20,
+        "taller": 12.5,
+        "distribuidor": 10.5
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -12873,27 +12831,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189115",
-      "nombre": "CDI NAGA 200 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.25,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189115.png",
-      "imagen_size": 44918,
       "activo": true
     },
     {
@@ -15650,7 +15587,7 @@
     {
       "sku": "741540189140",
       "nombre": "DISCO CLUTCH SET NAGA200 / CR2",
-      "marca": "MOTUL",
+      "marca": "VINI",
       "categoria": "EMBRAGUE",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -15659,8 +15596,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19208,7 +19145,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21056,7 +20993,7 @@
         "taller": 0.3,
         "distribuidor": 0.2
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22169,7 +22106,7 @@
         "taller": 18,
         "distribuidor": 15.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28795,7 +28732,7 @@
     },
     {
       "sku": "741540100472",
-      "nombre": "KIT VALVULA GY6 150",
+      "nombre": "KIT VALVULA GY6 150 / KATANA MK1 (AUTOMATICA)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -28805,7 +28742,7 @@
         "taller": 10.75,
         "distribuidor": 9.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29802,6 +29739,27 @@
       "activo": true
     },
     {
+      "sku": "741540189925",
+      "nombre": "LLANTA VINI 110-90-17 VT 1009",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 42,
+        "taller": 32.5,
+        "distribuidor": 30
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189925.jpg",
+      "imagen_size": 7751,
+      "activo": true
+    },
+    {
       "sku": "741540190534",
       "nombre": "LLANTA VINI 110-90-18 VT1009 DOBLE PROPOSITO",
       "marca": "VINI",
@@ -29820,27 +29778,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189925",
-      "nombre": "LLANTA VINI 110-90X17 VT 1009",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 42,
-        "taller": 32.5,
-        "distribuidor": 30
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189925.jpg",
-      "imagen_size": 7751,
       "activo": true
     },
     {
@@ -29876,7 +29813,7 @@
         "taller": 36,
         "distribuidor": 33.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29887,7 +29824,7 @@
     },
     {
       "sku": "741540189931",
-      "nombre": "LLANTA VINI 140-70X17 VT1010 LISA DEPORTIVA (FL)",
+      "nombre": "LLANTA VINI 140-70-17 VT1010 LISA DEPORTIVA (FL)",
       "marca": "VINI",
       "categoria": "LLANTAS Y TUBOS",
       "presentacion": "UNIDAD",
@@ -32711,7 +32648,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 42,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39305,7 +39242,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 10,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39368,7 +39305,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 18,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39599,7 +39536,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 16,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43106,7 +43043,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44597,7 +44534,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
