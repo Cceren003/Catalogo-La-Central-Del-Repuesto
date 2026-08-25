@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T21:36:19.121Z",
-  "count": 5726,
+  "generated_at": "2026-08-25T13:55:27.526Z",
+  "count": 5725,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 96,
+      "stock": 84,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2366,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7511,7 +7511,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 56,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10944,27 +10944,6 @@
       "activo": true
     },
     {
-      "sku": "RS074",
-      "nombre": "CATARINA 44T APACHE RTR 160",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS074.jpg",
-      "imagen_size": 9909,
-      "activo": true
-    },
-    {
       "sku": "RS101",
       "nombre": "CATARINA 44T IGNITOR 125",
       "marca": "NRP",
@@ -11039,7 +11018,7 @@
         "taller": 9.25,
         "distribuidor": 8
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23765,7 +23744,7 @@
         "taller": 9.5,
         "distribuidor": 8
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25319,7 +25298,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26117,7 +26096,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35567,8 +35546,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
