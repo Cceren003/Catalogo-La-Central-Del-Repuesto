@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T19:10:40.261Z",
-  "count": 5721,
+  "generated_at": "2026-08-27T00:37:46.505Z",
+  "count": 5717,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 72,
+      "stock": 142,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 53,
+      "stock": 148,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,28 +2282,7 @@
         "taller": 14.9,
         "distribuidor": 13.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "TSYTX5L-BS",
-      "nombre": "BATERIA DE GEL YTX5L-BS TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29,
-        "taller": 18,
-        "distribuidor": 16
-      },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2303,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2345,7 +2324,7 @@
         "taller": 27,
         "distribuidor": 24
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8183,7 +8162,7 @@
         "taller": 23,
         "distribuidor": 19.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9350,7 +9329,7 @@
     {
       "sku": "RO-511-SOLID",
       "nombre": "CASCO CERTIFICADO DOT 511",
-      "marca": "HRO",
+      "marca": "MOTUL",
       "categoria": "CASCOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -9359,7 +9338,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9381,27 +9360,6 @@
         "distribuidor": 55.5
       },
       "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "HRO-3480-SOLID",
-      "nombre": "CASCO CERTIFICADO HRO DOT 3480 SOLID",
-      "marca": "HRO",
-      "categoria": "CASCOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 70,
-        "taller": 65,
-        "distribuidor": 55
-      },
-      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20216,7 +20174,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29498,7 +29456,7 @@
         "taller": 39,
         "distribuidor": 37
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29652,27 +29610,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0904-22.png",
       "imagen_size": 89021,
-      "activo": true
-    },
-    {
-      "sku": "741540189933",
-      "nombre": "LLANTA VINI 110-70X17 60S P6229F (FL)",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 40,
-        "taller": 32,
-        "distribuidor": 30
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189933.png",
-      "imagen_size": 64467,
       "activo": true
     },
     {
@@ -32312,7 +32249,7 @@
         "taller": 5.75,
         "distribuidor": 5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32711,7 +32648,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45100,27 +45037,6 @@
         "publico": 6.75,
         "taller": 5.5,
         "distribuidor": 4.75
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "HRO-VISOR-3480-SM",
-      "nombre": "VISOR HRO 3480 SMOKE BLUE",
-      "marca": "VINI",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
       },
       "stock": 4,
       "stock_status": "low_stock",
