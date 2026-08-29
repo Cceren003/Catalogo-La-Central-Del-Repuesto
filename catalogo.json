@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T17:03:49.431Z",
-  "count": 5712,
+  "generated_at": "2026-08-29T19:40:23.616Z",
+  "count": 5715,
   "productos": [
     {
       "sku": "LM120106",
@@ -14,7 +14,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 30,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 172,
+      "stock": 170,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2261,7 +2261,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2345,7 +2345,7 @@
         "taller": 14.9,
         "distribuidor": 13.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2639,7 +2639,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 14,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5096,7 +5096,7 @@
         "taller": 3.5,
         "distribuidor": 2.5
       },
-      "stock": 11,
+      "stock": 106,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5873,7 +5873,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 62,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6377,7 +6377,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 113,
+      "stock": 123,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7574,7 +7574,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 33,
+      "stock": 73,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8750,7 +8750,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9177,6 +9177,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190866.png",
       "imagen_size": 97553,
+      "activo": true
+    },
+    {
+      "sku": "741540188511",
+      "nombre": "CARBURADOR HUNK 150/CBF 150 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 100,
+        "taller": 78,
+        "distribuidor": 67.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188511.png",
+      "imagen_size": 115538,
       "activo": true
     },
     {
@@ -12257,8 +12278,8 @@
         "taller": 12,
         "distribuidor": 10.25
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -13800,6 +13821,27 @@
       "activo": true
     },
     {
+      "sku": "741540188475",
+      "nombre": "CILINDRO COMPLETO CB110",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 94.5,
+        "taller": 65.5,
+        "distribuidor": 56.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188475.png",
+      "imagen_size": 73172,
+      "activo": true
+    },
+    {
       "sku": "741540189599",
       "nombre": "CILINDRO COMPLETO CB160F-HORNET VINI",
       "marca": "VINI",
@@ -14588,7 +14630,7 @@
         "taller": 81,
         "distribuidor": 69.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15596,8 +15638,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -23565,6 +23607,27 @@
       "activo": true
     },
     {
+      "sku": "741540188473",
+      "nombre": "KIT BALANCIN CB110 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 28,
+        "taller": 17.5,
+        "distribuidor": 14.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188473.png",
+      "imagen_size": 82532,
+      "activo": true
+    },
+    {
       "sku": "741540188658",
       "nombre": "KIT BALANCIN CG -200 VINI",
       "marca": "VINI",
@@ -23933,7 +23996,7 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 6,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32469,6 +32532,27 @@
       "activo": true
     },
     {
+      "sku": "741540188258",
+      "nombre": "PASTILLA FRENO CBF150 INVICTA VINI(FL)",
+      "marca": "VINI",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 20,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188258.png",
+      "imagen_size": 95881,
+      "activo": true
+    },
+    {
       "sku": "741540188997",
       "nombre": "PASTILLA FRENO CBR250R/VENOX 250 VINI (FL)",
       "marca": "VINI",
@@ -32648,7 +32732,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32865,27 +32949,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "BP033",
-      "nombre": "PASTILLA FRENO MT 03 / YZF R3 (TRASERAS)",
-      "marca": "NRP",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/BP033.jpg",
-      "imagen_size": 4310,
       "activo": true
     },
     {
@@ -33572,8 +33635,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 15,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33593,8 +33656,8 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 16,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33635,8 +33698,8 @@
         "taller": 12,
         "distribuidor": 10.25
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 11,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33992,8 +34055,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 16,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34055,8 +34118,8 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 17,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34076,8 +34139,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 17,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
