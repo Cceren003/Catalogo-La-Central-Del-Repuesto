@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T22:59:28.301Z",
-  "count": 5713,
+  "generated_at": "2026-08-29T17:03:49.431Z",
+  "count": 5712,
   "productos": [
     {
       "sku": "LM120106",
@@ -14,7 +14,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 31,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 179,
+      "stock": 172,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 134,
+      "stock": 122,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1169,7 +1169,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 20,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1232,7 +1232,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1778,7 +1778,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3584,8 +3584,8 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3867,6 +3867,27 @@
       "activo": true
     },
     {
+      "sku": "1003042",
+      "nombre": "BUJIA CR7HSA CUELLO CORTO",
+      "marca": "MEK",
+      "categoria": "BUJIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3,
+        "taller": 2.25,
+        "distribuidor": 1.75
+      },
+      "stock": 8,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003042.png",
+      "imagen_size": 7471,
+      "activo": true
+    },
+    {
       "sku": "BA020430",
       "nombre": "BUJIA NGK C7EA CUELLO LARGO",
       "marca": "NGK",
@@ -3878,7 +3899,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 35,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9233,7 +9254,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18284,7 +18305,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19806,27 +19827,6 @@
       "activo": true
     },
     {
-      "sku": "741540190286",
-      "nombre": "FILTRO AIRE SPACE125 VINI",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 8,
-        "distribuidor": 7.25
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190286.png",
-      "imagen_size": 123366,
-      "activo": true
-    },
-    {
       "sku": "741540188850",
       "nombre": "FILTRO AIRE SZ-SRZ160-HORNET VINI(FL)",
       "marca": "VINI",
@@ -20237,7 +20237,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 34,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23282,7 +23282,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 22,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27209,8 +27209,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32438,7 +32438,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32501,7 +32501,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33047,7 +33047,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33362,7 +33362,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33992,7 +33992,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34398,27 +34398,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190227.png",
       "imagen_size": 104075,
-      "activo": true
-    },
-    {
-      "sku": "741540189560",
-      "nombre": "PIDE VIA SET FIRE 150",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 8.75,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189560.png",
-      "imagen_size": 131587,
       "activo": true
     },
     {
@@ -35273,8 +35252,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35630,7 +35609,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39935,7 +39914,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44607,27 +44586,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -44641,6 +44599,27 @@
       },
       "stock": 9,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
