@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T19:40:23.616Z",
-  "count": 5715,
+  "generated_at": "2026-08-29T23:11:58.740Z",
+  "count": 5708,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 170,
+      "stock": 167,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 122,
+      "stock": 121,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -791,7 +791,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2366,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,7 +2408,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2639,7 +2639,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 39,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5096,7 +5096,7 @@
         "taller": 3.5,
         "distribuidor": 2.5
       },
-      "stock": 106,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5873,7 +5873,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 62,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7574,7 +7574,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 73,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9191,7 +9191,7 @@
         "taller": 78,
         "distribuidor": 67.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12057,27 +12057,6 @@
       "activo": true
     },
     {
-      "sku": "741540189461",
-      "nombre": "CATARINA TRASERA DEFENDER 150 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189461.png",
-      "imagen_size": 125392,
-      "activo": true
-    },
-    {
       "sku": "1002766",
       "nombre": "CATARINA TS185 520H-41T-GTX200-GENESIS GXT200",
       "marca": "MEK",
@@ -12278,8 +12257,8 @@
         "taller": 12,
         "distribuidor": 10.25
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -13821,27 +13800,6 @@
       "activo": true
     },
     {
-      "sku": "741540188475",
-      "nombre": "CILINDRO COMPLETO CB110",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 94.5,
-        "taller": 65.5,
-        "distribuidor": 56.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188475.png",
-      "imagen_size": 73172,
-      "activo": true
-    },
-    {
       "sku": "741540189599",
       "nombre": "CILINDRO COMPLETO CB160F-HORNET VINI",
       "marca": "VINI",
@@ -14609,7 +14567,7 @@
         "taller": 61.75,
         "distribuidor": 53.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14630,7 +14588,7 @@
         "taller": 81,
         "distribuidor": 69.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23082,27 +23040,6 @@
       "activo": true
     },
     {
-      "sku": "741540189751",
-      "nombre": "HERRAMIENTA VINI LLAVE T EXTENSION",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189751.png",
-      "imagen_size": 32548,
-      "activo": true
-    },
-    {
       "sku": "741540189803",
       "nombre": "HERRAMIENTA VINI LLAVE UNIVERSAL",
       "marca": "VINI",
@@ -23607,27 +23544,6 @@
       "activo": true
     },
     {
-      "sku": "741540188473",
-      "nombre": "KIT BALANCIN CB110 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 28,
-        "taller": 17.5,
-        "distribuidor": 14.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188473.png",
-      "imagen_size": 82532,
-      "activo": true
-    },
-    {
       "sku": "741540188658",
       "nombre": "KIT BALANCIN CG -200 VINI",
       "marca": "VINI",
@@ -23996,7 +23912,7 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 18,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26432,8 +26348,8 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 26,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28413,27 +28329,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100544.png",
       "imagen_size": 48112,
-      "activo": true
-    },
-    {
-      "sku": "741540188460",
-      "nombre": "KIT VALVULA CB110-CB1-NAVI VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17.25,
-        "taller": 11,
-        "distribuidor": 9.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188460.png",
-      "imagen_size": 40713,
       "activo": true
     },
     {
@@ -32732,7 +32627,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 34,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33194,7 +33089,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33362,7 +33257,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 25,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33635,8 +33530,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 15,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33656,8 +33551,8 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 16,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33684,27 +33579,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001628.png",
       "imagen_size": 38552,
-      "activo": true
-    },
-    {
-      "sku": "741540181423",
-      "nombre": "PATA ARRANQUE VINI UM200/DK200(FL)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14.25,
-        "taller": 12,
-        "distribuidor": 10.25
-      },
-      "stock": 11,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540181423.png",
-      "imagen_size": 39056,
       "activo": true
     },
     {
@@ -34055,8 +33929,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 16,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34118,8 +33992,8 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 17,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34139,8 +34013,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 17,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -37835,7 +37709,7 @@
         "taller": 10,
         "distribuidor": 9
       },
-      "stock": 17,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43596,27 +43470,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000548.jpg",
       "imagen_size": 103668,
-      "activo": true
-    },
-    {
-      "sku": "1006041",
-      "nombre": "TAPON TANQUE COMBUSTIBLE DEFENDER150",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 4,
-        "distribuidor": 3.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006041.png",
-      "imagen_size": 27039,
       "activo": true
     },
     {
