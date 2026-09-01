@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T00:31:29.345Z",
-  "count": 5723,
+  "generated_at": "2026-09-01T17:16:58.969Z",
+  "count": 5733,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 137,
+      "stock": 135,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 77,
+      "stock": 76,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2765,7 +2765,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3605,7 +3605,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3920,7 +3920,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 32,
+      "stock": 62,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3941,7 +3941,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 8,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3962,8 +3962,8 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 31,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7616,7 +7616,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 64,
+      "stock": 63,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8148,6 +8148,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190749.png",
       "imagen_size": 91660,
+      "activo": true
+    },
+    {
+      "sku": "741540189292",
+      "nombre": "CAJA VELOCIMETRO FORZA 150 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 17,
+        "taller": 13,
+        "distribuidor": 11
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189292.png",
+      "imagen_size": 111719,
       "activo": true
     },
     {
@@ -9296,7 +9317,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 30,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9338,7 +9359,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 14,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11984,7 +12005,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12033,6 +12054,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188793.png",
       "imagen_size": 112095,
+      "activo": true
+    },
+    {
+      "sku": "741540100421",
+      "nombre": "CATARINA GN125H 42T VINI (FL)",
+      "marca": "VINI",
+      "categoria": "KIT TRACCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100421.png",
+      "imagen_size": 116801,
       "activo": true
     },
     {
@@ -12467,7 +12509,7 @@
         "taller": 18.5,
         "distribuidor": 16
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12530,7 +12572,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13244,7 +13286,7 @@
         "taller": 20,
         "distribuidor": 17.5
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13286,7 +13328,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13685,7 +13727,7 @@
         "taller": 55,
         "distribuidor": 46.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13706,7 +13748,7 @@
         "taller": 65.5,
         "distribuidor": 56.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14294,7 +14336,7 @@
         "taller": 68,
         "distribuidor": 58.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14385,6 +14427,48 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540140567.jpg",
       "imagen_size": 5941,
+      "activo": true
+    },
+    {
+      "sku": "741540188912",
+      "nombre": "CILINDRO COMPLETO NAVI110 VINI (FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 79,
+        "taller": 68,
+        "distribuidor": 57.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188912.png",
+      "imagen_size": 84672,
+      "activo": true
+    },
+    {
+      "sku": "741540190084",
+      "nombre": "CILINDRO COMPLETO PULSAR 125NS",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 70,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190084.png",
+      "imagen_size": 88670,
       "activo": true
     },
     {
@@ -14553,6 +14637,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189061.png",
       "imagen_size": 109781,
+      "activo": true
+    },
+    {
+      "sku": "741540139036",
+      "nombre": "CILINDRO COMPLETO VARILLA PIN15 SANLG FIRE-SL125-3C-CGL-VMEN VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 57.75,
+        "taller": 39,
+        "distribuidor": 33.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540139036.png",
+      "imagen_size": 92107,
       "activo": true
     },
     {
@@ -14819,7 +14924,7 @@
         "taller": 39.75,
         "distribuidor": 33.5
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17213,13 +17318,34 @@
         "taller": 18,
         "distribuidor": 15.3
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189096.png",
       "imagen_size": 86790,
+      "activo": true
+    },
+    {
+      "sku": "741540100722",
+      "nombre": "EJE LEVAS PULSAR 135 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 25.25,
+        "taller": 19,
+        "distribuidor": 16.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100722.png",
+      "imagen_size": 57231,
       "activo": true
     },
     {
@@ -18473,7 +18599,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20993,7 +21119,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22326,6 +22452,27 @@
       "activo": true
     },
     {
+      "sku": "741540189809",
+      "nombre": "HERRAMIENTA INSTALADOR CUNAS DE VALVULAS",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 10.25,
+        "taller": 8,
+        "distribuidor": 6.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189809.png",
+      "imagen_size": 56313,
+      "activo": true
+    },
+    {
       "sku": "741540189805",
       "nombre": "HERRAMIENTA KIT LLAVES ALLEN 9 PIEZAS",
       "marca": "VINI",
@@ -22974,6 +23121,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189775.png",
       "imagen_size": 44965,
+      "activo": true
+    },
+    {
+      "sku": "741540189776",
+      "nombre": "HERRAMIENTA VINI LLAVE INGLESA 12MM",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 6,
+        "distribuidor": 5.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189776.png",
+      "imagen_size": 44716,
       "activo": true
     },
     {
@@ -24048,6 +24216,27 @@
       "activo": true
     },
     {
+      "sku": "741540189553",
+      "nombre": "KIT BALANCIN PULSAR 160NS",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 28,
+        "taller": 21,
+        "distribuidor": 18
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189553.png",
+      "imagen_size": 112481,
+      "activo": true
+    },
+    {
       "sku": "741540188802",
       "nombre": "KIT BALANCIN PULSAR 200NS",
       "marca": "MOTUL",
@@ -24423,6 +24612,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005033.png",
       "imagen_size": 35179,
+      "activo": true
+    },
+    {
+      "sku": "CK031",
+      "nombre": "KIT CILINDRO COMPLETO 196CC, VARILLA PIN 15 CG200 GRIS NRP",
+      "marca": "NRP",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 80,
+        "taller": 52,
+        "distribuidor": 44.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -26222,7 +26432,7 @@
         "taller": 9.5,
         "distribuidor": 8.25
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28479,6 +28689,27 @@
       "activo": true
     },
     {
+      "sku": "741540190018",
+      "nombre": "KIT VALVULA APACHE160 RTR 4V",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 27,
+        "taller": 22.5,
+        "distribuidor": 19.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190018.png",
+      "imagen_size": 33198,
+      "activo": true
+    },
+    {
       "sku": "741540100544",
       "nombre": "KIT VALVULA BROSS 125 VINI",
       "marca": "VINI",
@@ -28497,6 +28728,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100544.png",
       "imagen_size": 48112,
+      "activo": true
+    },
+    {
+      "sku": "741540188460",
+      "nombre": "KIT VALVULA CB110-CB1-NAVI VINI",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 17.25,
+        "taller": 11,
+        "distribuidor": 9.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188460.png",
+      "imagen_size": 40713,
       "activo": true
     },
     {
@@ -29876,7 +30128,7 @@
         "taller": 39.5,
         "distribuidor": 37.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30464,7 +30716,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 48,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30870,6 +31122,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004817.png",
       "imagen_size": 27376,
+      "activo": true
+    },
+    {
+      "sku": "741540190329",
+      "nombre": "MANGUERA GASOLINA ROLLO (20.80 MTS)",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 25.75,
+        "taller": 19.5,
+        "distribuidor": 17
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190329.png",
+      "imagen_size": 151816,
       "activo": true
     },
     {
@@ -32921,7 +33194,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33425,7 +33698,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33768,6 +34041,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001628.png",
       "imagen_size": 38552,
+      "activo": true
+    },
+    {
+      "sku": "741540181424",
+      "nombre": "PATA ARRANQUE VINI DT 18G (FL)",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 10,
+        "distribuidor": 8.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540181424.png",
+      "imagen_size": 39674,
       "activo": true
     },
     {
@@ -34524,27 +34818,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190227.png",
       "imagen_size": 104075,
-      "activo": true
-    },
-    {
-      "sku": "741540189560",
-      "nombre": "PIDE VIA SET FIRE 150",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 8.75,
-        "distribuidor": 7.75
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189560.png",
-      "imagen_size": 131587,
       "activo": true
     },
     {
@@ -36795,48 +37068,6 @@
       "activo": true
     },
     {
-      "sku": "741540189436",
-      "nombre": "PLANTA RTX150 - SPITZER 250-200 / HOLKAN 160 / DAYUN 250",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 34.75,
-        "taller": 28.75,
-        "distribuidor": 24.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189436.png",
-      "imagen_size": 170257,
-      "activo": true
-    },
-    {
-      "sku": "SC017",
-      "nombre": "PLANTA SHADOW 150",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 39,
-        "taller": 30,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540189684",
       "nombre": "PLANTA SPITZER  200 VINI(FL)",
       "marca": "VINI",
@@ -37079,7 +37310,7 @@
         "taller": 19,
         "distribuidor": 16.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40124,7 +40355,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43683,6 +43914,27 @@
       "activo": true
     },
     {
+      "sku": "741540189605",
+      "nombre": "TAPON TANQUE APACHE",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 23.5,
+        "taller": 18.75,
+        "distribuidor": 16
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189605.png",
+      "imagen_size": 60176,
+      "activo": true
+    },
+    {
       "sku": "741540100631",
       "nombre": "TAPON TANQUE BAJAJ PULSAR 135-220F",
       "marca": "VINI",
@@ -44072,7 +44324,7 @@
         "taller": 6,
         "distribuidor": 5.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44415,6 +44667,48 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006295.png",
       "imagen_size": 19377,
+      "activo": true
+    },
+    {
+      "sku": "741540188387",
+      "nombre": "TUBO 2.75X19 VINI NEW BUTYL",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188387.png",
+      "imagen_size": 87998,
+      "activo": true
+    },
+    {
+      "sku": "741540188516",
+      "nombre": "TUBO 4.60X17 VINI NEW BUTYL",
+      "marca": "VINI",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 4.8,
+        "distribuidor": 0
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188516.png",
+      "imagen_size": 87875,
       "activo": true
     },
     {
@@ -64683,28 +64977,6 @@
       "activo": true
     },
     {
-      "sku": "741540189292",
-      "nombre": "CAJA VELOCIMETRO FORZA 150 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189292.png",
-      "imagen_size": 111719,
-      "activo": true
-    },
-    {
       "sku": "741540190635",
       "nombre": "CAJA VELOCIMETRO PULSAR200NS CON CABLE SENSOR VINI",
       "marca": "VINI",
@@ -68772,28 +69044,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190240.png",
       "imagen_size": 128055,
-      "activo": true
-    },
-    {
-      "sku": "741540188912",
-      "nombre": "CILINDRO COMPLETO NAVI110 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188912.png",
-      "imagen_size": 84672,
       "activo": true
     },
     {
@@ -106813,28 +107063,6 @@
       "activo": true
     },
     {
-      "sku": "741540188387",
-      "nombre": "TUBO 2.75X19 VINI NEW BUTYL (A)",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188387.png",
-      "imagen_size": 87998,
-      "activo": true
-    },
-    {
       "sku": "741540188388",
       "nombre": "TUBO 2.75X21 VINI NEW BUTYL (A)",
       "marca": "VINI",
@@ -107140,28 +107368,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540188391.png",
       "imagen_size": 87832,
-      "activo": true
-    },
-    {
-      "sku": "741540188516",
-      "nombre": "TUBO 4.60X17 VINI NEW BUTYL (A)",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188516.png",
-      "imagen_size": 87875,
       "activo": true
     },
     {
