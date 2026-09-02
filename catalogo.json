@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T19:43:20.361Z",
-  "count": 5727,
+  "generated_at": "2026-09-02T23:13:33.491Z",
+  "count": 5723,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,29 +56,8 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 125,
+      "stock": 112,
       "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "LM120104",
-      "nombre": "ACEITE MOTUL 20W50 7100 FULL SINTETICO",
-      "marca": "MOTUL",
-      "categoria": "ACEITES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20,
-        "taller": 18,
-        "distribuidor": 17.08
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -98,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 70,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3584,7 +3563,7 @@
         "taller": 13,
         "distribuidor": 11.25
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3899,8 +3878,8 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4088,7 +4067,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 10,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7007,7 +6986,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7742,7 +7721,7 @@
         "taller": 17.5,
         "distribuidor": 15.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10188,27 +10167,6 @@
       "activo": true
     },
     {
-      "sku": "RS071",
-      "nombre": "CATARINA 40T HUNK 160R",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 12,
-        "distribuidor": 10.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS071.jpg",
-      "imagen_size": 9425,
-      "activo": true
-    },
-    {
       "sku": "RS061",
       "nombre": "CATARINA 40T MOTO CHINA 100 - 200",
       "marca": "NRP",
@@ -10283,7 +10241,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11298,27 +11256,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS037.jpg",
       "imagen_size": 9927,
-      "activo": true
-    },
-    {
-      "sku": "RS008",
-      "nombre": "CATARINA 45T STRYKER 125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS008.jpg",
-      "imagen_size": 9213,
       "activo": true
     },
     {
@@ -15827,7 +15764,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 47,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16863,27 +16800,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190713.png",
       "imagen_size": 70918,
-      "activo": true
-    },
-    {
-      "sku": "741540188257",
-      "nombre": "DISCO FRENO YBR125ED  5 HOYOS VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30,
-        "taller": 22,
-        "distribuidor": 18.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188257.png",
-      "imagen_size": 133695,
       "activo": true
     },
     {
@@ -18452,7 +18368,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19292,7 +19208,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20510,7 +20426,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25214,8 +25130,8 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29204,8 +29120,8 @@
         "taller": 10.75,
         "distribuidor": 9.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35630,7 +35546,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35651,7 +35567,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39452,7 +39368,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 42,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39683,7 +39599,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 21,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45101,7 +45017,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45143,7 +45059,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45164,7 +45080,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
