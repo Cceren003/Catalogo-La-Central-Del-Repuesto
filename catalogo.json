@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T17:00:18.156Z",
-  "count": 5721,
+  "generated_at": "2026-09-03T19:42:47.211Z",
+  "count": 5711,
   "productos": [
     {
       "sku": "LM120106",
@@ -329,7 +329,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -833,7 +833,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 14,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1064,8 +1064,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1484,7 +1484,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1757,8 +1757,8 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1841,7 +1841,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1862,7 +1862,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2135,7 +2135,7 @@
         "taller": 17,
         "distribuidor": 14.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2261,7 +2261,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3605,7 +3605,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3920,7 +3920,7 @@
         "taller": 3.5,
         "distribuidor": 3.2
       },
-      "stock": 47,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7017,27 +7017,6 @@
       "activo": true
     },
     {
-      "sku": "1005134",
-      "nombre": "CADENA TIEMPO 104L CR4/ AK200 R4 FALCON 250",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 4.25,
-        "distribuidor": 3.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005134.png",
-      "imagen_size": 8555,
-      "activo": true
-    },
-    {
       "sku": "741540189998",
       "nombre": "CADENA TIEMPO 4X5 104L XL1250S VINI (FL)",
       "marca": "VINI",
@@ -7616,7 +7595,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 53,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7854,27 +7833,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188463.png",
       "imagen_size": 105391,
-      "activo": true
-    },
-    {
-      "sku": "741540188027",
-      "nombre": "CAJA TRANSMISION CBF125-INVICTA-HUNK VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 130,
-        "taller": 101.5,
-        "distribuidor": 90
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188027.png",
-      "imagen_size": 93176,
       "activo": true
     },
     {
@@ -9569,7 +9527,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9915,48 +9873,6 @@
       "activo": true
     },
     {
-      "sku": "RS016",
-      "nombre": "CATARINA 39T AK200 / MOTO CHINA 150-200",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 9,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS016.jpg",
-      "imagen_size": 9031,
-      "activo": true
-    },
-    {
-      "sku": "1004892",
-      "nombre": "CATARINA 39T APACHE180 VICTOR",
-      "marca": "MEK",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004892.png",
-      "imagen_size": 15118,
-      "activo": true
-    },
-    {
       "sku": "RS094",
       "nombre": "CATARINA 39T MOTO CHINA 125-150-200",
       "marca": "NRP",
@@ -10220,8 +10136,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -10577,7 +10493,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11165,7 +11081,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11186,7 +11102,7 @@
         "taller": 9.75,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11406,27 +11322,6 @@
       "activo": true
     },
     {
-      "sku": "1002642",
-      "nombre": "CATARINA 47T CG125 XL125",
-      "marca": "MEK",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 6.5,
-        "distribuidor": 5.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002642.png",
-      "imagen_size": 44497,
-      "activo": true
-    },
-    {
       "sku": "RS044",
       "nombre": "CATARINA 47T DT 100-125-175",
       "marca": "NRP",
@@ -11543,7 +11438,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11585,7 +11480,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12201,27 +12096,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190922.png",
       "imagen_size": 86951,
-      "activo": true
-    },
-    {
-      "sku": "741540100585",
-      "nombre": "CATARINA Y PIÑON APACHE 160-180",
-      "marca": "VINI",
-      "categoria": "KIT TRACCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 19,
-        "taller": 12,
-        "distribuidor": 10.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100585.png",
-      "imagen_size": 89484,
       "activo": true
     },
     {
@@ -13737,27 +13611,6 @@
       "activo": true
     },
     {
-      "sku": "741540100316",
-      "nombre": "CILINDRO COMPLETO BROSS 150 XR150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 97,
-        "taller": 82,
-        "distribuidor": 69.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100316.png",
-      "imagen_size": 70823,
-      "activo": true
-    },
-    {
       "sku": "741540100530",
       "nombre": "CILINDRO COMPLETO CADENILLA PIN15 GL145-FIRE150 ( DK150 ) VINI(FL)",
       "marca": "VINI",
@@ -14210,7 +14063,7 @@
         "taller": 68,
         "distribuidor": 58.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19145,7 +18998,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19208,7 +19061,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20321,7 +20174,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 36,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23408,7 +23261,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 26,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23555,7 +23408,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24899,7 +24752,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26243,7 +26096,7 @@
         "taller": 9.5,
         "distribuidor": 8.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26432,7 +26285,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28521,27 +28374,6 @@
       "activo": true
     },
     {
-      "sku": "741540100544",
-      "nombre": "KIT VALVULA BROSS 125 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17.25,
-        "taller": 13.5,
-        "distribuidor": 11.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100544.png",
-      "imagen_size": 48112,
-      "activo": true
-    },
-    {
       "sku": "741540189634",
       "nombre": "KIT VALVULA CB160",
       "marca": "VINI",
@@ -29876,7 +29708,7 @@
         "taller": 33.5,
         "distribuidor": 31.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30506,7 +30338,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 47,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30989,7 +30821,7 @@
         "taller": 6.25,
         "distribuidor": 5.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31094,7 +30926,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31395,27 +31227,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189682.png",
       "imagen_size": 103868,
-      "activo": true
-    },
-    {
-      "sku": "741540185015",
-      "nombre": "MONOSHOCK DAKAR 200",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 109,
-        "taller": 92,
-        "distribuidor": 79.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540185015.png",
-      "imagen_size": 122477,
       "activo": true
     },
     {
@@ -32312,7 +32123,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36323,7 +36134,7 @@
         "taller": 13,
         "distribuidor": 11.5
       },
-      "stock": 35,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37254,27 +37065,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004167.png",
       "imagen_size": 50668,
-      "activo": true
-    },
-    {
-      "sku": "1000343",
-      "nombre": "PORTA CATARINA YBR125 NAGA200 CR1 COBRAS6",
-      "marca": "MEK",
-      "categoria": "KIT TRACCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000343.jpg",
-      "imagen_size": 13766,
       "activo": true
     },
     {
@@ -39263,8 +39053,8 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -44838,27 +44628,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 9,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -44872,6 +44641,27 @@
       },
       "stock": 3,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
