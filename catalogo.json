@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T19:42:47.211Z",
-  "count": 5711,
+  "generated_at": "2026-09-03T23:11:12.677Z",
+  "count": 5716,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 43,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -329,7 +329,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1001,7 +1001,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2135,7 +2135,7 @@
         "taller": 17,
         "distribuidor": 14.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,7 +2387,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,8 +2408,8 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3563,7 +3563,7 @@
         "taller": 13,
         "distribuidor": 11.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5453,7 +5453,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6419,7 +6419,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 100,
+      "stock": 94,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7595,7 +7595,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 49,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9527,7 +9527,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9873,6 +9873,48 @@
       "activo": true
     },
     {
+      "sku": "RS016",
+      "nombre": "CATARINA 39T AK200 / MOTO CHINA 150-200",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS016.jpg",
+      "imagen_size": 9031,
+      "activo": true
+    },
+    {
+      "sku": "1004892",
+      "nombre": "CATARINA 39T APACHE180 VICTOR",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 6,
+        "distribuidor": 5.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004892.png",
+      "imagen_size": 15118,
+      "activo": true
+    },
+    {
       "sku": "RS094",
       "nombre": "CATARINA 39T MOTO CHINA 125-150-200",
       "marca": "NRP",
@@ -10136,8 +10178,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -10493,7 +10535,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11081,7 +11123,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11102,7 +11144,7 @@
         "taller": 9.75,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11322,6 +11364,27 @@
       "activo": true
     },
     {
+      "sku": "1002642",
+      "nombre": "CATARINA 47T CG125 XL125",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 10,
+        "taller": 6.5,
+        "distribuidor": 5.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002642.png",
+      "imagen_size": 44497,
+      "activo": true
+    },
+    {
       "sku": "RS044",
       "nombre": "CATARINA 47T DT 100-125-175",
       "marca": "NRP",
@@ -11438,7 +11501,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13097,7 +13160,7 @@
         "taller": 22,
         "distribuidor": 19
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15533,7 +15596,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16653,6 +16716,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190713.png",
       "imagen_size": 70918,
+      "activo": true
+    },
+    {
+      "sku": "741540188257",
+      "nombre": "DISCO FRENO YBR125ED  5 HOYOS VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 30,
+        "taller": 22,
+        "distribuidor": 18.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188257.png",
+      "imagen_size": 133695,
       "activo": true
     },
     {
@@ -19061,7 +19145,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19460,7 +19544,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20720,7 +20804,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 38,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23933,8 +24017,8 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -26904,27 +26988,6 @@
       "activo": true
     },
     {
-      "sku": "741540189095",
-      "nombre": "KIT PISTON FORZA150-SPITZER150-CGH",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 23,
-        "taller": 17.5,
-        "distribuidor": 15.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1006294",
       "nombre": "KIT PISTON FREEDOM  FIRE125 PIN PEQUENO",
       "marca": "MEK",
@@ -29582,7 +29645,7 @@
         "taller": 31,
         "distribuidor": 29
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29897,7 +29960,7 @@
         "taller": 30,
         "distribuidor": 27
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31230,6 +31293,27 @@
       "activo": true
     },
     {
+      "sku": "741540185015",
+      "nombre": "MONOSHOCK DAKAR 200",
+      "marca": "VINI",
+      "categoria": "SUSPENCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 109,
+        "taller": 92,
+        "distribuidor": 79.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540185015.png",
+      "imagen_size": 122477,
+      "activo": true
+    },
+    {
       "sku": "741540189221",
       "nombre": "MONOSHOCK DEFENDER 150  VINI (FL)",
       "marca": "VINI",
@@ -32522,7 +32606,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 46,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33026,7 +33110,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33131,7 +33215,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33362,7 +33446,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37068,6 +37152,27 @@
       "activo": true
     },
     {
+      "sku": "1000343",
+      "nombre": "PORTA CATARINA YBR125 NAGA200 CR1 COBRAS6",
+      "marca": "MEK",
+      "categoria": "KIT TRACCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000343.jpg",
+      "imagen_size": 13766,
+      "activo": true
+    },
+    {
       "sku": "741540188935",
       "nombre": "PORTA DISCO DE CLUTCH SOLO APACHE 160-180",
       "marca": "VINI",
@@ -40229,7 +40334,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40712,7 +40817,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44240,7 +44345,7 @@
         "taller": 5,
         "distribuidor": 0
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
