@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T23:11:12.677Z",
-  "count": 5716,
+  "generated_at": "2026-09-04T16:49:10.080Z",
+  "count": 5714,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 9.75,
         "distribuidor": 9.25
       },
-      "stock": 30,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 112,
+      "stock": 92,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 42,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1463,7 +1463,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2124,27 +2124,6 @@
       "activo": true
     },
     {
-      "sku": "741540100225",
-      "nombre": "BASE CATARINA CGL125 / CR1 VINI (RC)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22,
-        "taller": 17,
-        "distribuidor": 14.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100225.png",
-      "imagen_size": 68347,
-      "activo": true
-    },
-    {
       "sku": "741540189270",
       "nombre": "BASE CATARINA FORZA 150",
       "marca": "VINI",
@@ -2282,7 +2261,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 7,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,7 +2387,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6566,7 +6545,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7616,8 +7595,8 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 17,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -9159,27 +9138,6 @@
       "activo": true
     },
     {
-      "sku": "741540190866",
-      "nombre": "CARBURADOR HOT PARTS CG250 (3MM) VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 45,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190866.png",
-      "imagen_size": 97553,
-      "activo": true
-    },
-    {
       "sku": "741540188136",
       "nombre": "CARBURADOR PULSAR 180 VINI(FL)",
       "marca": "VINI",
@@ -9233,7 +9191,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 19,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9254,7 +9212,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9296,7 +9254,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13811,7 +13769,7 @@
         "taller": 72.25,
         "distribuidor": 62.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18893,7 +18851,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20279,7 +20237,7 @@
         "taller": 1.5,
         "distribuidor": 1.3
       },
-      "stock": 25,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20426,7 +20384,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 31,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21140,7 +21098,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26957,7 +26915,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30863,7 +30821,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32508,6 +32466,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188988.png",
       "imagen_size": 95080,
+      "activo": true
+    },
+    {
+      "sku": "741540188775",
+      "nombre": "PASTILLA FRENO APACHE NEW 2017-DAYUN150-29 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.5,
+        "taller": 3.5,
+        "distribuidor": 3
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188775.png",
+      "imagen_size": 89820,
       "activo": true
     },
     {
@@ -38150,7 +38129,7 @@
         "taller": 4.25,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38192,7 +38171,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38612,7 +38591,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39914,7 +39893,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41867,7 +41846,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41930,7 +41909,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41951,7 +41930,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42014,7 +41993,7 @@
         "taller": 3.5,
         "distribuidor": 5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42035,7 +42014,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42077,8 +42056,8 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -42140,7 +42119,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42245,7 +42224,7 @@
         "taller": 8,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42266,7 +42245,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42287,7 +42266,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42980,7 +42959,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43001,7 +42980,7 @@
         "taller": 10.75,
         "distribuidor": 9.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43127,7 +43106,7 @@
         "taller": 6.25,
         "distribuidor": 5.5
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43190,7 +43169,7 @@
         "taller": 5.5,
         "distribuidor": 4.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43211,34 +43190,13 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001007.jpg",
       "imagen_size": 120544,
-      "activo": true
-    },
-    {
-      "sku": "1001005",
-      "nombre": "SWITCH LUCES LH NAGA200 CR2",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001005.jpg",
-      "imagen_size": 127547,
       "activo": true
     },
     {
@@ -43337,7 +43295,7 @@
         "taller": 10.25,
         "distribuidor": 9
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44341,12 +44299,12 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0,
+        "publico": 10,
         "taller": 5,
         "distribuidor": 0
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
