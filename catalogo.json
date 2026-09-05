@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T15:54:11.903Z",
-  "count": 5715,
+  "generated_at": "2026-09-05T18:56:52.759Z",
+  "count": 5709,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 34,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3584,7 +3584,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5642,8 +5642,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7605,27 +7605,6 @@
       "activo": true
     },
     {
-      "sku": "741540178441",
-      "nombre": "CADENA TRACCION 428HX134L VINI (FL)",
-      "marca": "VINI",
-      "categoria": "CADENAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14.25,
-        "taller": 7,
-        "distribuidor": 6.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540178441.png",
-      "imagen_size": 114957,
-      "activo": true
-    },
-    {
       "sku": "741540178459",
       "nombre": "CADENA TRACCION 428X134L VINI(FL)",
       "marca": "VINI",
@@ -9254,7 +9233,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10167,27 +10146,6 @@
       "activo": true
     },
     {
-      "sku": "RS090",
-      "nombre": "CATARINA 41T CR1 150 / CR2 210 / MOTO CHINA CON CENTRO DE YBR125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 8.75,
-        "distribuidor": 7.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS090.jpg",
-      "imagen_size": 10149,
-      "activo": true
-    },
-    {
       "sku": "RS104",
       "nombre": "CATARINA 41T DREAM NEO 110",
       "marca": "NRP",
@@ -10493,7 +10451,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15638,7 +15596,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 46,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19092,27 +19050,6 @@
       "activo": true
     },
     {
-      "sku": "1003226",
-      "nombre": "FILTRO AIRE BROS TODO TERRENO",
-      "marca": "MEK",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 4.5,
-        "distribuidor": 4
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003226.png",
-      "imagen_size": 36117,
-      "activo": true
-    },
-    {
       "sku": "741540188483",
       "nombre": "FILTRO AIRE CB110 VINI(FL)",
       "marca": "VINI",
@@ -19208,7 +19145,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20300,7 +20237,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24237,27 +24174,6 @@
       "activo": true
     },
     {
-      "sku": "1009008",
-      "nombre": "KIT BUSHING MASA METAL C/TORNILLO",
-      "marca": "MEK",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1003140",
       "nombre": "KIT BUSHING TIJERA YBR 125",
       "marca": "MEK",
@@ -25004,7 +24920,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25088,7 +25004,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25991,7 +25907,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28416,27 +28332,6 @@
       "activo": true
     },
     {
-      "sku": "741540105044",
-      "nombre": "KIT VALVULA CBF125-UNICOR VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17,
-        "taller": 10,
-        "distribuidor": 8.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540105044.png",
-      "imagen_size": 47814,
-      "activo": true
-    },
-    {
       "sku": "741540189633",
       "nombre": "KIT VALVULA CRUXX 110 REV",
       "marca": "VINI",
@@ -29918,7 +29813,7 @@
         "taller": 30,
         "distribuidor": 27
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31605,27 +31500,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189658",
-      "nombre": "MOTOR ARRANQUE DRACO 250-FIRE 150, 10 DIENTES",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 54.25,
-        "taller": 49,
-        "distribuidor": 46
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189658.png",
-      "imagen_size": 95878,
       "activo": true
     },
     {
@@ -34706,7 +34580,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40796,7 +40670,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44712,27 +44586,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -44746,6 +44599,27 @@
       },
       "stock": 9,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -44849,7 +44723,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
