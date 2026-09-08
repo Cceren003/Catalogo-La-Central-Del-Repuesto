@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T23:24:27.929Z",
-  "count": 5700,
+  "generated_at": "2026-09-08T17:12:32.603Z",
+  "count": 5703,
   "productos": [
     {
       "sku": "LM120106",
@@ -980,7 +980,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5327,7 +5327,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5747,7 +5747,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5936,8 +5936,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7574,13 +7574,34 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 27,
+      "stock": 65,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100252.png",
       "imagen_size": 122609,
+      "activo": true
+    },
+    {
+      "sku": "741540178441",
+      "nombre": "CADENA TRACCION 428HX134L VINI (FL)",
+      "marca": "VINI",
+      "categoria": "CADENAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14.25,
+        "taller": 7,
+        "distribuidor": 6.25
+      },
+      "stock": 60,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540178441.png",
+      "imagen_size": 114957,
       "activo": true
     },
     {
@@ -7658,7 +7679,7 @@
         "taller": 17.5,
         "distribuidor": 15.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8162,8 +8183,8 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 27,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -9968,7 +9989,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12236,7 +12257,7 @@
         "taller": 18.5,
         "distribuidor": 16
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12404,8 +12425,8 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 30,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20636,7 +20657,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 49,
+      "stock": 50,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20783,7 +20804,7 @@
         "taller": 0.3,
         "distribuidor": 0.2
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23156,7 +23177,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 25,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23198,7 +23219,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 19,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26474,7 +26495,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27419,8 +27440,8 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28910,8 +28931,8 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 17,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28931,7 +28952,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 6,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31997,7 +32018,7 @@
         "taller": 5.75,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32543,7 +32564,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32900,7 +32921,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32921,8 +32942,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33992,7 +34013,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34167,6 +34188,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190227.png",
       "imagen_size": 104075,
+      "activo": true
+    },
+    {
+      "sku": "741540189560",
+      "nombre": "PIDE VIA SET FIRE 150",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 8.75,
+        "distribuidor": 7.75
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189560.png",
+      "imagen_size": 131587,
       "activo": true
     },
     {
@@ -35588,7 +35630,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36396,6 +36438,27 @@
       "activo": true
     },
     {
+      "sku": "741540189436",
+      "nombre": "PLANTA RTX150 - SPITZER 250-200 / HOLKAN 160 / DAYUN 250",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 34.75,
+        "taller": 28.75,
+        "distribuidor": 24.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189436.png",
+      "imagen_size": 170257,
+      "activo": true
+    },
+    {
       "sku": "741540189684",
       "nombre": "PLANTA SPITZER  200 VINI(FL)",
       "marca": "VINI",
@@ -37184,7 +37247,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 21,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37226,7 +37289,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 33,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41415,6 +41478,27 @@
       "activo": true
     },
     {
+      "sku": "741540100709",
+      "nombre": "STOP COMPLETO GN125 VINI",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100709.png",
+      "imagen_size": 108562,
+      "activo": true
+    },
+    {
       "sku": "741540100328",
       "nombre": "STOP COMPLETO NXR-150 VINI",
       "marca": "VINI",
@@ -44009,7 +44093,7 @@
         "taller": 5,
         "distribuidor": 0
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -101571,28 +101655,6 @@
       "fuente": "VINI",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540100709",
-      "nombre": "STOP COMPLETO GN125 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540100709.png",
-      "imagen_size": 108562,
       "activo": true
     },
     {
