@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T23:17:48.743Z",
-  "count": 5699,
+  "generated_at": "2026-09-09T17:06:31.706Z",
+  "count": 5698,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 101,
+      "stock": 98,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2188,8 +2188,8 @@
     },
     {
       "sku": "TS12N7-3B",
-      "nombre": "BATERIA DE GEL 12N7-3B TECNOSTAR",
-      "marca": "TECNOSTAR",
+      "nombre": "BATERIA DE GEL 12N7-3B TECNOSTAR POLOS INVERTIDOS",
+      "marca": "MOTUL",
       "categoria": "BATERIAS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -2251,7 +2251,7 @@
     },
     {
       "sku": "TS12N7A-4A",
-      "nombre": "BATERIA DE GEL 12N7A-4A TECNOSTAR",
+      "nombre": "BATERIA DE GEL 12N7A-4A TECNOSTAR POLOS INVERTIDOS",
       "marca": "TECNOSTAR",
       "categoria": "BATERIAS",
       "presentacion": "UNIDAD",
@@ -4277,7 +4277,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5432,7 +5432,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7574,7 +7574,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 65,
+      "stock": 64,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7679,7 @@
         "taller": 17.5,
         "distribuidor": 15.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10115,7 +10115,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10647,27 +10647,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RS029",
-      "nombre": "CATARINA 43T DISCOVER 125-150, PULSAR 125NS-135, PULSAR180 UG, HUNK 150, CB 160 UNICORN",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.5,
-        "taller": 8,
-        "distribuidor": 6.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS029.jpg",
-      "imagen_size": 9617,
       "activo": true
     },
     {
@@ -11435,8 +11414,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 14,
-        "taller": 9,
-        "distribuidor": 7.75
+        "taller": 10,
+        "distribuidor": 8.5
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -13706,7 +13685,7 @@
         "taller": 72.25,
         "distribuidor": 62.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23618,7 +23597,7 @@
         "taller": 19.5,
         "distribuidor": 16.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26495,7 +26474,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28112,7 +28091,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32144,7 +32123,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 46,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37184,7 +37163,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 18,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37205,7 +37184,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 31,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
