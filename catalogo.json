@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T17:06:31.706Z",
-  "count": 5698,
+  "generated_at": "2026-09-09T19:43:07.977Z",
+  "count": 5692,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 9.75,
         "distribuidor": 9.25
       },
-      "stock": 30,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 98,
+      "stock": 86,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1484,7 +1484,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1862,7 +1862,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 4,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1904,7 +1904,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 4,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1946,7 +1946,7 @@
         "taller": 9.25,
         "distribuidor": 8
       },
-      "stock": 2,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2376,27 +2376,6 @@
       "activo": true
     },
     {
-      "sku": "TSYTX7L-BS",
-      "nombre": "BATERIA DE GEL YTX7L-BS TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 28,
-        "taller": 19,
-        "distribuidor": 17
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TSYTX9-BS",
       "nombre": "BATERIA DE GEL YTX9-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2765,7 +2744,7 @@
         "taller": 8.75,
         "distribuidor": 7.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2870,7 +2849,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2891,7 +2870,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3867,27 +3846,6 @@
       "activo": true
     },
     {
-      "sku": "IFR7X7G",
-      "nombre": "BUJIA LASER IRIDIUM IFR7X7G",
-      "marca": "NGK",
-      "categoria": "BUJIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "BA020430",
       "nombre": "BUJIA NGK C7EA CUELLO LARGO",
       "marca": "NGK",
@@ -3941,7 +3899,7 @@
         "taller": 2.2,
         "distribuidor": 2.05
       },
-      "stock": 66,
+      "stock": 56,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,8 +3941,8 @@
         "taller": 9.5,
         "distribuidor": 9
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5915,7 +5873,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6398,7 +6356,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 94,
+      "stock": 91,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8750,7 +8708,7 @@
         "taller": 1.75,
         "distribuidor": 1.35
       },
-      "stock": 21,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9779,7 +9737,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13702,7 +13660,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 79.25,
+        "publico": 95,
         "taller": 63,
         "distribuidor": 54
       },
@@ -19796,7 +19754,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20300,7 +20258,7 @@
         "taller": 2.5,
         "distribuidor": 2.2
       },
-      "stock": 22,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20636,7 +20594,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 32,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21371,8 +21329,8 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -26156,8 +26114,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 2.5,
-        "taller": 2,
-        "distribuidor": 1.5
+        "taller": 1.5,
+        "distribuidor": 1
       },
       "stock": 110,
       "stock_status": "in_stock",
@@ -27356,7 +27314,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30285,27 +30243,6 @@
       "activo": true
     },
     {
-      "sku": "741540190706",
-      "nombre": "MANGUERA FRENO DISCO FZ16 (80CM LARGO)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.5,
-        "taller": 10.5,
-        "distribuidor": 9.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190706.png",
-      "imagen_size": 71183,
-      "activo": true
-    },
-    {
       "sku": "741540190705",
       "nombre": "MANGUERA FRENO DISCO GN125 (102CM LARGO)",
       "marca": "VINI",
@@ -30422,7 +30359,7 @@
         "taller": 19.5,
         "distribuidor": 17
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31017,27 +30954,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006127.jpg",
       "imagen_size": 49822,
-      "activo": true
-    },
-    {
-      "sku": "741540100001",
-      "nombre": "MONOSHOCK NXR-BROSS 125 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 95,
-        "taller": 85.25,
-        "distribuidor": 73.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100001.png",
-      "imagen_size": 101841,
       "activo": true
     },
     {
@@ -31724,7 +31640,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 11,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31745,7 +31661,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32270,7 +32186,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 26,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32984,7 +32900,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 24,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37257,27 +37173,6 @@
       "activo": true
     },
     {
-      "sku": "741540190257",
-      "nombre": "RECTIFICADOR CORRIENTE FZ 2.00",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 12,
-        "distribuidor": 10.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190257.png",
-      "imagen_size": 81458,
-      "activo": true
-    },
-    {
       "sku": "741540100726",
       "nombre": "RECTIFICADOR CORRIENTE GN125 VINI",
       "marca": "VINI",
@@ -37709,7 +37604,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43977,27 +43872,6 @@
       "activo": true
     },
     {
-      "sku": "741540188516",
-      "nombre": "TUBO 4.60X17 VINI NEW BUTYL",
-      "marca": "MOTUL",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 5,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188516.png",
-      "imagen_size": 87875,
-      "activo": true
-    },
-    {
       "sku": "RC040050005",
       "nombre": "TUBO DE LLANTA 110-90-16",
       "marca": "NRP",
@@ -44376,27 +44250,6 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -44410,6 +44263,27 @@
       },
       "stock": 9,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
