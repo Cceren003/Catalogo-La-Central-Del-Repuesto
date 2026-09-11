@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T19:31:30.268Z",
-  "count": 5682,
+  "generated_at": "2026-09-11T23:09:19.321Z",
+  "count": 5706,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 104,
+      "stock": 91,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -318,6 +318,27 @@
       "activo": true
     },
     {
+      "sku": "1004701",
+      "nombre": "AMORTIGUADOR TRACERO UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004701.png",
+      "imagen_size": 15047,
+      "activo": true
+    },
+    {
       "sku": "1001148",
       "nombre": "AMORTIGUADOR TRASERO GY6 150CC/MD150T-15/GX150",
       "marca": "MEK",
@@ -504,6 +525,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001034.jpg",
       "imagen_size": 120293,
+      "activo": true
+    },
+    {
+      "sku": "1001605",
+      "nombre": "ARNES COMPLETO MG125-7-CG125-MG150-7S-FT125",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 30,
+        "taller": 15,
+        "distribuidor": 12.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001605.png",
+      "imagen_size": 1147923,
       "activo": true
     },
     {
@@ -812,7 +854,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1232,7 +1274,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1442,8 +1484,8 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1746,6 +1788,27 @@
       "activo": true
     },
     {
+      "sku": "1005705",
+      "nombre": "BALERO MEK PRO 6004 2RS",
+      "marca": "MEK",
+      "categoria": "BALEROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 3,
+        "distribuidor": 2.25
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005705.png",
+      "imagen_size": 27436,
+      "activo": true
+    },
+    {
       "sku": "1005707",
       "nombre": "BALERO MEK PRO 6202 2RS / NAGA200",
       "marca": "MEK",
@@ -1757,13 +1820,34 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 11,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1005708",
+      "nombre": "BALERO MEK PRO 6301 2RS/NAGA200",
+      "marca": "MEK",
+      "categoria": "BALEROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3,
+        "taller": 2.25,
+        "distribuidor": 1.75
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005708.png",
+      "imagen_size": 27592,
       "activo": true
     },
     {
@@ -1974,6 +2058,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190075.png",
       "imagen_size": 146786,
+      "activo": true
+    },
+    {
+      "sku": "1004097",
+      "nombre": "BALINERA BENDIX 3 BALINES CG125/CG150 CR1 HJ125-7",
+      "marca": "MEK",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 6,
+        "distribuidor": 5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004097.png",
+      "imagen_size": 27446,
       "activo": true
     },
     {
@@ -2219,8 +2324,8 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3171,6 +3276,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189585.png",
       "imagen_size": 92596,
+      "activo": true
+    },
+    {
+      "sku": "1004622",
+      "nombre": "BOMBA ACEITE CG150/CG200/CR1/CG125",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004622.png",
+      "imagen_size": 37623,
       "activo": true
     },
     {
@@ -5075,8 +5201,8 @@
         "taller": 3.5,
         "distribuidor": 2.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6377,7 +6503,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 90,
+      "stock": 89,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6975,6 +7101,27 @@
       "activo": true
     },
     {
+      "sku": "1005134",
+      "nombre": "CADENA TIEMPO 104L CR4/ AK200 R4 FALCON 250",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 10,
+        "taller": 4.25,
+        "distribuidor": 3.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005134.png",
+      "imagen_size": 8555,
+      "activo": true
+    },
+    {
       "sku": "741540189998",
       "nombre": "CADENA TIEMPO 4X5 104L XL1250S VINI (FL)",
       "marca": "VINI",
@@ -7133,7 +7280,7 @@
         "taller": 10.75,
         "distribuidor": 9.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7707,6 +7854,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100813.png",
       "imagen_size": 138877,
+      "activo": true
+    },
+    {
+      "sku": "1006530",
+      "nombre": "CADENA TRACCION DORADA MEK 520H-120L REFORZADA",
+      "marca": "MEK",
+      "categoria": "KIT TRACCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22,
+        "taller": 14,
+        "distribuidor": 12.5
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -8991,6 +9159,27 @@
       "activo": true
     },
     {
+      "sku": "1003575",
+      "nombre": "CARBURADOR GY6 125SCOOTER",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 44,
+        "taller": 28,
+        "distribuidor": 23.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003575.jpg",
+      "imagen_size": 356637,
+      "activo": true
+    },
+    {
       "sku": "1002590",
       "nombre": "CARBURADOR GY6 150 SCOOTER",
       "marca": "MEK",
@@ -9170,7 +9359,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11353,6 +11542,27 @@
         "publico": 0,
         "taller": 0,
         "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1006510",
+      "nombre": "CATARINA 520H 38T XPULSE200",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 7,
+        "distribuidor": 6
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -14199,27 +14409,6 @@
       "activo": true
     },
     {
-      "sku": "741540189331",
-      "nombre": "CILINDRO COMPLETO YARA 200-R1 200 CADENILLA 196CC PIN 15 COLOR NEGRO VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 88.25,
-        "taller": 75.75,
-        "distribuidor": 65.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189331.png",
-      "imagen_size": 111262,
-      "activo": true
-    },
-    {
       "sku": "741540100317",
       "nombre": "CILINDRO COMPLETO YBR125",
       "marca": "VINI",
@@ -14616,6 +14805,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001681.png",
       "imagen_size": 16986,
+      "activo": true
+    },
+    {
+      "sku": "1006072",
+      "nombre": "DESLIZADOR DE CADENA DEFENDER 150",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 4,
+        "distribuidor": 3.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006072.png",
+      "imagen_size": 19419,
       "activo": true
     },
     {
@@ -15918,27 +16128,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190718.png",
       "imagen_size": 142396,
-      "activo": true
-    },
-    {
-      "sku": "741540189103",
-      "nombre": "DISCO FRENO FZ16 DELANTERO",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 32,
-        "taller": 25,
-        "distribuidor": 20.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189103.png",
-      "imagen_size": 149470,
       "activo": true
     },
     {
@@ -17559,6 +17748,27 @@
       "activo": true
     },
     {
+      "sku": "1003587",
+      "nombre": "EMPAQUE CULATA-CILINDRO  CG150",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.5,
+        "distribuidor": 2
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003587.png",
+      "imagen_size": 36740,
+      "activo": true
+    },
+    {
       "sku": "1005647",
       "nombre": "EMPAQUE CULATA/CILINDRO MEK PRO CG200 / CR2 63MM",
       "marca": "MEK",
@@ -17592,6 +17802,27 @@
         "distribuidor": 2
       },
       "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RMEMP-110100075",
+      "nombre": "EMPAQUE DE MOTOR KIT NEW R1-200",
+      "marca": "KATANA",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 21,
+        "distribuidor": 0
+      },
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17640,6 +17871,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1002942.png",
       "imagen_size": 29187,
+      "activo": true
+    },
+    {
+      "sku": "1002943",
+      "nombre": "EMPAQUE ESCAPE BRONCE UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 1.75,
+        "taller": 1.25,
+        "distribuidor": 0.75
+      },
+      "stock": 25,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002943.png",
+      "imagen_size": 38225,
       "activo": true
     },
     {
@@ -18018,6 +18270,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000567.png",
       "imagen_size": 17317,
+      "activo": true
+    },
+    {
+      "sku": "1004910-1",
+      "nombre": "ESPEJO SET RETROVISORES NEGRO UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "ESPEJOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9,
+        "taller": 5,
+        "distribuidor": 4.25
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -18777,6 +19050,27 @@
       "activo": true
     },
     {
+      "sku": "1003226",
+      "nombre": "FILTRO AIRE BROS TODO TERRENO",
+      "marca": "MEK",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 4.5,
+        "distribuidor": 4
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003226.png",
+      "imagen_size": 36117,
+      "activo": true
+    },
+    {
       "sku": "741540188483",
       "nombre": "FILTRO AIRE CB110 VINI(FL)",
       "marca": "VINI",
@@ -19278,6 +19572,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190291.png",
       "imagen_size": 117029,
+      "activo": true
+    },
+    {
+      "sku": "17210-KVT-D00",
+      "nombre": "FILTRO AIRE NAVI110",
+      "marca": "MEK",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 6,
+        "distribuidor": 5.25
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/17210-KVT-D00.jpg",
+      "imagen_size": 426239,
       "activo": true
     },
     {
@@ -23618,7 +23933,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23827,6 +24142,27 @@
         "publico": 7.5,
         "taller": 6,
         "distribuidor": 5
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "1009008",
+      "nombre": "KIT BUSHING MASA METAL C/TORNILLO",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 5,
+        "distribuidor": 4
       },
       "stock": 6,
       "stock_status": "in_stock",
@@ -24192,6 +24528,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/CK039.jpg",
       "imagen_size": 11020,
+      "activo": true
+    },
+    {
+      "sku": "1002363",
+      "nombre": "KIT CILINDRO COMPLETO VARILLA PIN13 CG150-FIRE150",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 50,
+        "taller": 34,
+        "distribuidor": 29.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002363.png",
+      "imagen_size": 30941,
       "activo": true
     },
     {
@@ -26187,6 +26544,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001246.jpg",
       "imagen_size": 112753,
+      "activo": true
+    },
+    {
+      "sku": "1006565",
+      "nombre": "KIT MANECILLAS LH/RH CON BOMBA FRENO AZUL",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 30.5,
+        "taller": 25,
+        "distribuidor": 21.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -28584,6 +28962,48 @@
       "activo": true
     },
     {
+      "sku": "1005330",
+      "nombre": "KIT VALVULAS ADMISION Y ESCAPE MEK PRO CG200 YARA200-SMX200-KARISMA230",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 20,
+        "taller": 12,
+        "distribuidor": 8.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005330.png",
+      "imagen_size": 13616,
+      "activo": true
+    },
+    {
+      "sku": "RMVAL-14039003",
+      "nombre": "KIT VALVULAS NEW R1-200",
+      "marca": "KATANA",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 24.5,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540100030",
       "nombre": "KIT VARILLA EMPUJE CG125-CG150-DEFENDER200 VINI (RC)",
       "marca": "VINI",
@@ -28749,6 +29169,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-4101-22.png",
       "imagen_size": 86440,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-1201-22",
+      "nombre": "LLANTA AXUS 100-90-18 LISA AX827 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 42.25,
+        "taller": 32,
+        "distribuidor": 29
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-1201-22.png",
+      "imagen_size": 107873,
       "activo": true
     },
     {
@@ -28938,6 +29379,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0901-22.png",
       "imagen_size": 90623,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0902-22",
+      "nombre": "LLANTA AXUS 300-18 LISA AX1155 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 38.75,
+        "taller": 28,
+        "distribuidor": 26
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0902-22.png",
+      "imagen_size": 89673,
       "activo": true
     },
     {
@@ -30023,8 +30485,8 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30317,7 +30779,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30744,6 +31206,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006127.jpg",
       "imagen_size": 49822,
+      "activo": true
+    },
+    {
+      "sku": "RSAMO-540300-G036",
+      "nombre": "MONOSHOCK SMX200 KATANA",
+      "marca": "KATANA",
+      "categoria": "SUSPENCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 110,
+        "taller": 79,
+        "distribuidor": 71
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -31493,8 +31976,8 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32910,6 +33393,27 @@
       "activo": true
     },
     {
+      "sku": "1003041",
+      "nombre": "PATA ARRANQUE BROSS TODO TERRENO",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003041.png",
+      "imagen_size": 8805,
+      "activo": true
+    },
+    {
       "sku": "1002423",
       "nombre": "PATA ARRANQUE COBRAS6 FIRE HJ125-7",
       "marca": "MEK",
@@ -33057,6 +33561,27 @@
       "activo": true
     },
     {
+      "sku": "1006642",
+      "nombre": "PATA CAMBIO HUNK 150-190R",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 15,
+        "taller": 9,
+        "distribuidor": 7
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540190136",
       "nombre": "PATA FRENO APACHE RTR 160-180",
       "marca": "VINI",
@@ -33138,6 +33663,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003146.png",
       "imagen_size": 32571,
+      "activo": true
+    },
+    {
+      "sku": "RCPAT-530100-G001",
+      "nombre": "PATA LATERAL SMX200",
+      "marca": "KATANA",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 18,
+        "taller": 14,
+        "distribuidor": 11.9
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -35679,27 +36225,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189685.png",
       "imagen_size": 145483,
-      "activo": true
-    },
-    {
-      "sku": "741540190147",
-      "nombre": "PLANTA FXR200 / KATANA R1",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 38.5,
-        "taller": 29.25,
-        "distribuidor": 25.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190147.png",
-      "imagen_size": 164552,
       "activo": true
     },
     {
@@ -39987,6 +40512,27 @@
       "activo": true
     },
     {
+      "sku": "1006548",
+      "nombre": "SEGURO ESLABON CADENA DORADO 520H UNIVERSAL",
+      "marca": "MEK",
+      "categoria": "CADENAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 1.75,
+        "taller": 1.25,
+        "distribuidor": 0.75
+      },
+      "stock": 20,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1004480",
       "nombre": "SEGURO ESLABON CADENA NEGRO 520H UNIVERSAL",
       "marca": "MEK",
@@ -40047,6 +40593,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1002811.png",
       "imagen_size": 28063,
+      "activo": true
+    },
+    {
+      "sku": "1002393",
+      "nombre": "SELENOIDE YBR125",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9,
+        "taller": 6,
+        "distribuidor": 5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002393.png",
+      "imagen_size": 42641,
       "activo": true
     },
     {
@@ -40470,6 +41037,27 @@
       "activo": true
     },
     {
+      "sku": "1001679",
+      "nombre": "SET CUNAS DIRECCION BROSS CHINA SMX200 / KEEWAY 200 / DAYUN GY3 200",
+      "marca": "MEK",
+      "categoria": "DIRECCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 5,
+        "distribuidor": 4.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001679.png",
+      "imagen_size": 31515,
+      "activo": true
+    },
+    {
       "sku": "1000806",
       "nombre": "SET CUNAS DIRECCION CG125/150 COLT125/150 CR2 TAYPAN XL125",
       "marca": "MEK",
@@ -40488,6 +41076,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000806.jpg",
       "imagen_size": 338724,
+      "activo": true
+    },
+    {
+      "sku": "1006110",
+      "nombre": "SET CUNAS DIRECCIONALES NAGA 200",
+      "marca": "MEK",
+      "categoria": "DIRECCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 5,
+        "distribuidor": 4.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006110.png",
+      "imagen_size": 38258,
       "activo": true
     },
     {
@@ -41216,7 +41825,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44040,6 +44649,27 @@
       "activo": true
     },
     {
+      "sku": "TV001",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "RL040000000",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -44061,24 +44691,24 @@
       "activo": true
     },
     {
-      "sku": "TV001",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
+      "sku": "1002746",
+      "nombre": "VALVULA PASO GASOLINA  CR1N NAGA200 2018  TODOTERRENO CRII",
+      "marca": "MEK",
+      "categoria": "REPUESTOS",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
+        "publico": 6,
+        "taller": 4,
+        "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
+      "imagen": "imagenes/1002746.png",
+      "imagen_size": 36932,
       "activo": true
     },
     {
@@ -44177,7 +44807,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -111293,28 +111923,6 @@
       "activo": true
     },
     {
-      "sku": "1002393",
-      "nombre": "SELENOIDE YBR125",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1002393.png",
-      "imagen_size": 42641,
-      "activo": true
-    },
-    {
       "sku": "1001019",
       "nombre": "KIT PITO TIPO CARACOL UNIVERSAL",
       "marca": "MEK",
@@ -111535,28 +112143,6 @@
       "activo": true
     },
     {
-      "sku": "1004097",
-      "nombre": "BENDIX 3 BALINES CG125/CG150 CR1 HJ125-7",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1004097.png",
-      "imagen_size": 27446,
-      "activo": true
-    },
-    {
       "sku": "1004128",
       "nombre": "BENDIX MULTIPLE CG200/CG250 NAGA 200 YARA GXT200 MOTORES 200",
       "marca": "MEK",
@@ -111576,28 +112162,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1004128.png",
       "imagen_size": 30006,
-      "activo": true
-    },
-    {
-      "sku": "1006110",
-      "nombre": "SET CUNAS DIRECCION NAGA 200",
-      "marca": "MEK",
-      "categoria": "REPUESTOS MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1006110.png",
-      "imagen_size": 38258,
       "activo": true
     },
     {
@@ -112657,28 +113221,6 @@
       "activo": true
     },
     {
-      "sku": "1006072",
-      "nombre": "DESLIZADOR DE CADENA DEFENDER150",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1006072.png",
-      "imagen_size": 19419,
-      "activo": true
-    },
-    {
       "sku": "2000030",
       "nombre": "Disco freno trasero TVS RTR160 Actualización: 11-02-26 PRECIO STOCKCODIGOIMAGENANOTACIONESDESCRIPCIONGRUPO",
       "marca": "MEK",
@@ -113182,28 +113724,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1004437.png",
       "imagen_size": 30271,
-      "activo": true
-    },
-    {
-      "sku": "1004701",
-      "nombre": "AMORTIGUADOR TRASERO UNIVERSAL CR1 AK150R4",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1004701.png",
-      "imagen_size": 15047,
       "activo": true
     },
     {
@@ -115470,28 +115990,6 @@
       "fuente": "MEK",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1002746",
-      "nombre": "VALVULA PASO GASOLINA CR1N NAGA200 2018 TODOTERRENO CRII",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1002746.png",
-      "imagen_size": 36932,
       "activo": true
     },
     {
