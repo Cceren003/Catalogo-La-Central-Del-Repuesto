@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T18:30:29.698Z",
-  "count": 5700,
+  "generated_at": "2026-09-14T23:48:56.745Z",
+  "count": 5703,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 120,
+      "stock": 117,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 75,
+      "stock": 68,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2208,6 +2208,27 @@
       "activo": true
     },
     {
+      "sku": "1001677",
+      "nombre": "BASE ACELERADOR BROSS CHINA TODO TERRENO",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 5,
+        "distribuidor": 4.25
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001677.jpg",
+      "imagen_size": 11551,
+      "activo": true
+    },
+    {
       "sku": "741540189270",
       "nombre": "BASE CATARINA FORZA 150",
       "marca": "VINI",
@@ -2387,7 +2408,7 @@
         "taller": 25,
         "distribuidor": 23
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2492,7 +2513,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3752,7 +3773,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5358,6 +5379,27 @@
       "activo": true
     },
     {
+      "sku": "1005923",
+      "nombre": "CABLE CLUTCH  DEFENDER150",
+      "marca": "MEK",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 3,
+        "distribuidor": 2.5
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005923.png",
+      "imagen_size": 6859,
+      "activo": true
+    },
+    {
       "sku": "1004916",
       "nombre": "CABLE CLUTCH  TVS KING NEGRO",
       "marca": "MEK",
@@ -5387,10 +5429,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 0,
-        "taller": 0,
+        "taller": 4,
         "distribuidor": 0
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6503,7 +6545,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 78,
+      "stock": 71,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7721,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 60,
+      "stock": 57,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8424,6 +8466,27 @@
       "activo": true
     },
     {
+      "sku": "1006639",
+      "nombre": "CALIPER DELANTERO HUNK 150-160R / GIXXER-TWISTER / V-STROM",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1000184",
       "nombre": "CALIPER DELANTERO XTZ125",
       "marca": "MEK",
@@ -8729,7 +8792,7 @@
         "taller": 23,
         "distribuidor": 19.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8855,7 +8918,7 @@
         "taller": 1.75,
         "distribuidor": 1.35
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10227,27 +10290,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RS089",
-      "nombre": "CATARINA 40T MOTO CHINA CON CENTRO DE YBR125",
-      "marca": "NRP",
-      "categoria": "KIT TRACCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 7.5,
-        "distribuidor": 6.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS089.jpg",
-      "imagen_size": 11806,
       "activo": true
     },
     {
@@ -11805,6 +11847,27 @@
       "activo": true
     },
     {
+      "sku": "1006336",
+      "nombre": "CATARINA CRX250 428H 46T 5 HOYOS",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540190297",
       "nombre": "CATARINA DRACO R250",
       "marca": "VINI",
@@ -12698,7 +12761,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12852,6 +12915,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190094.png",
       "imagen_size": 92445,
+      "activo": true
+    },
+    {
+      "sku": "1006604",
+      "nombre": "CDI RACING CG125-150-200 6PIN",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 15,
+        "distribuidor": 0
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -15428,8 +15512,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -15512,7 +15596,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 42,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17601,6 +17685,27 @@
       "activo": true
     },
     {
+      "sku": "1006641",
+      "nombre": "EJE VELOCIDAD ECO150 / XPULSE 200 / HUNK 190R-200R / HUNK 150",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189350",
       "nombre": "EJE VELOCIDAD GN125-GTX200-DR200",
       "marca": "VINI",
@@ -17801,7 +17906,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21147,27 +21252,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190049.png",
       "imagen_size": 59000,
-      "activo": true
-    },
-    {
-      "sku": "741540191174",
-      "nombre": "GUIA CADENA TIEMPO SET XL 200",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 15,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -26558,7 +26642,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29004,6 +29088,27 @@
       "activo": true
     },
     {
+      "sku": "2000027",
+      "nombre": "KIT VIA PARA GN",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "CAJAS",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1208016KT191L",
       "nombre": "LLANTA 120-80-16 CAMEL TL LISA DEPORTIVA",
       "marca": "NRP",
@@ -29099,7 +29204,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29610,27 +29715,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189936.png",
       "imagen_size": 69014,
-      "activo": true
-    },
-    {
-      "sku": "741540189931",
-      "nombre": "LLANTA VINI 140-70-17 VT1010 LISA DEPORTIVA (FL)",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 52.25,
-        "taller": 39.5,
-        "distribuidor": 37.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189931.png",
-      "imagen_size": 66992,
       "activo": true
     },
     {
@@ -30506,7 +30590,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30527,7 +30611,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31829,7 +31913,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31850,7 +31934,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31871,7 +31955,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31892,8 +31976,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31913,7 +31997,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32333,7 +32417,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 40,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32571,6 +32655,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003503.jpg",
       "imagen_size": 291960,
+      "activo": true
+    },
+    {
+      "sku": "1005987",
+      "nombre": "PASTILLA FRENO GXT 250R",
+      "marca": "MEK",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -32942,7 +33047,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33110,7 +33215,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33509,7 +33614,7 @@
         "taller": 9,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33579,6 +33684,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188655.png",
       "imagen_size": 42027,
+      "activo": true
+    },
+    {
+      "sku": "1006643",
+      "nombre": "PATA FRENO HUNK 150",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -34055,7 +34181,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34538,7 +34664,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37089,6 +37215,27 @@
       "activo": true
     },
     {
+      "sku": "1001281",
+      "nombre": "PRENSA CLUTCH COMPLETA  6T6D CG200 TODOTERRENO  70 DIENTES",
+      "marca": "MEK",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 45,
+        "taller": 29,
+        "distribuidor": 24.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001281.jpg",
+      "imagen_size": 1612048,
+      "activo": true
+    },
+    {
       "sku": "1005258",
       "nombre": "PRENSA CLUTCH COMPLETA YBR125",
       "marca": "MEK",
@@ -37814,7 +37961,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 3,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37835,7 +37982,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 3,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37898,7 +38045,7 @@
         "taller": 4.25,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40061,7 +40208,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41919,6 +42066,27 @@
       "activo": true
     },
     {
+      "sku": "1005496",
+      "nombre": "SWITCH ARRANQUE RH CR1CR1S NAGA200",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 5,
+        "distribuidor": 4.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005496.jpg",
+      "imagen_size": 12048,
+      "activo": true
+    },
+    {
       "sku": "741540189588",
       "nombre": "SWITCH ARRANQUE RH CRUX110REV VINI(FL)",
       "marca": "VINI",
@@ -42738,27 +42906,6 @@
       "activo": true
     },
     {
-      "sku": "RESWI-0371000-0074L/R",
-      "nombre": "SWITCH IZQ/DER SET MK1",
-      "marca": "KATANA",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 42,
-        "taller": 32,
-        "distribuidor": 28
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540188041",
       "nombre": "SWITCH LH FIRE 125 VINI",
       "marca": "VINI",
@@ -43022,8 +43169,8 @@
         "taller": 5.5,
         "distribuidor": 4.5
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -43365,6 +43512,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189316.png",
       "imagen_size": 90725,
+      "activo": true
+    },
+    {
+      "sku": "1002583",
+      "nombre": "TAPON DRENAJE ACEITE CRZ250",
+      "marca": "MEK",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -44702,7 +44870,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44744,8 +44912,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -44765,7 +44933,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -108474,28 +108642,6 @@
       "activo": true
     },
     {
-      "sku": "1006604",
-      "nombre": "CDI Racing CG125/150/200",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1006605",
       "nombre": "Kit protector manecillas negro",
       "marca": "MEK",
@@ -112236,28 +112382,6 @@
       "activo": true
     },
     {
-      "sku": "1005987",
-      "nombre": "Pastilla Freno Trasera Genesis GXT250R/KMF ZX250R DB1A-0012-10Δ Freno PASTILLA FRENO MEK PRO YBR125- G TODOTERRENO/YBR125ED 2014",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1002773",
       "nombre": "PASTILLAS FRENO YBR125G/ YBR125ED >2014/ CRYPTON 125 DB1A-0002-10Δ Freno PASTILLA FRENO MEK PRO YBR125ED VIEJA HASTA 2013/XT225/DT200/DT180 DB1A-0016-10 Freno PASTILLA FRENO TRASERA MEK PRO HUNK160R/HUNK 190R/XPULSE 200/XPULSE 200T OEM",
       "marca": "MEK",
@@ -113641,28 +113765,6 @@
       "fuente": "MEK",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1001677",
-      "nombre": "BASE ACELERADOR BROSS CHINA TODOTERRENO",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1001677.jpg",
-      "imagen_size": 11551,
       "activo": true
     },
     {
@@ -120288,28 +120390,6 @@
       "activo": true
     },
     {
-      "sku": "1005923",
-      "nombre": "CABLE CLUTCH DEFENDER150",
-      "marca": "MEK",
-      "categoria": "CABLES",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1005923.png",
-      "imagen_size": 6859,
-      "activo": true
-    },
-    {
       "sku": "1006115",
       "nombre": "CABLE CLUTCH NAGA200 2018",
       "marca": "MEK",
@@ -120620,28 +120700,6 @@
     {
       "sku": "1006557",
       "nombre": "CAPOTE AXUS COLOR VERDE TALLA 2XL (2 PIEZAS)",
-      "marca": "MEK",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1002583",
-      "nombre": "Tapon Drenaje Aceite STD/CRz250/CRz250R/CRT250/Cr1 x200/Runga 250/Runga320 OEM",
       "marca": "MEK",
       "categoria": "ACCESORIOS",
       "presentacion": "UND",
