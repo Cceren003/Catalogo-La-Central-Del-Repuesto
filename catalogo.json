@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T23:04:04.192Z",
-  "count": 5699,
+  "generated_at": "2026-09-14T18:30:29.698Z",
+  "count": 5700,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 130,
+      "stock": 120,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4886,8 +4886,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6503,7 +6503,7 @@
         "taller": 0.75,
         "distribuidor": 0.45
       },
-      "stock": 88,
+      "stock": 78,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7595,7 +7595,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7679,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 62,
+      "stock": 60,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9296,7 +9296,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11312,7 +11312,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13737,6 +13737,27 @@
       "activo": true
     },
     {
+      "sku": "741540189134",
+      "nombre": "CILINDRO COMPLETO CG125 HOT PARTS MODIFICADO 175CC PIN15",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 96.25,
+        "taller": 72.25,
+        "distribuidor": 62.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189134.png",
+      "imagen_size": 88697,
+      "activo": true
+    },
+    {
       "sku": "741540189598",
       "nombre": "CILINDRO COMPLETO CRUXX110REV",
       "marca": "VINI",
@@ -14294,7 +14315,7 @@
         "taller": 39,
         "distribuidor": 33.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18158,7 +18179,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21137,10 +21158,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 0,
-        "taller": 0,
+        "taller": 15,
         "distribuidor": 0
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24080,8 +24101,8 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -26250,6 +26271,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000214.jpg",
       "imagen_size": 90123,
+      "activo": true
+    },
+    {
+      "sku": "66201",
+      "nombre": "KIT GUIA CADENILLA SERPENTO YARA200 CB200 GP180",
+      "marca": "DNW7",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 18,
+        "taller": 11,
+        "distribuidor": 9
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -30128,7 +30170,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 45,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31185,27 +31227,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190237.png",
       "imagen_size": 88000,
-      "activo": true
-    },
-    {
-      "sku": "741540189150",
-      "nombre": "MONOSHOCK YARA200-NAGA200 VINI",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 112,
-        "taller": 81.75,
-        "distribuidor": 70.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189150.png",
-      "imagen_size": 61671,
       "activo": true
     },
     {
@@ -32375,7 +32396,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32396,7 +32417,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32816,8 +32837,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34944,27 +34965,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "FS024",
-      "nombre": "PIÑON 15T V-MEN125 / CB 160F HORNET / XBLADE 160 / KATANA R1",
-      "marca": "NRP",
-      "categoria": "PIÑONES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/FS024.jpg",
-      "imagen_size": 7290,
       "activo": true
     },
     {
@@ -43725,6 +43725,27 @@
       "activo": true
     },
     {
+      "sku": "65818",
+      "nombre": "TENSOR AUTOMATICO CADENILLA GY6 GN125",
+      "marca": "DNW7",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 8,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189642",
       "nombre": "TENSOR AUTOMATICO CRUXX VINI",
       "marca": "VINI",
@@ -43925,7 +43946,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43946,7 +43967,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44523,27 +44544,6 @@
       "activo": true
     },
     {
-      "sku": "RL040000000",
-      "nombre": "VALVULA LLANTA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2.25
-      },
-      "stock": 8,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TV001",
       "nombre": "VALVULA LLANTA UNIVERSAL",
       "marca": "NRP",
@@ -44557,6 +44557,27 @@
       },
       "stock": 3,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RL040000000",
+      "nombre": "VALVULA LLANTA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
+      },
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
