@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T23:29:43.827Z",
-  "count": 5731,
+  "generated_at": "2026-09-18T17:01:46.792Z",
+  "count": 5727,
   "productos": [
     {
       "sku": "LM120106",
@@ -14,7 +14,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2346,27 +2346,6 @@
         "distribuidor": 19.25
       },
       "stock": 5,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "TS12N7A-3A",
-      "nombre": "BATERIA DE GEL 12N7A-3A TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29,
-        "taller": 21,
-        "distribuidor": 19
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6629,7 +6608,7 @@
         "taller": 0.5,
         "distribuidor": 0.5
       },
-      "stock": 171,
+      "stock": 166,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7805,7 +7784,7 @@
         "taller": 8.75,
         "distribuidor": 8.25
       },
-      "stock": 69,
+      "stock": 68,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7826,7 +7805,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 59,
+      "stock": 58,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8337,27 +8316,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190099.png",
       "imagen_size": 85046,
-      "activo": true
-    },
-    {
-      "sku": "741540190749",
-      "nombre": "CAJA VELOCIMETRO AK RTX150 VINI",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17.25,
-        "taller": 14.25,
-        "distribuidor": 12
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190749.png",
-      "imagen_size": 91660,
       "activo": true
     },
     {
@@ -12330,27 +12288,6 @@
       "activo": true
     },
     {
-      "sku": "741540178103",
-      "nombre": "CATARINA XL 45T 4H VINI(FL)",
-      "marca": "VINI",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.5,
-        "taller": 9.75,
-        "distribuidor": 8.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540178103.png",
-      "imagen_size": 118342,
-      "activo": true
-    },
-    {
       "sku": "741540178105",
       "nombre": "CATARINA XL 49T-YARA200 4H VINI(FL)",
       "marca": "VINI",
@@ -15949,7 +15886,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8.25,
+        "publico": 12,
         "taller": 6,
         "distribuidor": 5
       },
@@ -20321,7 +20258,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20720,7 +20657,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20783,7 +20720,7 @@
         "taller": 0.75,
         "distribuidor": 0.75
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25193,7 +25130,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25298,7 +25235,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25592,7 +25529,7 @@
         "taller": 5.25,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26607,27 +26544,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188604.jpg",
       "imagen_size": 10480,
-      "activo": true
-    },
-    {
-      "sku": "741540188370",
-      "nombre": "KIT EMPAQUE PULSAR 135 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188370.png",
-      "imagen_size": 73685,
       "activo": true
     },
     {
@@ -36344,7 +36260,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36407,8 +36323,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -38192,7 +38108,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 25,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39347,8 +39263,8 @@
         "taller": 11.25,
         "distribuidor": 9.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40439,7 +40355,7 @@
         "taller": 5,
         "distribuidor": 3.75
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44576,7 +44492,7 @@
         "taller": 6.75,
         "distribuidor": 5.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
