@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T17:01:46.792Z",
-  "count": 5727,
+  "generated_at": "2026-09-18T19:30:10.967Z",
+  "count": 5726,
   "productos": [
     {
       "sku": "LM120106",
@@ -1757,8 +1757,8 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 22,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2460,27 +2460,6 @@
       "activo": true
     },
     {
-      "sku": "TSYTX7A-BS",
-      "nombre": "BATERIA DE GEL YTX7A-BS TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 27.75,
-        "taller": 20.5,
-        "distribuidor": 19
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TSYTX7L-BS",
       "nombre": "BATERIA DE GEL YTX7L-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2975,7 +2954,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2996,7 +2975,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4032,6 +4011,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001105.jpg",
       "imagen_size": 123618,
+      "activo": true
+    },
+    {
+      "sku": "741540189182",
+      "nombre": "BRAZO VARILLA FRENO TRAS GN125 VINI",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189182.png",
+      "imagen_size": 15555,
       "activo": true
     },
     {
@@ -12446,7 +12446,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 2,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17055,6 +17055,27 @@
       "activo": true
     },
     {
+      "sku": "741540189305",
+      "nombre": "EJE DELANTERO GN125 VINI",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189305.png",
+      "imagen_size": 41256,
+      "activo": true
+    },
+    {
       "sku": "741540190597",
       "nombre": "EJE DELANTERO HUNK160-APACHE160 VINI",
       "marca": "VINI",
@@ -17874,6 +17895,27 @@
       "activo": true
     },
     {
+      "sku": "741540190745",
+      "nombre": "EJE TRASERO PULSAR180II/BLACK TEC VINI",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190745.png",
+      "imagen_size": 39070,
+      "activo": true
+    },
+    {
       "sku": "741540190657",
       "nombre": "EJE TRASERO PULSAR180UG",
       "marca": "VINI",
@@ -18599,8 +18641,8 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19897,11 +19939,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
-        "taller": 3.25,
-        "distribuidor": 2.75
+        "publico": 8,
+        "taller": 5,
+        "distribuidor": 3.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19922,7 +19964,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25945,11 +25987,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3,
-        "taller": 2.5,
-        "distribuidor": 2
+        "publico": 8,
+        "taller": 4,
+        "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29592,27 +29634,6 @@
       "activo": true
     },
     {
-      "sku": "35010KT754L",
-      "nombre": "LLANTA 3.50-10 CAMEL TL",
-      "marca": "NRP",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 19,
-        "taller": 17.5,
-        "distribuidor": 16.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "30021KT994T",
       "nombre": "LLANTA 300-21 CAMEL TARUGO PEQUEÑO TL",
       "marca": "NRP",
@@ -30653,7 +30674,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33614,7 +33635,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34293,6 +34314,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540188783",
+      "nombre": "PATA FRENO STORM 125 VINI",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188783.png",
+      "imagen_size": 60323,
       "activo": true
     },
     {
@@ -34986,6 +35028,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190227.png",
       "imagen_size": 104075,
+      "activo": true
+    },
+    {
+      "sku": "741540189364",
+      "nombre": "PIDE VIA SET DISCOVER 125ST VINI",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189364.png",
+      "imagen_size": 151256,
       "activo": true
     },
     {
@@ -35966,7 +36029,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38034,6 +38097,27 @@
       "activo": true
     },
     {
+      "sku": "741540191225",
+      "nombre": "RAMAL SISTEMA ELECTRICO GN125F VINI",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189052",
       "nombre": "RECTIFICADOR AK125SL-AK125EVO-AK150TT- AK150EVO-CGL125",
       "marca": "VINI",
@@ -39273,6 +39357,27 @@
       "activo": true
     },
     {
+      "sku": "741540190492",
+      "nombre": "RELAY START DISCOVER/PLATINA/PULSAR 220/150 VINI",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190492.png",
+      "imagen_size": 70239,
+      "activo": true
+    },
+    {
       "sku": "741540191178",
       "nombre": "RELAY START NAVI110",
       "marca": "VINI",
@@ -39305,8 +39410,8 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -44019,6 +44124,27 @@
       "activo": true
     },
     {
+      "sku": "741540190753",
+      "nombre": "SWITCH VINI RH XTZ125 NEW VINI",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190753.png",
+      "imagen_size": 122132,
+      "activo": true
+    },
+    {
       "sku": "1005971",
       "nombre": "TABLERO AKT TT200R MEK",
       "marca": "MEK",
@@ -45213,6 +45339,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189961.png",
       "imagen_size": 60349,
+      "activo": true
+    },
+    {
+      "sku": "741540188355",
+      "nombre": "VALVULA GAS GN/SL150-9 VINI",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188355.png",
+      "imagen_size": 64067,
       "activo": true
     },
     {
@@ -62146,28 +62293,6 @@
       "activo": true
     },
     {
-      "sku": "741540189182",
-      "nombre": "BRAZO VARILLA FRENO TRAS GN125 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189182.png",
-      "imagen_size": 15555,
-      "activo": true
-    },
-    {
       "sku": "105082",
       "nombre": "BUJE TIJERA VULCANIZADO AK125-SG125",
       "marca": "VINI",
@@ -72750,28 +72875,6 @@
       "activo": true
     },
     {
-      "sku": "741540189305",
-      "nombre": "EJE DELANTERO GN125 VINI",
-      "marca": "VINI",
-      "categoria": "DIRECCION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189305.png",
-      "imagen_size": 41256,
-      "activo": true
-    },
-    {
       "sku": "741540189306",
       "nombre": "EJE DELANTERO YBR125 VINI",
       "marca": "VINI",
@@ -73583,28 +73686,6 @@
       "fuente": "VINI",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540190745",
-      "nombre": "EJE TRASERO PULSAR180II/BLACK TEC VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190745.png",
-      "imagen_size": 39070,
       "activo": true
     },
     {
@@ -96026,28 +96107,6 @@
       "activo": true
     },
     {
-      "sku": "741540188783",
-      "nombre": "PATA FRENO  STORM 125 VINI",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188783.png",
-      "imagen_size": 60323,
-      "activo": true
-    },
-    {
       "sku": "741540189732",
       "nombre": "PATA FRENO CB1 VINI",
       "marca": "VINI",
@@ -96881,28 +96940,6 @@
       "fuente": "VINI",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189364",
-      "nombre": "PIDE VIA SET DISCOVER 125ST VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540189364.png",
-      "imagen_size": 151256,
       "activo": true
     },
     {
@@ -98971,28 +99008,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190269.png",
       "imagen_size": 78948,
-      "activo": true
-    },
-    {
-      "sku": "741540190492",
-      "nombre": "RELAY START DISCOVER/PLATINA/PULSAR 220/150 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190492.png",
-      "imagen_size": 70239,
       "activo": true
     },
     {
@@ -104100,28 +104115,6 @@
       "activo": true
     },
     {
-      "sku": "741540190753",
-      "nombre": "SWITCH VINI RH XTZ125 NEW VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190753.png",
-      "imagen_size": 122132,
-      "activo": true
-    },
-    {
       "sku": "741540100572",
       "nombre": "TANQUE GAS CGL125 AZUL VINI",
       "marca": "VINI",
@@ -107639,28 +107632,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190593.png",
       "imagen_size": 104091,
-      "activo": true
-    },
-    {
-      "sku": "741540188355",
-      "nombre": "VALVULA GAS GN/SL150-9 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188355.png",
-      "imagen_size": 64067,
       "activo": true
     },
     {
