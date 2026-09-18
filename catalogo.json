@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T19:30:10.967Z",
-  "count": 5726,
+  "generated_at": "2026-09-18T23:10:30.833Z",
+  "count": 5723,
   "productos": [
     {
       "sku": "LM120106",
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 23,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -854,8 +854,8 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 12,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -959,7 +959,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 24,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1085,34 +1085,13 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540100141",
-      "nombre": "BALERO 6204-2NSE VINI (FL)",
-      "marca": "VINI",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 10,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100141.png",
-      "imagen_size": 129593,
       "activo": true
     },
     {
@@ -1197,27 +1176,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003266.png",
       "imagen_size": 16582,
-      "activo": true
-    },
-    {
-      "sku": "6302-2RS",
-      "nombre": "BALERO 6302 KOYO",
-      "marca": "KOYO",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.5,
-        "taller": 3.75,
-        "distribuidor": 3.25
-      },
-      "stock": 6,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -1736,8 +1694,8 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 11,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1757,7 +1715,7 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 22,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2376,27 +2334,6 @@
       "activo": true
     },
     {
-      "sku": "TS12N9-4B-1",
-      "nombre": "BATERIA DE GEL 12N9-4B-1 TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 35.5,
-        "taller": 26.75,
-        "distribuidor": 24.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TSLB6.5L-BS",
       "nombre": "BATERIA DE GEL LB6.5L-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2929,8 +2866,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12,
-        "taller": 10,
+        "publico": 16.5,
+        "taller": 10.25,
         "distribuidor": 8.5
       },
       "stock": 1,
@@ -2951,8 +2888,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 14,
-        "taller": 9,
-        "distribuidor": 7.75
+        "taller": 10.25,
+        "distribuidor": 8.5
       },
       "stock": 4,
       "stock_status": "low_stock",
@@ -2992,7 +2929,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.5,
+        "publico": 15,
         "taller": 8.75,
         "distribuidor": 7.25
       },
@@ -4718,8 +4655,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6776,7 +6713,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7784,7 +7721,7 @@
         "taller": 8.75,
         "distribuidor": 8.25
       },
-      "stock": 68,
+      "stock": 67,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7931,7 +7868,7 @@
         "taller": 22.25,
         "distribuidor": 18.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7953,6 +7890,27 @@
         "distribuidor": 10.75
       },
       "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RMCAD-D4-2",
+      "nombre": "CADENILLA DE TIEMPO 25HX84L MK1 KATANA",
+      "marca": "KATANA",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 14,
+        "distribuidor": 0
+      },
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13401,27 +13359,6 @@
       "activo": true
     },
     {
-      "sku": "741540189906",
-      "nombre": "CENTRO CLUTCH COMPLETO CRUX110REV VINI (FL)",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 25,
-        "taller": 22,
-        "distribuidor": 18.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189906.png",
-      "imagen_size": 159820,
-      "activo": true
-    },
-    {
       "sku": "741540188283",
       "nombre": "CENTRO CLUTCH COMPLETO GN125H - BENELLI",
       "marca": "VINI",
@@ -14879,7 +14816,7 @@
       "empaque": "1*1",
       "precios": {
         "publico": 49.75,
-        "taller": 40.75,
+        "taller": 41.5,
         "distribuidor": 34.75
       },
       "stock": 3,
@@ -15888,36 +15825,15 @@
       "precios": {
         "publico": 12,
         "taller": 6,
-        "distribuidor": 5
+        "distribuidor": 4.5
       },
-      "stock": 49,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540110114.png",
       "imagen_size": 179682,
-      "activo": true
-    },
-    {
-      "sku": "741540110311",
-      "nombre": "DISCO CLUTCH SET VINI CT100 VINI",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11.75,
-        "taller": 8.25,
-        "distribuidor": 7
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540110311.png",
-      "imagen_size": 209778,
       "activo": true
     },
     {
@@ -17108,7 +17024,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17129,7 +17045,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17885,7 +17801,7 @@
         "taller": 3.5,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18147,27 +18063,6 @@
       "activo": true
     },
     {
-      "sku": "741540189354",
-      "nombre": "EJE VELOCIDAD YBR125",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.5,
-        "taller": 10.25,
-        "distribuidor": 8.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189354.png",
-      "imagen_size": 46029,
-      "activo": true
-    },
-    {
       "sku": "RMEMP-110620018-0001",
       "nombre": "EMPAQUE CLUTCH SMX200 / CG 125-150",
       "marca": "KATANA",
@@ -18360,6 +18255,27 @@
       "sku": "RMEMP-FEL01-501010/02",
       "nombre": "EMPAQUES DE MOTOR KIT DY200",
       "marca": "DAYUN",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 18,
+        "taller": 13,
+        "distribuidor": 10
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RMEMP-E-1-4/6",
+      "nombre": "EMPAQUES DE MOTOR KIT SMX150",
+      "marca": "KATANA",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
@@ -18616,8 +18532,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.25,
-        "taller": 5.5,
+        "publico": 9,
+        "taller": 6,
         "distribuidor": 4.75
       },
       "stock": 3,
@@ -21822,6 +21738,27 @@
       "activo": true
     },
     {
+      "sku": "RTGUI-D12-3",
+      "nombre": "GUIAS DE CADENILLA SET MK1 110-125CC",
+      "marca": "KATANA",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 10,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189771",
       "nombre": "HERRAMIENTA AJUSTADOR",
       "marca": "VINI",
@@ -24374,7 +24311,7 @@
         "taller": 7.25,
         "distribuidor": 5.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25182,27 +25119,6 @@
       "activo": true
     },
     {
-      "sku": "741540188932",
-      "nombre": "KIT CUNA APACHE 200 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11.75,
-        "taller": 7.25,
-        "distribuidor": 6.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188932.png",
-      "imagen_size": 95177,
-      "activo": true
-    },
-    {
       "sku": "BRB020",
       "nombre": "KIT CUNA APACHE RTR 160 2V-4V",
       "marca": "NRP",
@@ -25494,27 +25410,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100735.png",
       "imagen_size": 94398,
-      "activo": true
-    },
-    {
-      "sku": "741540100738",
-      "nombre": "KIT CUNA PULSAR/PLATINA 135 VINI 36/38(FL)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 7.5,
-        "distribuidor": 6.5
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100738.png",
-      "imagen_size": 114217,
       "activo": true
     },
     {
@@ -28374,27 +28269,6 @@
       "activo": true
     },
     {
-      "sku": "741540189730",
-      "nombre": "KIT TIJERA CB110 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189730.png",
-      "imagen_size": 38533,
-      "activo": true
-    },
-    {
       "sku": "741540190607",
       "nombre": "KIT TIJERA FZ16",
       "marca": "VINI",
@@ -28700,8 +28574,8 @@
         "taller": 8.75,
         "distribuidor": 7.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29204,8 +29078,8 @@
         "taller": 10.25,
         "distribuidor": 9.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29582,7 +29456,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29757,6 +29631,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3703-22.png",
       "imagen_size": 96042,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-2808-22",
+      "nombre": "LLANTA AXUS 110-90-17 DOBLE PROPOSITO AX923 66P TL",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 43.25,
+        "taller": 32.5,
+        "distribuidor": 29
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2808-22.png",
+      "imagen_size": 112693,
       "activo": true
     },
     {
@@ -29988,6 +29883,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3705-22.png",
       "imagen_size": 96217,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0701-22",
+      "nombre": "LLANTA AXUS 90-90-17 LISA AX4418 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 40,
+        "taller": 30,
+        "distribuidor": 28
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0701-22.png",
+      "imagen_size": 83896,
       "activo": true
     },
     {
@@ -31638,9 +31554,9 @@
       "precios": {
         "publico": 91.25,
         "taller": 74.75,
-        "distribuidor": 63.75
+        "distribuidor": 63
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31815,27 +31731,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006127.jpg",
       "imagen_size": 49822,
-      "activo": true
-    },
-    {
-      "sku": "741540100001",
-      "nombre": "MONOSHOCK NXR-BROSS 125 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 107.25,
-        "taller": 84.5,
-        "distribuidor": 72
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100001.png",
-      "imagen_size": 101841,
       "activo": true
     },
     {
@@ -32163,7 +32058,7 @@
       "precios": {
         "publico": 38.25,
         "taller": 27.25,
-        "distribuidor": 23.25
+        "distribuidor": 23
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -33068,7 +32963,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 18,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33152,8 +33047,8 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 17,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33540,27 +33435,6 @@
       "activo": true
     },
     {
-      "sku": "741540188986",
-      "nombre": "PASTILLA FRENO SZ 150D",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.25,
-        "taller": 3.75,
-        "distribuidor": 2.75
-      },
-      "stock": 12,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188986.png",
-      "imagen_size": 115852,
-      "activo": true
-    },
-    {
       "sku": "741540188798",
       "nombre": "PASTILLA FRENO TB-110",
       "marca": "VINI",
@@ -33621,6 +33495,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100890.png",
       "imagen_size": 104343,
+      "activo": true
+    },
+    {
+      "sku": "DB1A-0014-10",
+      "nombre": "PASTILLA FRENO TRASERA MEK PRO GENESIS GXT250R-KMF ZX250R",
+      "marca": "MOTUL",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -35136,27 +35031,6 @@
       "activo": true
     },
     {
-      "sku": "741540189017",
-      "nombre": "PIDE VIA SET PULSAR 200NS",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11,
-        "taller": 8.5,
-        "distribuidor": 7.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189017.png",
-      "imagen_size": 120555,
-      "activo": true
-    },
-    {
       "sku": "741540188109",
       "nombre": "PIDE VIA SET XR150L VINI(FL)",
       "marca": "VINI",
@@ -36522,6 +36396,27 @@
       "activo": true
     },
     {
+      "sku": "REBOB-1102014855",
+      "nombre": "PLANTA 9 CAMPOS MK1 110-125",
+      "marca": "DAYUN",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 45,
+        "taller": 35,
+        "distribuidor": 30
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189051",
       "nombre": "PLANTA AK 200SM VINI(FL)",
       "marca": "VINI",
@@ -37562,7 +37457,7 @@
         "taller": 19.75,
         "distribuidor": 17.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43774,8 +43669,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 13.75,
-        "taller": 10,
+        "publico": 17,
+        "taller": 11,
         "distribuidor": 8.5
       },
       "stock": 2,
@@ -44532,7 +44427,7 @@
       "precios": {
         "publico": 23,
         "taller": 18.75,
-        "distribuidor": 16
+        "distribuidor": 16.75
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -44829,6 +44724,27 @@
         "distribuidor": 6
       },
       "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RMTEN-140750033",
+      "nombre": "TENSOR AUTOMATICO NEW R1-200",
+      "marca": "KATANA",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 23.5,
+        "taller": 18,
+        "distribuidor": 16
+      },
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45287,10 +45203,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 8,
-        "taller": 5,
+        "taller": 5.5,
         "distribuidor": 4.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45759,6 +45675,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004231.png",
       "imagen_size": 14555,
+      "activo": true
+    },
+    {
+      "sku": "REVEL-0422000-0030",
+      "nombre": "VELOCIMETRO ELECTRONICO PARA RIN 19 SMX200",
+      "marca": "KATANA",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
