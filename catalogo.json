@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T16:21:39.073Z",
-  "count": 5723,
+  "generated_at": "2026-09-19T19:16:08.862Z",
+  "count": 5719,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 96,
+      "stock": 95,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 20,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 20.5,
         "distribuidor": 19.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,7 +2408,7 @@
         "taller": 17.5,
         "distribuidor": 16.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +4004,7 @@
         "taller": 3.75,
         "distribuidor": 3.5
       },
-      "stock": 45,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4025,7 +4025,7 @@
         "taller": 2.25,
         "distribuidor": 2.25
       },
-      "stock": 33,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4424,7 +4424,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6650,7 +6650,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6944,7 +6944,7 @@
         "taller": 2.25,
         "distribuidor": 2
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8309,7 +8309,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9464,7 +9464,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 27,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12509,7 +12509,7 @@
         "taller": 18.25,
         "distribuidor": 15.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12530,7 +12530,7 @@
         "taller": 9.25,
         "distribuidor": 8.25
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14280,27 +14280,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100019.png",
       "imagen_size": 95440,
-      "activo": true
-    },
-    {
-      "sku": "741540189054",
-      "nombre": "CILINDRO COMPLETO HERO HUNK 150 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 99.75,
-        "taller": 67,
-        "distribuidor": 57
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189054.png",
-      "imagen_size": 79560,
       "activo": true
     },
     {
@@ -19848,27 +19827,6 @@
       "activo": true
     },
     {
-      "sku": "741540190779",
-      "nombre": "FILTRO AIRE HUNK 160R",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 3.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190779.png",
-      "imagen_size": 109227,
-      "activo": true
-    },
-    {
       "sku": "AF078",
       "nombre": "FILTRO AIRE HUNK 160R-190R/HUNK 200",
       "marca": "NRP",
@@ -19880,7 +19838,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21896,7 +21854,7 @@
         "taller": 10.25,
         "distribuidor": 8.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28175,7 +28133,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29221,11 +29179,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 14.75,
-        "taller": 9.75,
-        "distribuidor": 8.5
+        "publico": 18,
+        "taller": 12,
+        "distribuidor": 9.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30065,7 +30023,7 @@
         "taller": 35.25,
         "distribuidor": 33.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30149,7 +30107,7 @@
         "taller": 27,
         "distribuidor": 25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32511,27 +32469,6 @@
       "activo": true
     },
     {
-      "sku": "LB1A-0041-10",
-      "nombre": "NEUMATICO AXUS 90-90-19",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.5,
-        "taller": 5,
-        "distribuidor": 4.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1001190",
       "nombre": "PALANCA CLUCHT CG/FIRE/HJ MEK",
       "marca": "MEK",
@@ -32795,7 +32732,7 @@
         "taller": 3.25,
         "distribuidor": 2.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32858,7 +32795,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 37,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33467,7 +33404,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34895,8 +34832,8 @@
         "taller": 9.25,
         "distribuidor": 8
       },
-      "stock": 9,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36617,7 +36554,7 @@
         "taller": 34,
         "distribuidor": 29
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43589,7 +43526,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44439,27 +44376,6 @@
       "activo": true
     },
     {
-      "sku": "741540191256",
-      "nombre": "TAPON TANQUE RAIDER 125 VINI",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17.5,
-        "taller": 14.25,
-        "distribuidor": 12.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540100761",
       "nombre": "TAPON TANQUE SL 150 UNI ISO-9",
       "marca": "VINI",
@@ -45038,7 +44954,7 @@
         "taller": 3.5,
         "distribuidor": 3.25
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
