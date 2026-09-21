@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T18:35:35.325Z",
-  "count": 5703,
+  "generated_at": "2026-09-21T23:59:30.089Z",
+  "count": 5701,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 66,
+      "stock": 62,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 66,
+      "stock": 65,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 20.5,
         "distribuidor": 19.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +4004,7 @@
         "taller": 2.5,
         "distribuidor": 2.25
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13212,6 +13212,27 @@
       "activo": true
     },
     {
+      "sku": "741540190427",
+      "nombre": "CENTRO CLUTCH COMPLETO AX4",
+      "marca": "VINI",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 27,
+        "taller": 22,
+        "distribuidor": 18.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190427.png",
+      "imagen_size": 142439,
+      "activo": true
+    },
+    {
       "sku": "741540189600",
       "nombre": "CENTRO CLUTCH COMPLETO CB160F",
       "marca": "VINI",
@@ -13601,8 +13622,8 @@
         "taller": 51.5,
         "distribuidor": 43.75
       },
-      "stock": 14,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18830,7 +18851,7 @@
         "taller": 10.25,
         "distribuidor": 8.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20447,7 +20468,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20510,7 +20531,7 @@
         "taller": 0.75,
         "distribuidor": 0.75
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20909,7 +20930,7 @@
         "taller": 6.75,
         "distribuidor": 6
       },
-      "stock": 15,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20930,7 +20951,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 55,
+      "stock": 54,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22274,7 +22295,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23870,7 +23891,7 @@
         "taller": 16,
         "distribuidor": 13.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29697,27 +29718,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-3702-22",
-      "nombre": "LLANTA AXUS 90-90-18 DOBLE PROPOSITO AX9184 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 31.25,
-        "taller": 28.75,
-        "distribuidor": 27
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3702-22.png",
-      "imagen_size": 96279,
-      "activo": true
-    },
-    {
       "sku": "LA1A-0904-22",
       "nombre": "LLANTA AXUS 90-90-18 LISA AX6155",
       "marca": "MOTUL",
@@ -29820,27 +29820,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189924.png",
       "imagen_size": 66449,
-      "activo": true
-    },
-    {
-      "sku": "741540189925",
-      "nombre": "LLANTA VINI 110-90-17 VT 1009",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33.25,
-        "taller": 30.5,
-        "distribuidor": 28.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189925.jpg",
-      "imagen_size": 7751,
       "activo": true
     },
     {
@@ -32060,7 +32039,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32081,8 +32060,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32543,7 +32522,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 57,
+      "stock": 56,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36323,7 +36302,7 @@
         "taller": 13.25,
         "distribuidor": 11.25
       },
-      "stock": 34,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37730,7 +37709,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 22,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38990,7 +38969,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 36,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39333,6 +39312,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188741.png",
       "imagen_size": 120008,
+      "activo": true
+    },
+    {
+      "sku": "741540188749",
+      "nombre": "RETENEDOR 14X22X5",
+      "marca": "VINI",
+      "categoria": "RETENEDOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3,
+        "taller": 1.5,
+        "distribuidor": 1.3
+      },
+      "stock": 25,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188749.png",
+      "imagen_size": 104889,
       "activo": true
     },
     {
@@ -41790,27 +41790,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190941.jpg",
       "imagen_size": 8310,
-      "activo": true
-    },
-    {
-      "sku": "1003838",
-      "nombre": "SILVIN CROMADO GN125",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 15,
-        "distribuidor": 13.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003838.png",
-      "imagen_size": 46490,
       "activo": true
     },
     {
@@ -99471,28 +99450,6 @@
       "fuente": "VINI",
       "imagen": "imagenes/741540190101.png",
       "imagen_size": 122766,
-      "activo": true
-    },
-    {
-      "sku": "741540188749",
-      "nombre": "RETENEDOR 14X22X5 VINI",
-      "marca": "VINI",
-      "categoria": "RETENEDOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540188749.png",
-      "imagen_size": 104889,
       "activo": true
     },
     {
