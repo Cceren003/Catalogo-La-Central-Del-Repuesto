@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T23:59:30.089Z",
-  "count": 5701,
+  "generated_at": "2026-09-22T17:36:21.200Z",
+  "count": 5700,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 62,
+      "stock": 41,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 65,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2292,27 +2292,6 @@
       "activo": true
     },
     {
-      "sku": "TS12N7-4A",
-      "nombre": "BATERIA DE GEL 12N7-4A TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22.5,
-        "taller": 20.5,
-        "distribuidor": 19.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "TS12N7A-4A",
       "nombre": "BATERIA DE GEL 12N7A-4A TECNOSTAR POLOS INVERTIDOS",
       "marca": "TECNOSTAR",
@@ -2618,7 +2597,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 41,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3689,7 +3668,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3857,7 +3836,7 @@
         "taller": 0.25,
         "distribuidor": 0.25
       },
-      "stock": 69,
+      "stock": 59,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7658,7 @@
         "taller": 9,
         "distribuidor": 8.5
       },
-      "stock": 27,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10195,9 +10174,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 14.75,
-        "taller": 8.5,
-        "distribuidor": 7
+        "publico": 17,
+        "taller": 10,
+        "distribuidor": 7.5
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -11354,7 +11333,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18242,7 +18221,7 @@
         "taller": 34.75,
         "distribuidor": 32
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20468,7 +20447,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32522,7 +32501,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 56,
+      "stock": 50,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32585,8 +32564,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32942,8 +32921,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33152,8 +33131,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
