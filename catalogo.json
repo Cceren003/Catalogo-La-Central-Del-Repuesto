@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T17:36:21.200Z",
-  "count": 5700,
+  "generated_at": "2026-09-22T23:33:48.207Z",
+  "count": 5698,
   "productos": [
     {
       "sku": "LM120106",
@@ -1715,7 +1715,7 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 12,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,8 +2282,50 @@
         "taller": 20.25,
         "distribuidor": 19
       },
-      "stock": 3,
+      "stock": 5,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TS12N7-4A",
+      "nombre": "BATERIA DE GEL 12N7-4A TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22.5,
+        "taller": 20.5,
+        "distribuidor": 19.25
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TS12N7A-3A",
+      "nombre": "BATERIA DE GEL 12N7A-3A TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29,
+        "taller": 21,
+        "distribuidor": 19
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2313,6 +2355,27 @@
       "activo": true
     },
     {
+      "sku": "TS12N9-4B-1",
+      "nombre": "BATERIA DE GEL 12N9-4B-1 TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 35.5,
+        "taller": 26.75,
+        "distribuidor": 24.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "TSLB6.5L-BS",
       "nombre": "BATERIA DE GEL LB6.5L-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2324,7 +2387,7 @@
         "taller": 17,
         "distribuidor": 16
       },
-      "stock": 6,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2345,7 +2408,7 @@
         "taller": 14.25,
         "distribuidor": 13.25
       },
-      "stock": 6,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2429,28 @@
         "taller": 15.25,
         "distribuidor": 14.25
       },
-      "stock": 7,
+      "stock": 14,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "TSYTX7A-BS",
+      "nombre": "BATERIA DE GEL YTX7A-BS TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 27.75,
+        "taller": 20.5,
+        "distribuidor": 19
+      },
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,8 +2471,8 @@
         "taller": 17.5,
         "distribuidor": 16.5
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 11,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3584,7 +3668,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,7 +4067,7 @@
         "taller": 2.5,
         "distribuidor": 2.25
       },
-      "stock": 27,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6776,7 +6860,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7595,7 +7679,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9422,7 +9506,7 @@
         "taller": 20.75,
         "distribuidor": 19.25
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20499,27 +20583,6 @@
       "activo": true
     },
     {
-      "sku": "UFF001",
-      "nombre": "FILTRO GASOLINA UNIVERSAL",
-      "marca": "NRP",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 2,
-        "taller": 0.75,
-        "distribuidor": 0.75
-      },
-      "stock": 13,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540189671",
       "nombre": "FILTRO SUCCION INVICTA 150 VINI",
       "marca": "VINI",
@@ -20972,7 +21035,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21455,7 +21518,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22029,27 +22092,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189762.png",
       "imagen_size": 36883,
-      "activo": true
-    },
-    {
-      "sku": "741540189761",
-      "nombre": "HERRAMIENTA DESTORNILLADOR 6.3-200",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4.75,
-        "taller": 3.75,
-        "distribuidor": 3.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189761.png",
-      "imagen_size": 39988,
       "activo": true
     },
     {
@@ -24951,27 +24993,6 @@
       "activo": true
     },
     {
-      "sku": "BRB002",
-      "nombre": "KIT CUNA CB 125F TWISTER / YARA 200 / CGL 125",
-      "marca": "NRP",
-      "categoria": "DIRECCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.25,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/BRB002.jpg",
-      "imagen_size": 10917,
-      "activo": true
-    },
-    {
       "sku": "741540140566",
       "nombre": "KIT CUNA CGL/SPITZER 150/AKT150 (BALERO) VINI(FL)",
       "marca": "VINI",
@@ -25242,27 +25263,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540140565.png",
       "imagen_size": 82980,
-      "activo": true
-    },
-    {
-      "sku": "741540188543",
-      "nombre": "KIT CUNA STORM-CBF-INVICTA-NAVI-UNICOR / KATANA MK1 DAYUN150-29 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "DIRECCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.5,
-        "taller": 5.25,
-        "distribuidor": 4.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188543.png",
-      "imagen_size": 103399,
       "activo": true
     },
     {
@@ -26621,7 +26621,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26936,7 +26936,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26957,7 +26957,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30422,7 +30422,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 38,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30852,27 +30852,6 @@
       "activo": true
     },
     {
-      "sku": "741540160301",
-      "nombre": "MANIFUL CG (RECTO) VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.75,
-        "taller": 6,
-        "distribuidor": 4.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540160301.png",
-      "imagen_size": 67512,
-      "activo": true
-    },
-    {
       "sku": "741540188706",
       "nombre": "MANIFUL CG-125 MODIFICADO VINI (FL)",
       "marca": "VINI",
@@ -30891,27 +30870,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188706.png",
       "imagen_size": 77615,
-      "activo": true
-    },
-    {
-      "sku": "741540188708",
-      "nombre": "MANIFUL CG125 NORMAL VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4.5,
-        "taller": 3.75,
-        "distribuidor": 3.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188708.png",
-      "imagen_size": 81277,
       "activo": true
     },
     {
@@ -32396,7 +32354,7 @@
         "taller": 3.25,
         "distribuidor": 2.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35756,7 +35714,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
