@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T23:33:48.207Z",
-  "count": 5698,
+  "generated_at": "2026-09-23T17:48:02.084Z",
+  "count": 5694,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 41,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 47,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -917,7 +917,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,7 +2387,7 @@
         "taller": 17,
         "distribuidor": 16
       },
-      "stock": 16,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2425,11 +2425,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 16.75,
-        "taller": 15.25,
-        "distribuidor": 14.25
+        "publico": 24,
+        "taller": 18,
+        "distribuidor": 16
       },
-      "stock": 14,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2471,7 +2471,7 @@
         "taller": 17.5,
         "distribuidor": 16.5
       },
-      "stock": 11,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3752,7 +3752,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5757,27 +5757,6 @@
       "activo": true
     },
     {
-      "sku": "741540100286",
-      "nombre": "CABLE CLUTCH GN125H",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.5,
-        "taller": 3.25,
-        "distribuidor": 2.75
-      },
-      "stock": 5,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100286.png",
-      "imagen_size": 62936,
-      "activo": true
-    },
-    {
       "sku": "741540188007",
       "nombre": "CABLE CLUTCH HJ125-7 VINI(FL)",
       "marca": "VINI",
@@ -6566,7 +6545,7 @@
         "taller": 0.5,
         "distribuidor": 0.5
       },
-      "stock": 166,
+      "stock": 146,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7133,7 +7112,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 25,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7742,7 +7721,7 @@
         "taller": 9,
         "distribuidor": 8.5
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9464,7 +9443,7 @@
         "taller": 19,
         "distribuidor": 17
       },
-      "stock": 25,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11382,27 +11361,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS110.jpg",
       "imagen_size": 9485,
-      "activo": true
-    },
-    {
-      "sku": "RS092",
-      "nombre": "CATARINA 46T MOTO CHINA CON CENTRO DE YBR125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14.75,
-        "taller": 10.5,
-        "distribuidor": 9
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS092.jpg",
-      "imagen_size": 10320,
       "activo": true
     },
     {
@@ -15638,7 +15596,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19817,7 +19775,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20352,27 +20310,6 @@
       "activo": true
     },
     {
-      "sku": "741540189255",
-      "nombre": "FILTRO AIRE YARA 200 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.75,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189255.png",
-      "imagen_size": 66126,
-      "activo": true
-    },
-    {
       "sku": "AF011",
       "nombre": "FILTRO AIRE YBR 125",
       "marca": "NRP",
@@ -20510,7 +20447,7 @@
         "taller": 2.75,
         "distribuidor": 2
       },
-      "stock": 33,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20909,7 +20846,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20993,7 +20930,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 54,
+      "stock": 50,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26117,7 +26054,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29855,7 +29792,7 @@
         "taller": 47.75,
         "distribuidor": 44.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30191,7 +30128,7 @@
         "taller": 8.25,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30674,7 +30611,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42812,7 +42749,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44691,27 +44628,6 @@
       "activo": true
     },
     {
-      "sku": "741540100111",
-      "nombre": "VALVULA GAS CGL 125",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5.5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100111.png",
-      "imagen_size": 69806,
-      "activo": true
-    },
-    {
       "sku": "741540189651",
       "nombre": "VALVULA GAS CR1",
       "marca": "VINI",
@@ -45248,7 +45164,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
