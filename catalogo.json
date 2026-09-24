@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T17:49:39.530Z",
-  "count": 5684,
+  "generated_at": "2026-09-24T23:50:02.304Z",
+  "count": 5677,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 25,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3731,7 +3731,7 @@
         "taller": 2.5,
         "distribuidor": 2.25
       },
-      "stock": 55,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3815,7 +3815,7 @@
         "taller": 0.5,
         "distribuidor": 0.5
       },
-      "stock": 66,
+      "stock": 56,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3857,7 +3857,7 @@
         "taller": 0.25,
         "distribuidor": 0.25
       },
-      "stock": 59,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +4004,7 @@
         "taller": 3,
         "distribuidor": 2.75
       },
-      "stock": 25,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6482,7 +6482,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 144,
+      "stock": 110,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6776,7 +6776,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8939,7 +8939,7 @@
         "taller": 1.25,
         "distribuidor": 1
       },
-      "stock": 18,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9422,7 +9422,7 @@
         "taller": 28.5,
         "distribuidor": 24.25
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10241,7 +10241,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14388,27 +14388,6 @@
       "activo": true
     },
     {
-      "sku": "741540139036",
-      "nombre": "CILINDRO COMPLETO VARILLA PIN15 SANLG FIRE-SL125-3C-CGL-VMEN VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 49.75,
-        "taller": 40.75,
-        "distribuidor": 34.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540139036.png",
-      "imagen_size": 92107,
-      "activo": true
-    },
-    {
       "sku": "741540190148",
       "nombre": "CILINDRO COMPLETO XPULSE-HUNK 190-200 VINI",
       "marca": "VINI",
@@ -14473,7 +14452,7 @@
     },
     {
       "sku": "741540189331",
-      "nombre": "CILINDRO COMPLETO YARA 200-R1 200 CADENILLA 196CC PIN 15 COLOR NEGRO VINI",
+      "nombre": "CILINDRO COMPLETO YARA 200-R1 200 GENESIS 200 CR3 CADENILLA 196CC PIN 15 COLOR NEGRO VINI",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -15617,7 +15596,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 44,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16695,27 +16674,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003568.jpg",
       "imagen_size": 171452,
-      "activo": true
-    },
-    {
-      "sku": "1004107",
-      "nombre": "EJE CAMBIO C/CUNA CG125",
-      "marca": "MEK",
-      "categoria": "DIRECCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 3.25,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004107.png",
-      "imagen_size": 22903,
       "activo": true
     },
     {
@@ -18315,27 +18273,6 @@
       "activo": true
     },
     {
-      "sku": "1005526",
-      "nombre": "ESPEJO SET RETROVISORES CR1",
-      "marca": "MEK",
-      "categoria": "ESPEJOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 6.75,
-        "distribuidor": 5.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005526.png",
-      "imagen_size": 17095,
-      "activo": true
-    },
-    {
       "sku": "1004860",
       "nombre": "ESPEJO SET RETROVISORES FORZA UNIVERSAL DE MOTOS",
       "marca": "MEK",
@@ -19733,7 +19670,7 @@
         "taller": 11.75,
         "distribuidor": 10
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23912,7 +23849,7 @@
         "taller": 6.75,
         "distribuidor": 5.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28133,7 +28070,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28637,7 +28574,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29498,7 +29435,7 @@
         "taller": 39.5,
         "distribuidor": 36.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29610,27 +29547,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189936.png",
       "imagen_size": 69014,
-      "activo": true
-    },
-    {
-      "sku": "741540189930",
-      "nombre": "LLANTA VINI 130-70-17 VT 1010 LISA DEPORTIVA (FL)",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 59,
-        "taller": 54,
-        "distribuidor": 50.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189930.png",
-      "imagen_size": 67381,
       "activo": true
     },
     {
@@ -30639,27 +30555,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188706.png",
       "imagen_size": 77615,
-      "activo": true
-    },
-    {
-      "sku": "741540188705",
-      "nombre": "MANIFUL CG125/150 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 5.75,
-        "distribuidor": 4.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188705.png",
-      "imagen_size": 81303,
       "activo": true
     },
     {
@@ -32165,7 +32060,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 32,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32480,7 +32375,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 14,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33117,27 +33012,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/BP040.jpg",
       "imagen_size": 6216,
-      "activo": true
-    },
-    {
-      "sku": "BP001",
-      "nombre": "PASTILLAS DE FRENO, FIRE 125, FIRE 150, FORZA 150, GN 125F",
-      "marca": "NRP",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4.25,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/BP001.jpg",
-      "imagen_size": 4587,
       "activo": true
     },
     {
@@ -34328,7 +34202,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34769,7 +34643,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35462,8 +35336,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35987,7 +35861,7 @@
         "taller": 16,
         "distribuidor": 13.5
       },
-      "stock": 33,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36008,7 +35882,7 @@
         "taller": 21.5,
         "distribuidor": 18.25
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40113,27 +39987,6 @@
       "activo": true
     },
     {
-      "sku": "741540189997",
-      "nombre": "RODILLO SINCRONIZADOR DE VELOCIDADES CG150 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.5,
-        "distribuidor": 1.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189997.png",
-      "imagen_size": 82674,
-      "activo": true
-    },
-    {
       "sku": "1006290",
       "nombre": "ROLLO COMPLETO MANGUERA COMBUSTIBLE UNIVERSAL STD (1 ROLLO=5M)",
       "marca": "MEK",
@@ -40145,7 +39998,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
