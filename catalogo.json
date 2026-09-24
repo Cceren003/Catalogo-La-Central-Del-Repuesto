@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T23:33:26.382Z",
-  "count": 5685,
+  "generated_at": "2026-09-24T17:49:39.530Z",
+  "count": 5684,
   "productos": [
     {
       "sku": "LM120106",
@@ -1694,7 +1694,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1715,7 +1715,7 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,8 +2366,8 @@
         "taller": 17.25,
         "distribuidor": 16.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2471,7 +2471,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5516,7 +5516,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,7 +7658,7 @@
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7679,7 @@
         "taller": 9.5,
         "distribuidor": 9
       },
-      "stock": 58,
+      "stock": 56,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14829,27 +14829,6 @@
       "activo": true
     },
     {
-      "sku": "741540190102",
-      "nombre": "CULATA COMPLETA CG150 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 140.75,
-        "taller": 115.25,
-        "distribuidor": 98
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190102.png",
-      "imagen_size": 81487,
-      "activo": true
-    },
-    {
       "sku": "RBCUN-31400031660",
       "nombre": "CUNAS DE DIRECCION DY150-6E / DY150-16D",
       "marca": "DAYUN",
@@ -15218,7 +15197,7 @@
         "taller": 25,
         "distribuidor": 21.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15638,7 +15617,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 45,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20909,7 +20888,7 @@
         "taller": 0.25,
         "distribuidor": 0.25
       },
-      "stock": 20,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30212,7 +30191,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 37,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43568,7 +43547,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
