@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T17:53:12.391Z",
-  "count": 5676,
+  "generated_at": "2026-09-25T23:55:39.147Z",
+  "count": 5674,
   "productos": [
     {
       "sku": "LM120106",
@@ -455,7 +455,7 @@
         "taller": 0.75,
         "distribuidor": 0.75
       },
-      "stock": 46,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2051,7 +2051,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,7 +7658,7 @@
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10388,7 +10388,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12299,7 +12299,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12761,7 +12761,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13538,7 +13538,7 @@
         "taller": 68,
         "distribuidor": 57.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14385,27 +14385,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540139001.png",
       "imagen_size": 96827,
-      "activo": true
-    },
-    {
-      "sku": "741540190148",
-      "nombre": "CILINDRO COMPLETO XPULSE-HUNK 190-200 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 142,
-        "taller": 116.5,
-        "distribuidor": 99
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190148.png",
-      "imagen_size": 83985,
       "activo": true
     },
     {
@@ -28553,7 +28532,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28574,7 +28553,7 @@
         "taller": 11.25,
         "distribuidor": 9.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33540,27 +33519,6 @@
       "activo": true
     },
     {
-      "sku": "1003212",
-      "nombre": "PATA VELOCIDAD DOBLE YBR125",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003212.png",
-      "imagen_size": 16424,
-      "activo": true
-    },
-    {
       "sku": "741540189123",
       "nombre": "PATA VELOCIDAD FIRE125 VINI",
       "marca": "VINI",
@@ -35126,7 +35084,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37499,7 +37457,7 @@
         "taller": 12.5,
         "distribuidor": 10.5
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41174,7 +41132,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
