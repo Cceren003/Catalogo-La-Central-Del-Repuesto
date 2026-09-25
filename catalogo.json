@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T23:50:02.304Z",
-  "count": 5677,
+  "generated_at": "2026-09-25T17:53:12.391Z",
+  "count": 5676,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 34,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 19.25,
         "distribuidor": 18
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2345,7 +2345,7 @@
         "taller": 16.25,
         "distribuidor": 15
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3962,7 +3962,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 39,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,7 +3983,7 @@
         "taller": 2.75,
         "distribuidor": 2.75
       },
-      "stock": 23,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +4004,7 @@
         "taller": 3,
         "distribuidor": 2.75
       },
-      "stock": 24,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15774,27 +15774,6 @@
       "activo": true
     },
     {
-      "sku": "741540189206",
-      "nombre": "DISCO FRENO  COBRA 150 DELANTERO VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 28,
-        "taller": 20,
-        "distribuidor": 18
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189206.png",
-      "imagen_size": 111332,
-      "activo": true
-    },
-    {
       "sku": "741540189217",
       "nombre": "DISCO FRENO CBF125-150-HUNK-CR4 TRASERO VINI(FL)",
       "marca": "VINI",
@@ -18095,7 +18074,7 @@
         "taller": 42.5,
         "distribuidor": 36
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28574,7 +28553,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29267,7 +29246,7 @@
         "taller": 30.5,
         "distribuidor": 28.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29771,7 +29750,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
