@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T19:39:43.369Z",
-  "count": 5673,
+  "generated_at": "2026-09-26T23:28:50.211Z",
+  "count": 5672,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1022,7 +1022,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29214,27 +29214,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-0703-22",
-      "nombre": "LLANTA AXUS 275-18 LISA AX4418 REFORZADA",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33.25,
-        "taller": 30.5,
-        "distribuidor": 28.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0703-22.png",
-      "imagen_size": 84066,
-      "activo": true
-    },
-    {
       "sku": "LA1A-0901-22",
       "nombre": "LLANTA AXUS 300-17LISA AX1155 6PR TL TUBULAR TL TUBULAR",
       "marca": "AXUS",
@@ -42665,7 +42644,7 @@
         "taller": 11.5,
         "distribuidor": 9.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
