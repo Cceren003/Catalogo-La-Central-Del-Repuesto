@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T17:01:30.317Z",
-  "count": 5674,
+  "generated_at": "2026-09-26T19:39:43.369Z",
+  "count": 5673,
   "productos": [
     {
       "sku": "LM120106",
@@ -14,7 +14,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 34,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -434,7 +434,7 @@
         "taller": 0.75,
         "distribuidor": 0.75
       },
-      "stock": 25,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 19.25,
         "distribuidor": 18
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2366,7 @@
         "taller": 17.25,
         "distribuidor": 16.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,8 +2408,8 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3563,7 +3563,7 @@
         "taller": 14.5,
         "distribuidor": 12.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5054,7 +5054,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5663,7 +5663,7 @@
         "taller": 3,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9419,10 +9419,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 35,
-        "taller": 28.5,
+        "taller": 21,
         "distribuidor": 24.25
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10829,7 +10829,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17507,7 +17507,7 @@
         "taller": 3.5,
         "distribuidor": 3.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19355,7 +19355,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20195,7 +20195,7 @@
         "taller": 1.75,
         "distribuidor": 1.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29015,7 +29015,7 @@
         "taller": 23.25,
         "distribuidor": 21.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38360,7 +38360,7 @@
         "taller": 7.5,
         "distribuidor": 6.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43410,27 +43410,6 @@
       "activo": true
     },
     {
-      "sku": "1003971",
-      "nombre": "TAPON TANQUE COMBUSTIBLE YBR125",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003971.png",
-      "imagen_size": 31360,
-      "activo": true
-    },
-    {
       "sku": "741540189604",
       "nombre": "TAPON TANQUE CR1-CR2",
       "marca": "VINI",
@@ -44573,7 +44552,7 @@
       "empaque": "1*1",
       "precios": {
         "publico": 1.5,
-        "taller": 1.25,
+        "taller": 3.5,
         "distribuidor": 1
       },
       "stock": 4,
@@ -44597,7 +44576,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
