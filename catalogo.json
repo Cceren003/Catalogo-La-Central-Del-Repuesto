@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T20:04:53.695Z",
-  "count": 5667,
+  "generated_at": "2026-09-29T00:55:36.643Z",
+  "count": 5663,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -875,7 +875,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1024,27 +1024,6 @@
       },
       "stock": 13,
       "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "6204-2RS",
-      "nombre": "BALERO 6204 KOYO",
-      "marca": "KOYO",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.5,
-        "taller": 4.75,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1953,27 +1932,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004097.png",
       "imagen_size": 27446,
-      "activo": true
-    },
-    {
-      "sku": "1003562",
-      "nombre": "BALINERA BENDIX GY6 (125-150) SCOOTER",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 11,
-        "distribuidor": 9.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003562.png",
-      "imagen_size": 45026,
       "activo": true
     },
     {
@@ -3962,7 +3920,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12362,7 +12320,7 @@
         "taller": 9.75,
         "distribuidor": 8.25
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19103,7 +19061,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21413,7 +21371,7 @@
         "taller": 10.25,
         "distribuidor": 8.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29844,27 +29802,6 @@
       "activo": true
     },
     {
-      "sku": "741540100682",
-      "nombre": "LODERA TRASERA GN125 METAL",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26.75,
-        "taller": 22,
-        "distribuidor": 18.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100682.png",
-      "imagen_size": 86714,
-      "activo": true
-    },
-    {
       "sku": "741540188107",
       "nombre": "LODERA TRASERA XR150L / XR125L",
       "marca": "VINI",
@@ -32228,7 +32165,7 @@
         "taller": 1.75,
         "distribuidor": 1.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37488,27 +37425,6 @@
       "activo": true
     },
     {
-      "sku": "741540191118",
-      "nombre": "REGULADOR CORRIENTE CRUX 110 REV",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14.75,
-        "taller": 12,
-        "distribuidor": 10.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540191230",
       "nombre": "REGULADOR CORRIENTE GS150R",
       "marca": "VINI",
@@ -39368,7 +39284,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
