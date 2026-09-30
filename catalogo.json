@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T18:33:14.314Z",
-  "count": 5698,
+  "generated_at": "2026-09-30T00:16:56.327Z",
+  "count": 5697,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 11,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 6,
+      "stock": 119,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3080,7 +3080,7 @@
         "taller": 10,
         "distribuidor": 8
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3584,7 +3584,7 @@
         "taller": 14.5,
         "distribuidor": 12.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3710,7 +3710,7 @@
         "taller": 11.25,
         "distribuidor": 9.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3815,7 +3815,7 @@
         "taller": 1.75,
         "distribuidor": 1.5
       },
-      "stock": 40,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6671,7 +6671,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7070,7 +7070,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 24,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12110,7 +12110,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19670,7 +19670,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20447,7 +20447,7 @@
         "taller": 2.75,
         "distribuidor": 2
       },
-      "stock": 32,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20930,7 +20930,7 @@
         "taller": 4.5,
         "distribuidor": 4.25
       },
-      "stock": 66,
+      "stock": 65,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23744,7 +23744,7 @@
         "taller": 22.5,
         "distribuidor": 19.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25843,27 +25843,6 @@
         "publico": 15.25,
         "taller": 12.5,
         "distribuidor": 10.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "RM004000051",
-      "nombre": "KIT EMPAQUE COMPLETO CB 1 125 / CB 125F TWISTER",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15.75,
-        "taller": 13,
-        "distribuidor": 11
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -30065,7 +30044,7 @@
         "taller": 31.75,
         "distribuidor": 29.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30968,7 +30947,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32879,7 +32858,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33131,7 +33110,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 20,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33425,7 +33404,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35861,7 +35840,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41258,7 +41237,7 @@
         "taller": 4.75,
         "distribuidor": 4
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42119,7 +42098,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42938,7 +42917,7 @@
         "taller": 13.75,
         "distribuidor": 11.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
