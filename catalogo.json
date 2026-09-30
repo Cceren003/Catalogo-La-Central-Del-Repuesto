@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T00:16:56.327Z",
-  "count": 5697,
+  "generated_at": "2026-09-30T18:21:35.508Z",
+  "count": 5706,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,8 +35,8 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -371,7 +371,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 14,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -413,7 +413,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -434,8 +434,8 @@
         "taller": 0.75,
         "distribuidor": 0.75
       },
-      "stock": 15,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -455,7 +455,7 @@
         "taller": 0.75,
         "distribuidor": 0.75
       },
-      "stock": 44,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -525,6 +525,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005609.jpg",
       "imagen_size": 128059,
+      "activo": true
+    },
+    {
+      "sku": "1000176",
+      "nombre": "ARNES ELECTRICO PRINCIPAL FT150",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -1316,7 +1337,7 @@
         "taller": 4,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1337,7 +1358,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1358,7 +1379,7 @@
         "taller": 8,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2240,7 +2261,7 @@
         "taller": 23.25,
         "distribuidor": 21.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2362,8 +2383,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 18.75,
-        "taller": 17.25,
+        "publico": 26,
+        "taller": 18,
         "distribuidor": 16.25
       },
       "stock": 3,
@@ -3531,6 +3552,27 @@
       "activo": true
     },
     {
+      "sku": "1000291",
+      "nombre": "BOMBA DE FRENO TRACERA TT200 MEK",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 6.75,
+        "distribuidor": 5.75
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000291.jpg",
+      "imagen_size": 46697,
+      "activo": true
+    },
+    {
       "sku": "741540190667",
       "nombre": "BOMBA FRENO AK TTR180 / TTX180",
       "marca": "VINI",
@@ -3542,7 +3584,7 @@
         "taller": 19.75,
         "distribuidor": 17
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3710,8 +3752,8 @@
         "taller": 11.25,
         "distribuidor": 9.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4361,7 +4403,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4403,7 +4445,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 19,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4424,7 +4466,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4760,8 +4802,8 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4802,7 +4844,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4886,7 +4928,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5295,27 +5337,6 @@
       "activo": true
     },
     {
-      "sku": "THC025",
-      "nombre": "CABLE ACELERADOR YD 110S CRUX",
-      "marca": "NRP",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.25,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CLC039",
       "nombre": "CABLE CLUTCH",
       "marca": "NRP",
@@ -5369,7 +5390,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5999,7 +6020,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6335,7 +6356,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6461,7 +6482,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6482,7 +6503,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6503,7 +6524,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 104,
+      "stock": 92,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6608,8 +6629,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6671,7 +6692,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6692,7 +6713,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6755,7 +6776,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6860,7 +6881,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6881,7 +6902,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6902,8 +6923,8 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6986,7 +7007,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8235,6 +8256,27 @@
       "activo": true
     },
     {
+      "sku": "2000034",
+      "nombre": "CAJA VELOCIMETRO ELECTRONICO YARA 200 MEK",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540189292",
       "nombre": "CAJA VELOCIMETRO FORZA 150 VINI(FL)",
       "marca": "VINI",
@@ -9264,6 +9306,27 @@
       "activo": true
     },
     {
+      "sku": "1002590",
+      "nombre": "CARBURADOR GY6 150 SCOOTER",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 49.75,
+        "taller": 31.25,
+        "distribuidor": 28
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002590.png",
+      "imagen_size": 39414,
+      "activo": true
+    },
+    {
       "sku": "741540188633",
       "nombre": "CARBURADOR HERO HF DAWN VINI(FL)",
       "marca": "VINI",
@@ -9450,6 +9513,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188247.png",
       "imagen_size": 78151,
+      "activo": true
+    },
+    {
+      "sku": "1004930",
+      "nombre": "CARBURADOR YBR125 CR4 FALCON250",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 63.25,
+        "taller": 51.75,
+        "distribuidor": 44
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004930.png",
+      "imagen_size": 36695,
       "activo": true
     },
     {
@@ -10587,6 +10671,27 @@
       "activo": true
     },
     {
+      "sku": "1004221",
+      "nombre": "CATARINA 428H-50T CG125 4 HOYOS",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 6.5,
+        "distribuidor": 5.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1004221.png",
+      "imagen_size": 12729,
+      "activo": true
+    },
+    {
       "sku": "RS019",
       "nombre": "CATARINA 42T AX100",
       "marca": "NRP",
@@ -10668,6 +10773,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS024.jpg",
       "imagen_size": 9896,
+      "activo": true
+    },
+    {
+      "sku": "1002640",
+      "nombre": "CATARINA 42T CG125 - INVICTA",
+      "marca": "MEK",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 5,
+        "distribuidor": 4.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1002640.png",
+      "imagen_size": 41824,
       "activo": true
     },
     {
@@ -11739,6 +11865,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190294.png",
       "imagen_size": 118736,
+      "activo": true
+    },
+    {
+      "sku": "1002652",
+      "nombre": "CATARINA BOXER 150 2022 4 H 428H-42T MEK",
+      "marca": "MOTUL",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -13391,7 +13538,7 @@
         "taller": 25.5,
         "distribuidor": 21.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16110,27 +16257,6 @@
       "activo": true
     },
     {
-      "sku": "1001158",
-      "nombre": "DISCO FRENO DELANTERO GN 125",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26.5,
-        "taller": 16.5,
-        "distribuidor": 14
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001158.jpg",
-      "imagen_size": 158449,
-      "activo": true
-    },
-    {
       "sku": "1000364",
       "nombre": "DISCO FRENO DELANTERO NAGA2002016 COBRA 125 CR2",
       "marca": "MEK",
@@ -18389,7 +18515,7 @@
         "taller": 6.25,
         "distribuidor": 5.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18410,7 +18536,7 @@
         "taller": 6.75,
         "distribuidor": 5.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18819,27 +18945,6 @@
       "activo": true
     },
     {
-      "sku": "741540189018",
-      "nombre": "FAJA TRANMISION 835-20X30 VINI(RC)",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16.25,
-        "taller": 13.25,
-        "distribuidor": 11.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189018.png",
-      "imagen_size": 37656,
-      "activo": true
-    },
-    {
       "sku": "741540100026",
       "nombre": "FAJA TRANSMISION GY6 125 (743-20-30) VINI(FL)",
       "marca": "VINI",
@@ -18882,27 +18987,6 @@
       "activo": true
     },
     {
-      "sku": "741540100025",
-      "nombre": "FAJA TRANSMISION GY6 150 (842-20-30) VINI(FL)",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16.5,
-        "taller": 13.5,
-        "distribuidor": 11.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100025.png",
-      "imagen_size": 45036,
-      "activo": true
-    },
-    {
       "sku": "741540188342",
       "nombre": "FAJA TRANSMISSION MAGIC 90 721X18X30 VINI(RC)",
       "marca": "VINI",
@@ -18914,8 +18998,8 @@
         "taller": 21,
         "distribuidor": 18
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18935,7 +19019,7 @@
         "taller": 11.5,
         "distribuidor": 9.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19040,7 +19124,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19103,7 +19187,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 14,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19208,7 +19292,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19229,7 +19313,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19313,7 +19397,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19355,7 +19439,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19376,7 +19460,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19418,7 +19502,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19439,7 +19523,7 @@
         "taller": 5.25,
         "distribuidor": 4.5
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19481,7 +19565,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19586,7 +19670,7 @@
         "taller": 7.5,
         "distribuidor": 6.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19607,7 +19691,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19670,7 +19754,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19733,8 +19817,8 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19775,7 +19859,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19848,27 +19932,6 @@
       "activo": true
     },
     {
-      "sku": "741540189965",
-      "nombre": "FILTRO AIRE NAVI110 VINI",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.5,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189965.jpg",
-      "imagen_size": 9380,
-      "activo": true
-    },
-    {
       "sku": "RMFIL-170100-0003",
       "nombre": "FILTRO AIRE NEW R1-200",
       "marca": "KATANA",
@@ -19880,7 +19943,7 @@
         "taller": 11.75,
         "distribuidor": 10
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19901,7 +19964,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20006,7 +20069,7 @@
         "taller": 6.75,
         "distribuidor": 6.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20048,7 +20111,7 @@
         "taller": 8.75,
         "distribuidor": 7.5
       },
-      "stock": 11,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20121,27 +20184,6 @@
       "activo": true
     },
     {
-      "sku": "1002228",
-      "nombre": "FILTRO AIRE TRIANGULAR GY6125/150",
-      "marca": "MEK",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002228.png",
-      "imagen_size": 34134,
-      "activo": true
-    },
-    {
       "sku": "1006293",
       "nombre": "FILTRO AIRE UNIVERSAL TRIPLE MEDIDA CONICO 35-42-48 MM",
       "marca": "MEK",
@@ -20195,7 +20237,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20300,7 +20342,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20405,8 +20447,8 @@
         "taller": 9.75,
         "distribuidor": 8.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20468,8 +20510,8 @@
         "taller": 1.75,
         "distribuidor": 1.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20489,7 +20531,7 @@
         "taller": 1,
         "distribuidor": 1
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21035,7 +21077,7 @@
         "taller": 0.25,
         "distribuidor": 0.25
       },
-      "stock": 72,
+      "stock": 52,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25126,9 +25168,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.25,
-        "taller": 5,
-        "distribuidor": 4.25
+        "publico": 15,
+        "taller": 8,
+        "distribuidor": 6.5
       },
       "stock": 4,
       "stock_status": "low_stock",
@@ -25550,7 +25592,7 @@
         "taller": 6.75,
         "distribuidor": 5.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25791,27 +25833,6 @@
       "activo": true
     },
     {
-      "sku": "1004418",
-      "nombre": "KIT EMPAQUE CG200 63.5MM BALANCEADO YARA200",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004418.png",
-      "imagen_size": 36739,
-      "activo": true
-    },
-    {
       "sku": "741540100772",
       "nombre": "KIT EMPAQUE CGL125 / V-MEN125 VINI(FL)",
       "marca": "VINI",
@@ -25949,7 +25970,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26033,7 +26054,7 @@
         "taller": 9.5,
         "distribuidor": 8
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26390,7 +26411,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26957,7 +26978,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26978,7 +26999,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27020,7 +27041,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27198,27 +27219,6 @@
       "activo": true
     },
     {
-      "sku": "1001200",
-      "nombre": "KIT POLVERA ANCHA GXT200",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.75,
-        "taller": 4.75,
-        "distribuidor": 4
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1001014",
       "nombre": "KIT POLVERAS BARRAS",
       "marca": "MEK",
@@ -27237,27 +27237,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001014.jpg",
       "imagen_size": 61120,
-      "activo": true
-    },
-    {
-      "sku": "1003391",
-      "nombre": "KIT POLVERAS BARRAS  TODOTERRENO",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.5,
-        "taller": 7,
-        "distribuidor": 5.75
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003391.png",
-      "imagen_size": 42309,
       "activo": true
     },
     {
@@ -27377,7 +27356,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27398,7 +27377,7 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 15,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27419,7 +27398,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 14,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27440,7 +27419,7 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 16,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27461,7 +27440,7 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27629,7 +27608,7 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27692,7 +27671,7 @@
         "taller": 9,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27818,7 +27797,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27881,7 +27860,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 5,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27902,8 +27881,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -27944,8 +27923,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -27965,7 +27944,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27986,7 +27965,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28028,7 +28007,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29382,6 +29361,27 @@
       "activo": true
     },
     {
+      "sku": "LA1A-2807-22",
+      "nombre": "LLANTA  AXUS 90-90-21 DOBLE PROPOSITO AX923 6PR TL  TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 30.5,
+        "taller": 28,
+        "distribuidor": 26.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2807-22.png",
+      "imagen_size": 111894,
+      "activo": true
+    },
+    {
       "sku": "1208016KT191L",
       "nombre": "LLANTA 120-80-16 CAMEL TL LISA DEPORTIVA",
       "marca": "NRP",
@@ -29456,7 +29456,7 @@
         "taller": 23.25,
         "distribuidor": 21.75
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29498,13 +29498,55 @@
         "taller": 35.75,
         "distribuidor": 33.5
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-1201-22.png",
       "imagen_size": 107873,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3501-22",
+      "nombre": "LLANTA AXUS 110-70-17 LISA AX30F",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29.25,
+        "taller": 27,
+        "distribuidor": 25.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3501-22.png",
+      "imagen_size": 68310,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3502-22",
+      "nombre": "LLANTA AXUS 110-80-17 LISA  AX30F 6PR TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 34.75,
+        "taller": 32,
+        "distribuidor": 30
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-3502-22.png",
+      "imagen_size": 72423,
       "activo": true
     },
     {
@@ -29540,13 +29582,34 @@
         "taller": 36.75,
         "distribuidor": 34.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-2808-22.png",
       "imagen_size": 112693,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-2811-22",
+      "nombre": "LLANTA AXUS 110-90-18 DOBLE  PROPOSITO AX923 6PR TL  TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 32,
+        "taller": 29.25,
+        "distribuidor": 27.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2811-22.png",
+      "imagen_size": 111744,
       "activo": true
     },
     {
@@ -29561,13 +29624,55 @@
         "taller": 43.25,
         "distribuidor": 40.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0601-22.png",
       "imagen_size": 85045,
+      "activo": true
+    },
+    {
+      "sku": "LA1C-3101-22",
+      "nombre": "LLANTA AXUS 120-70-12 LISA AX044 58J",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 23,
+        "taller": 21,
+        "distribuidor": 19.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1C-3101-22.png",
+      "imagen_size": 56592,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-1332-22",
+      "nombre": "LLANTA AXUS 120-80-17 LISA AX031 6PR TL PULSAR TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 34.75,
+        "taller": 32,
+        "distribuidor": 30
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-1332-22.png",
+      "imagen_size": 118021,
       "activo": true
     },
     {
@@ -29634,6 +29739,111 @@
       "activo": true
     },
     {
+      "sku": "LA1A-3506-22",
+      "nombre": "LLANTA AXUS 140-70-17 LISA AX30 DEPORTIVAS",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 44.5,
+        "taller": 40.75,
+        "distribuidor": 38.25
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-3504-22",
+      "nombre": "LLANTA AXUS 150-60-17 LISA AX30 66P TL REINF DUKE  661LBS 150KM/H DEPORTIVAS",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-1105-22",
+      "nombre": "LLANTA AXUS 275-17 LISA AX1156 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 27.25,
+        "taller": 25,
+        "distribuidor": 23.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-1105-22.png",
+      "imagen_size": 90785,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-2806-22",
+      "nombre": "LLANTA AXUS 275-18 DOBLE PROPOSITO AX923 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22.5,
+        "taller": 20.5,
+        "distribuidor": 19.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2806-22.png",
+      "imagen_size": 112299,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-0703-22",
+      "nombre": "LLANTA AXUS 275-18 LISA AX4418 REFORZADA",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 33.25,
+        "taller": 30.5,
+        "distribuidor": 28.5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0703-22.png",
+      "imagen_size": 84066,
+      "activo": true
+    },
+    {
       "sku": "LA1A-0901-22",
       "nombre": "LLANTA AXUS 300-17LISA AX1155 6PR TL TUBULAR TL TUBULAR",
       "marca": "AXUS",
@@ -29655,6 +29865,27 @@
       "activo": true
     },
     {
+      "sku": "LA1A-2809-22",
+      "nombre": "LLANTA AXUS 410-18 DOBLE PROPOSITO AX923 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 32,
+        "taller": 29.25,
+        "distribuidor": 27.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2809-22.png",
+      "imagen_size": 112557,
+      "activo": true
+    },
+    {
       "sku": "LA1A-3602-22",
       "nombre": "LLANTA AXUS 460-17 LISA AX7231 58P UNICORN",
       "marca": "AXUS",
@@ -29666,7 +29897,7 @@
         "taller": 37.25,
         "distribuidor": 35
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29708,7 +29939,7 @@
         "taller": 33,
         "distribuidor": 31
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29739,6 +29970,27 @@
       "activo": true
     },
     {
+      "sku": "LA1A-0702-22",
+      "nombre": "LLANTA AXUS 90-90-18 LISA AX4418 DESPORTIVAS",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 30.5,
+        "taller": 27.75,
+        "distribuidor": 26
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-0702-22.png",
+      "imagen_size": 85845,
+      "activo": true
+    },
+    {
       "sku": "LA1A-0904-22",
       "nombre": "LLANTA AXUS 90-90-18 LISA AX6155",
       "marca": "MOTUL",
@@ -29757,6 +30009,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0904-22.png",
       "imagen_size": 89021,
+      "activo": true
+    },
+    {
+      "sku": "LA1A-2812-22",
+      "nombre": "LLANTA AXUS 90-90-19 DOBLE PROPOSITO AX923 6PR TL TUBULAR",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29.5,
+        "taller": 27,
+        "distribuidor": 25.25
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/LA1A-2812-22.png",
+      "imagen_size": 112745,
       "activo": true
     },
     {
@@ -30212,7 +30485,7 @@
         "taller": 8.25,
         "distribuidor": 7.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30905,7 +31178,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31010,7 +31283,7 @@
         "taller": 4,
         "distribuidor": 3.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31136,7 +31409,7 @@
         "taller": 5.25,
         "distribuidor": 4.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31220,7 +31493,7 @@
         "taller": 6.75,
         "distribuidor": 5.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31605,6 +31878,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189916.png",
       "imagen_size": 85153,
+      "activo": true
+    },
+    {
+      "sku": "1001286",
+      "nombre": "MOTOR ARRANQUE CG200 11T / CR2",
+      "marca": "MEK",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 24,
+        "taller": 19.75,
+        "distribuidor": 16.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001286.jpg",
+      "imagen_size": 164000,
       "activo": true
     },
     {
@@ -32123,7 +32417,28 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 7,
+      "stock": 19,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LB1A-0030-10",
+      "nombre": "NEUMATICO AXUS 110/90-17",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 3.5,
+        "distribuidor": 3.5
+      },
+      "stock": 50,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32144,8 +32459,29 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 17,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LB1A-0012-10",
+      "nombre": "NEUMATICO AXUS 275-17",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.75,
+        "taller": 4,
+        "distribuidor": 3.5
+      },
+      "stock": 25,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32165,7 +32501,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 6,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32186,8 +32522,8 @@
         "taller": 3.5,
         "distribuidor": 3.25
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32207,8 +32543,29 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 16,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LB1A-0041-10",
+      "nombre": "NEUMATICO AXUS 90-90-19",
+      "marca": "AXUS",
+      "categoria": "LLANTAS Y TUBOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4.75,
+        "taller": 4.5,
+        "distribuidor": 4.25
+      },
+      "stock": 15,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32298,6 +32655,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190363.jpg",
       "imagen_size": 10117,
+      "activo": true
+    },
+    {
+      "sku": "1005520",
+      "nombre": "PAR DE VIAS CR1 MEK",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7.25,
+        "taller": 6,
+        "distribuidor": 5.25
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005520.png",
+      "imagen_size": 18192,
       "activo": true
     },
     {
@@ -32648,7 +33026,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 53,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33089,7 +33467,7 @@
         "taller": 3,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33404,7 +33782,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38003,7 +38381,7 @@
         "taller": 12.5,
         "distribuidor": 10.5
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39200,8 +39578,8 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -39438,27 +39816,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188764.png",
       "imagen_size": 108679,
-      "activo": true
-    },
-    {
-      "sku": "741540188753",
-      "nombre": "RETENEDOR 16X28X7",
-      "marca": "VINI",
-      "categoria": "RETENEDOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2,
-        "distribuidor": 1.5
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188753.png",
-      "imagen_size": 103397,
       "activo": true
     },
     {
@@ -39851,7 +40208,7 @@
         "taller": 3,
         "distribuidor": 2
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39914,7 +40271,7 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 12,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39935,8 +40292,8 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 10,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40166,8 +40523,8 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40208,8 +40565,8 @@
         "taller": 2.25,
         "distribuidor": 2
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40460,7 +40817,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40827,27 +41184,6 @@
       "activo": true
     },
     {
-      "sku": "1004480",
-      "nombre": "SEGURO ESLABON CADENA NEGRO 520H UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 1.75,
-        "taller": 1.25,
-        "distribuidor": 0.5
-      },
-      "stock": 5,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004480.png",
-      "imagen_size": 31738,
-      "activo": true
-    },
-    {
       "sku": "741540100785",
       "nombre": "SEGURO PIÑON ATAQUE XL125 VINI(RC)",
       "marca": "VINI",
@@ -40908,27 +41244,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1002393.png",
       "imagen_size": 42641,
-      "activo": true
-    },
-    {
-      "sku": "1006074",
-      "nombre": "SELLO BARRA 33X46X10.8 DEFENDER150",
-      "marca": "MEK",
-      "categoria": "DIRECCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006074.png",
-      "imagen_size": 15673,
       "activo": true
     },
     {
@@ -41090,7 +41405,7 @@
         "taller": 1.25,
         "distribuidor": 1.25
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41111,7 +41426,7 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41132,7 +41447,7 @@
         "taller": 1.75,
         "distribuidor": 1.5
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41237,7 +41552,7 @@
         "taller": 4.75,
         "distribuidor": 4
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41772,6 +42087,48 @@
       "activo": true
     },
     {
+      "sku": "1003838",
+      "nombre": "SILVIN CROMADO GN125",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 18,
+        "taller": 15,
+        "distribuidor": 13.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1003838.png",
+      "imagen_size": 46490,
+      "activo": true
+    },
+    {
+      "sku": "1005162",
+      "nombre": "SILVIN REDONDO LED YBR125 COBRA125 VIEJA",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005162.png",
+      "imagen_size": 37808,
+      "activo": true
+    },
+    {
       "sku": "741540100084",
       "nombre": "SILVIN RF-434 (AX100) VINI",
       "marca": "VINI",
@@ -42287,8 +42644,8 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -42518,7 +42875,7 @@
         "taller": 1,
         "distribuidor": 0.75
       },
-      "stock": 17,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43494,6 +43851,27 @@
       "activo": true
     },
     {
+      "sku": "1006054",
+      "nombre": "SWITCH LUCES NXR125-YARA200",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8,
+        "taller": 6,
+        "distribuidor": 5
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006054.jpg",
+      "imagen_size": 191080,
+      "activo": true
+    },
+    {
       "sku": "35201K",
       "nombre": "SWITCH LUCES XR150",
       "marca": "MEK",
@@ -43767,27 +44145,6 @@
       "activo": true
     },
     {
-      "sku": "741540100122",
-      "nombre": "TAPON DRENAJE VALVU-ACEITE GY200",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3.25,
-        "taller": 2.5,
-        "distribuidor": 2
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100122.jpg",
-      "imagen_size": 4370,
-      "activo": true
-    },
-    {
       "sku": "741540189605",
       "nombre": "TAPON TANQUE APACHE",
       "marca": "VINI",
@@ -43862,7 +44219,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44009,7 +44366,7 @@
         "taller": 6.75,
         "distribuidor": 5.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -108872,28 +109229,6 @@
       "activo": true
     },
     {
-      "sku": "2000034",
-      "nombre": "Caracol digital Serpento Yara200",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1004814",
       "nombre": "Kit switches Gy6 Automatica MD150T/CS125/GS150",
       "marca": "MEK",
@@ -109052,28 +109387,6 @@
       "nombre": "Stop Trasero LED Pulsar180",
       "marca": "MEK",
       "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1002652",
-      "nombre": "SPROCKET BOXER150 2022 HOYOS 428H-42T",
-      "marca": "MEK",
-      "categoria": "TRANSMISION",
       "presentacion": "UND",
       "empaque": "",
       "precios": {
@@ -110368,28 +110681,6 @@
       "activo": true
     },
     {
-      "sku": "1000176",
-      "nombre": "ARNES ELECTRICO PRINCIPAL FT150",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1001586",
       "nombre": "Aro 1.85x17 Cromado",
       "marca": "MEK",
@@ -111135,50 +111426,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1002635.png",
       "imagen_size": 38020,
-      "activo": true
-    },
-    {
-      "sku": "1002640",
-      "nombre": "42T 428H Traccion CATARINA 42T CG125 /INVICTA2",
-      "marca": "MEK",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1002640.png",
-      "imagen_size": 41824,
-      "activo": true
-    },
-    {
-      "sku": "1004221",
-      "nombre": "50T 428H Traccion CATARINA 428H-50T CG125 HOYOS",
-      "marca": "MEK",
-      "categoria": "TRANSMISION",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1004221.png",
-      "imagen_size": 12729,
       "activo": true
     },
     {
@@ -119234,28 +119481,6 @@
       "activo": true
     },
     {
-      "sku": "1005162",
-      "nombre": "SILVIN REDONDO LED YBR125 COBRA125 VIEJA Actualización: 11-02-26 PRECIO STOCKCODIGOIMAGENANOTACIONESDESCRIPCIONGRUPO",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1005162.png",
-      "imagen_size": 37808,
-      "activo": true
-    },
-    {
       "sku": "1006020",
       "nombre": "STOP TRASERO DEFENDER150",
       "marca": "MEK",
@@ -122842,28 +123067,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-1105-22",
-      "nombre": "LLANTA AXUS 275-17 LISA AX1156 47P TL REFORZADA",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-1105-22.png",
-      "imagen_size": 90785,
-      "activo": true
-    },
-    {
       "sku": "LA1A-1001-21",
       "nombre": "LLANTA AXUS 275-17 TRACTORA AX2270 47P TT REFORZADA",
       "marca": "AXUS",
@@ -122905,28 +123108,6 @@
       "fuente": "AXUS",
       "imagen": "imagenes/LA1B-1139-21.png",
       "imagen_size": 64210,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-2806-22",
-      "nombre": "LLANTA AXUS 275-18 DOBLE PROPOSITO AX923 48R TL REFORZADA 397Lbs 170Km/h",
-      "marca": "AXUS",
-      "categoria": "LLANTAS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "AXUS",
-      "imagen": "imagenes/LA1A-2806-22.png",
-      "imagen_size": 112299,
       "activo": true
     },
     {
