@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T18:21:35.508Z",
-  "count": 5706,
+  "generated_at": "2026-10-01T00:28:04.912Z",
+  "count": 5705,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 119,
+      "stock": 76,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3626,8 +3626,8 @@
         "taller": 14.5,
         "distribuidor": 12.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4025,7 +4025,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 48,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4042,11 +4042,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3,
+        "publico": 5,
         "taller": 2.75,
-        "distribuidor": 2.75
+        "distribuidor": 2.4
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4109,8 +4109,8 @@
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7091,7 +7091,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 21,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,7 +7658,7 @@
         "taller": 8.75,
         "distribuidor": 7.75
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9506,7 +9506,7 @@
         "taller": 21,
         "distribuidor": 24.25
       },
-      "stock": 14,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10073,7 +10073,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11291,7 +11291,7 @@
         "taller": 10.5,
         "distribuidor": 8.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16446,27 +16446,6 @@
       "activo": true
     },
     {
-      "sku": "741540190254",
-      "nombre": "DISCO FRENO GSX150/GIXXER (2016-2019)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 45.5,
-        "taller": 37.25,
-        "distribuidor": 31.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190254.png",
-      "imagen_size": 117933,
-      "activo": true
-    },
-    {
       "sku": "741540189207",
       "nombre": "DISCO FRENO HUNK DELANTERO VINI(FL)",
       "marca": "VINI",
@@ -18767,7 +18746,7 @@
         "taller": 15.25,
         "distribuidor": 13
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19418,7 +19397,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19460,7 +19439,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20216,7 +20195,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21728,7 +21707,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21770,7 +21749,7 @@
         "taller": 10.25,
         "distribuidor": 8.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22505,7 +22484,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23513,7 +23492,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 39,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23597,7 +23576,7 @@
         "taller": 7.5,
         "distribuidor": 6.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26012,7 +25991,7 @@
         "taller": 14.5,
         "distribuidor": 12
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27356,7 +27335,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28007,8 +27986,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -30040,11 +30019,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 43,
-        "taller": 39.5,
-        "distribuidor": 36.75
+        "publico": 45,
+        "taller": 35,
+        "distribuidor": 33
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32438,7 +32417,7 @@
         "taller": 3.5,
         "distribuidor": 3.5
       },
-      "stock": 50,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32921,7 +32900,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32984,7 +32963,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 21,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33257,7 +33236,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33614,7 +33593,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35651,8 +35630,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35777,8 +35756,8 @@
         "taller": 4.25,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35861,7 +35840,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40544,7 +40523,7 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43106,7 +43085,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
