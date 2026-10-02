@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T18:47:25.413Z",
-  "count": 5714,
+  "generated_at": "2026-10-02T00:38:31.072Z",
+  "count": 5709,
   "productos": [
     {
       "sku": "LM120106",
@@ -56,7 +56,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 63,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1001,7 +1001,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1400,7 +1400,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1673,7 +1673,7 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2450,7 +2450,7 @@
         "taller": 26.5,
         "distribuidor": 25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3752,7 +3752,7 @@
         "taller": 11.25,
         "distribuidor": 9.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4025,7 +4025,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 44,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5663,7 +5663,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7112,7 +7112,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7721,7 +7721,7 @@
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 78,
+      "stock": 75,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8886,27 +8886,6 @@
       "activo": true
     },
     {
-      "sku": "741540188424",
-      "nombre": "CALIPER FRENO TRAS DAKAR-YARA VINI(RC)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29.75,
-        "taller": 24.25,
-        "distribuidor": 20.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188424.png",
-      "imagen_size": 115540,
-      "activo": true
-    },
-    {
       "sku": "1006116",
       "nombre": "CALIPER NAGA200 MEK",
       "marca": "MEK",
@@ -9464,7 +9443,7 @@
         "taller": 25.5,
         "distribuidor": 21.75
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12530,7 +12509,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16278,27 +16257,6 @@
       "activo": true
     },
     {
-      "sku": "1000364",
-      "nombre": "DISCO FRENO DELANTERO NAGA2002016 COBRA 125 CR2",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15.75,
-        "taller": 13,
-        "distribuidor": 11
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000364.jpg",
-      "imagen_size": 176415,
-      "activo": true
-    },
-    {
       "sku": "BD034",
       "nombre": "DISCO FRENO DELANTERO PULSAR 160NS",
       "marca": "NRP",
@@ -18011,7 +17969,7 @@
         "taller": 8.25,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18389,7 +18347,7 @@
         "taller": 42.5,
         "distribuidor": 36
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19775,7 +19733,7 @@
         "taller": 9.25,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20268,27 +20226,6 @@
       "activo": true
     },
     {
-      "sku": "1006293",
-      "nombre": "FILTRO AIRE UNIVERSAL TRIPLE MEDIDA CONICO 35-42-48 MM",
-      "marca": "MEK",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 3.25,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540188556",
       "nombre": "FILTRO AIRE V-MEN VINI",
       "marca": "VINI",
@@ -20573,7 +20510,7 @@
         "taller": 2.75,
         "distribuidor": 2
       },
-      "stock": 29,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20643,6 +20580,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004929.png",
       "imagen_size": 9968,
+      "activo": true
+    },
+    {
+      "sku": "UFF001",
+      "nombre": "FILTRO GASOLINA UNIVERSAL",
+      "marca": "NRP",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 0.75,
+        "taller": 0.75,
+        "distribuidor": 0.5
+      },
+      "stock": 13,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -23639,7 +23597,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 39,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25298,7 +25256,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26264,8 +26222,8 @@
         "taller": 7.75,
         "distribuidor": 6.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28154,7 +28112,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29823,27 +29781,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-2813-22",
-      "nombre": "LLANTA AXUS 120-90-18 DOBLE PROPOSITO",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 45.75,
-        "taller": 41.75,
-        "distribuidor": 39.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-2813-22.png",
-      "imagen_size": 110786,
-      "activo": true
-    },
-    {
       "sku": "LA1C-3301-22",
       "nombre": "LLANTA AXUS 130-70-12 LISA AX4484 62J TL",
       "marca": "AXUS",
@@ -30422,7 +30359,7 @@
         "taller": 35.25,
         "distribuidor": 33
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30821,7 +30758,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 51,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31185,27 +31122,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004819.png",
       "imagen_size": 33367,
-      "activo": true
-    },
-    {
-      "sku": "1004818",
-      "nombre": "MANGUERA FRENOS CORTA TRASERA  UNIVERSAL (55CM LARGO)",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 5.5,
-        "distribuidor": 5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004818.png",
-      "imagen_size": 35155,
       "activo": true
     },
     {
@@ -32564,7 +32480,7 @@
         "taller": 3.5,
         "distribuidor": 3.5
       },
-      "stock": 46,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32585,7 +32501,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32606,7 +32522,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32627,7 +32543,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33110,7 +33026,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 17,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33582,27 +33498,6 @@
       "activo": true
     },
     {
-      "sku": "741540189576",
-      "nombre": "PASTILLA FRENO SERPENTO TORNADO 250 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3.75,
-        "taller": 3,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189576.png",
-      "imagen_size": 106266,
-      "activo": true
-    },
-    {
       "sku": "741540188259",
       "nombre": "PASTILLA FRENO SPITZER/VOPER150/RT200",
       "marca": "VINI",
@@ -33614,7 +33509,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34916,7 +34811,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35819,7 +35714,7 @@
         "taller": 4,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38192,7 +38087,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 20,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40649,7 +40544,7 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40985,7 +40880,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 47,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45164,7 +45059,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
