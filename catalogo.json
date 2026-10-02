@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T00:38:31.072Z",
-  "count": 5709,
+  "generated_at": "2026-10-02T18:19:37.453Z",
+  "count": 5708,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,8 +35,8 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 54,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -56,7 +56,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 49,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1438,7 +1438,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12,
+        "publico": 18,
         "taller": 10,
         "distribuidor": 8.5
       },
@@ -4067,7 +4067,7 @@
         "taller": 3,
         "distribuidor": 2.75
       },
-      "stock": 34,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4592,7 +4592,7 @@
         "taller": 3.75,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5306,7 +5306,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5600,7 +5600,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7763,7 +7763,7 @@
         "taller": 6.75,
         "distribuidor": 6.25
       },
-      "stock": 76,
+      "stock": 74,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18326,7 +18326,7 @@
         "taller": 15.75,
         "distribuidor": 13.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20531,7 +20531,7 @@
         "taller": 1.75,
         "distribuidor": 1.5
       },
-      "stock": 7,
+      "stock": 107,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21014,7 +21014,7 @@
         "taller": 4.5,
         "distribuidor": 4.25
       },
-      "stock": 65,
+      "stock": 61,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21035,7 +21035,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 31,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24458,7 +24458,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24500,8 +24500,8 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -25256,7 +25256,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29687,7 +29687,7 @@
         "taller": 36.75,
         "distribuidor": 34.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30023,7 +30023,7 @@
         "taller": 33,
         "distribuidor": 31
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30359,7 +30359,7 @@
         "taller": 35.25,
         "distribuidor": 33
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31860,27 +31860,6 @@
       "activo": true
     },
     {
-      "sku": "1001572",
-      "nombre": "MOTOR ARRANQUE 9 DIENTES CG125-CG150 CORAL 150 FIRE125-150 NAGA200",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 35,
-        "taller": 24,
-        "distribuidor": 20.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001572.png",
-      "imagen_size": 19759,
-      "activo": true
-    },
-    {
       "sku": "741540100641",
       "nombre": "MOTOR ARRANQUE APACHE 160-180 RTR VINI (FL)",
       "marca": "VINI",
@@ -32984,7 +32963,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 12,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33005,7 +32984,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 59,
+      "stock": 56,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33152,7 +33131,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40523,8 +40502,8 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
