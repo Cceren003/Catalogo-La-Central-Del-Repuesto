@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T18:19:37.453Z",
-  "count": 5708,
+  "generated_at": "2026-10-03T00:21:08.916Z",
+  "count": 5706,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 54,
+      "stock": 52,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 31,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3626,7 +3626,7 @@
         "taller": 14.5,
         "distribuidor": 12.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3899,7 +3899,7 @@
         "taller": 0.25,
         "distribuidor": 0.25
       },
-      "stock": 160,
+      "stock": 140,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4403,7 +4403,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7889,7 +7889,7 @@
         "taller": 13,
         "distribuidor": 12.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8981,7 +8981,7 @@
         "taller": 1.75,
         "distribuidor": 1.5
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13422,6 +13422,27 @@
       "activo": true
     },
     {
+      "sku": "741540189906",
+      "nombre": "CENTRO CLUTCH COMPLETO CRUX110REV VINI (FL)",
+      "marca": "VINI",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 26.5,
+        "taller": 21.75,
+        "distribuidor": 18.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189906.png",
+      "imagen_size": 159820,
+      "activo": true
+    },
+    {
       "sku": "741540188283",
       "nombre": "CENTRO CLUTCH COMPLETO GN125H - BENELLI",
       "marca": "VINI",
@@ -17696,7 +17717,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17843,7 +17864,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19134,6 +19155,27 @@
       "activo": true
     },
     {
+      "sku": "FC060132",
+      "nombre": "FILTRO ACEITE PULSAR 135 MOTO CHINA CON RESORTE",
+      "marca": "VARROC",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 2,
+        "taller": 1.75,
+        "distribuidor": 1.5
+      },
+      "stock": 107,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540100385",
       "nombre": "FILTRO ACEITE PULSAR 200NS",
       "marca": "VINI",
@@ -19691,7 +19733,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20517,27 +20559,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003111.png",
       "imagen_size": 21580,
-      "activo": true
-    },
-    {
-      "sku": "FC060132",
-      "nombre": "FILTRO DE ACEITE PULSAR 135 CON RESORTE",
-      "marca": "VARROC",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 2,
-        "taller": 1.75,
-        "distribuidor": 1.5
-      },
-      "stock": 107,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -21959,7 +21980,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23996,7 +24017,7 @@
         "taller": 18,
         "distribuidor": 15.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25351,7 +25372,7 @@
     },
     {
       "sku": "741540100738",
-      "nombre": "KIT CUNA PULSAR/PLATINA 135 VINI 36/38(FL)",
+      "nombre": "KIT CUNA PULSAR/PLATINA 135 BOXER BM 150 VINI 36/38(FL)",
       "marca": "VINI",
       "categoria": "REPUESTOS",
       "presentacion": "UNIDAD",
@@ -25904,10 +25925,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 9.5,
-        "taller": 7.75,
+        "taller": 8,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27503,7 +27524,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29991,27 +30012,6 @@
       "activo": true
     },
     {
-      "sku": "LA1C-3501-22",
-      "nombre": "LLANTA AXUS 90-90-12 SCOOTER NAVI AX2281 6PR/TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26.25,
-        "taller": 24,
-        "distribuidor": 22.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "LA1A-3705-22",
       "nombre": "LLANTA AXUS 90-90-17 DOBLE PROPOSITO AX9184",
       "marca": "AXUS",
@@ -30233,7 +30233,7 @@
         "taller": 37.25,
         "distribuidor": 34.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30254,7 +30254,7 @@
         "taller": 62.5,
         "distribuidor": 58.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30359,7 +30359,7 @@
         "taller": 35.25,
         "distribuidor": 33
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30380,7 +30380,7 @@
         "taller": 40,
         "distribuidor": 37.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33593,7 +33593,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34776,27 +34776,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100062.png",
       "imagen_size": 134347,
-      "activo": true
-    },
-    {
-      "sku": "741540100063",
-      "nombre": "PIDE VIA RF-113 SET (GN125) VINI (FL)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.5,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100063.png",
-      "imagen_size": 125031,
       "activo": true
     },
     {
@@ -37803,27 +37782,6 @@
       "activo": true
     },
     {
-      "sku": "1005258",
-      "nombre": "PRENSA CLUTCH COMPLETA YBR125",
-      "marca": "MEK",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 54.75,
-        "taller": 44.75,
-        "distribuidor": 38
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005258.png",
-      "imagen_size": 31516,
-      "activo": true
-    },
-    {
       "sku": "1000175",
       "nombre": "PRENSA CLUTCH CON 5 DISCOS / 5 TORNILLOS CG125-CG150",
       "marca": "MEK",
@@ -39305,7 +39263,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 34,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42665,7 +42623,7 @@
         "taller": 6.5,
         "distribuidor": 5.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
