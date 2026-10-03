@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T00:21:08.916Z",
-  "count": 5706,
+  "generated_at": "2026-10-03T17:09:32.818Z",
+  "count": 5705,
   "productos": [
     {
       "sku": "LM120106",
@@ -35,7 +35,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 52,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 25,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19166,7 +19166,7 @@
         "taller": 1.75,
         "distribuidor": 1.5
       },
-      "stock": 107,
+      "stock": 106,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19866,27 +19866,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189188.png",
       "imagen_size": 114452,
-      "activo": true
-    },
-    {
-      "sku": "AF078",
-      "nombre": "FILTRO AIRE HUNK 160R-190R/HUNK 200",
-      "marca": "NRP",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10.5,
-        "taller": 8.5,
-        "distribuidor": 7.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/AF078.jpg",
-      "imagen_size": 8732,
       "activo": true
     },
     {
@@ -29582,7 +29561,7 @@
         "taller": 23.25,
         "distribuidor": 21.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33740,7 +33719,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 27,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40817,7 +40796,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 45,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40838,7 +40817,7 @@
         "taller": 0.75,
         "distribuidor": 0.75
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41006,7 +40985,7 @@
         "taller": 1.25,
         "distribuidor": 1
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
