@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-10-03T17:09:32.818Z",
-  "count": 5705,
+  "generated_at": "2026-10-03T23:43:26.173Z",
+  "count": 5703,
   "productos": [
+    {
+      "sku": "104105",
+      "nombre": "20W50 7100 FULL SINTENTICO",
+      "marca": "MOTUL",
+      "categoria": "ACEITES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 20,
+        "taller": 0,
+        "distribuidor": 0
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
     {
       "sku": "LM120106",
       "nombre": "ACEITE 20W50 SEMISENTETICO 5100 MOTUL",
@@ -35,7 +56,28 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 48,
+      "stock": 45,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LM120108",
+      "nombre": "ACEITE MOTUL 10W40 7100 FULL SINTETICO",
+      "marca": "MOTUL",
+      "categoria": "ACEITES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 20,
+        "taller": 18,
+        "distribuidor": 17.08
+      },
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 22,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -287,7 +329,7 @@
         "taller": 36,
         "distribuidor": 30.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1148,7 +1190,7 @@
         "taller": 2.25,
         "distribuidor": 2
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2261,7 +2303,7 @@
         "taller": 23.25,
         "distribuidor": 21.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,7 +2429,7 @@
         "taller": 18,
         "distribuidor": 16.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4571,7 +4613,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6650,7 +6692,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6839,7 +6881,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7721,7 +7763,7 @@
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 75,
+      "stock": 73,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9002,7 +9044,7 @@
         "taller": 1.25,
         "distribuidor": 1
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9506,7 +9548,7 @@
         "taller": 21,
         "distribuidor": 24.25
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15848,7 +15890,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19162,11 +19204,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 2,
+        "publico": 4,
         "taller": 1.75,
         "distribuidor": 1.5
       },
-      "stock": 106,
+      "stock": 103,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19922,7 +19964,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22484,7 +22526,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23985,27 +24027,6 @@
       "activo": true
     },
     {
-      "sku": "741540189824",
-      "nombre": "KIT BALANCIN HORNET160-UNICOR-CB190R VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22,
-        "taller": 18,
-        "distribuidor": 15.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189824.png",
-      "imagen_size": 93443,
-      "activo": true
-    },
-    {
       "sku": "741540188216",
       "nombre": "KIT BALANCIN HUNK/XR150L / BENELLI 150 / DY200",
       "marca": "VINI",
@@ -24384,27 +24405,6 @@
       "activo": true
     },
     {
-      "sku": "1006292",
-      "nombre": "KIT BARRAS FREEDOM CR1-CR2-AKT EVO150",
-      "marca": "MEK",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 99.25,
-        "taller": 81.25,
-        "distribuidor": 69
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1005956",
       "nombre": "KIT BARRAS XM200Z/AKT200TT/",
       "marca": "MOTUL",
@@ -24479,7 +24479,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29844,27 +29844,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-3504-22",
-      "nombre": "LLANTA AXUS 150-60-17 LISA AX30 66P TL REINF DUKE  661LBS 150KM/H DEPORTIVAS",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 0,
-        "distribuidor": 0
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "LA1A-1105-22",
       "nombre": "LLANTA AXUS 275-17 LISA AX1156 6PR TL TUBULAR",
       "marca": "AXUS",
@@ -32112,27 +32091,6 @@
       "activo": true
     },
     {
-      "sku": "SM018",
-      "nombre": "MOTOR ARRANQUE GSX 150 GIXXER VOLT",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 43,
-        "taller": 32,
-        "distribuidor": 28.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540100242",
       "nombre": "MOTOR ARRANQUE GY200/CG200/AK200SM-11 DIENTES",
       "marca": "VINI",
@@ -33026,7 +32984,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 38,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33572,7 +33530,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33740,7 +33698,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35882,7 +35840,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43967,7 +43925,7 @@
         "taller": 31,
         "distribuidor": 26.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45097,11 +45055,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0,
-        "taller": 4.75,
-        "distribuidor": 0
+        "publico": 10,
+        "taller": 6,
+        "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
