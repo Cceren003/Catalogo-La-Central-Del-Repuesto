@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T23:54:57.610Z",
-  "count": 5703,
+  "generated_at": "2026-10-05T21:13:31.029Z",
+  "count": 5698,
   "productos": [
     {
       "sku": "104105",
@@ -14,7 +14,7 @@
         "taller": 0,
         "distribuidor": 0
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 45,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 15,
+      "stock": 60,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,8 +2303,8 @@
         "taller": 23.25,
         "distribuidor": 21.75
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2345,7 +2345,7 @@
         "taller": 22.25,
         "distribuidor": 21
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2366,7 @@
         "taller": 26.25,
         "distribuidor": 24.5
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2429,8 +2429,8 @@
         "taller": 18,
         "distribuidor": 16.25
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2471,7 +2471,7 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2492,7 +2492,7 @@
         "taller": 26.5,
         "distribuidor": 25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3783,27 +3783,6 @@
       "activo": true
     },
     {
-      "sku": "741540177002",
-      "nombre": "BOMBA FRENO TRASERA CON DEPOSITO. VINI (FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.75,
-        "taller": 11.25,
-        "distribuidor": 9.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540177002.png",
-      "imagen_size": 45767,
-      "activo": true
-    },
-    {
       "sku": "741540190689",
       "nombre": "BOMBA FRENO TRASERO XPULSE200",
       "marca": "VINI",
@@ -4109,7 +4088,7 @@
         "taller": 3,
         "distribuidor": 2.75
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4760,8 +4739,8 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5894,7 +5873,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7448,7 +7427,7 @@
         "taller": 8.25,
         "distribuidor": 7.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7721,7 +7700,7 @@
         "taller": 8.75,
         "distribuidor": 7.75
       },
-      "stock": 12,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7763,7 +7742,7 @@
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 73,
+      "stock": 68,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7784,7 +7763,7 @@
         "taller": 9.5,
         "distribuidor": 9
       },
-      "stock": 56,
+      "stock": 53,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7931,7 +7910,7 @@
         "taller": 13,
         "distribuidor": 12.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8169,27 +8148,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100056.png",
       "imagen_size": 99871,
-      "activo": true
-    },
-    {
-      "sku": "741540189424",
-      "nombre": "CAJA TRANSMISION SPITZER 200-CR2",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 76.75,
-        "taller": 63,
-        "distribuidor": 53.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189424.png",
-      "imagen_size": 104298,
       "activo": true
     },
     {
@@ -10566,27 +10524,6 @@
       "activo": true
     },
     {
-      "sku": "RS058",
-      "nombre": "CATARINA 41T MOTO CHINA CON CENTRO DE GN125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 10.75,
-        "distribuidor": 9
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS058.jpg",
-      "imagen_size": 10332,
-      "activo": true
-    },
-    {
       "sku": "RS112",
       "nombre": "CATARINA 41T XTZ 150",
       "marca": "NRP",
@@ -11970,27 +11907,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1002636.png",
       "imagen_size": 32904,
-      "activo": true
-    },
-    {
-      "sku": "741540100419",
-      "nombre": "CATARINA CGL125 43T VINI (FL)",
-      "marca": "VINI",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 10.5,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100419.png",
-      "imagen_size": 108720,
       "activo": true
     },
     {
@@ -18242,7 +18158,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19208,7 +19124,7 @@
         "taller": 1.75,
         "distribuidor": 1.5
       },
-      "stock": 103,
+      "stock": 101,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19565,7 +19481,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20636,7 +20552,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21560,7 +21476,7 @@
         "taller": 11,
         "distribuidor": 9.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22586,7 +22502,7 @@
       "empaque": "1*1",
       "precios": {
         "publico": 4,
-        "taller": 3.25,
+        "taller": 8,
         "distribuidor": 2.75
       },
       "stock": 1,
@@ -27398,7 +27314,7 @@
         "taller": 1.25,
         "distribuidor": 1
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29603,7 +29519,7 @@
         "taller": 35.75,
         "distribuidor": 33.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30716,7 +30632,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 49,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32438,7 +32354,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33005,7 +32921,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34370,7 +34286,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36638,7 +36554,7 @@
         "taller": 16,
         "distribuidor": 13.5
       },
-      "stock": 20,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40691,7 +40607,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44383,11 +44299,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5,
-        "taller": 4,
-        "distribuidor": 3.5
+        "publico": 14,
+        "taller": 7,
+        "distribuidor": 5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44919,27 +44835,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1002121.png",
       "imagen_size": 18407,
-      "activo": true
-    },
-    {
-      "sku": "741540188656",
-      "nombre": "VALVULA GAS AG-50",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.5,
-        "taller": 6.25,
-        "distribuidor": 5.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188656.png",
-      "imagen_size": 77473,
       "activo": true
     },
     {
