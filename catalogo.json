@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T00:33:08.432Z",
-  "count": 5727,
+  "generated_at": "2026-10-07T19:17:31.985Z",
+  "count": 5721,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 27,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 52,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2177,7 +2177,7 @@
         "taller": 20.25,
         "distribuidor": 17.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2541,27 +2541,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100116.png",
       "imagen_size": 42734,
-      "activo": true
-    },
-    {
-      "sku": "741540189326",
-      "nombre": "BENDIX ARRANQUE NAVI-NOVA 110",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22.25,
-        "taller": 18.25,
-        "distribuidor": 15.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -4109,8 +4088,8 @@
         "taller": 3,
         "distribuidor": 2.75
       },
-      "stock": 23,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4151,7 +4130,7 @@
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4340,7 +4319,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4571,7 +4550,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5915,7 +5894,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 15,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6587,7 +6566,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 98,
+      "stock": 88,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6776,7 +6755,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7742,7 +7721,7 @@
         "taller": 26.25,
         "distribuidor": 24.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7763,7 +7742,7 @@
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 67,
+      "stock": 57,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8519,7 +8498,7 @@
         "taller": 27.25,
         "distribuidor": 23.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10671,27 +10650,6 @@
       "activo": true
     },
     {
-      "sku": "1002143",
-      "nombre": "CATARINA 428H-45T YBR125 COBRA 125 FT 125 4 HOYOS",
-      "marca": "MEK",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002143.png",
-      "imagen_size": 47482,
-      "activo": true
-    },
-    {
       "sku": "1003097",
       "nombre": "CATARINA 428H-46T DEFENDER 150 6 HOYOS",
       "marca": "MEK",
@@ -10913,7 +10871,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11627,7 +11585,7 @@
         "taller": 9.5,
         "distribuidor": 8
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13559,7 +13517,7 @@
         "taller": 24.5,
         "distribuidor": 21
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17948,34 +17906,13 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190656.png",
       "imagen_size": 39743,
-      "activo": true
-    },
-    {
-      "sku": "741540190658",
-      "nombre": "EJE TRASERO PULSAR135 / DISCOVER100 / XCD125 YARA DELANTERO",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4.5,
-        "taller": 3.5,
-        "distribuidor": 3.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190658.png",
-      "imagen_size": 34306,
       "activo": true
     },
     {
@@ -18011,7 +17948,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18095,7 +18032,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19733,7 +19670,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21770,7 +21707,7 @@
         "taller": 11,
         "distribuidor": 9.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23985,27 +23922,6 @@
       "activo": true
     },
     {
-      "sku": "WD003",
-      "nombre": "HULE MASA TRASERA HUNK 150-190R-200-CB160F HORNET-DAYUN-250R",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.5,
-        "taller": 6,
-        "distribuidor": 5.25
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/WD003.jpg",
-      "imagen_size": 6388,
-      "activo": true
-    },
-    {
       "sku": "WD014",
       "nombre": "HULE MASA TRASERA HUNK 160R",
       "marca": "NRP",
@@ -24773,7 +24689,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25539,27 +25455,6 @@
       "activo": true
     },
     {
-      "sku": "741540100250",
-      "nombre": "KIT CUNA GN125 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 5.75,
-        "distribuidor": 4.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100250.png",
-      "imagen_size": 78918,
-      "activo": true
-    },
-    {
       "sku": "741540100596",
       "nombre": "KIT CUNA GXT200/BROS 200",
       "marca": "VINI",
@@ -25718,7 +25613,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30894,27 +30789,6 @@
       "activo": true
     },
     {
-      "sku": "1000537",
-      "nombre": "LLAVIN IGNICION PULSAR180 YARA200 TODOTERRENO FT180",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.5,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000537.jpg",
-      "imagen_size": 78559,
-      "activo": true
-    },
-    {
       "sku": "1002869",
       "nombre": "LLAVIN IGNICION YBR125",
       "marca": "MEK",
@@ -32753,7 +32627,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32774,7 +32648,7 @@
         "taller": 3.5,
         "distribuidor": 3.5
       },
-      "stock": 42,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32795,7 +32669,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33257,7 +33131,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33278,7 +33152,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33572,7 +33446,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33887,7 +33761,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36617,7 +36491,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
