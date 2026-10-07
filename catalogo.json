@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T18:52:24.876Z",
-  "count": 5723,
+  "generated_at": "2026-10-07T00:33:08.432Z",
+  "count": 5727,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 29,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2114,7 +2114,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2467,11 +2467,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 21.5,
+        "publico": 28,
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2681,7 +2681,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 40,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6125,7 +6125,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7763,7 +7763,7 @@
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 68,
+      "stock": 67,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8582,7 +8582,7 @@
         "taller": 18,
         "distribuidor": 15.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13002,6 +13002,27 @@
       "activo": true
     },
     {
+      "sku": "1006457",
+      "nombre": "CDI MEK PRO ELECTRONICO DC REDONDO",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 10,
+        "distribuidor": 8.5
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1006457.png",
+      "imagen_size": 34732,
+      "activo": true
+    },
+    {
       "sku": "741540189115",
       "nombre": "CDI NAGA 200 VINI",
       "marca": "VINI",
@@ -13744,7 +13765,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 85,
+        "publico": 95,
         "taller": 69.75,
         "distribuidor": 59.25
       },
@@ -15361,12 +15382,12 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11,
-        "taller": 8,
-        "distribuidor": 6.75
+        "publico": 15,
+        "taller": 10,
+        "distribuidor": 7
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -16380,6 +16401,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190000.png",
       "imagen_size": 112052,
+      "activo": true
+    },
+    {
+      "sku": "1001158",
+      "nombre": "DISCO FRENO DELANTERO GN 125",
+      "marca": "MEK",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 26.5,
+        "taller": 16.5,
+        "distribuidor": 14
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001158.jpg",
+      "imagen_size": 158449,
       "activo": true
     },
     {
@@ -20394,6 +20436,27 @@
       "activo": true
     },
     {
+      "sku": "1006293",
+      "nombre": "FILTRO AIRE UNIVERSAL TRIPLE MEDIDA CONICO 35-42-48 MM",
+      "marca": "MEK",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4,
+        "taller": 3.25,
+        "distribuidor": 2.75
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540188556",
       "nombre": "FILTRO AIRE V-MEN VINI",
       "marca": "VINI",
@@ -23828,7 +23891,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 37,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24591,6 +24654,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000785.jpg",
       "imagen_size": 180356,
+      "activo": true
+    },
+    {
+      "sku": "1000791",
+      "nombre": "KIT BARRA YAMAHA F16",
+      "marca": "MEK",
+      "categoria": "SUSPENCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 135,
+        "taller": 105,
+        "distribuidor": 95
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1000791.jpg",
+      "imagen_size": 402425,
       "activo": true
     },
     {
@@ -26113,7 +26197,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10,
+        "publico": 18,
         "taller": 8.25,
         "distribuidor": 7
       },
@@ -29855,7 +29939,7 @@
         "taller": 39,
         "distribuidor": 36.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32091,6 +32175,27 @@
       "activo": true
     },
     {
+      "sku": "1001572",
+      "nombre": "MOTOR ARRANQUE 9 DIENTES CG125-CG150 CORAL 150 FIRE125-150 NAGA200",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 35,
+        "taller": 24,
+        "distribuidor": 20.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1001572.png",
+      "imagen_size": 19759,
+      "activo": true
+    },
+    {
       "sku": "741540100641",
       "nombre": "MOTOR ARRANQUE APACHE 160-180 RTR VINI (FL)",
       "marca": "VINI",
@@ -33552,27 +33657,6 @@
         "distribuidor": 3
       },
       "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "BP042",
-      "nombre": "PASTILLA FRENO MOTO CHINA 250 / TORNADO 250",
-      "marca": "NRP",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4.25,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38076,6 +38160,27 @@
       "activo": true
     },
     {
+      "sku": "1005258",
+      "nombre": "PRENSA CLUTCH COMPLETA YBR125",
+      "marca": "MEK",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 54.75,
+        "taller": 44.75,
+        "distribuidor": 38
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/1005258.png",
+      "imagen_size": 31516,
+      "activo": true
+    },
+    {
       "sku": "1000175",
       "nombre": "PRENSA CLUTCH CON 5 DISCOS / 5 TORNILLOS CG125-CG150",
       "marca": "MEK",
@@ -39578,7 +39683,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 31,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42077,7 +42182,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42651,6 +42756,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1005519.jpg",
       "imagen_size": 123418,
+      "activo": true
+    },
+    {
+      "sku": "2000007",
+      "nombre": "STOP TRASERO GN125 MEK",
+      "marca": "MEK",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 16.75,
+        "taller": 13.75,
+        "distribuidor": 11.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/2000007.png",
+      "imagen_size": 41034,
       "activo": true
     },
     {
@@ -45143,7 +45269,7 @@
         "taller": 11.75,
         "distribuidor": 10
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -111918,28 +112044,6 @@
       "activo": true
     },
     {
-      "sku": "1006457",
-      "nombre": "ELECTRONICO Electrico CDI MEK PRO CORRIENTE DIRECTA CONECTOR REDONDO/XPLORER200/250/CRZ25 0/CRZ250R/CRT250",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1006457.png",
-      "imagen_size": 34732,
-      "activo": true
-    },
-    {
       "sku": "1005203",
       "nombre": "ELECTRONICO Electrico CDI ELECTRONICO REDONDO CG125 Actualización: 11-02-26 PRECIO STOCKCODIGOIMAGENANOTACIONESDESCRIPCIONGRUPO",
       "marca": "MEK",
@@ -113807,28 +113911,6 @@
       "fuente": "MEK",
       "imagen": "imagenes/1004126.png",
       "imagen_size": 477195,
-      "activo": true
-    },
-    {
-      "sku": "1000791",
-      "nombre": "KIT BARRAS YAMAHA FZ16",
-      "marca": "MEK",
-      "categoria": "CARROCERIA",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "MEK",
-      "imagen": "imagenes/1000791.jpg",
-      "imagen_size": 402425,
       "activo": true
     },
     {
