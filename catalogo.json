@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T00:54:00.972Z",
-  "count": 5719,
+  "generated_at": "2026-10-08T19:13:58.100Z",
+  "count": 5718,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 60,
+      "stock": 54,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 78,
+      "stock": 72,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2429,7 +2429,7 @@
         "taller": 18,
         "distribuidor": 16.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3815,7 +3815,7 @@
         "taller": 2.5,
         "distribuidor": 2.25
       },
-      "stock": 64,
+      "stock": 63,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4069,27 +4069,6 @@
       },
       "stock": 22,
       "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "BA020410",
-      "nombre": "BUJIA NGK D8EA",
-      "marca": "NGK",
-      "categoria": "BUJIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3.25,
-        "taller": 3,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5621,7 +5600,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6562,7 +6541,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0.75,
+        "publico": 2,
         "taller": 0.75,
         "distribuidor": 0.5
       },
@@ -7742,7 +7721,7 @@
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 55,
+      "stock": 54,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19124,7 +19103,7 @@
         "taller": 11.5,
         "distribuidor": 9.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20027,7 +20006,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21140,7 +21119,7 @@
         "taller": 4.5,
         "distribuidor": 4.25
       },
-      "stock": 61,
+      "stock": 59,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32837,7 +32816,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37831,9 +37810,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.5,
-        "taller": 6.75,
-        "distribuidor": 6.25
+        "publico": 16,
+        "taller": 9,
+        "distribuidor": 7.5
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -42833,7 +42812,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43799,7 +43778,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
