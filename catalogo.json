@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T19:17:31.985Z",
-  "count": 5721,
+  "generated_at": "2026-10-08T00:54:00.972Z",
+  "count": 5719,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10.5,
         "distribuidor": 9.92
       },
-      "stock": 13,
+      "stock": 60,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 42,
+      "stock": 78,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1043,7 +1043,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1736,7 +1736,7 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3668,7 +3668,7 @@
         "taller": 14.5,
         "distribuidor": 12.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4088,7 +4088,7 @@
         "taller": 3,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4466,7 +4466,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5243,7 +5243,7 @@
         "taller": 3,
         "distribuidor": 2.25
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5789,7 +5789,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6566,7 +6566,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 88,
+      "stock": 85,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7742,7 +7742,7 @@
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 57,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9033,27 +9033,6 @@
       "activo": true
     },
     {
-      "sku": "741540188290",
-      "nombre": "CAPUCHON DE BUJIA JH70 VINI (FL) UNIVERSALES",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 1.5,
-        "taller": 1.25,
-        "distribuidor": 1
-      },
-      "stock": 8,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188290.png",
-      "imagen_size": 40073,
-      "activo": true
-    },
-    {
       "sku": "741540188510",
       "nombre": "CARBURADOR APACHE 160-GN VINI (TVS)",
       "marca": "VINI",
@@ -9503,10 +9482,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 30.5,
-        "taller": 25,
-        "distribuidor": 21.25
+        "taller": 20,
+        "distribuidor": 18
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9548,8 +9527,8 @@
         "taller": 21,
         "distribuidor": 24.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -14945,7 +14924,7 @@
         "taller": 71.5,
         "distribuidor": 60.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18756,27 +18735,6 @@
       "activo": true
     },
     {
-      "sku": "741540190253",
-      "nombre": "ESPEJO SET XR 150L-190L",
-      "marca": "VINI",
-      "categoria": "ESPEJOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 5.75,
-        "distribuidor": 4.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190253.png",
-      "imagen_size": 75268,
-      "activo": true
-    },
-    {
       "sku": "741540100699",
       "nombre": "ESPEJO SET YARA200 10MM UNIVERSAL RH-RH",
       "marca": "VINI",
@@ -20069,7 +20027,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21287,7 +21245,7 @@
         "taller": 0.25,
         "distribuidor": 0.25
       },
-      "stock": 72,
+      "stock": 67,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30947,7 +30905,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 45,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36407,7 +36365,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39956,7 +39914,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 37,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40187,7 +40145,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 17,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41447,7 +41405,7 @@
         "taller": 0.75,
         "distribuidor": 0.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42875,8 +42833,8 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -43484,7 +43442,7 @@
         "taller": 17,
         "distribuidor": 14.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45185,7 +45143,7 @@
         "taller": 9.75,
         "distribuidor": 8.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45433,11 +45391,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5,
+        "publico": 6,
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
