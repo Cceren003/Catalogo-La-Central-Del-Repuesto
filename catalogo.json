@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T19:13:58.100Z",
-  "count": 5718,
+  "generated_at": "2026-10-09T01:07:46.406Z",
+  "count": 5716,
   "productos": [
     {
       "sku": "104105",
@@ -31,8 +31,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11.5,
-        "taller": 10.5,
+        "publico": 12,
+        "taller": 10,
         "distribuidor": 9.92
       },
       "stock": 32,
@@ -52,8 +52,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11.5,
-        "taller": 10.5,
+        "publico": 12,
+        "taller": 10,
         "distribuidor": 9.92
       },
       "stock": 54,
@@ -325,7 +325,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 43.75,
+        "publico": 47,
         "taller": 36,
         "distribuidor": 30.5
       },
@@ -409,9 +409,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 2,
-        "taller": 0.75,
-        "distribuidor": 0.5
+        "publico": 1.5,
+        "taller": 0.5,
+        "distribuidor": 0.35
       },
       "stock": 14,
       "stock_status": "in_stock",
@@ -430,7 +430,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1.5,
+        "publico": 0,
         "taller": 1.25,
         "distribuidor": 1
       },
@@ -472,9 +472,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1,
+        "publico": 2,
         "taller": 0.75,
-        "distribuidor": 0.75
+        "distribuidor": 0.65
       },
       "stock": 15,
       "stock_status": "in_stock",
@@ -493,9 +493,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1,
+        "publico": 2,
         "taller": 0.75,
-        "distribuidor": 0.75
+        "distribuidor": 0.65
       },
       "stock": 44,
       "stock_status": "in_stock",
@@ -787,7 +787,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
+        "publico": 5,
         "taller": 3.5,
         "distribuidor": 3
       },
@@ -892,9 +892,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1.75,
-        "taller": 1.5,
-        "distribuidor": 1.25
+        "publico": 5,
+        "taller": 2,
+        "distribuidor": 1.5
       },
       "stock": 9,
       "stock_status": "in_stock",
@@ -934,9 +934,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.5,
-        "taller": 4.5,
-        "distribuidor": 4
+        "publico": 8,
+        "taller": 5,
+        "distribuidor": 3.75
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -997,8 +997,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.25,
-        "taller": 3.75,
+        "publico": 5,
+        "taller": 3.5,
         "distribuidor": 3
       },
       "stock": 12,
@@ -1018,9 +1018,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3,
+        "publico": 4,
         "taller": 2,
-        "distribuidor": 1.75
+        "distribuidor": 1.5
       },
       "stock": 4,
       "stock_status": "low_stock",
@@ -1039,9 +1039,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.75,
+        "publico": 5,
         "taller": 4,
-        "distribuidor": 3.5
+        "distribuidor": 3
       },
       "stock": 9,
       "stock_status": "in_stock",
@@ -1081,7 +1081,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
+        "publico": 5,
         "taller": 3.25,
         "distribuidor": 2.75
       },
@@ -1186,9 +1186,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.25,
+        "publico": 4,
         "taller": 2.25,
-        "distribuidor": 2
+        "distribuidor": 1.75
       },
       "stock": 6,
       "stock_status": "in_stock",
@@ -1249,9 +1249,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.25,
-        "taller": 5.75,
-        "distribuidor": 5
+        "publico": 7,
+        "taller": 5.5,
+        "distribuidor": 4.5
       },
       "stock": 12,
       "stock_status": "in_stock",
@@ -1690,9 +1690,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.5,
-        "taller": 3,
-        "distribuidor": 2.5
+        "publico": 4,
+        "taller": 2.75,
+        "distribuidor": 2.25
       },
       "stock": 10,
       "stock_status": "in_stock",
@@ -1711,8 +1711,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
-        "taller": 2,
+        "publico": 5,
+        "taller": 2.25,
         "distribuidor": 1.75
       },
       "stock": 9,
@@ -1757,7 +1757,7 @@
         "taller": 2.25,
         "distribuidor": 2
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1774,9 +1774,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.75,
-        "taller": 3.5,
-        "distribuidor": 2.75
+        "publico": 5,
+        "taller": 3,
+        "distribuidor": 2.5
       },
       "stock": 9,
       "stock_status": "in_stock",
@@ -1795,9 +1795,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 2.5,
-        "taller": 2,
-        "distribuidor": 1.75
+        "publico": 4,
+        "taller": 2.5,
+        "distribuidor": 2
       },
       "stock": 8,
       "stock_status": "in_stock",
@@ -1838,8 +1838,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 5,
-        "taller": 4,
-        "distribuidor": 3.5
+        "taller": 3.5,
+        "distribuidor": 3
       },
       "stock": 7,
       "stock_status": "in_stock",
@@ -1879,9 +1879,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7,
-        "taller": 2.5,
-        "distribuidor": 2.25
+        "publico": 5.5,
+        "taller": 2.25,
+        "distribuidor": 1.75
       },
       "stock": 10,
       "stock_status": "in_stock",
@@ -2131,9 +2131,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1.25,
-        "taller": 1,
-        "distribuidor": 0.75
+        "publico": 3,
+        "taller": 1.35,
+        "distribuidor": 1.15
       },
       "stock": 8,
       "stock_status": "in_stock",
@@ -2257,11 +2257,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 19.25,
-        "taller": 17.75,
+        "publico": 25,
+        "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 6,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2299,11 +2299,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 25.25,
-        "taller": 23.25,
-        "distribuidor": 21.75
+        "publico": 28,
+        "taller": 22,
+        "distribuidor": 20
       },
-      "stock": 6,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2320,9 +2320,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 23.5,
-        "taller": 21.5,
-        "distribuidor": 20
+        "publico": 29,
+        "taller": 21,
+        "distribuidor": 19.5
       },
       "stock": 9,
       "stock_status": "in_stock",
@@ -2362,9 +2362,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 28.5,
-        "taller": 26.25,
-        "distribuidor": 24.5
+        "publico": 33,
+        "taller": 26,
+        "distribuidor": 24
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -2383,8 +2383,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 21,
-        "taller": 19.25,
+        "publico": 28,
+        "taller": 19,
         "distribuidor": 18
       },
       "stock": 7,
@@ -2404,9 +2404,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 17.5,
-        "taller": 16.25,
-        "distribuidor": 15
+        "publico": 23,
+        "taller": 15,
+        "distribuidor": 14
       },
       "stock": 8,
       "stock_status": "in_stock",
@@ -2427,9 +2427,9 @@
       "precios": {
         "publico": 26,
         "taller": 18,
-        "distribuidor": 16.25
+        "distribuidor": 16
       },
-      "stock": 7,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2446,9 +2446,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 23.5,
+        "publico": 28.5,
         "taller": 21.5,
-        "distribuidor": 20.25
+        "distribuidor": 19.5
       },
       "stock": 6,
       "stock_status": "in_stock",
@@ -2471,8 +2471,8 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3664,9 +3664,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 17.75,
-        "taller": 14.5,
-        "distribuidor": 12.25
+        "publico": 18,
+        "taller": 13,
+        "distribuidor": 12
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -3706,8 +3706,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10,
-        "taller": 8.25,
+        "publico": 11,
+        "taller": 7.5,
         "distribuidor": 7
       },
       "stock": 7,
@@ -3769,9 +3769,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8.75,
-        "taller": 7.25,
-        "distribuidor": 6
+        "publico": 10,
+        "taller": 6,
+        "distribuidor": 5.25
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -3811,9 +3811,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.25,
+        "publico": 4.25,
         "taller": 2.5,
-        "distribuidor": 2.25
+        "distribuidor": 2.15
       },
       "stock": 63,
       "stock_status": "in_stock",
@@ -3876,7 +3876,7 @@
       "precios": {
         "publico": 2.5,
         "taller": 1.75,
-        "distribuidor": 1.5
+        "distribuidor": 1.25
       },
       "stock": 39,
       "stock_status": "in_stock",
@@ -3897,7 +3897,7 @@
       "precios": {
         "publico": 1,
         "taller": 0.5,
-        "distribuidor": 0.5
+        "distribuidor": 0.35
       },
       "stock": 56,
       "stock_status": "in_stock",
@@ -3918,7 +3918,7 @@
       "precios": {
         "publico": 0.75,
         "taller": 0.25,
-        "distribuidor": 0.25
+        "distribuidor": 0.15
       },
       "stock": 140,
       "stock_status": "in_stock",
@@ -3938,8 +3938,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 0.75,
-        "taller": 0.25,
-        "distribuidor": 0.25
+        "taller": 0.3,
+        "distribuidor": 0.2
       },
       "stock": 39,
       "stock_status": "in_stock",
@@ -3959,7 +3959,7 @@
       "empaque": "1*1",
       "precios": {
         "publico": 4,
-        "taller": 2.75,
+        "taller": 3,
         "distribuidor": 2.25
       },
       "stock": 1,
@@ -3979,7 +3979,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.25,
+        "publico": 4,
         "taller": 2.25,
         "distribuidor": 1.75
       },
@@ -4021,8 +4021,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.25,
-        "taller": 1.75,
+        "publico": 3,
+        "taller": 2,
         "distribuidor": 1.5
       },
       "stock": 3,
@@ -4042,11 +4042,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.5,
+        "publico": 6,
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 43,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4063,7 +4063,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5,
+        "publico": 4,
         "taller": 2.75,
         "distribuidor": 2.4
       },
@@ -4105,9 +4105,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11.75,
+        "publico": 12,
         "taller": 10.75,
-        "distribuidor": 10
+        "distribuidor": 9.5
       },
       "stock": 4,
       "stock_status": "low_stock",
@@ -4126,9 +4126,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11.75,
-        "taller": 10.75,
-        "distribuidor": 10.25
+        "publico": 14,
+        "taller": 11,
+        "distribuidor": 9.5
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -4168,9 +4168,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
-        "taller": 1.75,
-        "distribuidor": 1.5
+        "publico": 5,
+        "taller": 2.1,
+        "distribuidor": 1.85
       },
       "stock": 6,
       "stock_status": "in_stock",
@@ -4546,7 +4546,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5,
+        "publico": 6,
         "taller": 3,
         "distribuidor": 2.5
       },
@@ -4567,7 +4567,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
+        "publico": 6,
         "taller": 3.25,
         "distribuidor": 2.75
       },
@@ -4840,7 +4840,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
+        "publico": 6,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -4903,7 +4903,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.25,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 3
       },
@@ -5155,7 +5155,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -5218,7 +5218,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.5,
+        "publico": 5,
         "taller": 3,
         "distribuidor": 2.25
       },
@@ -5281,8 +5281,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
-        "taller": 3.25,
+        "publico": 7,
+        "taller": 3.5,
         "distribuidor": 2.75
       },
       "stock": 10,
@@ -5575,7 +5575,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
+        "publico": 6,
         "taller": 3.25,
         "distribuidor": 2.75
       },
@@ -5659,7 +5659,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.25,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 3
       },
@@ -5848,7 +5848,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.5,
+        "publico": 6.5,
         "taller": 3.5,
         "distribuidor": 3
       },
@@ -6016,7 +6016,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.75,
+        "publico": 8,
         "taller": 3.25,
         "distribuidor": 2.75
       },
@@ -6037,9 +6037,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.5,
-        "taller": 3.5,
-        "distribuidor": 2.75
+        "publico": 7,
+        "taller": 3,
+        "distribuidor": 2.5
       },
       "stock": 10,
       "stock_status": "in_stock",
@@ -6079,9 +6079,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.25,
-        "taller": 3.5,
-        "distribuidor": 2.75
+        "publico": 6,
+        "taller": 3,
+        "distribuidor": 2.5
       },
       "stock": 9,
       "stock_status": "in_stock",
@@ -6100,7 +6100,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.5,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -6163,9 +6163,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
-        "taller": 3.25,
-        "distribuidor": 2.75
+        "publico": 7,
+        "taller": 3.5,
+        "distribuidor": 3
       },
       "stock": 12,
       "stock_status": "in_stock",
@@ -6184,8 +6184,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
-        "taller": 3.25,
+        "publico": 6,
+        "taller": 3.5,
         "distribuidor": 2.75
       },
       "stock": 9,
@@ -6542,10 +6542,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 2,
-        "taller": 0.75,
-        "distribuidor": 0.5
+        "taller": 0.5,
+        "distribuidor": 0.43
       },
-      "stock": 85,
+      "stock": 84,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6835,7 +6835,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 3
       },
@@ -6898,7 +6898,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -7108,9 +7108,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 17.75,
-        "taller": 9,
-        "distribuidor": 8
+        "publico": 15,
+        "taller": 8,
+        "distribuidor": 7.25
       },
       "stock": 18,
       "stock_status": "in_stock",
@@ -7402,9 +7402,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12,
-        "taller": 8.25,
-        "distribuidor": 7.25
+        "publico": 14,
+        "taller": 10,
+        "distribuidor": 8
       },
       "stock": 4,
       "stock_status": "low_stock",
@@ -7675,8 +7675,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 14.75,
-        "taller": 8.75,
+        "publico": 15,
+        "taller": 9,
         "distribuidor": 7.75
       },
       "stock": 6,
@@ -7696,9 +7696,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 28.75,
-        "taller": 26.25,
-        "distribuidor": 24.75
+        "publico": 42,
+        "taller": 30,
+        "distribuidor": 28
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -7717,11 +7717,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11.75,
+        "publico": 17,
         "taller": 10.75,
         "distribuidor": 10
       },
-      "stock": 54,
+      "stock": 53,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7738,9 +7738,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.5,
-        "taller": 9.5,
-        "distribuidor": 9
+        "publico": 15,
+        "taller": 8.5,
+        "distribuidor": 7.75
       },
       "stock": 53,
       "stock_status": "in_stock",
@@ -7759,8 +7759,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.25,
-        "taller": 6.75,
+        "publico": 15,
+        "taller": 7,
         "distribuidor": 6.25
       },
       "stock": 74,
@@ -7801,9 +7801,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 15.25,
-        "taller": 14,
-        "distribuidor": 13
+        "publico": 27,
+        "taller": 15.5,
+        "distribuidor": 14
       },
       "stock": 8,
       "stock_status": "in_stock",
@@ -7822,8 +7822,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 16.25,
-        "taller": 15,
+        "publico": 28.75,
+        "taller": 16,
         "distribuidor": 14
       },
       "stock": 3,
@@ -8095,9 +8095,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 74,
-        "taller": 60.5,
-        "distribuidor": 51.5
+        "publico": 70,
+        "taller": 49,
+        "distribuidor": 45
       },
       "stock": 7,
       "stock_status": "in_stock",
@@ -8935,7 +8935,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 20.75,
+        "publico": 25,
         "taller": 17,
         "distribuidor": 14.5
       },
@@ -8979,7 +8979,7 @@
       "precios": {
         "publico": 2,
         "taller": 1.75,
-        "distribuidor": 1.5
+        "distribuidor": 1.25
       },
       "stock": 9,
       "stock_status": "in_stock",
@@ -8998,9 +8998,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3,
+        "publico": 4,
         "taller": 1.75,
-        "distribuidor": 1.5
+        "distribuidor": 1.35
       },
       "stock": 19,
       "stock_status": "in_stock",
@@ -9439,9 +9439,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 31,
-        "taller": 25.5,
-        "distribuidor": 21.75
+        "publico": 27,
+        "taller": 19,
+        "distribuidor": 17.5
       },
       "stock": 15,
       "stock_status": "in_stock",
@@ -9460,7 +9460,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 30.5,
+        "publico": 26,
         "taller": 20,
         "distribuidor": 18
       },
@@ -9502,9 +9502,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 35,
+        "publico": 28,
         "taller": 21,
-        "distribuidor": 24.25
+        "distribuidor": 19
       },
       "stock": 5,
       "stock_status": "low_stock",
@@ -10059,27 +10059,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1002861.png",
       "imagen_size": 37530,
-      "activo": true
-    },
-    {
-      "sku": "RS007",
-      "nombre": "CATARINA 38T, 100,125,150,200 CON CENTRO DE YBR125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9.5,
-        "taller": 7.75,
-        "distribuidor": 6.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS007.jpg",
-      "imagen_size": 9181,
       "activo": true
     },
     {
@@ -10955,7 +10934,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11333,7 +11312,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12505,8 +12484,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11.75,
-        "taller": 9.75,
+        "publico": 13.5,
+        "taller": 9,
         "distribuidor": 8.25
       },
       "stock": 14,
@@ -12652,8 +12631,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.25,
-        "taller": 5.25,
+        "publico": 9,
+        "taller": 5,
         "distribuidor": 4.25
       },
       "stock": 9,
@@ -12883,8 +12862,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11.25,
-        "taller": 9.25,
+        "publico": 12,
+        "taller": 9,
         "distribuidor": 7.75
       },
       "stock": 4,
@@ -13303,9 +13282,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 26.25,
-        "taller": 21.5,
-        "distribuidor": 18.25
+        "publico": 25,
+        "taller": 22,
+        "distribuidor": 18.5
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -13765,9 +13744,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 83,
-        "taller": 68,
-        "distribuidor": 57.75
+        "publico": 84,
+        "taller": 55,
+        "distribuidor": 50
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -14962,7 +14941,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 50,
+        "publico": 52,
         "taller": 41,
         "distribuidor": 34.75
       },
@@ -15298,9 +15277,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 15,
-        "taller": 10,
-        "distribuidor": 7
+        "publico": 11,
+        "taller": 8,
+        "distribuidor": 6.75
       },
       "stock": 5,
       "stock_status": "low_stock",
@@ -15319,9 +15298,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 26.25,
-        "taller": 21.5,
-        "distribuidor": 18.25
+        "publico": 35,
+        "taller": 25,
+        "distribuidor": 20
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -15508,9 +15487,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 20.25,
-        "taller": 16.5,
-        "distribuidor": 14
+        "publico": 19,
+        "taller": 15,
+        "distribuidor": 12.75
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -15634,7 +15613,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 17,
+        "publico": 27,
         "taller": 14,
         "distribuidor": 12
       },
@@ -15886,9 +15865,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8,
+        "publico": 10,
         "taller": 6,
-        "distribuidor": 5.25
+        "distribuidor": 5
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -15970,9 +15949,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5,
-        "taller": 4,
-        "distribuidor": 3.5
+        "publico": 7,
+        "taller": 5,
+        "distribuidor": 4
       },
       "stock": 40,
       "stock_status": "in_stock",
@@ -16075,7 +16054,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 22,
+        "publico": 25,
         "taller": 18,
         "distribuidor": 15.5
       },
@@ -18280,9 +18259,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1,
+        "publico": 1.25,
         "taller": 0.5,
-        "distribuidor": 0.5
+        "distribuidor": 0.3
       },
       "stock": 56,
       "stock_status": "in_stock",
@@ -18301,9 +18280,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 2,
+        "publico": 1.5,
         "taller": 0.75,
-        "distribuidor": 0.5
+        "distribuidor": 0.4
       },
       "stock": 25,
       "stock_status": "in_stock",
@@ -18406,9 +18385,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 19.25,
-        "taller": 15.75,
-        "distribuidor": 13.25
+        "publico": 23,
+        "taller": 14,
+        "distribuidor": 12
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -18574,9 +18553,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10,
-        "taller": 6.25,
-        "distribuidor": 5.5
+        "publico": 9,
+        "taller": 5.5,
+        "distribuidor": 4.75
       },
       "stock": 4,
       "stock_status": "low_stock",
@@ -18595,7 +18574,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8,
+        "publico": 11,
         "taller": 6.75,
         "distribuidor": 5.75
       },
@@ -18637,7 +18616,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.25,
+        "publico": 8,
         "taller": 4.25,
         "distribuidor": 3.75
       },
@@ -18847,7 +18826,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
+        "publico": 10,
         "taller": 4.75,
         "distribuidor": 4.25
       },
@@ -18868,8 +18847,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 18.5,
-        "taller": 15.25,
+        "publico": 20,
+        "taller": 15,
         "distribuidor": 13
       },
       "stock": 3,
@@ -19099,9 +19078,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 14,
-        "taller": 11.5,
-        "distribuidor": 9.75
+        "publico": 20,
+        "taller": 13,
+        "distribuidor": 11.25
       },
       "stock": 4,
       "stock_status": "low_stock",
@@ -19204,9 +19183,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.75,
+        "publico": 4.5,
         "taller": 3,
-        "distribuidor": 2.5
+        "distribuidor": 2.25
       },
       "stock": 13,
       "stock_status": "in_stock",
@@ -19225,9 +19204,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
-        "taller": 1.75,
-        "distribuidor": 1.5
+        "publico": 3.5,
+        "taller": 1.5,
+        "distribuidor": 1.35
       },
       "stock": 100,
       "stock_status": "in_stock",
@@ -19353,7 +19332,7 @@
       "precios": {
         "publico": 3,
         "taller": 1.75,
-        "distribuidor": 1.5
+        "distribuidor": 1.35
       },
       "stock": 6,
       "stock_status": "in_stock",
@@ -19498,7 +19477,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
+        "publico": 8,
         "taller": 3.75,
         "distribuidor": 3.25
       },
@@ -19645,8 +19624,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.5,
-        "taller": 5.25,
+        "publico": 7,
+        "taller": 5,
         "distribuidor": 4.5
       },
       "stock": 4,
@@ -19813,8 +19792,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.25,
-        "taller": 8.25,
+        "publico": 11,
+        "taller": 8,
         "distribuidor": 7
       },
       "stock": 13,
@@ -19939,8 +19918,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.75,
-        "taller": 6.25,
+        "publico": 9,
+        "taller": 6,
         "distribuidor": 5.25
       },
       "stock": 6,
@@ -20002,8 +19981,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7,
-        "taller": 5.75,
+        "publico": 8,
+        "taller": 6,
         "distribuidor": 4.75
       },
       "stock": 7,
@@ -20048,7 +20027,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20611,9 +20590,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1,
+        "publico": 1.25,
         "taller": 0.5,
-        "distribuidor": 0.5
+        "distribuidor": 0.35
       },
       "stock": 10,
       "stock_status": "in_stock",
@@ -20632,9 +20611,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
-        "taller": 2.75,
-        "distribuidor": 2
+        "publico": 3,
+        "taller": 1.5,
+        "distribuidor": 1
       },
       "stock": 27,
       "stock_status": "in_stock",
@@ -20653,9 +20632,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1.25,
+        "publico": 1.5,
         "taller": 1,
-        "distribuidor": 1
+        "distribuidor": 0.85
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -20758,7 +20737,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 2.5,
+        "publico": 4,
         "taller": 2,
         "distribuidor": 1.75
       },
@@ -20781,7 +20760,7 @@
       "precios": {
         "publico": 2.5,
         "taller": 1.5,
-        "distribuidor": 1.25
+        "distribuidor": 1
       },
       "stock": 31,
       "stock_status": "in_stock",
@@ -20800,9 +20779,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.25,
+        "publico": 4,
         "taller": 2.5,
-        "distribuidor": 2.25
+        "distribuidor": 2
       },
       "stock": 26,
       "stock_status": "in_stock",
@@ -20842,9 +20821,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0.5,
+        "publico": 0.75,
         "taller": 0.5,
-        "distribuidor": 0.25
+        "distribuidor": 0.35
       },
       "stock": 35,
       "stock_status": "in_stock",
@@ -21010,9 +20989,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.5,
+        "publico": 7,
         "taller": 4,
-        "distribuidor": 3.75
+        "distribuidor": 3.5
       },
       "stock": 20,
       "stock_status": "in_stock",
@@ -21094,8 +21073,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.75,
-        "taller": 6.75,
+        "publico": 9,
+        "taller": 6.5,
         "distribuidor": 6
       },
       "stock": 6,
@@ -21115,9 +21094,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.75,
-        "taller": 4.5,
-        "distribuidor": 4.25
+        "publico": 8,
+        "taller": 4.25,
+        "distribuidor": 3.75
       },
       "stock": 59,
       "stock_status": "in_stock",
@@ -21136,9 +21115,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5,
-        "taller": 4.75,
-        "distribuidor": 4.25
+        "publico": 7.5,
+        "taller": 4.25,
+        "distribuidor": 3.75
       },
       "stock": 27,
       "stock_status": "in_stock",
@@ -21157,9 +21136,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.5,
-        "taller": 4,
-        "distribuidor": 3.75
+        "publico": 9,
+        "taller": 4.75,
+        "distribuidor": 4.25
       },
       "stock": 10,
       "stock_status": "in_stock",
@@ -21178,7 +21157,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.75,
+        "publico": 7,
         "taller": 4.5,
         "distribuidor": 4
       },
@@ -21199,8 +21178,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.5,
-        "taller": 4,
+        "publico": 9,
+        "taller": 4.5,
         "distribuidor": 3.75
       },
       "stock": 3,
@@ -21222,7 +21201,7 @@
       "precios": {
         "publico": 1,
         "taller": 0.25,
-        "distribuidor": 0.25
+        "distribuidor": 0.15
       },
       "stock": 67,
       "stock_status": "in_stock",
@@ -21241,9 +21220,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0.25,
+        "publico": 1,
         "taller": 0.25,
-        "distribuidor": 0.25
+        "distribuidor": 0.2
       },
       "stock": 16,
       "stock_status": "in_stock",
@@ -21262,8 +21241,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0.25,
-        "taller": 0.25,
+        "publico": 1,
+        "taller": 0.5,
         "distribuidor": 0.25
       },
       "stock": 11,
@@ -21976,8 +21955,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12,
-        "taller": 10.25,
+        "publico": 13,
+        "taller": 10,
         "distribuidor": 8.75
       },
       "stock": 2,
@@ -23719,8 +23698,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.25,
-        "taller": 3.75,
+        "publico": 6,
+        "taller": 3.5,
         "distribuidor": 3
       },
       "stock": 34,
@@ -23761,8 +23740,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.25,
-        "taller": 3.75,
+        "publico": 5.75,
+        "taller": 3.5,
         "distribuidor": 3
       },
       "stock": 33,
@@ -24370,7 +24349,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8.25,
+        "publico": 12,
         "taller": 6.75,
         "distribuidor": 5.75
       },
@@ -24622,9 +24601,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.25,
-        "taller": 5.75,
-        "distribuidor": 4.75
+        "publico": 10,
+        "taller": 7,
+        "distribuidor": 5.75
       },
       "stock": 6,
       "stock_status": "in_stock",
@@ -25252,8 +25231,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.5,
-        "taller": 5.25,
+        "publico": 10,
+        "taller": 6,
         "distribuidor": 4.5
       },
       "stock": 9,
@@ -26344,9 +26323,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11,
-        "taller": 9,
-        "distribuidor": 7.5
+        "publico": 15,
+        "taller": 10,
+        "distribuidor": 8
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -26390,7 +26369,7 @@
         "taller": 7.75,
         "distribuidor": 6.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26533,8 +26512,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12.5,
-        "taller": 10.25,
+        "publico": 15,
+        "taller": 10,
         "distribuidor": 8.75
       },
       "stock": 2,
@@ -27289,7 +27268,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.25,
+        "publico": 3.5,
         "taller": 3,
         "distribuidor": 2.5
       },
@@ -27314,7 +27293,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27646,8 +27625,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.5,
-        "taller": 2.75,
+        "publico": 8,
+        "taller": 3,
         "distribuidor": 2.5
       },
       "stock": 15,
@@ -27667,7 +27646,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.75,
+        "publico": 8,
         "taller": 3.75,
         "distribuidor": 3.25
       },
@@ -27709,8 +27688,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.5,
-        "taller": 2.75,
+        "publico": 8,
+        "taller": 3,
         "distribuidor": 2.5
       },
       "stock": 8,
@@ -27751,7 +27730,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.25,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 3
       },
@@ -28024,9 +28003,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.25,
-        "taller": 5.25,
-        "distribuidor": 4.5
+        "publico": 7,
+        "taller": 5,
+        "distribuidor": 4.25
       },
       "stock": 9,
       "stock_status": "in_stock",
@@ -28276,7 +28255,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.5,
+        "publico": 9,
         "taller": 3.5,
         "distribuidor": 3
       },
@@ -28738,9 +28717,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.75,
-        "taller": 9,
-        "distribuidor": 7.5
+        "publico": 22,
+        "taller": 12,
+        "distribuidor": 10
       },
       "stock": 9,
       "stock_status": "in_stock",
@@ -29120,7 +29099,7 @@
         "taller": 12.5,
         "distribuidor": 10.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29221,9 +29200,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 13.5,
-        "taller": 11,
-        "distribuidor": 9.5
+        "publico": 21,
+        "taller": 13,
+        "distribuidor": 10.75
       },
       "stock": 7,
       "stock_status": "in_stock",
@@ -29347,7 +29326,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 16.5,
+        "publico": 23,
         "taller": 13.5,
         "distribuidor": 11.5
       },
@@ -29368,9 +29347,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 14,
-        "taller": 11.5,
-        "distribuidor": 9.75
+        "publico": 15,
+        "taller": 11,
+        "distribuidor": 9
       },
       "stock": 4,
       "stock_status": "low_stock",
@@ -29599,7 +29578,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.25,
+        "publico": 8,
         "taller": 4.75,
         "distribuidor": 4
       },
@@ -29746,11 +29725,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 25.5,
-        "taller": 23.25,
-        "distribuidor": 21.75
+        "publico": 28,
+        "taller": 23,
+        "distribuidor": 21
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29788,9 +29767,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 39,
-        "taller": 35.75,
-        "distribuidor": 33.5
+        "publico": 43,
+        "taller": 32,
+        "distribuidor": 30
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -30271,9 +30250,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 45,
-        "taller": 35,
-        "distribuidor": 33
+        "publico": 43,
+        "taller": 36,
+        "distribuidor": 34
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -30376,9 +30355,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 40.5,
-        "taller": 37.25,
-        "distribuidor": 34.75
+        "publico": 42,
+        "taller": 34,
+        "distribuidor": 32
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -30397,9 +30376,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 68.25,
-        "taller": 62.5,
-        "distribuidor": 58.5
+        "publico": 56,
+        "taller": 52,
+        "distribuidor": 50
       },
       "stock": 4,
       "stock_status": "low_stock",
@@ -30502,9 +30481,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 38.25,
-        "taller": 35.25,
-        "distribuidor": 33
+        "publico": 41,
+        "taller": 32,
+        "distribuidor": 30
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -30796,7 +30775,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12.25,
+        "publico": 12,
         "taller": 10,
         "distribuidor": 8.5
       },
@@ -30880,9 +30859,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10,
-        "taller": 5.5,
-        "distribuidor": 4.75
+        "publico": 8,
+        "taller": 4.75,
+        "distribuidor": 4.25
       },
       "stock": 42,
       "stock_status": "in_stock",
@@ -31720,11 +31699,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 103.25,
-        "taller": 84.5,
+        "publico": 95,
+        "taller": 79,
         "distribuidor": 72
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31825,9 +31804,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 113.5,
-        "taller": 93,
-        "distribuidor": 79
+        "publico": 95,
+        "taller": 85,
+        "distribuidor": 75
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -32560,9 +32539,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.5,
+        "publico": 6,
         "taller": 4,
-        "distribuidor": 3.75
+        "distribuidor": 3.5
       },
       "stock": 18,
       "stock_status": "in_stock",
@@ -32602,9 +32581,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.25,
+        "publico": 6,
         "taller": 4,
-        "distribuidor": 3.75
+        "distribuidor": 3.5
       },
       "stock": 13,
       "stock_status": "in_stock",
@@ -32644,9 +32623,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.75,
-        "taller": 4,
-        "distribuidor": 3.5
+        "publico": 6,
+        "taller": 3.5,
+        "distribuidor": 3
       },
       "stock": 16,
       "stock_status": "in_stock",
@@ -32665,9 +32644,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.75,
-        "taller": 3.5,
-        "distribuidor": 3.25
+        "publico": 7,
+        "taller": 4,
+        "distribuidor": 3.5
       },
       "stock": 12,
       "stock_status": "in_stock",
@@ -32686,9 +32665,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.25,
+        "publico": 6,
         "taller": 4,
-        "distribuidor": 3.75
+        "distribuidor": 3.5
       },
       "stock": 16,
       "stock_status": "in_stock",
@@ -33001,9 +32980,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
-        "taller": 3.25,
-        "distribuidor": 2.75
+        "publico": 7,
+        "taller": 3.5,
+        "distribuidor": 3
       },
       "stock": 12,
       "stock_status": "in_stock",
@@ -33064,8 +33043,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.5,
-        "taller": 3.75,
+        "publico": 6,
+        "taller": 3.5,
         "distribuidor": 3
       },
       "stock": 27,
@@ -33107,10 +33086,10 @@
       "empaque": "1*1",
       "precios": {
         "publico": 6,
-        "taller": 3.25,
-        "distribuidor": 2.75
+        "taller": 3,
+        "distribuidor": 2.5
       },
-      "stock": 56,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33127,7 +33106,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.75,
+        "publico": 7,
         "taller": 3.25,
         "distribuidor": 2.75
       },
@@ -33169,7 +33148,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.75,
+        "publico": 5.5,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -33190,9 +33169,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.75,
+        "publico": 5.5,
         "taller": 3.5,
-        "distribuidor": 3
+        "distribuidor": 2.75
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -33211,7 +33190,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.25,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -33253,8 +33232,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.5,
-        "taller": 3.75,
+        "publico": 6,
+        "taller": 3.5,
         "distribuidor": 3
       },
       "stock": 8,
@@ -33379,11 +33358,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33400,7 +33379,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -33505,7 +33484,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
+        "publico": 7,
         "taller": 3.25,
         "distribuidor": 2.75
       },
@@ -33568,8 +33547,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
-        "taller": 3.25,
+        "publico": 8,
+        "taller": 3.5,
         "distribuidor": 2.75
       },
       "stock": 12,
@@ -33589,7 +33568,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -33652,7 +33631,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5,
+        "publico": 7,
         "taller": 4,
         "distribuidor": 3.5
       },
@@ -33673,7 +33652,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
+        "publico": 7,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -33694,7 +33673,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4,
+        "publico": 5.5,
         "taller": 3.25,
         "distribuidor": 2.75
       },
@@ -33778,8 +33757,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.75,
-        "taller": 3.25,
+        "publico": 7,
+        "taller": 3.5,
         "distribuidor": 2.75
       },
       "stock": 13,
@@ -33799,9 +33778,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.75,
-        "taller": 3.25,
-        "distribuidor": 2.75
+        "publico": 7,
+        "taller": 3.5,
+        "distribuidor": 3
       },
       "stock": 12,
       "stock_status": "in_stock",
@@ -34114,7 +34093,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.75,
+        "publico": 16,
         "taller": 8.75,
         "distribuidor": 7.5
       },
@@ -34135,7 +34114,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 13.5,
+        "publico": 15,
         "taller": 8,
         "distribuidor": 6.75
       },
@@ -34198,7 +34177,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12.75,
+        "publico": 18,
         "taller": 10.5,
         "distribuidor": 9
       },
@@ -34303,9 +34282,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12.75,
+        "publico": 14,
         "taller": 7.75,
-        "distribuidor": 7
+        "distribuidor": 6.75
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -34450,7 +34429,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7,
+        "publico": 10,
         "taller": 5,
         "distribuidor": 4.25
       },
@@ -34534,9 +34513,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8.5,
-        "taller": 6.5,
-        "distribuidor": 5.5
+        "publico": 12,
+        "taller": 8,
+        "distribuidor": 6.5
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -34618,8 +34597,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7,
-        "taller": 4.5,
+        "publico": 10,
+        "taller": 5,
         "distribuidor": 4
       },
       "stock": 6,
@@ -34681,7 +34660,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7,
+        "publico": 10,
         "taller": 5,
         "distribuidor": 4.25
       },
@@ -34702,9 +34681,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.75,
-        "taller": 4.75,
-        "distribuidor": 4
+        "publico": 10,
+        "taller": 6,
+        "distribuidor": 4.5
       },
       "stock": 5,
       "stock_status": "low_stock",
@@ -34954,7 +34933,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.75,
+        "publico": 12,
         "taller": 8.75,
         "distribuidor": 7.5
       },
@@ -34975,8 +34954,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11.5,
-        "taller": 9.25,
+        "publico": 11,
+        "taller": 9,
         "distribuidor": 8
       },
       "stock": 8,
@@ -35038,9 +35017,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12.25,
-        "taller": 10,
-        "distribuidor": 8.5
+        "publico": 11,
+        "taller": 9,
+        "distribuidor": 7.75
       },
       "stock": 6,
       "stock_status": "in_stock",
@@ -35311,8 +35290,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.5,
-        "taller": 4,
+        "publico": 5,
+        "taller": 3.5,
         "distribuidor": 3
       },
       "stock": 1,
@@ -35777,7 +35756,7 @@
         "taller": 4,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35798,7 +35777,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36004,7 +35983,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.75,
+        "publico": 5,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -36025,7 +36004,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5,
+        "publico": 6,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -36131,8 +36110,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 7,
-        "taller": 4.75,
-        "distribuidor": 4
+        "taller": 4.25,
+        "distribuidor": 3.75
       },
       "stock": 7,
       "stock_status": "in_stock",
@@ -36298,7 +36277,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5,
+        "publico": 6,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -36319,7 +36298,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.75,
+        "publico": 5,
         "taller": 3.5,
         "distribuidor": 2.75
       },
@@ -36445,9 +36424,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 9,
-        "taller": 7.25,
-        "distribuidor": 6.25
+        "publico": 8,
+        "taller": 6,
+        "distribuidor": 5.25
       },
       "stock": 8,
       "stock_status": "in_stock",
@@ -36722,7 +36701,7 @@
         "taller": 38.5,
         "distribuidor": 32.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36802,9 +36781,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 19.5,
-        "taller": 16,
-        "distribuidor": 13.5
+        "publico": 25,
+        "taller": 13,
+        "distribuidor": 11
       },
       "stock": 17,
       "stock_status": "in_stock",
@@ -37803,27 +37782,6 @@
       "activo": true
     },
     {
-      "sku": "1000343",
-      "nombre": "PORTA CATARINA YBR125 NAGA200 CR1 COBRAS6",
-      "marca": "MEK",
-      "categoria": "KIT TRACCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16,
-        "taller": 9,
-        "distribuidor": 7.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000343.jpg",
-      "imagen_size": 13766,
-      "activo": true
-    },
-    {
       "sku": "741540188935",
       "nombre": "PORTA DISCO DE CLUTCH SOLO APACHE 160-180",
       "marca": "VINI",
@@ -37852,8 +37810,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 2,
-        "taller": 1.75,
+        "publico": 3,
+        "taller": 1.85,
         "distribuidor": 1.5
       },
       "stock": 28,
@@ -37896,7 +37854,7 @@
       "precios": {
         "publico": 2.5,
         "taller": 1.5,
-        "distribuidor": 1.25
+        "distribuidor": 1
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -37915,9 +37873,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0.5,
+        "publico": 0.75,
         "taller": 0.5,
-        "distribuidor": 0.25
+        "distribuidor": 0.3
       },
       "stock": 30,
       "stock_status": "in_stock",
@@ -38062,11 +38020,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0.5,
-        "taller": 0.25,
-        "distribuidor": 0.25
+        "publico": 0.85,
+        "taller": 0.35,
+        "distribuidor": 0.27
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38209,7 +38167,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.25,
+        "publico": 11,
         "taller": 6,
         "distribuidor": 5
       },
@@ -38230,9 +38188,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8.5,
-        "taller": 7,
-        "distribuidor": 6
+        "publico": 12,
+        "taller": 6,
+        "distribuidor": 5.25
       },
       "stock": 18,
       "stock_status": "in_stock",
@@ -38524,9 +38482,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 15.25,
-        "taller": 12.5,
-        "distribuidor": 10.5
+        "publico": 16,
+        "taller": 11,
+        "distribuidor": 9.5
       },
       "stock": 16,
       "stock_status": "in_stock",
@@ -38650,7 +38608,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 2.25,
+        "publico": 2,
         "taller": 1.5,
         "distribuidor": 1
       },
@@ -39364,9 +39322,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 13.25,
-        "taller": 11,
-        "distribuidor": 9.25
+        "publico": 13,
+        "taller": 9,
+        "distribuidor": 7.75
       },
       "stock": 5,
       "stock_status": "low_stock",
@@ -39491,7 +39449,7 @@
       "empaque": "1*1",
       "precios": {
         "publico": 9,
-        "taller": 5.75,
+        "taller": 5.5,
         "distribuidor": 4.75
       },
       "stock": 30,
@@ -39700,9 +39658,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0.75,
-        "taller": 0.75,
-        "distribuidor": 0.5
+        "publico": 6,
+        "taller": 1.5,
+        "distribuidor": 1
       },
       "stock": 5,
       "stock_status": "low_stock",
@@ -39890,8 +39848,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 2,
-        "taller": 1.75,
-        "distribuidor": 1.25
+        "taller": 1.5,
+        "distribuidor": 1
       },
       "stock": 32,
       "stock_status": "in_stock",
@@ -40122,7 +40080,7 @@
       "precios": {
         "publico": 3,
         "taller": 1.5,
-        "distribuidor": 1.25
+        "distribuidor": 1
       },
       "stock": 7,
       "stock_status": "in_stock",
@@ -40498,8 +40456,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10,
-        "taller": 5,
+        "publico": 8,
+        "taller": 4.5,
         "distribuidor": 3.75
       },
       "stock": 12,
@@ -40519,9 +40477,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 9.75,
-        "taller": 4.25,
-        "distribuidor": 3.75
+        "publico": 8,
+        "taller": 3.5,
+        "distribuidor": 3
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -40541,8 +40499,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 5,
-        "taller": 2,
-        "distribuidor": 1.75
+        "taller": 2.5,
+        "distribuidor": 2
       },
       "stock": 10,
       "stock_status": "in_stock",
@@ -40583,7 +40541,7 @@
       "empaque": "1*1",
       "precios": {
         "publico": 8,
-        "taller": 4.25,
+        "taller": 4,
         "distribuidor": 3.5
       },
       "stock": 10,
@@ -40666,9 +40624,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.5,
-        "taller": 2.75,
-        "distribuidor": 2.5
+        "publico": 7,
+        "taller": 3.5,
+        "distribuidor": 2.75
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -40687,11 +40645,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8,
+        "publico": 4,
         "taller": 2,
-        "distribuidor": 1.75
+        "distribuidor": 1.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41044,9 +41002,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 1.5,
+        "publico": 1.25,
         "taller": 0.75,
-        "distribuidor": 0.5
+        "distribuidor": 0.35
       },
       "stock": 35,
       "stock_status": "in_stock",
@@ -41338,9 +41296,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0.5,
-        "taller": 0.25,
-        "distribuidor": 0.25
+        "publico": 1.5,
+        "taller": 0.6,
+        "distribuidor": 0.4
       },
       "stock": 20,
       "stock_status": "in_stock",
@@ -41380,8 +41338,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0.75,
-        "taller": 0.75,
+        "publico": 2,
+        "taller": 0.9,
         "distribuidor": 0.75
       },
       "stock": 9,
@@ -41487,7 +41445,7 @@
       "precios": {
         "publico": 3,
         "taller": 1.5,
-        "distribuidor": 1.25
+        "distribuidor": 1
       },
       "stock": 12,
       "stock_status": "in_stock",
@@ -41508,7 +41466,7 @@
       "precios": {
         "publico": 3,
         "taller": 1.5,
-        "distribuidor": 1.25
+        "distribuidor": 1
       },
       "stock": 16,
       "stock_status": "in_stock",
@@ -41968,8 +41926,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 17,
-        "taller": 13.75,
+        "publico": 22,
+        "taller": 14,
         "distribuidor": 11.75
       },
       "stock": 7,
@@ -42808,7 +42766,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8.5,
+        "publico": 10,
         "taller": 7,
         "distribuidor": 6
       },
@@ -42871,9 +42829,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.5,
-        "taller": 6.5,
-        "distribuidor": 5.75
+        "publico": 8,
+        "taller": 6,
+        "distribuidor": 4.75
       },
       "stock": 8,
       "stock_status": "in_stock",
@@ -43774,8 +43732,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 9.75,
-        "taller": 8,
+        "publico": 16,
+        "taller": 7.5,
         "distribuidor": 6.75
       },
       "stock": 7,
@@ -43984,9 +43942,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8.75,
-        "taller": 6.5,
-        "distribuidor": 5.5
+        "publico": 8,
+        "taller": 5,
+        "distribuidor": 4.25
       },
       "stock": 8,
       "stock_status": "in_stock",
@@ -45055,7 +45013,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 13.25,
+        "publico": 20,
         "taller": 11,
         "distribuidor": 9.25
       },
@@ -45118,8 +45076,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11.75,
-        "taller": 9.75,
+        "publico": 17,
+        "taller": 10,
         "distribuidor": 8.25
       },
       "stock": 4,
@@ -45559,9 +45517,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0.75,
-        "taller": 0.5,
-        "distribuidor": 0.5
+        "publico": 2,
+        "taller": 1.5,
+        "distribuidor": 1
       },
       "stock": 11,
       "stock_status": "in_stock",
@@ -45622,7 +45580,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 2.5,
+        "publico": 4,
         "taller": 2,
         "distribuidor": 1.75
       },
@@ -46021,9 +45979,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12.25,
-        "taller": 10.25,
-        "distribuidor": 8.5
+        "publico": 11,
+        "taller": 8,
+        "distribuidor": 7.25
       },
       "stock": 3,
       "stock_status": "low_stock",
