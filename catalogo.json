@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T01:07:46.406Z",
-  "count": 5716,
+  "generated_at": "2026-10-09T18:44:26.900Z",
+  "count": 5711,
   "productos": [
     {
       "sku": "104105",
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 72,
+      "stock": 71,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2796,27 +2796,6 @@
       "activo": true
     },
     {
-      "sku": "741540100117",
-      "nombre": "BOBINA ALTA GY6 125 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.5,
-        "taller": 6.5,
-        "distribuidor": 5.25
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100117.png",
-      "imagen_size": 50125,
-      "activo": true
-    },
-    {
       "sku": "741540191339",
       "nombre": "BOBINA ALTA GY6 HOT PARTS",
       "marca": "VINI",
@@ -3710,7 +3689,7 @@
         "taller": 7.5,
         "distribuidor": 7
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4046,7 +4025,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 42,
+      "stock": 41,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5222,7 +5201,7 @@
         "taller": 3,
         "distribuidor": 2.25
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5306,7 +5285,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6545,7 +6524,7 @@
         "taller": 0.5,
         "distribuidor": 0.43
       },
-      "stock": 84,
+      "stock": 82,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7070,7 +7049,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7718,8 +7697,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 17,
-        "taller": 10.75,
-        "distribuidor": 10
+        "taller": 9.5,
+        "distribuidor": 8.75
       },
       "stock": 53,
       "stock_status": "in_stock",
@@ -7740,9 +7719,9 @@
       "precios": {
         "publico": 15,
         "taller": 8.5,
-        "distribuidor": 7.75
+        "distribuidor": 7.5
       },
-      "stock": 53,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9506,7 +9485,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19082,7 +19061,7 @@
         "taller": 13,
         "distribuidor": 11.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19523,7 +19502,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19964,7 +19943,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21098,7 +21077,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 59,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21182,7 +21161,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28028,7 +28007,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30863,7 +30842,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 42,
+      "stock": 41,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31241,7 +31220,7 @@
         "taller": 6.5,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31556,7 +31535,7 @@
         "taller": 5.25,
         "distribuidor": 4.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33047,7 +33026,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 27,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33089,7 +33068,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 31,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34506,27 +34485,6 @@
       "activo": true
     },
     {
-      "sku": "741540189123",
-      "nombre": "PATA VELOCIDAD FIRE125 VINI",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 8,
-        "distribuidor": 6.5
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189123.png",
-      "imagen_size": 40054,
-      "activo": true
-    },
-    {
       "sku": "741540190730",
       "nombre": "PATA VELOCIDAD PULSAR 135",
       "marca": "VINI",
@@ -34601,8 +34559,8 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34629,27 +34587,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540181717",
-      "nombre": "PATA VELOCIDAD VINI CGL125 (FL) UNIVERSAL",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.5,
-        "taller": 5.75,
-        "distribuidor": 5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540181717.png",
-      "imagen_size": 25530,
       "activo": true
     },
     {
@@ -34685,7 +34622,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34706,7 +34643,7 @@
         "taller": 5.75,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36911,7 +36848,7 @@
         "taller": 25.75,
         "distribuidor": 22
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40638,27 +40575,6 @@
       "activo": true
     },
     {
-      "sku": "741540100798",
-      "nombre": "RETENEDOR BARRA 37X50X11 INDIVIDUAL VINI(RC)",
-      "marca": "VINI",
-      "categoria": "SELLO BARRA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2,
-        "distribuidor": 1.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100798.jpg",
-      "imagen_size": 7387,
-      "activo": true
-    },
-    {
       "sku": "FOS016",
       "nombre": "RETENEDOR BARRA 41X53.5X11",
       "marca": "NRP",
@@ -43295,7 +43211,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45097,11 +45013,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12.75,
-        "taller": 10.5,
-        "distribuidor": 9
+        "publico": 18,
+        "taller": 11,
+        "distribuidor": 9.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -46005,27 +45921,6 @@
         "distribuidor": 5.5
       },
       "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "BS013",
-      "nombre": "ZAPATA DE FRENO RENEGADE 200",
-      "marca": "NRP",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12.25,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
