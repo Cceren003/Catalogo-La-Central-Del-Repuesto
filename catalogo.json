@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T00:40:37.740Z",
-  "count": 5708,
+  "generated_at": "2026-10-10T17:44:38.625Z",
+  "count": 5706,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 52,
+      "stock": 51,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 69,
+      "stock": 65,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1190,8 +1190,8 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3794,7 +3794,7 @@
         "taller": 2.5,
         "distribuidor": 2.15
       },
-      "stock": 53,
+      "stock": 52,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4025,7 +4025,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4508,7 +4508,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4802,7 +4802,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5558,7 +5558,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6503,7 +6503,7 @@
         "taller": 0.5,
         "distribuidor": 0.43
       },
-      "stock": 81,
+      "stock": 80,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6713,7 +6713,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16509,27 +16509,6 @@
       "activo": true
     },
     {
-      "sku": "741540189214",
-      "nombre": "DISCO FRENO RTX200 TRASERA VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 35,
-        "taller": 28.75,
-        "distribuidor": 24.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189214.png",
-      "imagen_size": 114526,
-      "activo": true
-    },
-    {
       "sku": "741540189218",
       "nombre": "DISCO FRENO SMX 150 DELANTERO VINI(FL)",
       "marca": "VINI",
@@ -19124,7 +19103,7 @@
         "taller": 1.5,
         "distribuidor": 1.35
       },
-      "stock": 100,
+      "stock": 99,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19376,7 +19355,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19530,27 +19509,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006361.png",
       "imagen_size": 51137,
-      "activo": true
-    },
-    {
-      "sku": "741540189687",
-      "nombre": "FILTRO AIRE CR1 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 5,
-        "distribuidor": 4.5
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189687.png",
-      "imagen_size": 99641,
       "activo": true
     },
     {
@@ -20594,7 +20552,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21035,7 +20993,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 27,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22337,7 +22295,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25382,7 +25340,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27083,7 +27041,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31430,7 +31388,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33068,7 +33026,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 37,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33127,11 +33085,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.5,
-        "taller": 3.75,
-        "distribuidor": 3.25
+        "publico": 7,
+        "taller": 3.5,
+        "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36155,8 +36113,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36659,7 +36617,7 @@
         "taller": 13,
         "distribuidor": 11
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37898,7 +37856,7 @@
         "taller": 0.35,
         "distribuidor": 0.27
       },
-      "stock": 21,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38654,8 +38612,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40796,7 +40754,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44828,7 +44786,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45143,7 +45101,7 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
