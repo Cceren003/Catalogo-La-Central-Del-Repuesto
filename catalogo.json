@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T18:44:26.900Z",
-  "count": 5711,
+  "generated_at": "2026-10-10T00:40:37.740Z",
+  "count": 5708,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 54,
+      "stock": 52,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 71,
+      "stock": 69,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3794,7 +3794,7 @@
         "taller": 2.5,
         "distribuidor": 2.15
       },
-      "stock": 63,
+      "stock": 53,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3969,27 +3969,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001105.jpg",
       "imagen_size": 123618,
-      "activo": true
-    },
-    {
-      "sku": "741540189182",
-      "nombre": "BRAZO VARILLA FRENO TRAS GN125 VINI",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 0,
-        "taller": 1.75,
-        "distribuidor": 0
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189182.png",
-      "imagen_size": 15555,
       "activo": true
     },
     {
@@ -6524,7 +6503,7 @@
         "taller": 0.5,
         "distribuidor": 0.43
       },
-      "stock": 82,
+      "stock": 81,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7700,7 +7679,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 53,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11616,27 +11595,6 @@
       "activo": true
     },
     {
-      "sku": "1006512",
-      "nombre": "CATARINA 520H 42T CR5 CR4 PRO 250Z",
-      "marca": "MEK",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 8.5,
-        "distribuidor": 7.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1000382",
       "nombre": "CATARINA 520H 42T XM200Z / KMF200",
       "marca": "MEK",
@@ -12138,27 +12096,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540178102.png",
       "imagen_size": 122248,
-      "activo": true
-    },
-    {
-      "sku": "741540178103",
-      "nombre": "CATARINA XL 45T 4H VINI(FL)",
-      "marca": "VINI",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 10,
-        "distribuidor": 8.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540178103.png",
-      "imagen_size": 118342,
       "activo": true
     },
     {
@@ -19544,7 +19481,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20804,7 +20741,7 @@
         "taller": 0.5,
         "distribuidor": 0.35
       },
-      "stock": 35,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20972,7 +20909,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20993,7 +20930,7 @@
         "taller": 4.5,
         "distribuidor": 4.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21056,8 +20993,8 @@
         "taller": 6.5,
         "distribuidor": 6
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21161,7 +21098,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23681,7 +23618,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 34,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30359,7 +30296,7 @@
         "taller": 52,
         "distribuidor": 50
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30926,8 +30863,8 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31241,7 +31178,7 @@
         "taller": 21.25,
         "distribuidor": 18
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33572,7 +33509,7 @@
         "taller": 3.75,
         "distribuidor": 2.75
       },
-      "stock": 15,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34958,8 +34895,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36743,7 +36680,7 @@
         "taller": 21.5,
         "distribuidor": 18.25
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37814,7 +37751,7 @@
         "taller": 0.5,
         "distribuidor": 0.3
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40019,7 +39956,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43652,7 +43589,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
