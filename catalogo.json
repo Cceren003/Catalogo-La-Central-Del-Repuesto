@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:44:38.625Z",
+  "generated_at": "2026-10-11T00:11:05.789Z",
   "count": 5706,
   "productos": [
     {
@@ -35,7 +35,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 32,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2660,7 +2660,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 39,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3647,7 +3647,7 @@
         "taller": 13,
         "distribuidor": 12
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25403,7 +25403,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32858,7 +32858,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38003,7 +38003,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43211,7 +43211,7 @@
         "taller": 7.25,
         "distribuidor": 6.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45500,7 +45500,7 @@
         "taller": 3.5,
         "distribuidor": 1
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
