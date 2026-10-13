@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T21:41:11.665Z",
-  "count": 5724,
+  "generated_at": "2026-10-13T19:49:30.105Z",
+  "count": 5716,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 50,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 38,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2166,27 +2166,6 @@
       "activo": true
     },
     {
-      "sku": "741540100225",
-      "nombre": "BASE CATARINA CGL125 / CR1 VINI (RC)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 24.75,
-        "taller": 20.25,
-        "distribuidor": 17.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100225.png",
-      "imagen_size": 68347,
-      "activo": true
-    },
-    {
       "sku": "741540189270",
       "nombre": "BASE CATARINA FORZA 150",
       "marca": "VINI",
@@ -2261,8 +2240,8 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2429,7 +2408,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3601,11 +3580,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 24.25,
+        "publico": 30,
         "taller": 19.75,
         "distribuidor": 17
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3689,8 +3668,8 @@
         "taller": 7.5,
         "distribuidor": 7
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3815,7 +3794,7 @@
         "taller": 2.5,
         "distribuidor": 2.15
       },
-      "stock": 52,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4025,7 +4004,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 41,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6167,7 +6146,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6545,7 +6524,7 @@
         "taller": 0.5,
         "distribuidor": 0.43
       },
-      "stock": 80,
+      "stock": 70,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6881,7 +6860,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7742,7 +7721,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 53,
+      "stock": 52,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9506,7 +9485,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9989,7 +9968,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18546,27 +18525,6 @@
       "activo": true
     },
     {
-      "sku": "741540165207",
-      "nombre": "ESPEJO SET NIQUEL (-017-000) CHOPER-FIRE150  VINI RH-RH 10MM(FL)",
-      "marca": "VINI",
-      "categoria": "ESPEJOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11,
-        "taller": 6.75,
-        "distribuidor": 5.75
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540165207.jpg",
-      "imagen_size": 5874,
-      "activo": true
-    },
-    {
       "sku": "741540100769",
       "nombre": "ESPEJO SET PULSAR 200NS VINI(FL)",
       "marca": "VINI",
@@ -18683,7 +18641,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18879,27 +18837,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100550.png",
       "imagen_size": 97133,
-      "activo": true
-    },
-    {
-      "sku": "741540189314",
-      "nombre": "ESTRIBO YARA 200 TRASERO",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17.25,
-        "taller": 14,
-        "distribuidor": 12
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189314.png",
-      "imagen_size": 93135,
       "activo": true
     },
     {
@@ -19551,27 +19488,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188483.png",
       "imagen_size": 123817,
-      "activo": true
-    },
-    {
-      "sku": "990560288119",
-      "nombre": "FILTRO AIRE CB190R-CB160-XBLADE",
-      "marca": "MEK",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.5,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -20972,7 +20888,7 @@
         "taller": 3.5,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21980,7 +21896,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24185,7 +24101,7 @@
         "taller": 21.25,
         "distribuidor": 18.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25319,34 +25235,13 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190984.png",
       "imagen_size": 79298,
-      "activo": true
-    },
-    {
-      "sku": "BRB013",
-      "nombre": "KIT CUNA FXR200L / TT200 / MOTO CHINA 200",
-      "marca": "NRP",
-      "categoria": "DIRECCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 7.5,
-        "distribuidor": 6.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -25561,7 +25456,7 @@
     },
     {
       "sku": "741540188543",
-      "nombre": "KIT CUNA STORM-CBF-INVICTA-NAVI-UNICOR / KATANA MK1 DAYUN150-29 VINI (FL)",
+      "nombre": "KIT CUNA STORM-CBF-INVICTA-NAVI-UNICOR-NOVA / KATANA MK1 DAYUN150-29 VINI (FL)",
       "marca": "VINI",
       "categoria": "DIRECCION",
       "presentacion": "UNIDAD",
@@ -25571,7 +25466,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28847,7 +28742,7 @@
         "taller": 11.75,
         "distribuidor": 10
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33190,12 +33085,12 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.75,
+        "publico": 7,
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33236,7 +33131,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33782,7 +33677,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36974,7 +36869,7 @@
         "taller": 13,
         "distribuidor": 11
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37086,27 +36981,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189685",
-      "nombre": "PLANTA DURAMAX VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 31,
-        "taller": 25.75,
-        "distribuidor": 22
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189685.png",
-      "imagen_size": 145483,
       "activo": true
     },
     {
@@ -40061,7 +39935,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 31,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44649,27 +44523,6 @@
       "activo": true
     },
     {
-      "sku": "1000548",
-      "nombre": "TAPON TANQUE COMBUSTIBLE CGL 125",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000548.jpg",
-      "imagen_size": 103668,
-      "activo": true
-    },
-    {
       "sku": "56JL0401",
       "nombre": "TAPON TANQUE COMBUSTIBLE PULSAR200NS",
       "marca": "MEK",
@@ -44793,27 +44646,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188054.jpg",
       "imagen_size": 9315,
-      "activo": true
-    },
-    {
-      "sku": "1001519",
-      "nombre": "TAPON TANQUE TODO TERRENO",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11,
-        "taller": 6.75,
-        "distribuidor": 5.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001519.png",
-      "imagen_size": 55525,
       "activo": true
     },
     {
@@ -45353,8 +45185,8 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
