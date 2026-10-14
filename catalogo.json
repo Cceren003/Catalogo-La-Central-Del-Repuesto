@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T17:55:11.049Z",
-  "count": 5715,
+  "generated_at": "2026-10-14T23:49:30.700Z",
+  "count": 5710,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 108,
+      "stock": 93,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,8 +98,8 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 17,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1904,7 +1904,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4025,7 +4025,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 31,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4067,7 +4067,7 @@
         "taller": 9.5,
         "distribuidor": 9
       },
-      "stock": 14,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4088,7 +4088,7 @@
         "taller": 10.75,
         "distribuidor": 9.5
       },
-      "stock": 12,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4109,8 +4109,8 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4151,8 +4151,8 @@
         "taller": 2.1,
         "distribuidor": 1.85
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5558,8 +5558,8 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 19,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -9506,7 +9506,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13590,27 +13590,6 @@
       "activo": true
     },
     {
-      "sku": "741540189092",
-      "nombre": "CIGUEÑAL FORZA 150 CR1-CG150 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 95,
-        "taller": 69.75,
-        "distribuidor": 59.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189092.png",
-      "imagen_size": 107691,
-      "activo": true
-    },
-    {
       "sku": "741540100526",
       "nombre": "CIGUEÑAL NXR150 BROS/HUNK/ INVICTA150 VINI",
       "marca": "VINI",
@@ -13685,7 +13664,7 @@
         "taller": 55,
         "distribuidor": 50
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13818,27 +13797,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189056.png",
       "imagen_size": 95705,
-      "activo": true
-    },
-    {
-      "sku": "741540100316",
-      "nombre": "CILINDRO COMPLETO BROSS 150 XR150",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 79.75,
-        "taller": 65.5,
-        "distribuidor": 55.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100316.png",
-      "imagen_size": 70823,
       "activo": true
     },
     {
@@ -15932,7 +15890,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 40,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18735,27 +18693,6 @@
       "activo": true
     },
     {
-      "sku": "1001584",
-      "nombre": "ESTRIBO CENTRAL COMPLETO  CG125 NAGA200 2016",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 10.5,
-        "distribuidor": 9
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001584.png",
-      "imagen_size": 9586,
-      "activo": true
-    },
-    {
       "sku": "741540188647",
       "nombre": "ESTRIBO COMPLETO CG-125",
       "marca": "VINI",
@@ -19166,7 +19103,7 @@
         "taller": 1.5,
         "distribuidor": 1.35
       },
-      "stock": 98,
+      "stock": 92,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20615,7 +20552,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25949,7 +25886,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26054,7 +25991,7 @@
         "taller": 8.25,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27944,7 +27881,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29162,7 +29099,7 @@
         "taller": 13,
         "distribuidor": 10.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29295,27 +29232,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100449.png",
       "imagen_size": 56577,
-      "activo": true
-    },
-    {
-      "sku": "741540188206",
-      "nombre": "KIT VALVULA XR150L / DAYUN-SHADOW-HUNK (150)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 11,
-        "distribuidor": 9
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188206.png",
-      "imagen_size": 44689,
       "activo": true
     },
     {
@@ -29687,7 +29603,7 @@
         "taller": 23,
         "distribuidor": 21
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32182,8 +32098,8 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 62.25,
-        "taller": 51,
+        "publico": 62,
+        "taller": 49,
         "distribuidor": 43.25
       },
       "stock": 1,
@@ -33089,7 +33005,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 24,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35091,27 +35007,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189560.png",
       "imagen_size": 131587,
-      "activo": true
-    },
-    {
-      "sku": "741540187955",
-      "nombre": "PIDE VIA SET FZ16 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 7,
-        "distribuidor": 6
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540187955.png",
-      "imagen_size": 128489,
       "activo": true
     },
     {
