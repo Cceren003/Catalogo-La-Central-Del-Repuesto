@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T17:42:27.271Z",
-  "count": 5709,
+  "generated_at": "2026-10-15T23:38:12.939Z",
+  "count": 5704,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 89,
+      "stock": 84,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -161,7 +161,7 @@
         "taller": 15,
         "distribuidor": 13
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -875,7 +875,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1694,7 +1694,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,8 +2282,8 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2303,7 +2303,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,8 +2366,8 @@
         "taller": 19,
         "distribuidor": 18
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2387,8 +2387,8 @@
         "taller": 15,
         "distribuidor": 14
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2408,7 +2408,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2429,8 +2429,8 @@
         "taller": 21.5,
         "distribuidor": 19.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2450,8 +2450,8 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2639,7 +2639,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 38,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3615,27 +3615,6 @@
       "activo": true
     },
     {
-      "sku": "741540188670",
-      "nombre": "BOMBA FRENO DEL UNIVERSAL TB-110 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 13,
-        "distribuidor": 12
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188670.png",
-      "imagen_size": 74296,
-      "activo": true
-    },
-    {
       "sku": "741540190693",
       "nombre": "BOMBA FRENO DELANTERA GIXXER 150 VINI",
       "marca": "VINI",
@@ -3794,7 +3773,7 @@
         "taller": 2.5,
         "distribuidor": 2.15
       },
-      "stock": 47,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4046,7 +4025,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5957,7 +5936,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5978,7 +5957,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7101,27 +7080,6 @@
       "activo": true
     },
     {
-      "sku": "1003769",
-      "nombre": "CADENA 428H-138L DORADA MEK",
-      "marca": "MEK",
-      "categoria": "CADENAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 8,
-        "distribuidor": 7.25
-      },
-      "stock": 17,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003769.png",
-      "imagen_size": 57640,
-      "activo": true
-    },
-    {
       "sku": "741540106801",
       "nombre": "CADENA TIEMPO (3X4-100L) GY200 VINI(FL)",
       "marca": "VINI",
@@ -7406,7 +7364,7 @@
         "taller": 10,
         "distribuidor": 8
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7721,7 +7679,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 46,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8127,27 +8085,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100056.png",
       "imagen_size": 99871,
-      "activo": true
-    },
-    {
-      "sku": "741540190289",
-      "nombre": "CAJA TRANSMISION XR150L",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 111.25,
-        "taller": 91.25,
-        "distribuidor": 77.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -9492,27 +9429,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100314.png",
       "imagen_size": 69144,
-      "activo": true
-    },
-    {
-      "sku": "741540188247",
-      "nombre": "CARBURADOR SMX200-CG200-CG300-PZ30",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 28,
-        "taller": 21,
-        "distribuidor": 19
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188247.png",
-      "imagen_size": 78151,
       "activo": true
     },
     {
@@ -11543,7 +11459,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12425,7 +12341,7 @@
         "taller": 9,
         "distribuidor": 8.25
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14273,7 +14189,7 @@
         "taller": 76,
         "distribuidor": 67
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18725,7 +18641,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19355,7 +19271,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20069,7 +19985,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20951,7 +20867,7 @@
         "taller": 6.5,
         "distribuidor": 6
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20972,7 +20888,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 47,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20993,7 +20909,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 24,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21035,34 +20951,13 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100374.png",
       "imagen_size": 121913,
-      "activo": true
-    },
-    {
-      "sku": "741540100372",
-      "nombre": "FRICCION YAMAHA DT 125 YBR VINI (FL)",
-      "marca": "VINI",
-      "categoria": "FRICCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 4.5,
-        "distribuidor": 3.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100372.png",
-      "imagen_size": 130301,
       "activo": true
     },
     {
@@ -21497,7 +21392,7 @@
         "taller": 11,
         "distribuidor": 9.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25151,7 +25046,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27503,7 +27398,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 13,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29137,9 +29032,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 14.75,
-        "taller": 12.25,
-        "distribuidor": 10.25
+        "publico": 28,
+        "taller": 17,
+        "distribuidor": 14.75
       },
       "stock": 4,
       "stock_status": "low_stock",
@@ -32459,7 +32354,7 @@
         "taller": 3.5,
         "distribuidor": 3.5
       },
-      "stock": 34,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32480,7 +32375,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 13,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32501,7 +32396,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32522,7 +32417,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32543,7 +32438,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32564,7 +32459,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32900,7 +32795,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 40,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33530,7 +33425,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33593,7 +33488,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34496,7 +34391,7 @@
         "taller": 8,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34979,7 +34874,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36218,7 +36113,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36638,7 +36533,7 @@
         "taller": 38.5,
         "distribuidor": 32.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36722,7 +36617,7 @@
         "taller": 13,
         "distribuidor": 11
       },
-      "stock": 16,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37247,7 +37142,7 @@
         "taller": 33,
         "distribuidor": 28
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39658,11 +39553,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0.75,
-        "taller": 0.5,
-        "distribuidor": 0.5
+        "publico": 2,
+        "taller": 1.25,
+        "distribuidor": 0.9
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39788,7 +39683,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40019,7 +39914,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40481,7 +40376,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 10,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44713,17 +44608,17 @@
     },
     {
       "sku": "741540188220",
-      "nombre": "TENSOR AUTOMATICO HUNK",
+      "nombre": "TENSOR AUTOMATICO HUNK 150",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 13,
-        "taller": 10.75,
-        "distribuidor": 9
+        "publico": 19,
+        "taller": 12,
+        "distribuidor": 10.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
