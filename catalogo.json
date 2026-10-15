@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T23:49:30.700Z",
-  "count": 5710,
+  "generated_at": "2026-10-15T17:42:27.271Z",
+  "count": 5709,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 93,
+      "stock": 89,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1778,7 +1778,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,7 +2282,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,7 +2387,7 @@
         "taller": 15,
         "distribuidor": 14
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,7 +2408,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3752,7 +3752,7 @@
         "taller": 10.5,
         "distribuidor": 9
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7465,7 +7465,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12,
+        "publico": 18,
         "taller": 10,
         "distribuidor": 8.5
       },
@@ -7822,9 +7822,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 28.75,
-        "taller": 16,
-        "distribuidor": 14
+        "publico": 29,
+        "taller": 18,
+        "distribuidor": 16.75
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -12446,8 +12446,8 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -15554,7 +15554,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15795,27 +15795,6 @@
       "activo": true
     },
     {
-      "sku": "741540189140",
-      "nombre": "DISCO CLUTCH SET NAGA200 / CR2",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189140.png",
-      "imagen_size": 226625,
-      "activo": true
-    },
-    {
       "sku": "741540188186",
       "nombre": "DISCO CLUTCH SET PULSAR 135 ( 4 1) VINI(FL)",
       "marca": "VINI",
@@ -15890,7 +15869,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 39,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19859,7 +19838,7 @@
         "taller": 6,
         "distribuidor": 4.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20090,7 +20069,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20552,7 +20531,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20888,7 +20867,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 19,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20993,7 +20972,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 49,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21014,7 +20993,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 26,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32963,7 +32942,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39263,7 +39242,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
