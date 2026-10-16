@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T23:38:12.939Z",
-  "count": 5704,
+  "generated_at": "2026-10-16T17:17:53.600Z",
+  "count": 5703,
   "productos": [
     {
       "sku": "104105",
@@ -161,7 +161,7 @@
         "taller": 15,
         "distribuidor": 13
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2429,7 +2429,7 @@
         "taller": 21.5,
         "distribuidor": 19.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3612,27 +3612,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190823.png",
       "imagen_size": 88280,
-      "activo": true
-    },
-    {
-      "sku": "741540190693",
-      "nombre": "BOMBA FRENO DELANTERA GIXXER 150 VINI",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22.75,
-        "taller": 18.75,
-        "distribuidor": 16
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190693.png",
-      "imagen_size": 60709,
       "activo": true
     },
     {
@@ -15974,7 +15953,7 @@
         "taller": 18.5,
         "distribuidor": 15.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20447,7 +20426,7 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25267,7 +25246,7 @@
     },
     {
       "sku": "741540188543",
-      "nombre": "KIT CUNA STORM-CBF-INVICTA-NAVI-UNICOR-NOVA / KATANA MK1 DAYUN150-29 VINI (FL)",
+      "nombre": "KIT CUNA STORM-CBF-INVICTA-NAVI-UNICOR-NOVA / KATANA MK1 DAYUN150-29 SMX250 VINI (FL)",
       "marca": "VINI",
       "categoria": "DIRECCION",
       "presentacion": "UNIDAD",
@@ -29109,6 +29088,27 @@
       "activo": true
     },
     {
+      "sku": "741540188206",
+      "nombre": "KIT VALVULA XR150L / DAYUN-SHADOW-HUNK (150)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 15,
+        "taller": 11,
+        "distribuidor": 9
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188206.png",
+      "imagen_size": 44689,
+      "activo": true
+    },
+    {
       "sku": "741540190265",
       "nombre": "KIT VALVULA XR190L VINI",
       "marca": "VINI",
@@ -30023,7 +30023,7 @@
         "taller": 33.75,
         "distribuidor": 31.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31689,27 +31689,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190748.png",
       "imagen_size": 94807,
-      "activo": true
-    },
-    {
-      "sku": "1006127",
-      "nombre": "MONOSHOCK NAGA200 / SERPENTO NAGA",
-      "marca": "MOTUL",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 53.5,
-        "taller": 43.75,
-        "distribuidor": 37.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006127.jpg",
-      "imagen_size": 49822,
       "activo": true
     },
     {
@@ -33488,7 +33467,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38570,7 +38549,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
