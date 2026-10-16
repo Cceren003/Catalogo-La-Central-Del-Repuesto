@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T17:17:53.600Z",
-  "count": 5703,
+  "generated_at": "2026-10-16T23:24:56.911Z",
+  "count": 5700,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 84,
+      "stock": 82,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 18,
         "distribuidor": 17.08
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -182,7 +182,7 @@
         "taller": 18,
         "distribuidor": 15.5
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1715,8 +1715,8 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 9,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2282,7 +2282,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2366,7 @@
         "taller": 19,
         "distribuidor": 18
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,7 +2408,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2450,7 +2450,7 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3962,7 +3962,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 31,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4235,7 +4235,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4907,7 +4907,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5358,27 +5358,6 @@
       "activo": true
     },
     {
-      "sku": "CLC023",
-      "nombre": "CABLE CLUTCH APACHE RTR 160-180",
-      "marca": "NRP",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4.75,
-        "taller": 4,
-        "distribuidor": 3.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1002817",
       "nombre": "CABLE CLUTCH BROSS CHINA NTR 125",
       "marca": "MEK",
@@ -5516,7 +5495,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6356,7 +6335,7 @@
         "taller": 5.25,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,7 +7637,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 35,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9198,27 +9177,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1003034.jpg",
       "imagen_size": 14913,
-      "activo": true
-    },
-    {
-      "sku": "1003575",
-      "nombre": "CARBURADOR GY6 125SCOOTER",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 49.25,
-        "taller": 31.5,
-        "distribuidor": 26.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003575.jpg",
-      "imagen_size": 356637,
       "activo": true
     },
     {
@@ -13139,7 +13097,7 @@
         "taller": 26.75,
         "distribuidor": 22.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14080,7 +14038,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 88.75,
+        "publico": 95,
         "taller": 72.75,
         "distribuidor": 61.75
       },
@@ -15764,7 +15722,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 33,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18977,7 +18935,7 @@
         "taller": 1.5,
         "distribuidor": 1.35
       },
-      "stock": 92,
+      "stock": 91,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20867,7 +20825,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25256,8 +25214,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -27040,27 +26998,6 @@
         "publico": 29,
         "taller": 17,
         "distribuidor": 15.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189095",
-      "nombre": "KIT PISTON FORZA150-SPITZER150-CGH",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22.75,
-        "taller": 18.75,
-        "distribuidor": 15.75
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -29015,7 +28952,7 @@
         "taller": 17,
         "distribuidor": 14.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29498,7 +29435,7 @@
         "taller": 39,
         "distribuidor": 36.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29981,7 +29918,7 @@
         "taller": 24,
         "distribuidor": 22.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30317,7 +30254,7 @@
         "taller": 30.75,
         "distribuidor": 28.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32858,7 +32795,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33614,7 +33551,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 26,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34454,7 +34391,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36575,7 +36512,7 @@
         "taller": 28.25,
         "distribuidor": 24
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37373,7 +37310,7 @@
         "taller": 21.5,
         "distribuidor": 18.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
