@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T23:24:56.911Z",
-  "count": 5700,
+  "generated_at": "2026-10-17T16:17:42.614Z",
+  "count": 5699,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 82,
+      "stock": 74,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -455,7 +455,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2450,7 +2450,7 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7322,7 +7322,7 @@
         "taller": 10,
         "distribuidor": 8
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7696,11 +7696,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 33,
-        "taller": 30.25,
-        "distribuidor": 28.25
+        "publico": 45,
+        "taller": 33,
+        "distribuidor": 29
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21318,27 +21318,6 @@
       "activo": true
     },
     {
-      "sku": "741540188485",
-      "nombre": "GUIA CADENA TIEMPO SET XR150L-HUNK150-CBF150 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13.5,
-        "taller": 11,
-        "distribuidor": 9.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188485.png",
-      "imagen_size": 77968,
-      "activo": true
-    },
-    {
       "sku": "741540189513",
       "nombre": "GUIA CADENA TIEMPO SET XTZ125",
       "marca": "VINI",
@@ -23849,7 +23828,7 @@
         "taller": 21.25,
         "distribuidor": 18.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26201,7 +26180,7 @@
         "taller": 10,
         "distribuidor": 8.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32270,7 +32249,7 @@
         "taller": 3.5,
         "distribuidor": 3.5
       },
-      "stock": 33,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32291,7 +32270,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32333,7 +32312,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 14,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39599,7 +39578,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 29,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43673,7 +43652,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
