@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T19:11:01.518Z",
-  "count": 5695,
+  "generated_at": "2026-10-17T22:59:56.871Z",
+  "count": 5694,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 74,
+      "stock": 73,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17906,7 +17906,7 @@
         "taller": 0.75,
         "distribuidor": 0.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21717,27 +21717,6 @@
       "activo": true
     },
     {
-      "sku": "741540189766",
-      "nombre": "HERRAMIENTA CUBO IMPACTO 8MM",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189766.png",
-      "imagen_size": 80760,
-      "activo": true
-    },
-    {
       "sku": "741540189770",
       "nombre": "HERRAMIENTA CUBO TALADRO 14MM",
       "marca": "VINI",
@@ -22085,8 +22064,8 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -23975,7 +23954,7 @@
         "taller": 6.75,
         "distribuidor": 5.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30632,7 +30611,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
