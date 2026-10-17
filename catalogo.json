@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T16:17:42.614Z",
-  "count": 5699,
+  "generated_at": "2026-10-17T19:11:01.518Z",
+  "count": 5695,
   "productos": [
     {
       "sku": "104105",
@@ -1715,7 +1715,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,7 +2282,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15900,27 +15900,6 @@
       "activo": true
     },
     {
-      "sku": "741540189215",
-      "nombre": "DISCO FRENO AK TTR200 FXR150 TRASERO VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22.75,
-        "taller": 18.5,
-        "distribuidor": 15.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189215.png",
-      "imagen_size": 111006,
-      "activo": true
-    },
-    {
       "sku": "741540189217",
       "nombre": "DISCO FRENO CBF125-150-HUNK-CR4 TRASERO VINI(FL)",
       "marca": "VINI",
@@ -18935,7 +18914,7 @@
         "taller": 1.5,
         "distribuidor": 1.35
       },
-      "stock": 91,
+      "stock": 80,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19775,7 +19754,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20321,7 +20300,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 26,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21612,27 +21591,6 @@
       "activo": true
     },
     {
-      "sku": "741540140574",
-      "nombre": "HERRAMIENTA CORTADOR CADENA VINI",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 13,
-        "taller": 10,
-        "distribuidor": 8.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540140574.png",
-      "imagen_size": 61522,
-      "activo": true
-    },
-    {
       "sku": "741540189817",
       "nombre": "HERRAMIENTA CUBO BOMBA AK125",
       "marca": "VINI",
@@ -22344,27 +22302,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189772.png",
       "imagen_size": 81285,
-      "activo": true
-    },
-    {
-      "sku": "741540189811",
-      "nombre": "HERRAMIENTA VINI AJUSTE TUERCA",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 8,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -29456,7 +29393,7 @@
         "taller": 27,
         "distribuidor": 25.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32690,7 +32627,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 39,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39452,7 +39389,7 @@
         "taller": 1.25,
         "distribuidor": 0.9
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43914,27 +43851,6 @@
       "activo": true
     },
     {
-      "sku": "1006049",
-      "nombre": "TABLERO GN125F FIRE125 FIRE 150ASPID 150 ANALOGO",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 37.75,
-        "taller": 31,
-        "distribuidor": 26.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006049.png",
-      "imagen_size": 36232,
-      "activo": true
-    },
-    {
       "sku": "2000012",
       "nombre": "TANQUE GN125/FR150 NEGRO",
       "marca": "MEK",
@@ -44765,7 +44681,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
