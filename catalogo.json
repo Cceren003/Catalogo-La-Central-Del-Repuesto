@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T22:57:18.797Z",
-  "count": 5694,
+  "generated_at": "2026-10-19T19:12:54.285Z",
+  "count": 5692,
   "productos": [
     {
       "sku": "104105",
@@ -35,7 +35,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 73,
+      "stock": 72,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +4004,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5642,7 +5642,7 @@
         "taller": 3,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,7 +7658,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 52,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7721,7 +7721,7 @@
         "taller": 15.5,
         "distribuidor": 14
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19208,7 +19208,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20825,7 +20825,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22785,27 +22785,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189814.png",
       "imagen_size": 36725,
-      "activo": true
-    },
-    {
-      "sku": "741540189775",
-      "nombre": "HERRAMIENTA VINI LLAVE INGLESA 10MM",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189775.png",
-      "imagen_size": 44965,
       "activo": true
     },
     {
@@ -32585,7 +32564,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32753,7 +32732,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 33,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35535,27 +35514,6 @@
       "activo": true
     },
     {
-      "sku": "741540189455",
-      "nombre": "PIÑON ATAQUE 17T YARA 200 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "PIÑONES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189455.png",
-      "imagen_size": 107180,
-      "activo": true
-    },
-    {
       "sku": "1000381",
       "nombre": "PIÑON ATAQUE 520H-13T  CR4 XL200/ FALCON 250/  HUNK 200",
       "marca": "MEK",
@@ -36071,7 +36029,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40271,7 +40229,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
