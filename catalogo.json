@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T17:53:05.380Z",
-  "count": 5685,
+  "generated_at": "2026-10-20T23:44:49.711Z",
+  "count": 5686,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 69,
+      "stock": 57,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -917,7 +917,7 @@
         "taller": 5,
         "distribuidor": 3.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1066,6 +1066,27 @@
       },
       "stock": 13,
       "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "6204-2RS",
+      "nombre": "BALERO 6204 KOYO",
+      "marca": "KOYO",
+      "categoria": "BALEROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 4.25,
+        "distribuidor": 3.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2250,6 +2271,27 @@
       "activo": true
     },
     {
+      "sku": "TS12N7-4A",
+      "nombre": "BATERIA DE GEL 12N7-4A TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 28,
+        "taller": 22,
+        "distribuidor": 20
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "TS12N7A-3A",
       "nombre": "BATERIA DE GEL 12N7A-3A TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2261,8 +2303,8 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2324,8 +2366,8 @@
         "taller": 19,
         "distribuidor": 18
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2345,8 +2387,8 @@
         "taller": 15,
         "distribuidor": 14
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2366,8 +2408,8 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2408,8 +2450,8 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3563,7 +3605,7 @@
         "taller": 7.5,
         "distribuidor": 7
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3773,7 +3815,7 @@
         "taller": 0.5,
         "distribuidor": 0.35
       },
-      "stock": 56,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3899,7 +3941,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3941,7 +3983,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 28,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5096,7 +5138,7 @@
         "taller": 3,
         "distribuidor": 2.25
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7045,9 +7087,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8,
-        "taller": 6,
-        "distribuidor": 5
+        "publico": 15,
+        "taller": 10,
+        "distribuidor": 8.5
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -7857,27 +7899,6 @@
       "activo": true
     },
     {
-      "sku": "741540188027",
-      "nombre": "CAJA TRANSMISION CBF125-INVICTA-HUNK VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 139,
-        "taller": 113.75,
-        "distribuidor": 96.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188027.png",
-      "imagen_size": 93176,
-      "activo": true
-    },
-    {
       "sku": "741540100493",
       "nombre": "CAJA TRANSMISION CG200 (DSR200)-ASPID CONTRAPESA VINI (FL)",
       "marca": "VINI",
@@ -7980,6 +8001,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100056.png",
       "imagen_size": 99871,
+      "activo": true
+    },
+    {
+      "sku": "741540190289",
+      "nombre": "CAJA TRANSMISION XR150L",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 111.25,
+        "taller": 91.25,
+        "distribuidor": 77.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -12215,7 +12257,7 @@
         "taller": 9,
         "distribuidor": 8.25
       },
-      "stock": 13,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23282,7 +23324,7 @@
         "taller": 7.5,
         "distribuidor": 6.25
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24195,27 +24237,6 @@
       "activo": true
     },
     {
-      "sku": "CK031",
-      "nombre": "KIT CILINDRO COMPLETO 196CC, VARILLA PIN 15 CG200 GRIS NRP",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 67.25,
-        "taller": 55.25,
-        "distribuidor": 47
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CK008",
       "nombre": "KIT CILINDRO COMPLETO CB125F TWISTER MOTOR125FMI, 125CC, CADENILLA PIN12",
       "marca": "NRP",
@@ -24710,7 +24731,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28679,7 +28700,7 @@
         "taller": 11.25,
         "distribuidor": 9.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30548,7 +30569,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32564,7 +32585,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33299,7 +33320,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36425,8 +36446,8 @@
       "empaque": "1*1",
       "precios": {
         "publico": 45,
-        "taller": 37,
-        "distribuidor": 31.5
+        "taller": 32,
+        "distribuidor": 29
       },
       "stock": 1,
       "stock_status": "low_stock",
