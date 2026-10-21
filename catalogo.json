@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T23:44:49.711Z",
-  "count": 5686,
+  "generated_at": "2026-10-21T17:58:19.669Z",
+  "count": 5683,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 57,
+      "stock": 56,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -885,27 +885,6 @@
       "activo": true
     },
     {
-      "sku": "1004426",
-      "nombre": "BALERO 6005 2RS",
-      "marca": "MEK",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 3,
-        "taller": 2,
-        "distribuidor": 1.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004426.png",
-      "imagen_size": 39167,
-      "activo": true
-    },
-    {
       "sku": "6005-2RS",
       "nombre": "BALERO 6005 KOYO",
       "marca": "NRP",
@@ -1127,7 +1106,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1673,7 +1652,7 @@
         "taller": 2.25,
         "distribuidor": 2
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2971,9 +2950,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.5,
-        "taller": 5.25,
-        "distribuidor": 4.5
+        "publico": 12,
+        "taller": 6,
+        "distribuidor": 5
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -3941,7 +3920,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 29,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4088,7 +4067,7 @@
         "taller": 2.1,
         "distribuidor": 1.85
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4361,7 +4340,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 18,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6755,7 +6734,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8183,7 +8162,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10619,7 +10598,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12204,27 +12183,6 @@
       "activo": true
     },
     {
-      "sku": "CDI025",
-      "nombre": "CDI",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16,
-        "taller": 13,
-        "distribuidor": 11.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540189399",
       "nombre": "CDI AK RTX 200 ELECTRONICO REDONDO",
       "marca": "VINI",
@@ -12960,6 +12918,27 @@
       "activo": true
     },
     {
+      "sku": "CDI025",
+      "nombre": "CDI YBR",
+      "marca": "NRP",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 16,
+        "taller": 13,
+        "distribuidor": 11.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540191117",
       "nombre": "CDI YBR 125 (2003) VINI",
       "marca": "VINI",
@@ -13482,27 +13461,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189348.png",
       "imagen_size": 90954,
-      "activo": true
-    },
-    {
-      "sku": "741540189060",
-      "nombre": "CILINDRO COMPLETO AK150-TTR150-FORZA150-CG150 VARILLA PIN13 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 90,
-        "taller": 55,
-        "distribuidor": 50
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189060.png",
-      "imagen_size": 101597,
       "activo": true
     },
     {
@@ -14532,27 +14490,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189331.png",
       "imagen_size": 111262,
-      "activo": true
-    },
-    {
-      "sku": "741540100317",
-      "nombre": "CILINDRO COMPLETO YBR125",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 82.25,
-        "taller": 67.5,
-        "distribuidor": 57.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100317.png",
-      "imagen_size": 77365,
       "activo": true
     },
     {
@@ -20741,7 +20678,7 @@
         "taller": 6.5,
         "distribuidor": 6
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20762,7 +20699,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 10,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20846,7 +20783,7 @@
         "taller": 0.25,
         "distribuidor": 0.15
       },
-      "stock": 67,
+      "stock": 63,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22967,7 +22904,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28175,7 +28112,7 @@
         "taller": 12,
         "distribuidor": 10
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29057,7 +28994,7 @@
         "taller": 4.75,
         "distribuidor": 4
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29435,7 +29372,7 @@
         "taller": 43.25,
         "distribuidor": 40.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30233,7 +30170,7 @@
         "taller": 8.25,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30275,7 +30212,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30422,7 +30359,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 40,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32585,7 +32522,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32669,7 +32606,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32711,7 +32648,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33446,7 +33383,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40605,7 +40542,7 @@
       "precios": {
         "publico": 1.75,
         "taller": 1.25,
-        "distribuidor": 1
+        "distribuidor": 0.9
       },
       "stock": 9,
       "stock_status": "in_stock",
