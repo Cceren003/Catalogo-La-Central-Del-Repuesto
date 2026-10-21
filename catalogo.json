@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T17:58:19.669Z",
-  "count": 5683,
+  "generated_at": "2026-10-21T23:57:57.352Z",
+  "count": 5684,
   "productos": [
     {
       "sku": "104105",
@@ -98,8 +98,8 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 115,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -651,27 +651,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100406.png",
       "imagen_size": 82723,
-      "activo": true
-    },
-    {
-      "sku": "741540100135",
-      "nombre": "ARO 1.60*21",
-      "marca": "MOTUL",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 40.75,
-        "taller": 33.25,
-        "distribuidor": 28.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100135.png",
-      "imagen_size": 86457,
       "activo": true
     },
     {
@@ -2261,7 +2240,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2345,7 @@
         "taller": 15,
         "distribuidor": 14
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,7 +2366,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,7 +2387,7 @@
         "taller": 21.5,
         "distribuidor": 19.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2940,27 +2919,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540100118",
-      "nombre": "BOBINA ALTA YBR125 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100118.png",
-      "imagen_size": 78608,
       "activo": true
     },
     {
@@ -3584,7 +3542,7 @@
         "taller": 7.5,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3710,7 +3668,7 @@
         "taller": 2.5,
         "distribuidor": 2.15
       },
-      "stock": 45,
+      "stock": 35,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3773,7 +3731,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 39,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3920,7 +3878,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 27,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3941,7 +3899,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 30,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3962,7 +3920,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 18,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4340,7 +4298,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4466,7 +4424,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 22,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5117,7 +5075,7 @@
         "taller": 3,
         "distribuidor": 2.25
       },
-      "stock": 13,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7553,7 +7511,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9296,7 +9254,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 21,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9590,7 +9548,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9681,6 +9639,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS102.jpg",
       "imagen_size": 11682,
+      "activo": true
+    },
+    {
+      "sku": "RS004",
+      "nombre": "CATARINA 37T MOTO CHINA 125-150-200",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7.5,
+        "taller": 6.25,
+        "distribuidor": 5.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS004.jpg",
+      "imagen_size": 10110,
       "activo": true
     },
     {
@@ -9779,7 +9758,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9870,6 +9849,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1002861.png",
       "imagen_size": 37530,
+      "activo": true
+    },
+    {
+      "sku": "RS007",
+      "nombre": "CATARINA 38T, 100,125,150,200 CON CENTRO DE YBR125",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9.5,
+        "taller": 7.75,
+        "distribuidor": 6.75
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS007.jpg",
+      "imagen_size": 9181,
       "activo": true
     },
     {
@@ -9968,7 +9968,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10010,7 +10010,7 @@
         "taller": 10.5,
         "distribuidor": 9
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10031,7 +10031,7 @@
         "taller": 10.5,
         "distribuidor": 8.75
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10052,7 +10052,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10073,7 +10073,7 @@
         "taller": 10,
         "distribuidor": 7.5
       },
-      "stock": 1,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10125,6 +10125,27 @@
       "activo": true
     },
     {
+      "sku": "RS071",
+      "nombre": "CATARINA 40T HUNK 160R",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12.75,
+        "taller": 10.25,
+        "distribuidor": 8.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS071.jpg",
+      "imagen_size": 9425,
+      "activo": true
+    },
+    {
       "sku": "RS061",
       "nombre": "CATARINA 40T MOTO CHINA 100 - 200",
       "marca": "NRP",
@@ -10136,7 +10157,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10188,6 +10209,48 @@
       "activo": true
     },
     {
+      "sku": "RS089",
+      "nombre": "CATARINA 40T MOTO CHINA CON CENTRO DE YBR125",
+      "marca": "NRP",
+      "categoria": "KIT TRACCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.25,
+        "taller": 5.75,
+        "distribuidor": 5.25
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS089.jpg",
+      "imagen_size": 11806,
+      "activo": true
+    },
+    {
+      "sku": "RS090",
+      "nombre": "CATARINA 41T CR1 150 / CR2 210 / MOTO CHINA CON CENTRO DE YBR125",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9.5,
+        "taller": 7.75,
+        "distribuidor": 6.75
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS090.jpg",
+      "imagen_size": 10149,
+      "activo": true
+    },
+    {
       "sku": "RS104",
       "nombre": "CATARINA 41T DREAM NEO 110",
       "marca": "NRP",
@@ -10199,7 +10262,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10283,7 +10346,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10311,6 +10374,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS062.jpg",
       "imagen_size": 10122,
+      "activo": true
+    },
+    {
+      "sku": "RS058",
+      "nombre": "CATARINA 41T MOTO CHINA CON CENTRO DE GN125",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 13,
+        "taller": 10.75,
+        "distribuidor": 9
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS058.jpg",
+      "imagen_size": 10332,
       "activo": true
     },
     {
@@ -10472,7 +10556,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10514,7 +10598,7 @@
         "taller": 9.25,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10545,27 +10629,6 @@
       "activo": true
     },
     {
-      "sku": "RS096",
-      "nombre": "CATARINA 42T DAWN 125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10.25,
-        "taller": 8.5,
-        "distribuidor": 7.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS096.jpg",
-      "imagen_size": 10507,
-      "activo": true
-    },
-    {
       "sku": "RS069",
       "nombre": "CATARINA 42T EX300 NINJA",
       "marca": "NRP",
@@ -10584,6 +10647,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS069.jpg",
       "imagen_size": 9863,
+      "activo": true
+    },
+    {
+      "sku": "RS020",
+      "nombre": "CATARINA 42T FIRE125-150/ MOTO CHINA CON CENTRO DE GN125/ASPID150/GN125",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8.75,
+        "taller": 7.25,
+        "distribuidor": 6.25
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS020.jpg",
+      "imagen_size": 9554,
       "activo": true
     },
     {
@@ -10619,7 +10703,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10692,6 +10776,27 @@
       "activo": true
     },
     {
+      "sku": "RS029",
+      "nombre": "CATARINA 43T DISCOVER 125-150, PULSAR 125NS-135, PULSAR180 UG, HUNK 150, CB 160 UNICORN",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8.5,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS029.jpg",
+      "imagen_size": 9617,
+      "activo": true
+    },
+    {
       "sku": "RS097",
       "nombre": "CATARINA 43T GLAMOUR125",
       "marca": "NRP",
@@ -10724,7 +10829,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10745,7 +10850,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10766,8 +10871,8 @@
         "taller": 7.75,
         "distribuidor": 6.5
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -10818,6 +10923,27 @@
       "activo": true
     },
     {
+      "sku": "RS074",
+      "nombre": "CATARINA 44T APACHE RTR 160",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9.5,
+        "taller": 7.75,
+        "distribuidor": 6.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS074.jpg",
+      "imagen_size": 9909,
+      "activo": true
+    },
+    {
       "sku": "RS101",
       "nombre": "CATARINA 44T IGNITOR 125",
       "marca": "NRP",
@@ -10850,7 +10976,7 @@
         "taller": 9.25,
         "distribuidor": 8
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10892,7 +11018,7 @@
         "taller": 9.5,
         "distribuidor": 8
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10913,7 +11039,7 @@
         "taller": 8.75,
         "distribuidor": 7.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10955,7 +11081,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10976,13 +11102,34 @@
         "taller": 9.75,
         "distribuidor": 8.25
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS072.jpg",
       "imagen_size": 9962,
+      "activo": true
+    },
+    {
+      "sku": "RS042",
+      "nombre": "CATARINA 45T DISCOVER 125 / PULSAR 160NS / XBLADE 160",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS042.jpg",
+      "imagen_size": 9328,
       "activo": true
     },
     {
@@ -10997,7 +11144,7 @@
         "taller": 11.5,
         "distribuidor": 9.75
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11018,7 +11165,7 @@
         "taller": 8.75,
         "distribuidor": 7.5
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11039,7 +11186,7 @@
         "taller": 10.5,
         "distribuidor": 8.75
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11088,6 +11235,48 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RS037",
+      "nombre": "CATARINA 45T MOTO CHINA CON CENTRO DE YBR125 / SPITZER 200",
+      "marca": "NRP",
+      "categoria": "KIT TRACCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.75,
+        "taller": 6.25,
+        "distribuidor": 5.75
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS037.jpg",
+      "imagen_size": 9927,
+      "activo": true
+    },
+    {
+      "sku": "RS008",
+      "nombre": "CATARINA 45T STRYKER 125",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8.75,
+        "taller": 7.25,
+        "distribuidor": 6.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS008.jpg",
+      "imagen_size": 9213,
       "activo": true
     },
     {
@@ -11175,6 +11364,48 @@
       "activo": true
     },
     {
+      "sku": "RS092",
+      "nombre": "CATARINA 46T MOTO CHINA CON CENTRO DE YBR125",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 11.5,
+        "distribuidor": 9.75
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS092.jpg",
+      "imagen_size": 10320,
+      "activo": true
+    },
+    {
+      "sku": "RS095",
+      "nombre": "CATARINA 46T YARA 200, SMX200, PULSAR 160",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 9.75,
+        "distribuidor": 8.25
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS095.jpg",
+      "imagen_size": 9868,
+      "activo": true
+    },
+    {
       "sku": "RS099",
       "nombre": "CATARINA 47T CB 160F HORNET",
       "marca": "NRP",
@@ -11186,7 +11417,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11249,7 +11480,7 @@
         "taller": 8.75,
         "distribuidor": 7.5
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11301,6 +11532,27 @@
       "activo": true
     },
     {
+      "sku": "RS045",
+      "nombre": "CATARINA 48T XTZ 125",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9.5,
+        "taller": 7.75,
+        "distribuidor": 6.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/RS045.jpg",
+      "imagen_size": 10391,
+      "activo": true
+    },
+    {
       "sku": "RS108",
       "nombre": "CATARINA 48T XTZ 250",
       "marca": "NRP",
@@ -11333,7 +11585,7 @@
         "taller": 9.5,
         "distribuidor": 8
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11354,7 +11606,28 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 1,
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "RS049",
+      "nombre": "CATARINA 50T MOTO CHINA 125-150-200-250",
+      "marca": "NRP",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 9,
+        "distribuidor": 7.75
+      },
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11543,7 +11816,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11718,27 +11991,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540178106.png",
       "imagen_size": 107920,
-      "activo": true
-    },
-    {
-      "sku": "741540188301",
-      "nombre": "CATARINA FIRE 125S 45T VINI(FL)",
-      "marca": "VINI",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11.75,
-        "taller": 8.5,
-        "distribuidor": 7.25
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188301.png",
-      "imagen_size": 120251,
       "activo": true
     },
     {
@@ -12225,27 +12477,6 @@
       "activo": true
     },
     {
-      "sku": "741540187018",
-      "nombre": "CDI AK125 REDONDO ALTERNA",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540187018.jpg",
-      "imagen_size": 7440,
-      "activo": true
-    },
-    {
       "sku": "741540189049",
       "nombre": "CDI AK125SL/AK125TT/FORZA150",
       "marca": "VINI",
@@ -12362,8 +12593,8 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 9,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -12907,27 +13138,6 @@
         "publico": 19.25,
         "taller": 15.75,
         "distribuidor": 13.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "CDI025",
-      "nombre": "CDI YBR",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16,
-        "taller": 13,
-        "distribuidor": 11.25
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -14294,7 +14504,7 @@
         "taller": 90,
         "distribuidor": 76.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15491,7 +15701,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18672,27 +18882,6 @@
       "activo": true
     },
     {
-      "sku": "741540188906",
-      "nombre": "FAJA TRANSMISSION NAVI 110",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20,
-        "taller": 13,
-        "distribuidor": 11.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188906.png",
-      "imagen_size": 46688,
-      "activo": true
-    },
-    {
       "sku": "741540189602",
       "nombre": "FAJA TRANSMISSION NOVA 115",
       "marca": "VINI",
@@ -19565,8 +19754,8 @@
         "taller": 6,
         "distribuidor": 4.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20594,8 +20783,8 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 17,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20699,34 +20888,13 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188919.png",
       "imagen_size": 104325,
-      "activo": true
-    },
-    {
-      "sku": "741540100371",
-      "nombre": "FRICCION GN-FIRE-APACHE160-PULSAR VINI (FL)",
-      "marca": "VINI",
-      "categoria": "FRICCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.5,
-        "taller": 4.25,
-        "distribuidor": 3.75
-      },
-      "stock": 6,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100371.png",
-      "imagen_size": 144056,
       "activo": true
     },
     {
@@ -23177,7 +23345,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 31,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23219,7 +23387,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 33,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23982,27 +24150,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000791.jpg",
       "imagen_size": 402425,
-      "activo": true
-    },
-    {
-      "sku": "2000016",
-      "nombre": "KIT BARRAS DELANTERAS GN- FIRE150/ ASPID/ SANLG WARRIOR",
-      "marca": "MEK",
-      "categoria": "SUSPENCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 85.5,
-        "taller": 70,
-        "distribuidor": 59.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/2000016.png",
-      "imagen_size": 19017,
       "activo": true
     },
     {
@@ -26925,27 +27072,6 @@
       "activo": true
     },
     {
-      "sku": "1000875",
-      "nombre": "KIT RESORTE CG125-150",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 2.25,
-        "taller": 1.25,
-        "distribuidor": 1
-      },
-      "stock": 5,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000875.jpg",
-      "imagen_size": 147971,
-      "activo": true
-    },
-    {
       "sku": "1002588",
       "nombre": "KIT RESORTE TODO TERRENO",
       "marca": "MEK",
@@ -26957,7 +27083,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 5,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29676,27 +29802,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-0702-22",
-      "nombre": "LLANTA AXUS 90-90-18 LISA AX4418 DESPORTIVAS",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30.5,
-        "taller": 27.75,
-        "distribuidor": 26
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0702-22.png",
-      "imagen_size": 85845,
-      "activo": true
-    },
-    {
       "sku": "LA1A-0904-22",
       "nombre": "LLANTA AXUS 90-90-18 LISA AX6155",
       "marca": "MOTUL",
@@ -30355,9 +30460,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 8,
-        "taller": 4.75,
-        "distribuidor": 4.25
+        "publico": 9.5,
+        "taller": 5.75,
+        "distribuidor": 4.75
       },
       "stock": 39,
       "stock_status": "in_stock",
@@ -32448,6 +32553,27 @@
       "activo": true
     },
     {
+      "sku": "BP034",
+      "nombre": "PASTILLA FRENO CB160R HORNET/CBR 250 RA",
+      "marca": "NRP",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.5,
+        "taller": 5.25,
+        "distribuidor": 4.5
+      },
+      "stock": 15,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "741540188258",
       "nombre": "PASTILLA FRENO CBF150 INVICTA VINI(FL)",
       "marca": "VINI",
@@ -32459,7 +32585,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32522,7 +32648,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32564,7 +32690,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 31,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32648,7 +32774,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32868,6 +32994,48 @@
       "activo": true
     },
     {
+      "sku": "BP032",
+      "nombre": "PASTILLA FRENO MT 03 / YZF R3",
+      "marca": "NRP",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.25,
+        "taller": 5.25,
+        "distribuidor": 4.5
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/BP032.jpg",
+      "imagen_size": 8462,
+      "activo": true
+    },
+    {
+      "sku": "BP033",
+      "nombre": "PASTILLA FRENO MT 03 / YZF R3 (TRASERAS)",
+      "marca": "NRP",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4.5,
+        "taller": 3.75,
+        "distribuidor": 3
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/BP033.jpg",
+      "imagen_size": 4310,
+      "activo": true
+    },
+    {
       "sku": "741540188800",
       "nombre": "PASTILLA FRENO NX150/200/XR200 VINI(FL)",
       "marca": "VINI",
@@ -33047,7 +33215,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33068,8 +33236,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33194,7 +33362,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33341,8 +33509,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33372,6 +33540,27 @@
       "activo": true
     },
     {
+      "sku": "BP002",
+      "nombre": "PASTILLAS DE FRENO XL200, XR125-150L, XR250 TORNADO",
+      "marca": "NRP",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3.5,
+        "taller": 3,
+        "distribuidor": 2.5
+      },
+      "stock": 15,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "BP040",
       "nombre": "PASTILLAS DE FRENO, ASPID 125, NAGA 150, DURAMAX 140",
       "marca": "NRP",
@@ -33383,7 +33572,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33516,48 +33705,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189128.png",
       "imagen_size": 54158,
-      "activo": true
-    },
-    {
-      "sku": "741540100753",
-      "nombre": "PATA ARRANQUE RECTA LF150-11 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16,
-        "taller": 8.75,
-        "distribuidor": 7.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100753.png",
-      "imagen_size": 42667,
-      "activo": true
-    },
-    {
-      "sku": "741540181422",
-      "nombre": "PATA ARRANQUE RENEGADO VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 8,
-        "distribuidor": 6.75
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540181422.png",
-      "imagen_size": 45983,
       "activo": true
     },
     {
@@ -34020,27 +34167,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100408.png",
       "imagen_size": 76636,
-      "activo": true
-    },
-    {
-      "sku": "741540181708",
-      "nombre": "PATA VELOCIDAD VINI  XL125-185 TT / CR1 (FL)",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10,
-        "taller": 5,
-        "distribuidor": 4
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540181708.png",
-      "imagen_size": 42386,
       "activo": true
     },
     {
@@ -34737,27 +34863,6 @@
       "activo": true
     },
     {
-      "sku": "FS013",
-      "nombre": "PIÑON 14T CR1 150 / CR2 210 / MOTO CHINA 125-150-200",
-      "marca": "NRP",
-      "categoria": "PIÑONES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "FS033",
       "nombre": "PIÑON 14T DREAM NEO 110",
       "marca": "NRP",
@@ -34958,8 +35063,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35315,7 +35420,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35504,7 +35609,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35525,7 +35630,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35609,8 +35714,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35672,8 +35777,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35693,34 +35798,13 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540178003.png",
-      "imagen_size": 93563,
-      "activo": true
-    },
-    {
-      "sku": "741540178004",
-      "nombre": "PIÑON ATAQUE XL 16T VINI (FL)",
-      "marca": "VINI",
-      "categoria": "PIÑONES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
       "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540178004.png",
-      "imagen_size": 88048,
+      "imagen": "imagenes/741540178003.png",
+      "imagen_size": 93563,
       "activo": true
     },
     {
@@ -40544,7 +40628,7 @@
         "taller": 1.25,
         "distribuidor": 0.9
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42612,27 +42696,6 @@
       "activo": true
     },
     {
-      "sku": "741540100626",
-      "nombre": "SWITCH IGNICION COBRA150 / AK125",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11.5,
-        "taller": 9.5,
-        "distribuidor": 8
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100626.png",
-      "imagen_size": 94885,
-      "activo": true
-    },
-    {
       "sku": "741540164205",
       "nombre": "SWITCH IGNICION DT-DK VINI (FL)",
       "marca": "VINI",
@@ -42840,27 +42903,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189089",
-      "nombre": "SWITCH IGNICION NAGA 200 / ASPID 150",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16.75,
-        "taller": 13.75,
-        "distribuidor": 11.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189089.png",
-      "imagen_size": 99950,
       "activo": true
     },
     {
@@ -47559,28 +47601,6 @@
       "fuente": "NRP",
       "imagen": "imagenes/BS015.jpg",
       "imagen_size": 10010,
-      "activo": true
-    },
-    {
-      "sku": "BP002",
-      "nombre": "PASTILLAS DE FRENO",
-      "marca": "NRP",
-      "categoria": "REPUESTOS",
-      "presentacion": "JGO",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "NRP",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
