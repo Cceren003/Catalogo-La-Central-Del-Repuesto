@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T17:55:31.378Z",
+  "generated_at": "2026-10-22T23:56:39.372Z",
   "count": 5682,
   "productos": [
     {
@@ -35,7 +35,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 112,
+      "stock": 76,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -728,7 +728,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 15,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3878,7 +3878,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5432,7 +5432,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9254,7 +9254,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11417,7 +11417,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18084,6 +18084,27 @@
       "activo": true
     },
     {
+      "sku": "RMEMP-110420001-0001",
+      "nombre": "EMPAQUE DE TAPADERA DE MAGNETO SMX200 / R1 200",
+      "marca": "KATANA",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3.75,
+        "taller": 3.25,
+        "distribuidor": 2.75
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1002942",
       "nombre": "EMPAQUE ESCAPE BRONCE GY6150",
       "marca": "MEK",
@@ -19334,7 +19355,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27030,27 +27051,6 @@
       "activo": true
     },
     {
-      "sku": "1002588",
-      "nombre": "KIT RESORTE TODO TERRENO",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4,
-        "taller": 2.5,
-        "distribuidor": 2
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002588.png",
-      "imagen_size": 48455,
-      "activo": true
-    },
-    {
       "sku": "FOS013",
       "nombre": "KIT RETENEDOR BARRA 27X37X10.5",
       "marca": "NRP",
@@ -27503,8 +27503,8 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29246,7 +29246,7 @@
         "taller": 32,
         "distribuidor": 30
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29820,27 +29820,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189932",
-      "nombre": "LLANTA VINI 110-80-17 VT 1008 (FL)",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 38.25,
-        "taller": 35,
-        "distribuidor": 32.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189932.png",
-      "imagen_size": 68481,
       "activo": true
     },
     {
@@ -30422,8 +30401,8 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 39,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32039,7 +32018,7 @@
         "taller": 3.5,
         "distribuidor": 3.5
       },
-      "stock": 30,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32543,8 +32522,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32644,9 +32623,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 5.5,
+        "publico": 7,
         "taller": 3.5,
-        "distribuidor": 2.75
+        "distribuidor": 3
       },
       "stock": 21,
       "stock_status": "in_stock",
@@ -32669,7 +32648,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33194,7 +33173,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34727,8 +34706,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35483,7 +35462,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35735,7 +35714,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35756,7 +35735,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36260,7 +36239,7 @@
         "taller": 13,
         "distribuidor": 11
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36372,27 +36351,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540190147",
-      "nombre": "PLANTA FXR200 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 34.25,
-        "taller": 28,
-        "distribuidor": 23.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190147.png",
-      "imagen_size": 164552,
       "activo": true
     },
     {
@@ -38990,7 +38948,7 @@
         "taller": 0.75,
         "distribuidor": 0.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39032,7 +38990,7 @@
         "taller": 1,
         "distribuidor": 0.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40323,6 +40281,27 @@
       "activo": true
     },
     {
+      "sku": "RRRIN-401000-G028",
+      "nombre": "RIN TRASERO 18X2.50 DE RAYO NEGRO PARA FRENO DE DISCO SMX200",
+      "marca": "KATANA",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 140,
+        "taller": 125,
+        "distribuidor": 118
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1001625",
       "nombre": "RIN TRASERO COMPLETO BROSS CHINA TODO TERRENO 2.15-17",
       "marca": "MEK",
@@ -40383,6 +40362,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1002431.jpg",
       "imagen_size": 17229,
+      "activo": true
+    },
+    {
+      "sku": "RMSEL-403845",
+      "nombre": "RODILLO SELECTOR DE CAMBIO CR150 KIT",
+      "marca": "KATANA",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 10,
+        "taller": 6,
+        "distribuidor": 4.25
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -42644,7 +42644,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42938,7 +42938,7 @@
         "taller": 6.25,
         "distribuidor": 4.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45122,7 +45122,7 @@
         "taller": 18,
         "distribuidor": 0
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
