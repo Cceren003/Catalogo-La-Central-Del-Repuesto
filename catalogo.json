@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T23:56:39.372Z",
-  "count": 5682,
+  "generated_at": "2026-10-23T17:49:37.109Z",
+  "count": 5678,
   "productos": [
     {
       "sku": "104105",
@@ -56,29 +56,8 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 54,
+      "stock": 40,
       "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "LM120108",
-      "nombre": "ACEITE MOTUL 10W40 7100 FULL SINTETICO",
-      "marca": "MOTUL",
-      "categoria": "ACEITES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20,
-        "taller": 18,
-        "distribuidor": 17.08
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -98,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 76,
+      "stock": 52,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -938,7 +917,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1022,7 +1001,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 13,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2240,7 +2219,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7553,7 +7532,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 34,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7574,7 +7553,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 39,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7938,27 +7917,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100056.png",
       "imagen_size": 99871,
-      "activo": true
-    },
-    {
-      "sku": "741540190289",
-      "nombre": "CAJA TRANSMISION XR150L",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 111.25,
-        "taller": 91.25,
-        "distribuidor": 77.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -9863,7 +9821,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10241,7 +10199,7 @@
         "taller": 7.75,
         "distribuidor": 6.75
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11585,7 +11543,7 @@
         "taller": 9.5,
         "distribuidor": 8
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18074,7 +18032,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18137,7 +18095,7 @@
         "taller": 0.75,
         "distribuidor": 0.4
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18410,7 +18368,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19806,6 +19764,27 @@
       "activo": true
     },
     {
+      "sku": "RMFIL-170100-0003",
+      "nombre": "FILTRO AIRE NEW R1-200",
+      "marca": "KATANA",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14.5,
+        "taller": 11.75,
+        "distribuidor": 10
+      },
+      "stock": 5,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1006483",
       "nombre": "FILTRO AIRE NOVA",
       "marca": "MEK",
@@ -20447,8 +20426,8 @@
         "taller": 0.75,
         "distribuidor": 0.5
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20510,7 +20489,7 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 14,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26043,27 +26022,6 @@
       "activo": true
     },
     {
-      "sku": "741540189740",
-      "nombre": "KIT EMPAQUE INVICTA-HUNK 150-200 XR150-DAYUN150-29 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 10,
-        "distribuidor": 8.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189740.png",
-      "imagen_size": 97808,
-      "activo": true
-    },
-    {
       "sku": "1005654",
       "nombre": "KIT EMPAQUE MEK PRO CG125",
       "marca": "MEK",
@@ -26810,7 +26768,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29445,27 +29403,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-3507-22",
-      "nombre": "LLANTA AXUS 130-70-17 LISA AX30 66S TL DEPORTIVAS",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 47,
-        "taller": 43.25,
-        "distribuidor": 40.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3507-22.png",
-      "imagen_size": 76331,
-      "activo": true
-    },
-    {
       "sku": "LA1A-3505-22",
       "nombre": "LLANTA AXUS 140-60-17 LISA AX30F 6PR RADIAL FZ16 TRASERA",
       "marca": "AXUS",
@@ -29792,7 +29729,7 @@
         "taller": 27,
         "distribuidor": 25.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30149,7 +30086,7 @@
         "taller": 5,
         "distribuidor": 3.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32018,7 +31955,7 @@
         "taller": 3.5,
         "distribuidor": 3.5
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32039,7 +31976,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32060,7 +31997,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 21,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32081,7 +32018,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32627,7 +32564,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 21,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35735,7 +35672,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35756,7 +35693,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36239,7 +36176,7 @@
         "taller": 13,
         "distribuidor": 11
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40281,27 +40218,6 @@
       "activo": true
     },
     {
-      "sku": "RRRIN-401000-G028",
-      "nombre": "RIN TRASERO 18X2.50 DE RAYO NEGRO PARA FRENO DE DISCO SMX200",
-      "marca": "KATANA",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 140,
-        "taller": 125,
-        "distribuidor": 118
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1001625",
       "nombre": "RIN TRASERO COMPLETO BROSS CHINA TODO TERRENO 2.15-17",
       "marca": "MEK",
@@ -40376,7 +40292,7 @@
         "taller": 6,
         "distribuidor": 4.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44345,7 +44261,7 @@
         "taller": 11,
         "distribuidor": 9.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45374,7 +45290,7 @@
         "taller": 5,
         "distribuidor": 4.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
