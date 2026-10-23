@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T17:49:37.109Z",
-  "count": 5678,
+  "generated_at": "2026-10-23T23:48:56.043Z",
+  "count": 5677,
   "productos": [
     {
       "sku": "104105",
@@ -77,7 +77,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 52,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -917,7 +917,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1316,7 +1316,7 @@
         "taller": 4,
         "distribuidor": 3.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5397,27 +5397,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189679.png",
       "imagen_size": 55561,
-      "activo": true
-    },
-    {
-      "sku": "741540100281",
-      "nombre": "CABLE CLUTCH CGL125 (SHOE) VINI(FL)",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3,
-        "distribuidor": 2.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100281.png",
-      "imagen_size": 66224,
       "activo": true
     },
     {
@@ -30254,7 +30233,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31955,7 +31934,7 @@
         "taller": 3.5,
         "distribuidor": 3.5
       },
-      "stock": 28,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39977,7 +39956,7 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
