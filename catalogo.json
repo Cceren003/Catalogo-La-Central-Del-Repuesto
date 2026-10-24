@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T19:22:44.367Z",
-  "count": 5675,
+  "generated_at": "2026-10-24T23:03:25.248Z",
+  "count": 5674,
   "productos": [
     {
       "sku": "104105",
@@ -2219,7 +2219,7 @@
         "taller": 21,
         "distribuidor": 19.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3857,7 +3857,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20321,7 +20321,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 21,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20846,7 +20846,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26558,7 +26558,7 @@
         "taller": 4.25,
         "distribuidor": 3.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27062,7 +27062,7 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 16,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29652,27 +29652,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0701-22.png",
       "imagen_size": 83896,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-0904-22",
-      "nombre": "LLANTA AXUS 90-90-18 LISA AX6155",
-      "marca": "MOTUL",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 34.75,
-        "taller": 32,
-        "distribuidor": 30
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0904-22.png",
-      "imagen_size": 89021,
       "activo": true
     },
     {
