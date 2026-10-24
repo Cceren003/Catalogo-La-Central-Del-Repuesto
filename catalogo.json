@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T23:48:56.043Z",
-  "count": 5677,
+  "generated_at": "2026-10-24T16:31:42.584Z",
+  "count": 5675,
   "productos": [
     {
       "sku": "104105",
@@ -409,11 +409,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 0,
+        "publico": 4,
         "taller": 1.25,
         "distribuidor": 1
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2103,27 +2103,6 @@
       "activo": true
     },
     {
-      "sku": "741540189270",
-      "nombre": "BASE CATARINA FORZA 150",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 27,
-        "taller": 22,
-        "distribuidor": 18.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189270.png",
-      "imagen_size": 67638,
-      "activo": true
-    },
-    {
       "sku": "741540188710",
       "nombre": "BASE FRICCION CG-125 VINI",
       "marca": "VINI",
@@ -2282,7 +2261,7 @@
         "taller": 26,
         "distribuidor": 24
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2961,27 +2940,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1002805.png",
       "imagen_size": 39198,
-      "activo": true
-    },
-    {
-      "sku": "1006489",
-      "nombre": "BOBINA MAGNETO MEK PRO CG125/CGP150 8T CR1N/NAGA200",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17.5,
-        "taller": 14.25,
-        "distribuidor": 12
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006489.png",
-      "imagen_size": 39018,
       "activo": true
     },
     {
@@ -7896,6 +7854,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100056.png",
       "imagen_size": 99871,
+      "activo": true
+    },
+    {
+      "sku": "741540190289",
+      "nombre": "CAJA TRANSMISION XR150L",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 111.25,
+        "taller": 91.25,
+        "distribuidor": 77.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -15743,7 +15722,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 32,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22085,7 +22064,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25613,7 +25592,7 @@
         "taller": 8.25,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26747,7 +26726,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31377,27 +31356,6 @@
       "activo": true
     },
     {
-      "sku": "1001572",
-      "nombre": "MOTOR ARRANQUE 9 DIENTES CG125-CG150 CORAL 150 FIRE125-150 NAGA200",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 35,
-        "taller": 24,
-        "distribuidor": 20.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001572.png",
-      "imagen_size": 19759,
-      "activo": true
-    },
-    {
       "sku": "741540100641",
       "nombre": "MOTOR ARRANQUE APACHE 160-180 RTR VINI (FL)",
       "marca": "VINI",
@@ -31825,9 +31783,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 39,
-        "taller": 31.75,
-        "distribuidor": 27
+        "publico": 49,
+        "taller": 35,
+        "distribuidor": 32
       },
       "stock": 2,
       "stock_status": "low_stock",
@@ -33572,7 +33530,7 @@
         "taller": 6.25,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39200,7 +39158,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 27,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
