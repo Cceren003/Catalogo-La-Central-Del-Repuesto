@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:31:42.584Z",
+  "generated_at": "2026-10-24T19:22:44.367Z",
   "count": 5675,
   "productos": [
     {
@@ -35,7 +35,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 18,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6566,7 +6566,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30359,7 +30359,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 18,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36344,7 +36344,7 @@
         "taller": 22,
         "distribuidor": 18.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
