@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T00:44:13.633Z",
-  "count": 5702,
+  "generated_at": "2026-10-29T18:54:54.686Z",
+  "count": 5700,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 75,
+      "stock": 73,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 141,
+      "stock": 135,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 26,
         "distribuidor": 24
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,7 +2387,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4823,8 +4823,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5516,7 +5516,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8939,7 +8939,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 23,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9380,7 +9380,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9422,7 +9422,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13874,7 +13874,7 @@
         "taller": 55,
         "distribuidor": 50
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15743,7 +15743,7 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19334,7 +19334,7 @@
         "taller": 3,
         "distribuidor": 2.25
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22778,7 +22778,7 @@
         "taller": 8,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26369,7 +26369,7 @@
         "taller": 7.75,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29183,7 +29183,7 @@
         "taller": 13,
         "distribuidor": 10.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32480,7 +32480,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35616,27 +35616,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/FS026.jpg",
       "imagen_size": 7369,
-      "activo": true
-    },
-    {
-      "sku": "FS028",
-      "nombre": "PIÑON 16T FXR 200L / XR 125L (CADENILLA) / XR 190L /",
-      "marca": "NRP",
-      "categoria": "PIÑONES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 4,
-        "distribuidor": 3.25
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/FS028.jpg",
-      "imagen_size": 6748,
       "activo": true
     },
     {
@@ -38986,9 +38965,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.5,
-        "taller": 8.75,
-        "distribuidor": 7.5
+        "publico": 20,
+        "taller": 12,
+        "distribuidor": 9
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -39305,7 +39284,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 40,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40803,27 +40782,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189997.png",
       "imagen_size": 82674,
-      "activo": true
-    },
-    {
-      "sku": "1006290",
-      "nombre": "ROLLO COMPLETO MANGUERA COMBUSTIBLE UNIVERSAL STD (1 ROLLO=5M)",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.75,
-        "taller": 3.75,
-        "distribuidor": 3.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006290.png",
-      "imagen_size": 8510,
       "activo": true
     },
     {
@@ -43064,8 +43022,8 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
