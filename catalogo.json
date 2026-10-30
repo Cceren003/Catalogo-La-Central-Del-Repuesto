@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T18:54:54.686Z",
-  "count": 5700,
+  "generated_at": "2026-10-30T00:44:49.868Z",
+  "count": 5695,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 73,
+      "stock": 70,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -119,7 +119,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 135,
+      "stock": 132,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1169,7 +1169,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1484,7 +1484,7 @@
         "taller": 11.5,
         "distribuidor": 10
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1736,7 +1736,7 @@
         "taller": 2.25,
         "distribuidor": 2
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1862,7 +1862,7 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 10,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2261,7 +2261,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2304,27 +2304,6 @@
         "distribuidor": 21
       },
       "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "TS12N9-4B-1",
-      "nombre": "BATERIA DE GEL 12N9-4B-1 TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33,
-        "taller": 26,
-        "distribuidor": 24
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3962,7 +3941,7 @@
         "taller": 1.75,
         "distribuidor": 0
       },
-      "stock": 10,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +3983,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 11,
+      "stock": 56,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4025,7 +4004,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 20,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4046,8 +4025,8 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 58,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4382,7 +4361,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4424,7 +4403,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4949,7 +4928,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5180,7 +5159,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5390,7 +5369,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5579,7 +5558,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5747,7 +5726,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5894,7 +5873,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6125,7 +6104,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6482,7 +6461,7 @@
         "taller": 0.5,
         "distribuidor": 0.43
       },
-      "stock": 200,
+      "stock": 198,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6923,7 +6902,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8204,7 +8183,7 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8589,27 +8568,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188423.png",
       "imagen_size": 84481,
-      "activo": true
-    },
-    {
-      "sku": "741540190526",
-      "nombre": "CALIPER FRENO DELANTERO CB150",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29.25,
-        "taller": 24,
-        "distribuidor": 20.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190526.png",
-      "imagen_size": 127526,
       "activo": true
     },
     {
@@ -13496,7 +13454,7 @@
         "taller": 27.75,
         "distribuidor": 23.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15120,27 +15078,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189204.png",
       "imagen_size": 113264,
-      "activo": true
-    },
-    {
-      "sku": "741540191170",
-      "nombre": "CLUTCH COMPLETO XBLADE 160 CBF160",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 62,
-        "taller": 50.75,
-        "distribuidor": 43.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540191170.jpg",
-      "imagen_size": 13142,
       "activo": true
     },
     {
@@ -19313,7 +19250,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 20,
+      "stock": 19,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20699,7 +20636,7 @@
         "taller": 10.5,
         "distribuidor": 8.75
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20783,7 +20720,7 @@
         "taller": 1,
         "distribuidor": 0.85
       },
-      "stock": 33,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21161,7 +21098,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21287,7 +21224,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21350,7 +21287,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 20,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29991,27 +29928,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-0901-22",
-      "nombre": "LLANTA AXUS 300-17LISA AX1155 6PR TL TUBULAR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 31.5,
-        "taller": 28.75,
-        "distribuidor": 27
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0901-22.png",
-      "imagen_size": 90623,
-      "activo": true
-    },
-    {
       "sku": "LA1A-0902-22",
       "nombre": "LLANTA AXUS 300-18 LISA AX1155 6PR TL TUBULAR",
       "marca": "AXUS",
@@ -30023,7 +29939,7 @@
         "taller": 31.75,
         "distribuidor": 29.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30674,7 +30590,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32816,7 +32732,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 37,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32984,7 +32900,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33421,11 +33337,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7,
+        "publico": 8,
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33677,7 +33593,7 @@
         "taller": 3,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33698,7 +33614,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34874,7 +34790,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36617,7 +36533,7 @@
         "taller": 13,
         "distribuidor": 11
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37688,7 +37604,7 @@
         "taller": 0.5,
         "distribuidor": 0.3
       },
-      "stock": 29,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39284,7 +39200,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 39,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40355,8 +40271,8 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -40418,7 +40334,7 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 10,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42203,7 +42119,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 21,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42581,7 +42497,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43526,7 +43442,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 10,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43806,27 +43722,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006383.jpg",
       "imagen_size": 157282,
-      "activo": true
-    },
-    {
-      "sku": "1006057",
-      "nombre": "SWITCH LUCES LH YARA200",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 6.75,
-        "distribuidor": 5.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1006057.jpg",
-      "imagen_size": 222182,
       "activo": true
     },
     {
@@ -45500,7 +45395,7 @@
         "taller": 1.25,
         "distribuidor": 1
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
