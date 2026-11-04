@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T20:03:30.010Z",
-  "count": 5709,
+  "generated_at": "2026-11-04T01:10:35.051Z",
+  "count": 5706,
   "productos": [
     {
       "sku": "104105",
@@ -119,7 +119,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 79,
+      "stock": 66,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2450,7 +2450,7 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6503,7 +6503,7 @@
         "taller": 0.5,
         "distribuidor": 0.43
       },
-      "stock": 178,
+      "stock": 173,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7049,7 +7049,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 23,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11655,27 +11655,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS108.jpg",
       "imagen_size": 9414,
-      "activo": true
-    },
-    {
-      "sku": "RS047",
-      "nombre": "CATARINA 49T XR 150L",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11.5,
-        "taller": 9.5,
-        "distribuidor": 8
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS047.jpg",
-      "imagen_size": 8722,
       "activo": true
     },
     {
@@ -19691,7 +19670,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22533,27 +22512,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189764.png",
       "imagen_size": 36921,
-      "activo": true
-    },
-    {
-      "sku": "741540189750",
-      "nombre": "HERRAMIENTA EXTENSION T 8MM VINI",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189750.png",
-      "imagen_size": 36522,
       "activo": true
     },
     {
@@ -31608,27 +31566,6 @@
       "activo": true
     },
     {
-      "sku": "741540189664",
-      "nombre": "MANIFUL PULSAR 180-220 / HORNET 160 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 4,
-        "distribuidor": 3.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189664.png",
-      "imagen_size": 94538,
-      "activo": true
-    },
-    {
       "sku": "741540190361",
       "nombre": "MANIFUL PULSAR 200NS",
       "marca": "VINI",
@@ -35924,7 +35861,7 @@
         "taller": 4.25,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36869,7 +36806,7 @@
         "taller": 13,
         "distribuidor": 11
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37205,7 +37142,7 @@
         "taller": 38,
         "distribuidor": 34
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38234,7 +38171,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 28,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42182,7 +42119,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
