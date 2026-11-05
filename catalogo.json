@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T01:25:05.260Z",
-  "count": 5721,
+  "generated_at": "2026-11-05T20:33:40.235Z",
+  "count": 5716,
   "productos": [
     {
       "sku": "104105",
@@ -56,7 +56,7 @@
         "taller": 9.75,
         "distribuidor": 9.25
       },
-      "stock": 26,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,7 +2282,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2429,8 +2429,8 @@
         "taller": 15,
         "distribuidor": 14
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2450,7 +2450,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2471,8 +2471,8 @@
         "taller": 21.5,
         "distribuidor": 19.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3710,7 +3710,7 @@
         "taller": 18.75,
         "distribuidor": 16
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3731,7 +3731,7 @@
         "taller": 7.5,
         "distribuidor": 7
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3815,7 +3815,7 @@
         "taller": 13.75,
         "distribuidor": 12
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +4004,7 @@
         "taller": 0.3,
         "distribuidor": 0.2
       },
-      "stock": 47,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4088,7 +4088,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 56,
+      "stock": 72,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4109,7 +4109,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 18,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4130,7 +4130,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 45,
+      "stock": 55,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4928,7 +4928,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5852,7 +5852,7 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7171,11 +7171,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
-        "taller": 5,
-        "distribuidor": 4.25
+        "publico": 14,
+        "taller": 8,
+        "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8099,7 +8099,7 @@
         "taller": 49,
         "distribuidor": 45
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9880,11 +9880,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.5,
-        "taller": 6.25,
-        "distribuidor": 5.25
+        "publico": 17,
+        "taller": 10,
+        "distribuidor": 8
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10010,7 +10010,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11837,7 +11837,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11984,7 +11984,7 @@
         "taller": 8.75,
         "distribuidor": 7.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12159,27 +12159,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540190297",
-      "nombre": "CATARINA DRACO R250",
-      "marca": "VINI",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16,
-        "taller": 13.25,
-        "distribuidor": 11.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190297.png",
-      "imagen_size": 103521,
       "activo": true
     },
     {
@@ -13653,27 +13632,6 @@
       "activo": true
     },
     {
-      "sku": "741540190381",
-      "nombre": "CENTRO CLUTCH COMPLETO HOT AK200SM",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 55,
-        "taller": 42,
-        "distribuidor": 35
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190381.png",
-      "imagen_size": 184823,
-      "activo": true
-    },
-    {
       "sku": "741540189170",
       "nombre": "CENTRO CLUTCH COMPLETO NAGA200/YARA200 VINI(RC)",
       "marca": "VINI",
@@ -14322,27 +14280,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100794.png",
       "imagen_size": 85711,
-      "activo": true
-    },
-    {
-      "sku": "741540189322",
-      "nombre": "CILINDRO COMPLETO FALCON 250-CR4-UM XTREET 250-SPITZER 250 KARISMA 230 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 106.5,
-        "taller": 87.25,
-        "distribuidor": 75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189322.png",
-      "imagen_size": 89180,
       "activo": true
     },
     {
@@ -16258,7 +16195,7 @@
     },
     {
       "sku": "741540100489",
-      "nombre": "DISCO CLUTCH SET VINI PULSAR 200NS(FL)",
+      "nombre": "DISCO CLUTCH SET VINI PULSAR 200NS HOT PARTS CERAMICA (FL)",
       "marca": "VINI",
       "categoria": "MOTOR",
       "presentacion": "UNIDAD",
@@ -16824,27 +16761,6 @@
       "activo": true
     },
     {
-      "sku": "741540188841",
-      "nombre": "DISCO FRENO PULSAR 200NS TRASERO",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30,
-        "taller": 24,
-        "distribuidor": 21.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188841.png",
-      "imagen_size": 97615,
-      "activo": true
-    },
-    {
       "sku": "741540190845",
       "nombre": "DISCO FRENO PULSAR125NS/135 SPEED / CR2",
       "marca": "VINI",
@@ -17328,27 +17244,6 @@
       "activo": true
     },
     {
-      "sku": "741540190597",
-      "nombre": "EJE DELANTERO HUNK160-APACHE160 VINI",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6.25,
-        "taller": 4.25,
-        "distribuidor": 3.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190597.png",
-      "imagen_size": 42670,
-      "activo": true
-    },
-    {
       "sku": "741540190801",
       "nombre": "EJE DELANTERO PULSAR135/DISCOVER100M-110-125-150ST-125NS",
       "marca": "VINI",
@@ -17388,6 +17283,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190596.png",
       "imagen_size": 47635,
+      "activo": true
+    },
+    {
+      "sku": "67627",
+      "nombre": "EJE LEVA AKT 180TT CR5 CR4",
+      "marca": "DNW7",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 27,
+        "taller": 17,
+        "distribuidor": 15
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -18637,9 +18553,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 14.25,
-        "taller": 11.5,
-        "distribuidor": 9.75
+        "publico": 20,
+        "taller": 13.5,
+        "distribuidor": 11
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -19481,7 +19397,7 @@
         "taller": 1.5,
         "distribuidor": 1.35
       },
-      "stock": 79,
+      "stock": 78,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19796,7 +19712,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21497,7 +21413,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23271,27 +23187,6 @@
       "activo": true
     },
     {
-      "sku": "741540189758",
-      "nombre": "HERRAMIENTA VINI DESTORNI- IMPACTO UNIVERSAL",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 26.25,
-        "taller": 21.5,
-        "distribuidor": 18.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189758.png",
-      "imagen_size": 93888,
-      "activo": true
-    },
-    {
       "sku": "741540189799",
       "nombre": "HERRAMIENTA VINI DESTORNILLADOR 6*150-",
       "marca": "VINI",
@@ -24710,7 +24605,7 @@
         "taller": 12,
         "distribuidor": 9
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28049,8 +27944,8 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29536,9 +29431,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 13.75,
-        "taller": 11.25,
-        "distribuidor": 9.5
+        "publico": 25,
+        "taller": 12.5,
+        "distribuidor": 10.5
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -30502,38 +30397,17 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 30.5,
-        "taller": 27.75,
-        "distribuidor": 26
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0702-22.png",
-      "imagen_size": 85845,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-2812-22",
-      "nombre": "LLANTA AXUS 90-90-19 DOBLE PROPOSITO AX923 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29.5,
-        "taller": 27,
-        "distribuidor": 25.25
+        "publico": 42,
+        "taller": 31,
+        "distribuidor": 29
       },
       "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-2812-22.png",
-      "imagen_size": 112745,
+      "imagen": "imagenes/LA1A-0702-22.png",
+      "imagen_size": 85845,
       "activo": true
     },
     {
@@ -31577,7 +31451,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36575,8 +36449,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -37075,9 +36949,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 25,
-        "taller": 13,
-        "distribuidor": 11
+        "publico": 30,
+        "taller": 15,
+        "distribuidor": 13.5
       },
       "stock": 16,
       "stock_status": "in_stock",
@@ -38444,7 +38318,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 20,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39032,7 +38906,7 @@
         "taller": 4,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42654,6 +42528,27 @@
       "activo": true
     },
     {
+      "sku": "9934-EP",
+      "nombre": "SILICONE GRIS",
+      "marca": "VINI",
+      "categoria": "ACCESORIOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 3
+      },
+      "stock": 24,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "1003838",
       "nombre": "SILVIN CROMADO GN125",
       "marca": "MEK",
@@ -44849,7 +44744,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -46361,7 +46256,7 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
