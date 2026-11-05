@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T20:22:26.739Z",
-  "count": 5724,
+  "generated_at": "2026-11-05T01:25:05.260Z",
+  "count": 5721,
   "productos": [
     {
       "sku": "104105",
@@ -77,7 +77,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 26,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4130,7 +4130,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 46,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5663,7 +5663,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10514,7 +10514,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 4,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13986,27 +13986,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189058.png",
       "imagen_size": 104720,
-      "activo": true
-    },
-    {
-      "sku": "741540189894",
-      "nombre": "CILINDRO COMPLETO APACHE 160 4V",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 94,
-        "taller": 77,
-        "distribuidor": 65.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189894.png",
-      "imagen_size": 84349,
       "activo": true
     },
     {
@@ -18532,11 +18511,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.75,
-        "taller": 3.25,
-        "distribuidor": 2.75
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 3
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19502,7 +19481,7 @@
         "taller": 1.5,
         "distribuidor": 1.35
       },
-      "stock": 80,
+      "stock": 79,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21014,7 +20993,7 @@
         "taller": 1,
         "distribuidor": 0.85
       },
-      "stock": 32,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22715,7 +22694,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22799,7 +22778,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23775,27 +23754,6 @@
       "activo": true
     },
     {
-      "sku": "741540189753",
-      "nombre": "HERRAMIENTA VINI LLAVE T 14MM",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189753.png",
-      "imagen_size": 32451,
-      "activo": true
-    },
-    {
       "sku": "741540189749",
       "nombre": "HERRAMIENTA VINI LLAVE T 7MM",
       "marca": "VINI",
@@ -24164,8 +24122,8 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -27986,8 +27944,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29284,9 +29242,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12.5,
-        "taller": 10.25,
-        "distribuidor": 8.75
+        "publico": 20,
+        "taller": 12,
+        "distribuidor": 10
       },
       "stock": 1,
       "stock_status": "low_stock",
@@ -35756,7 +35714,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36407,7 +36365,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36617,7 +36575,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41573,8 +41531,8 @@
         "taller": 1.25,
         "distribuidor": 0.9
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -41783,7 +41741,7 @@
         "taller": 0.9,
         "distribuidor": 0.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45087,27 +45045,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189910.png",
       "imagen_size": 85615,
-      "activo": true
-    },
-    {
-      "sku": "65818",
-      "nombre": "TENSOR AUTOMATICO CADENILLA GY6 GN125",
-      "marca": "DNW7",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14,
-        "taller": 7,
-        "distribuidor": 5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
