@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T01:28:02.973Z",
-  "count": 5716,
+  "generated_at": "2026-11-06T19:55:16.735Z",
+  "count": 5711,
   "productos": [
     {
       "sku": "104105",
@@ -77,7 +77,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 22,
+      "stock": 17,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -140,7 +140,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 55,
+      "stock": 37,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2492,7 +2492,7 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3951,27 +3951,6 @@
       "activo": true
     },
     {
-      "sku": "741540188324",
-      "nombre": "BOMBILLO STOP 12V (BAY15D)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 1,
-        "taller": 0.5,
-        "distribuidor": 0.35
-      },
-      "stock": 5,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188324.png",
-      "imagen_size": 56697,
-      "activo": true
-    },
-    {
       "sku": "741540188326",
       "nombre": "BOMBILLO T10 12V 5W LAGRIMA",
       "marca": "VINI",
@@ -4004,7 +3983,7 @@
         "taller": 0.3,
         "distribuidor": 0.2
       },
-      "stock": 46,
+      "stock": 36,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4088,7 +4067,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 72,
+      "stock": 68,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4109,7 +4088,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 28,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4130,7 +4109,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 55,
+      "stock": 52,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4508,7 +4487,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 11,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,7 +7637,7 @@
         "taller": 9.75,
         "distribuidor": 8.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10031,8 +10010,8 @@
         "taller": 7.5,
         "distribuidor": 6.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -11354,7 +11333,7 @@
         "taller": 8.75,
         "distribuidor": 7.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14094,27 +14073,6 @@
       "activo": true
     },
     {
-      "sku": "741540189599",
-      "nombre": "CILINDRO COMPLETO CB160F-HORNET VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 103.5,
-        "taller": 84.75,
-        "distribuidor": 72.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189599.png",
-      "imagen_size": 114857,
-      "activo": true
-    },
-    {
       "sku": "741540100043",
       "nombre": "CILINDRO COMPLETO CB200-YUMBO DAKAR VINI (DK200)(FL)",
       "marca": "VINI",
@@ -14756,7 +14714,7 @@
         "taller": 60,
         "distribuidor": 51
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16299,6 +16257,27 @@
       "activo": true
     },
     {
+      "sku": "741540189215",
+      "nombre": "DISCO FRENO AK TTR200 FXR150 TRASERO VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 28,
+        "taller": 18.5,
+        "distribuidor": 15.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189215.png",
+      "imagen_size": 111006,
+      "activo": true
+    },
+    {
       "sku": "741540189217",
       "nombre": "DISCO FRENO CBF125-150-HUNK-CR4 TRASERO VINI(FL)",
       "marca": "VINI",
@@ -17528,7 +17507,7 @@
         "taller": 19.5,
         "distribuidor": 16.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18536,7 +18515,7 @@
         "taller": 10.75,
         "distribuidor": 9
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21392,7 +21371,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21413,8 +21392,8 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -22631,7 +22610,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23289,27 +23268,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540190178",
-      "nombre": "HERRAMIENTA VINI KIT EXTRACTOR DE BALERO",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 144,
-        "taller": 118,
-        "distribuidor": 100.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190178.png",
-      "imagen_size": 160455,
       "activo": true
     },
     {
@@ -24993,27 +24951,6 @@
       "activo": true
     },
     {
-      "sku": "CK025",
-      "nombre": "KIT CILINDRO COMPLETO FZ 16",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 77.75,
-        "taller": 63.75,
-        "distribuidor": 54.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CK007",
       "nombre": "KIT CILINDRO COMPLETO FZN 150 DA (FZS 3.0 / FZ 2.0)",
       "marca": "NRP",
@@ -25529,7 +25466,7 @@
         "taller": 6,
         "distribuidor": 4.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27377,7 +27314,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29004,27 +28941,6 @@
       "activo": true
     },
     {
-      "sku": "741540189634",
-      "nombre": "KIT VALVULA CB160",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16.75,
-        "taller": 13.75,
-        "distribuidor": 11.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189634.png",
-      "imagen_size": 37234,
-      "activo": true
-    },
-    {
       "sku": "741540105044",
       "nombre": "KIT VALVULA CBF125-UNICOR VINI (FL)",
       "marca": "VINI",
@@ -29078,7 +28994,7 @@
         "taller": 11.75,
         "distribuidor": 10.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29309,7 +29225,7 @@
         "taller": 12.5,
         "distribuidor": 10.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29414,7 +29330,7 @@
         "taller": 13,
         "distribuidor": 10.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29645,7 +29561,7 @@
         "taller": 10.75,
         "distribuidor": 9.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29946,27 +29862,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-1201-22.png",
       "imagen_size": 107873,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-3502-22",
-      "nombre": "LLANTA AXUS 110-80-17 LISA  AX30F 6PR TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 34.75,
-        "taller": 32,
-        "distribuidor": 30
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-3502-22.png",
-      "imagen_size": 72423,
       "activo": true
     },
     {
@@ -33215,8 +33110,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 89,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33845,7 +33740,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36470,7 +36365,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40323,6 +40218,27 @@
       "activo": true
     },
     {
+      "sku": "741540187981",
+      "nombre": "RETENEDOR 20X34X7",
+      "marca": "VINI",
+      "categoria": "RETENEDOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 3,
+        "taller": 1.5,
+        "distribuidor": 1
+      },
+      "stock": 37,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540187981.png",
+      "imagen_size": 82125,
+      "activo": true
+    },
+    {
       "sku": "741540188767",
       "nombre": "RETENEDOR 20X37/38X8",
       "marca": "VINI",
@@ -40733,7 +40649,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 10,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42549,27 +42465,6 @@
       "activo": true
     },
     {
-      "sku": "1003838",
-      "nombre": "SILVIN CROMADO GN125",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 15,
-        "distribuidor": 13.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003838.png",
-      "imagen_size": 46490,
-      "activo": true
-    },
-    {
       "sku": "1005162",
       "nombre": "SILVIN REDONDO LED YBR125 COBRA125 VIEJA",
       "marca": "MEK",
@@ -43085,8 +42980,8 @@
         "taller": 6,
         "distribuidor": 4.75
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
