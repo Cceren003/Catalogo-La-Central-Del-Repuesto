@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T19:55:16.735Z",
-  "count": 5711,
+  "generated_at": "2026-11-07T00:49:03.807Z",
+  "count": 5708,
   "productos": [
     {
       "sku": "104105",
@@ -77,7 +77,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -140,7 +140,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 37,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -518,7 +518,7 @@
         "taller": 0.75,
         "distribuidor": 0.65
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2471,7 +2471,7 @@
         "taller": 21.5,
         "distribuidor": 19.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5642,7 +5642,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6167,7 +6167,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18704,7 +18704,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20216,8 +20216,8 @@
         "taller": 6,
         "distribuidor": 4.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21455,7 +21455,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23849,7 +23849,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 19,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25854,27 +25854,6 @@
       "activo": true
     },
     {
-      "sku": "741540190979",
-      "nombre": "KIT DISTRIBUCION DE TIEMPO NAVI110",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 23,
-        "taller": 19,
-        "distribuidor": 16
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190979.png",
-      "imagen_size": 94238,
-      "activo": true
-    },
-    {
       "sku": "741540190975",
       "nombre": "KIT DISTRIBUCION TIEMPO APACHE 160-180 2V VINI",
       "marca": "VINI",
@@ -27734,7 +27713,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27755,7 +27734,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29820,27 +29799,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-4101-22",
-      "nombre": "LLANTA AXUS 100-90-17 LISA AX6171",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 42.75,
-        "taller": 39,
-        "distribuidor": 36.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-4101-22.png",
-      "imagen_size": 86440,
       "activo": true
     },
     {
@@ -32175,27 +32133,6 @@
       "activo": true
     },
     {
-      "sku": "SM023",
-      "nombre": "MOTOR ARRANQUE FZ16 / FZ3.0-2.0 / SZ150D VOLT",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 27,
-        "taller": 22.25,
-        "distribuidor": 18.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/SM023.jpg",
-      "imagen_size": 5477,
-      "activo": true
-    },
-    {
       "sku": "741540188192",
       "nombre": "MOTOR ARRANQUE FZ16 VINI",
       "marca": "VINI",
@@ -33005,7 +32942,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 30,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33110,7 +33047,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 89,
+      "stock": 88,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33194,7 +33131,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33740,7 +33677,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 14,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35084,7 +35021,7 @@
         "taller": 9,
         "distribuidor": 8
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36302,7 +36239,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37415,7 +37352,7 @@
         "taller": 23.75,
         "distribuidor": 20.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42791,7 +42728,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
