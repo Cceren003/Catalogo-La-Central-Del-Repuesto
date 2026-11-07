@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T00:49:03.807Z",
-  "count": 5708,
+  "generated_at": "2026-11-07T17:59:31.141Z",
+  "count": 5703,
   "productos": [
     {
       "sku": "104105",
@@ -77,7 +77,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 15,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -140,7 +140,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 28,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2282,7 +2282,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2324,7 +2324,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2367,27 +2367,6 @@
         "distribuidor": 21
       },
       "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "TS12N9-4B-1",
-      "nombre": "BATERIA DE GEL 12N9-4B-1 TECNOSTAR",
-      "marca": "TECNOSTAR",
-      "categoria": "BATERIAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33,
-        "taller": 26,
-        "distribuidor": 24
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2555,7 +2534,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3678,27 +3657,6 @@
       "activo": true
     },
     {
-      "sku": "741540188670",
-      "nombre": "BOMBA FRENO DEL UNIVERSAL TB-110 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 13,
-        "distribuidor": 12
-      },
-      "stock": 9,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188670.png",
-      "imagen_size": 74296,
-      "activo": true
-    },
-    {
       "sku": "741540190693",
       "nombre": "BOMBA FRENO DELANTERA GIXXER 150 VINI",
       "marca": "VINI",
@@ -3801,27 +3759,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000246.jpg",
       "imagen_size": 143518,
-      "activo": true
-    },
-    {
-      "sku": "741540177002",
-      "nombre": "BOMBA FRENO TRASERA CON DEPOSITO. VINI (FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20,
-        "taller": 13.75,
-        "distribuidor": 12
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540177002.png",
-      "imagen_size": 45767,
       "activo": true
     },
     {
@@ -4067,7 +4004,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 68,
+      "stock": 65,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4109,7 +4046,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 52,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4487,8 +4424,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -5579,7 +5516,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 11,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5852,7 +5789,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6545,7 +6482,7 @@
         "taller": 0.5,
         "distribuidor": 0.43
       },
-      "stock": 173,
+      "stock": 163,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7721,7 +7658,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 76,
+      "stock": 72,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7742,7 +7679,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 35,
+      "stock": 33,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12635,7 +12572,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12677,7 +12614,7 @@
         "taller": 9,
         "distribuidor": 8.25
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18914,7 +18851,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19838,7 +19775,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23691,27 +23628,6 @@
       "activo": true
     },
     {
-      "sku": "741540189791",
-      "nombre": "HERRAMIENTA VOLANTE PULSAR 200NS",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9.75,
-        "distribuidor": 8.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189791.png",
-      "imagen_size": 48664,
-      "activo": true
-    },
-    {
       "sku": "1005952",
       "nombre": "HULE MASA CATARINA RKS 150",
       "marca": "MEK",
@@ -23891,7 +23807,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25109,7 +25025,7 @@
         "taller": 37.25,
         "distribuidor": 31.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27755,7 +27671,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30338,7 +30254,7 @@
         "taller": 39.25,
         "distribuidor": 36.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30590,7 +30506,7 @@
         "taller": 5,
         "distribuidor": 3.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33047,7 +32963,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 88,
+      "stock": 83,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33110,7 +33026,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 18,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35462,7 +35378,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37086,27 +37002,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189448.png",
       "imagen_size": 136255,
-      "activo": true
-    },
-    {
-      "sku": "741540189425",
-      "nombre": "PLANTA HUNK-INVICTA150-XR150 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 32.5,
-        "taller": 26.5,
-        "distribuidor": 22.5
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189425.png",
-      "imagen_size": 140669,
       "activo": true
     },
     {
@@ -40481,7 +40376,7 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41027,8 +40922,8 @@
         "taller": 6,
         "distribuidor": 4.25
       },
-      "stock": 9,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
