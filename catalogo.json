@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T17:59:31.141Z",
-  "count": 5703,
+  "generated_at": "2026-11-08T00:20:43.300Z",
+  "count": 5701,
   "productos": [
     {
       "sku": "104105",
@@ -140,7 +140,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5747,7 +5747,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5915,8 +5915,8 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7658,7 +7658,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 72,
+      "stock": 71,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7952,7 +7952,7 @@
         "taller": 50,
         "distribuidor": 42.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9219,27 +9219,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/CRB014.jpg",
       "imagen_size": 10151,
-      "activo": true
-    },
-    {
-      "sku": "1003575",
-      "nombre": "CARBURADOR GY6 125SCOOTER",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 49.25,
-        "taller": 31.5,
-        "distribuidor": 26.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003575.jpg",
-      "imagen_size": 356637,
       "activo": true
     },
     {
@@ -10682,7 +10661,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15848,7 +15827,7 @@
         "taller": 10.25,
         "distribuidor": 8.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15974,7 +15953,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 46,
+      "stock": 45,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16191,27 +16170,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189206.png",
       "imagen_size": 111332,
-      "activo": true
-    },
-    {
-      "sku": "741540189215",
-      "nombre": "DISCO FRENO AK TTR200 FXR150 TRASERO VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 28,
-        "taller": 18.5,
-        "distribuidor": 15.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189215.png",
-      "imagen_size": 111006,
       "activo": true
     },
     {
@@ -21350,7 +21308,7 @@
         "taller": 4.75,
         "distribuidor": 4.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24710,7 +24668,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35861,7 +35819,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36953,7 +36911,7 @@
         "taller": 22.25,
         "distribuidor": 18.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
