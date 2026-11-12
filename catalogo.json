@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T02:11:30.206Z",
-  "count": 5686,
+  "generated_at": "2026-11-12T20:44:20.011Z",
+  "count": 5681,
   "productos": [
     {
       "sku": "104105",
@@ -77,7 +77,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 40,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -140,7 +140,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 67,
+      "stock": 46,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2303,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3983,7 +3983,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 50,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4788,27 +4788,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189192",
-      "nombre": "CABLE ACELERADOR HUNK 150 / UNICORN 150",
-      "marca": "VINI",
-      "categoria": "CABLES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189192.png",
-      "imagen_size": 67347,
       "activo": true
     },
     {
@@ -7794,27 +7773,6 @@
       "activo": true
     },
     {
-      "sku": "1006530",
-      "nombre": "CADENA TRACCION DORADA MEK 520H-120L REFORZADA",
-      "marca": "MEK",
-      "categoria": "KIT TRACCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14.25,
-        "taller": 13,
-        "distribuidor": 12.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "RMCAD-D4-2",
       "nombre": "CADENILLA DE TIEMPO 25HX84L MK1 KATANA",
       "marca": "KATANA",
@@ -10010,7 +9968,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11627,7 +11585,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16110,6 +16068,27 @@
       "activo": true
     },
     {
+      "sku": "741540189215",
+      "nombre": "DISCO FRENO AK TTR200 FXR150 TRASERO VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 28,
+        "taller": 18.5,
+        "distribuidor": 15.75
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189215.png",
+      "imagen_size": 111006,
+      "activo": true
+    },
+    {
       "sku": "741540189217",
       "nombre": "DISCO FRENO CBF125-150-HUNK-CR4 TRASERO VINI(FL)",
       "marca": "VINI",
@@ -19187,7 +19166,7 @@
         "taller": 1.5,
         "distribuidor": 1.35
       },
-      "stock": 50,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21024,27 +21003,6 @@
       "activo": true
     },
     {
-      "sku": "741540100376",
-      "nombre": "FRICCION CG125 TITAN VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRICCION",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 4,
-        "distribuidor": 3.5
-      },
-      "stock": 4,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100376.png",
-      "imagen_size": 132076,
-      "activo": true
-    },
-    {
       "sku": "741540100375",
       "nombre": "FRICCION CGL125 VINI",
       "marca": "VINI",
@@ -21140,13 +21098,34 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 14,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188919.png",
       "imagen_size": 104325,
+      "activo": true
+    },
+    {
+      "sku": "741540100371",
+      "nombre": "FRICCION GN-FIRE-APACHE160-PULSAR VINI (FL)",
+      "marca": "VINI",
+      "categoria": "FRICCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9,
+        "taller": 5,
+        "distribuidor": 4.5
+      },
+      "stock": 33,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100371.png",
+      "imagen_size": 144056,
       "activo": true
     },
     {
@@ -23576,7 +23555,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23618,7 +23597,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 27,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24444,27 +24423,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189537.png",
       "imagen_size": 50236,
-      "activo": true
-    },
-    {
-      "sku": "1002451",
-      "nombre": "KIT BUSHING CATARINA C-PERNO",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.5,
-        "taller": 6,
-        "distribuidor": 5
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1002451.jpg",
-      "imagen_size": 143278,
       "activo": true
     },
     {
@@ -29435,27 +29393,6 @@
         "taller": 37.25,
         "distribuidor": 34.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "LA1C-3401-22",
-      "nombre": "LLANTA AXUS 100-90-10 NAVI AX2238 6PR TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 28,
-        "taller": 23,
-        "distribuidor": 21
-      },
       "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
@@ -29844,48 +29781,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-0701-22",
-      "nombre": "LLANTA AXUS 90-90-17 LISA AX4418 6PR TL TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 36.75,
-        "taller": 33.75,
-        "distribuidor": 31.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0701-22.png",
-      "imagen_size": 83896,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-0702-22",
-      "nombre": "LLANTA AXUS 90-90-18 LISA AX4418 DESPORTIVAS",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 42,
-        "taller": 31,
-        "distribuidor": 29
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-0702-22.png",
-      "imagen_size": 85845,
-      "activo": true
-    },
-    {
       "sku": "741540189923",
       "nombre": "LLANTA VINI 100-80-17 VT 1008 (FL)",
       "marca": "VINI",
@@ -29939,7 +29834,7 @@
         "taller": 38.5,
         "distribuidor": 36
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30569,7 +30464,7 @@
         "taller": 2.75,
         "distribuidor": 2.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30842,7 +30737,7 @@
         "taller": 5.75,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30905,7 +30800,7 @@
         "taller": 21.25,
         "distribuidor": 18
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32123,7 +32018,7 @@
         "taller": 3.5,
         "distribuidor": 3.5
       },
-      "stock": 11,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32228,7 +32123,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 12,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32669,7 +32564,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 66,
+      "stock": 40,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34391,7 +34286,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39494,7 +39389,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41930,7 +41825,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 24,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
