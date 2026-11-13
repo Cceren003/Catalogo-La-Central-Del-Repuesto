@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T20:44:20.011Z",
-  "count": 5681,
+  "generated_at": "2026-11-13T01:44:49.432Z",
+  "count": 5679,
   "productos": [
     {
       "sku": "104105",
@@ -938,7 +938,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,8 +2408,8 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2450,7 +2450,7 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5600,7 +5600,7 @@
         "taller": 3,
         "distribuidor": 2.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6440,7 +6440,7 @@
         "taller": 1.25,
         "distribuidor": 1
       },
-      "stock": 152,
+      "stock": 142,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7616,7 +7616,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 71,
+      "stock": 70,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14241,27 +14241,6 @@
       "activo": true
     },
     {
-      "sku": "741540189054",
-      "nombre": "CILINDRO COMPLETO HERO HUNK 150 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 95,
-        "taller": 76,
-        "distribuidor": 67
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189054.png",
-      "imagen_size": 79560,
-      "activo": true
-    },
-    {
       "sku": "741540139051",
       "nombre": "CILINDRO COMPLETO HONDA XR250 TORNADO",
       "marca": "VINI",
@@ -15571,11 +15550,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 7.25,
-        "taller": 6,
-        "distribuidor": 5
+        "publico": 17,
+        "taller": 9,
+        "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18189,27 +18168,6 @@
       "activo": true
     },
     {
-      "sku": "741540189427",
-      "nombre": "EMPAQUE DE PUNTERIA HUNK",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189427.png",
-      "imagen_size": 45575,
-      "activo": true
-    },
-    {
       "sku": "RMEMP-110420001-0001",
       "nombre": "EMPAQUE DE TAPADERA DE MAGNETO SMX200 / R1 200",
       "marca": "KATANA",
@@ -19775,7 +19733,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21119,7 +21077,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 33,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27650,7 +27608,7 @@
         "taller": 4.5,
         "distribuidor": 3.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32627,7 +32585,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35945,7 +35903,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
