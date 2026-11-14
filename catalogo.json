@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T20:25:37.942Z",
-  "count": 5711,
+  "generated_at": "2026-11-14T01:22:40.567Z",
+  "count": 5708,
   "productos": [
     {
       "sku": "104105",
@@ -77,7 +77,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 38,
+      "stock": 26,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -140,7 +140,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 40,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -539,7 +539,7 @@
         "taller": 0.75,
         "distribuidor": 0.65
       },
-      "stock": 44,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1211,7 +1211,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 16,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15774,27 +15774,6 @@
       "activo": true
     },
     {
-      "sku": "CD007",
-      "nombre": "DISCO CLUTCH PULSAR180-200/XR 250 TORNADO/FZ16/SZ150D",
-      "marca": "NRP",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 17,
-        "taller": 9,
-        "distribuidor": 7
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/CD007.jpg",
-      "imagen_size": 4761,
-      "activo": true
-    },
-    {
       "sku": "741540188464",
       "nombre": "DISCO CLUTCH SET AK10/C70/C90 VINI(FL)",
       "marca": "VINI",
@@ -19397,7 +19376,7 @@
         "taller": 1.5,
         "distribuidor": 1.35
       },
-      "stock": 49,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23849,7 +23828,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29771,7 +29750,7 @@
         "taller": 34.75,
         "distribuidor": 32.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29792,7 +29771,7 @@
         "taller": 29.25,
         "distribuidor": 27.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29918,7 +29897,7 @@
         "taller": 43.25,
         "distribuidor": 40.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29981,7 +29960,7 @@
         "taller": 40.75,
         "distribuidor": 38.25
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30149,7 +30128,7 @@
         "taller": 33.75,
         "distribuidor": 31.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30191,55 +30170,13 @@
         "taller": 31,
         "distribuidor": 29
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-0702-22.png",
       "imagen_size": 85845,
-      "activo": true
-    },
-    {
-      "sku": "741540189923",
-      "nombre": "LLANTA VINI 100-80-17 VT 1008 (FL)",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 43,
-        "taller": 36,
-        "distribuidor": 34
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540189927",
-      "nombre": "LLANTA VINI 110-90-16 TARUGO PEQUEÑO VT1003",
-      "marca": "VINI",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 42.25,
-        "taller": 38.75,
-        "distribuidor": 36.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189927.jpg",
-      "imagen_size": 8880,
       "activo": true
     },
     {
@@ -33089,7 +33026,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43820,7 +43757,7 @@
         "taller": 7.5,
         "distribuidor": 6.75
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
