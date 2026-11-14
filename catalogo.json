@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T01:22:40.567Z",
-  "count": 5708,
+  "generated_at": "2026-11-14T18:42:08.129Z",
+  "count": 5705,
   "productos": [
     {
       "sku": "104105",
@@ -77,7 +77,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 26,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 18,
         "distribuidor": 17.25
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -140,7 +140,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 28,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -518,7 +518,7 @@
         "taller": 0.75,
         "distribuidor": 0.65
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -581,8 +581,8 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -854,7 +854,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2345,7 +2345,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2408,8 +2408,8 @@
         "taller": 19,
         "distribuidor": 18
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2429,7 +2429,7 @@
         "taller": 15,
         "distribuidor": 14
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3857,7 +3857,7 @@
         "taller": 2.5,
         "distribuidor": 2.15
       },
-      "stock": 45,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7700,7 +7700,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 70,
+      "stock": 69,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7721,7 +7721,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 33,
+      "stock": 32,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9506,7 +9506,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11434,11 +11434,11 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6.75,
-        "taller": 6.25,
-        "distribuidor": 5.75
+        "publico": 17,
+        "taller": 10,
+        "distribuidor": 8
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14889,27 +14889,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189331.png",
       "imagen_size": 111262,
-      "activo": true
-    },
-    {
-      "sku": "741540188075",
-      "nombre": "CILINDRO COMPLETO YBR125 56.5 MODIFICADO VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 107.25,
-        "taller": 87.75,
-        "distribuidor": 74.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188075.png",
-      "imagen_size": 103074,
       "activo": true
     },
     {
@@ -19376,7 +19355,7 @@
         "taller": 1.5,
         "distribuidor": 1.35
       },
-      "stock": 48,
+      "stock": 47,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19481,7 +19460,7 @@
         "taller": 6.5,
         "distribuidor": 5.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21560,7 +21539,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23394,27 +23373,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189778.png",
       "imagen_size": 44581,
-      "activo": true
-    },
-    {
-      "sku": "741540189780",
-      "nombre": "HERRAMIENTA VINI LLAVE INGLESA 19MM",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.75,
-        "taller": 7.25,
-        "distribuidor": 6
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189780.png",
-      "imagen_size": 44463,
       "activo": true
     },
     {
@@ -30170,7 +30128,7 @@
         "taller": 31,
         "distribuidor": 29
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30744,27 +30702,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001990.png",
       "imagen_size": 30564,
-      "activo": true
-    },
-    {
-      "sku": "741540163304",
-      "nombre": "MANECILLA CLUTCH COMPLETA LH CGL125/YARA 200 VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9.5,
-        "taller": 5.75,
-        "distribuidor": 4.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540163304.png",
-      "imagen_size": 81882,
       "activo": true
     },
     {
@@ -33005,7 +32942,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 40,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33068,7 +33005,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 13,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34370,7 +34307,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38423,7 +38360,7 @@
         "taller": 11,
         "distribuidor": 9.5
       },
-      "stock": 16,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39326,8 +39263,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
