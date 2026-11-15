@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T18:42:08.129Z",
-  "count": 5705,
+  "generated_at": "2026-11-15T00:56:27.693Z",
+  "count": 5700,
   "productos": [
     {
       "sku": "104105",
@@ -140,8 +140,8 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 9,
-      "stock_status": "in_stock",
+      "stock": 3,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1422,27 +1422,6 @@
         "distribuidor": 3
       },
       "stock": 2,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "HK1312",
-      "nombre": "BALERO AGUJA HK1312",
-      "marca": "NRP",
-      "categoria": "BALEROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.25,
-        "taller": 4,
-        "distribuidor": 3.25
-      },
-      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3699,27 +3678,6 @@
       "activo": true
     },
     {
-      "sku": "741540190693",
-      "nombre": "BOMBA FRENO DELANTERA GIXXER 150 VINI",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22.75,
-        "taller": 18.75,
-        "distribuidor": 16
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190693.png",
-      "imagen_size": 60709,
-      "activo": true
-    },
-    {
       "sku": "741540177001",
       "nombre": "BOMBA FRENO DELANTERA UNIVERSAL VINI ) (FL)",
       "marca": "VINI",
@@ -3920,7 +3878,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9180,27 +9138,6 @@
       "activo": true
     },
     {
-      "sku": "CRB010",
-      "nombre": "CARBURADOR COMPLETO NAVI 110",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 50.25,
-        "taller": 41,
-        "distribuidor": 35
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/CRB010.jpg",
-      "imagen_size": 10051,
-      "activo": true
-    },
-    {
       "sku": "741540189960",
       "nombre": "CARBURADOR CRUXX110REV",
       "marca": "VINI",
@@ -13517,7 +13454,7 @@
         "taller": 26.75,
         "distribuidor": 22.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19680,27 +19617,6 @@
       "activo": true
     },
     {
-      "sku": "741540189342",
-      "nombre": "FILTRO AIRE CB 160F-UNICOR-XBLADE / REPSOL 190 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 5.75,
-        "distribuidor": 4.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189342.png",
-      "imagen_size": 114499,
-      "activo": true
-    },
-    {
       "sku": "741540188480",
       "nombre": "FILTRO AIRE CB1 VINI",
       "marca": "VINI",
@@ -21287,7 +21203,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 44,
+      "stock": 43,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21392,7 +21308,7 @@
         "taller": 0.25,
         "distribuidor": 0.15
       },
-      "stock": 60,
+      "stock": 59,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25172,7 +25088,7 @@
         "taller": 6,
         "distribuidor": 4.5
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26138,7 +26054,7 @@
         "taller": 14.5,
         "distribuidor": 12
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26516,7 +26432,7 @@
         "taller": 8.75,
         "distribuidor": 7.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33719,7 +33635,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 22,
+      "stock": 21,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36330,27 +36246,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100404.png",
       "imagen_size": 101850,
-      "activo": true
-    },
-    {
-      "sku": "1000163",
-      "nombre": "PITO CROMADO GRANDE MEK",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6,
-        "taller": 4,
-        "distribuidor": 3.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000163.png",
-      "imagen_size": 42034,
       "activo": true
     },
     {
