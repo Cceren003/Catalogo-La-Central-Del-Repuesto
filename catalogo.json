@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T00:54:20.521Z",
-  "count": 5700,
+  "generated_at": "2026-11-16T22:49:28.044Z",
+  "count": 5696,
   "productos": [
     {
       "sku": "104105",
@@ -35,7 +35,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 24,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 18,
         "distribuidor": 17.25
       },
-      "stock": 10,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -118,27 +118,6 @@
         "publico": 20,
         "taller": 18,
         "distribuidor": 17.08
-      },
-      "stock": 3,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "LM120101",
-      "nombre": "ACEITE MOTUL 20W50 MINERAL 3000",
-      "marca": "MOTUL",
-      "categoria": "ACEITES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 7.75,
-        "distribuidor": 7.5
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -2219,7 +2198,7 @@
         "taller": 20.25,
         "distribuidor": 17.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,7 +2345,7 @@
         "taller": 22.25,
         "distribuidor": 21
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2387,7 +2366,7 @@
         "taller": 19,
         "distribuidor": 18
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2429,7 +2408,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2450,7 +2429,7 @@
         "taller": 21.5,
         "distribuidor": 19.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3815,7 +3794,7 @@
         "taller": 2.5,
         "distribuidor": 2.15
       },
-      "stock": 44,
+      "stock": 34,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3878,7 +3857,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 21,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4067,7 +4046,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 38,
+      "stock": 27,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4109,7 +4088,7 @@
         "taller": 10.75,
         "distribuidor": 9.5
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6398,7 +6377,7 @@
         "taller": 4.5,
         "distribuidor": 3.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,7 +7637,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 69,
+      "stock": 68,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7679,7 +7658,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 32,
+      "stock": 31,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7763,7 +7742,7 @@
         "taller": 18,
         "distribuidor": 16.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9443,7 +9422,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 16,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10787,7 +10766,7 @@
         "taller": 9,
         "distribuidor": 7.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10892,8 +10871,8 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -11291,7 +11270,7 @@
         "taller": 8.75,
         "distribuidor": 7.5
       },
-      "stock": 3,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13580,7 +13559,7 @@
         "taller": 24.5,
         "distribuidor": 21
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15302,7 +15281,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 5,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16247,7 +16226,7 @@
         "taller": 33.75,
         "distribuidor": 28.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17433,27 +17412,6 @@
       "activo": true
     },
     {
-      "sku": "741540100722",
-      "nombre": "EJE LEVAS PULSAR 135 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 22,
-        "taller": 18,
-        "distribuidor": 15.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100722.png",
-      "imagen_size": 57231,
-      "activo": true
-    },
-    {
       "sku": "741540189551",
       "nombre": "EJE LEVAS PULSAR 160NS VINI(FL)",
       "marca": "VINI",
@@ -18347,7 +18305,7 @@
         "taller": 0.75,
         "distribuidor": 0.4
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18704,7 +18662,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19250,7 +19208,7 @@
         "taller": 1.5,
         "distribuidor": 1
       },
-      "stock": 9,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19292,7 +19250,7 @@
         "taller": 1.5,
         "distribuidor": 1.35
       },
-      "stock": 47,
+      "stock": 44,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20111,7 +20069,7 @@
         "taller": 7,
         "distribuidor": 5.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20741,7 +20699,7 @@
         "taller": 1,
         "distribuidor": 0.85
       },
-      "stock": 31,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21203,7 +21161,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 43,
+      "stock": 39,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21266,7 +21224,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 15,
+      "stock": 14,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23051,7 +23009,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25214,8 +25172,8 @@
         "taller": 6,
         "distribuidor": 4.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28574,7 +28532,7 @@
         "taller": 12,
         "distribuidor": 10
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -28952,7 +28910,7 @@
         "taller": 12.5,
         "distribuidor": 10.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29057,7 +29015,7 @@
         "taller": 13,
         "distribuidor": 10.75
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31430,7 +31388,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32921,7 +32879,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33005,7 +32963,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33264,27 +33222,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188800.png",
       "imagen_size": 119419,
-      "activo": true
-    },
-    {
-      "sku": "741540190173",
-      "nombre": "PASTILLA FRENO PULSAR 160 VINI",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 3.25,
-        "distribuidor": 2.75
-      },
-      "stock": 5,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190173.png",
-      "imagen_size": 127268,
       "activo": true
     },
     {
@@ -35126,7 +35063,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35630,7 +35567,7 @@
         "taller": 4.5,
         "distribuidor": 3.5
       },
-      "stock": 5,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36092,7 +36029,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36722,7 +36659,7 @@
         "taller": 28,
         "distribuidor": 23.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40334,7 +40271,7 @@
         "taller": 2.25,
         "distribuidor": 2
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43239,27 +43176,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540100258",
-      "nombre": "SWITCH IGNICION GN125H VINI (FL)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9,
-        "taller": 7.25,
-        "distribuidor": 6.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100258.png",
-      "imagen_size": 87814,
       "activo": true
     },
     {
