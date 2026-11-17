@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T22:49:28.044Z",
-  "count": 5696,
+  "generated_at": "2026-11-17T21:39:13.304Z",
+  "count": 5729,
   "productos": [
     {
       "sku": "104105",
@@ -35,7 +35,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 11,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -56,7 +56,7 @@
         "taller": 9.75,
         "distribuidor": 9.25
       },
-      "stock": 16,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -77,7 +77,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 18,
+      "stock": 51,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -98,7 +98,7 @@
         "taller": 18,
         "distribuidor": 17.25
       },
-      "stock": 9,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -121,6 +121,27 @@
       },
       "stock": 3,
       "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "LM120101",
+      "nombre": "ACEITE MOTUL 20W50 MINERAL 3000",
+      "marca": "MOTUL",
+      "categoria": "ACEITES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9,
+        "taller": 7.75,
+        "distribuidor": 7.5
+      },
+      "stock": 96,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -224,7 +245,7 @@
         "taller": 15,
         "distribuidor": 13
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1736,8 +1757,8 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 11,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1757,8 +1778,8 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -1820,7 +1841,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1883,8 +1904,8 @@
         "taller": 2.25,
         "distribuidor": 1.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2208,6 +2229,27 @@
       "activo": true
     },
     {
+      "sku": "741540189270",
+      "nombre": "BASE CATARINA FORZA 150",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 27,
+        "taller": 22,
+        "distribuidor": 18.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189270.png",
+      "imagen_size": 67638,
+      "activo": true
+    },
+    {
       "sku": "741540188710",
       "nombre": "BASE FRICCION CG-125 VINI",
       "marca": "VINI",
@@ -2261,7 +2303,7 @@
         "taller": 18,
         "distribuidor": 16.5
       },
-      "stock": 2,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2303,7 +2345,7 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 2,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2355,6 +2397,27 @@
       "activo": true
     },
     {
+      "sku": "TS12N9-4B-1",
+      "nombre": "BATERIA DE GEL 12N9-4B-1 TECNOSTAR",
+      "marca": "TECNOSTAR",
+      "categoria": "BATERIAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 33,
+        "taller": 26,
+        "distribuidor": 24
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
+      "activo": true
+    },
+    {
       "sku": "TSLB6.5L-BS",
       "nombre": "BATERIA DE GEL LB6.5L-BS TECNOSTAR",
       "marca": "TECNOSTAR",
@@ -2387,7 +2450,7 @@
         "taller": 15,
         "distribuidor": 14
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2429,8 +2492,8 @@
         "taller": 21.5,
         "distribuidor": 19.5
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2450,8 +2513,8 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2513,7 +2576,7 @@
         "taller": 1.5,
         "distribuidor": 1.25
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2534,7 +2597,7 @@
         "taller": 18.25,
         "distribuidor": 15.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2660,7 +2723,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 33,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3237,6 +3300,27 @@
       "activo": true
     },
     {
+      "sku": "741540189890",
+      "nombre": "BOMBA ACEITE BOMBA SERPENTO DRACO 250 VINI",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 14,
+        "taller": 12,
+        "distribuidor": 11.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189890.png",
+      "imagen_size": 73803,
+      "activo": true
+    },
+    {
       "sku": "741540191155",
       "nombre": "BOMBA ACEITE CB110 VINI",
       "marca": "VINI",
@@ -3657,6 +3741,27 @@
       "activo": true
     },
     {
+      "sku": "741540188670",
+      "nombre": "BOMBA FRENO DEL UNIVERSAL TB-110 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 18,
+        "taller": 13,
+        "distribuidor": 12
+      },
+      "stock": 9,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188670.png",
+      "imagen_size": 74296,
+      "activo": true
+    },
+    {
       "sku": "741540177001",
       "nombre": "BOMBA FRENO DELANTERA UNIVERSAL VINI ) (FL)",
       "marca": "VINI",
@@ -3668,7 +3773,7 @@
         "taller": 7.5,
         "distribuidor": 7
       },
-      "stock": 6,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3741,6 +3846,27 @@
       "activo": true
     },
     {
+      "sku": "741540177002",
+      "nombre": "BOMBA FRENO TRASERA CON DEPOSITO. VINI (FL)",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 20,
+        "taller": 13.75,
+        "distribuidor": 12
+      },
+      "stock": 15,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540177002.png",
+      "imagen_size": 45767,
+      "activo": true
+    },
+    {
       "sku": "741540190666",
       "nombre": "BOMBA FRENO TRASERA PULSAR 200NS-PULSAR 180",
       "marca": "VINI",
@@ -3794,8 +3920,8 @@
         "taller": 2.5,
         "distribuidor": 2.15
       },
-      "stock": 34,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3857,13 +3983,34 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 11,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540187915.png",
       "imagen_size": 65950,
+      "activo": true
+    },
+    {
+      "sku": "741540188324",
+      "nombre": "BOMBILLO STOP 12V (BAY15D)",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 1,
+        "taller": 0.5,
+        "distribuidor": 0.35
+      },
+      "stock": 90,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188324.png",
+      "imagen_size": 56697,
       "activo": true
     },
     {
@@ -3878,7 +4025,7 @@
         "taller": 0.25,
         "distribuidor": 0.15
       },
-      "stock": 120,
+      "stock": 100,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3899,7 +4046,7 @@
         "taller": 0.3,
         "distribuidor": 0.2
       },
-      "stock": 6,
+      "stock": 96,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4004,7 +4151,7 @@
         "taller": 4,
         "distribuidor": 3.75
       },
-      "stock": 39,
+      "stock": 38,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4025,7 +4172,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4046,7 +4193,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 27,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4193,7 +4340,7 @@
         "taller": 7.5,
         "distribuidor": 6.25
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -4424,8 +4571,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 19,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4812,6 +4959,27 @@
       "activo": true
     },
     {
+      "sku": "741540189192",
+      "nombre": "CABLE ACELERADOR HUNK 150 / UNICORN 150",
+      "marca": "VINI",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 10,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189192.png",
+      "imagen_size": 67347,
+      "activo": true
+    },
+    {
       "sku": "741540190587",
       "nombre": "CABLE ACELERADOR HUNK160R",
       "marca": "VINI",
@@ -5169,6 +5337,27 @@
       "activo": true
     },
     {
+      "sku": "741540100269",
+      "nombre": "CABLE ACELERADOR XL125-TT200 VINI. TODO TERRENO",
+      "marca": "VINI",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3,
+        "distribuidor": 2.25
+      },
+      "stock": 20,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100269.png",
+      "imagen_size": 52434,
+      "activo": true
+    },
+    {
       "sku": "741540189943",
       "nombre": "CABLE ACELERADOR XTZ150 VINI (FL)",
       "marca": "VINI",
@@ -5208,6 +5397,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100271.png",
       "imagen_size": 81962,
+      "activo": true
+    },
+    {
+      "sku": "741540189195",
+      "nombre": "CABLE ACELERADOR YARA 200-TT200 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "CABLES",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 15,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189195.png",
+      "imagen_size": 65229,
       "activo": true
     },
     {
@@ -5789,7 +5999,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5957,8 +6167,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6083,7 +6293,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 9,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6104,7 +6314,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 9,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -6251,8 +6461,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6755,8 +6965,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 13,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7014,27 +7224,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/SPC023.jpg",
       "imagen_size": 5930,
-      "activo": true
-    },
-    {
-      "sku": "1003769",
-      "nombre": "CADENA 428H-138L DORADA MEK",
-      "marca": "MEK",
-      "categoria": "CADENAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 15,
-        "taller": 8,
-        "distribuidor": 7.25
-      },
-      "stock": 20,
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003769.png",
-      "imagen_size": 57640,
       "activo": true
     },
     {
@@ -7637,7 +7826,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 68,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7658,7 +7847,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 31,
+      "stock": 70,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7721,8 +7910,8 @@
         "taller": 15.5,
         "distribuidor": 14
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7742,7 +7931,7 @@
         "taller": 18,
         "distribuidor": 16.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8634,6 +8823,27 @@
       "activo": true
     },
     {
+      "sku": "741540190526",
+      "nombre": "CALIPER FRENO DELANTERO CB150",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 29.25,
+        "taller": 24,
+        "distribuidor": 20.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190526.png",
+      "imagen_size": 127526,
+      "activo": true
+    },
+    {
       "sku": "741540190571",
       "nombre": "CALIPER FRENO DELANTERO CR150/CG125/R2-250",
       "marca": "VINI",
@@ -8715,27 +8925,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188505.png",
       "imagen_size": 155060,
-      "activo": true
-    },
-    {
-      "sku": "741540191231",
-      "nombre": "CALIPER FRENO FZ 3.0 VINI",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 44.75,
-        "taller": 36.75,
-        "distribuidor": 31.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -8960,7 +9149,7 @@
         "taller": 1.75,
         "distribuidor": 1.25
       },
-      "stock": 16,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9051,6 +9240,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190788.png",
       "imagen_size": 90035,
+      "activo": true
+    },
+    {
+      "sku": "741540188240",
+      "nombre": "CARBURADOR BOXER-CT100",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 36.75,
+        "taller": 30.25,
+        "distribuidor": 25.75
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188240.png",
+      "imagen_size": 97492,
       "activo": true
     },
     {
@@ -9359,7 +9569,7 @@
         "taller": 19,
         "distribuidor": 17.5
       },
-      "stock": 19,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9380,7 +9590,7 @@
         "taller": 20,
         "distribuidor": 18
       },
-      "stock": 14,
+      "stock": 13,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9422,7 +9632,7 @@
         "taller": 21,
         "distribuidor": 19
       },
-      "stock": 13,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9450,6 +9660,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004930.png",
       "imagen_size": 36695,
+      "activo": true
+    },
+    {
+      "sku": "741540100264",
+      "nombre": "CARBURADOR YBR125 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 67,
+        "taller": 54.75,
+        "distribuidor": 46.5
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100264.png",
+      "imagen_size": 100774,
       "activo": true
     },
     {
@@ -12099,6 +12330,27 @@
       "activo": true
     },
     {
+      "sku": "741540188301",
+      "nombre": "CATARINA FIRE 125S 45T VINI(FL)",
+      "marca": "VINI",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11.75,
+        "taller": 8.5,
+        "distribuidor": 7.25
+      },
+      "stock": 4,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188301.png",
+      "imagen_size": 120251,
+      "activo": true
+    },
+    {
       "sku": "741540190295",
       "nombre": "CATARINA FZN1250 46T",
       "marca": "VINI",
@@ -12572,7 +12824,7 @@
         "taller": 8.25,
         "distribuidor": 7
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12614,8 +12866,8 @@
         "taller": 9,
         "distribuidor": 8.25
       },
-      "stock": 7,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -12635,7 +12887,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 11,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14693,7 +14945,7 @@
         "taller": 45,
         "distribuidor": 40
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14805,6 +15057,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189331.png",
       "imagen_size": 111262,
+      "activo": true
+    },
+    {
+      "sku": "741540100317",
+      "nombre": "CILINDRO COMPLETO YBR125",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 82.25,
+        "taller": 67.5,
+        "distribuidor": 57.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100317.png",
+      "imagen_size": 77365,
       "activo": true
     },
     {
@@ -14994,6 +15267,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189204.png",
       "imagen_size": 113264,
+      "activo": true
+    },
+    {
+      "sku": "741540191170",
+      "nombre": "CLUTCH COMPLETO XBLADE 160 CBF160",
+      "marca": "VINI",
+      "categoria": "EMBRAGUE",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 62,
+        "taller": 50.75,
+        "distribuidor": 43.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540191170.jpg",
+      "imagen_size": 13142,
       "activo": true
     },
     {
@@ -15617,8 +15911,8 @@
         "taller": 14,
         "distribuidor": 12
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -15848,7 +16142,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 24,
+      "stock": 20,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -15932,7 +16226,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 45,
+      "stock": 58,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -17118,6 +17412,27 @@
       "activo": true
     },
     {
+      "sku": "741540190597",
+      "nombre": "EJE DELANTERO HUNK160-APACHE160 VINI",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 6.25,
+        "taller": 4.25,
+        "distribuidor": 3.75
+      },
+      "stock": 7,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190597.png",
+      "imagen_size": 42670,
+      "activo": true
+    },
+    {
       "sku": "741540190801",
       "nombre": "EJE DELANTERO PULSAR135/DISCOVER100M-110-125-150ST-125NS",
       "marca": "VINI",
@@ -18252,6 +18567,27 @@
       "activo": true
     },
     {
+      "sku": "741540189427",
+      "nombre": "EMPAQUE DE PUNTERIA HUNK",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 3.5,
+        "distribuidor": 3
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189427.png",
+      "imagen_size": 45575,
+      "activo": true
+    },
+    {
       "sku": "RMEMP-110420001-0001",
       "nombre": "EMPAQUE DE TAPADERA DE MAGNETO SMX200 / R1 200",
       "marca": "KATANA",
@@ -18417,6 +18753,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100432.png",
       "imagen_size": 117388,
+      "activo": true
+    },
+    {
+      "sku": "741540188675",
+      "nombre": "ESCAPE COMPLETO GN125 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 51.75,
+        "taller": 42.5,
+        "distribuidor": 36
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188675.png",
+      "imagen_size": 39289,
       "activo": true
     },
     {
@@ -18620,7 +18977,7 @@
         "taller": 6.75,
         "distribuidor": 5.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18816,6 +19173,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001584.png",
       "imagen_size": 9586,
+      "activo": true
+    },
+    {
+      "sku": "741540188647",
+      "nombre": "ESTRIBO COMPLETO CG-125",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 18.5,
+        "taller": 15.25,
+        "distribuidor": 13
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188647.png",
+      "imagen_size": 38283,
       "activo": true
     },
     {
@@ -19103,7 +19481,7 @@
         "taller": 13,
         "distribuidor": 11.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19575,6 +19953,27 @@
       "activo": true
     },
     {
+      "sku": "741540189342",
+      "nombre": "FILTRO AIRE CB 160F-UNICOR-XBLADE / REPSOL 190 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 5.75,
+        "distribuidor": 4.75
+      },
+      "stock": 8,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189342.png",
+      "imagen_size": 114499,
+      "activo": true
+    },
+    {
       "sku": "741540188480",
       "nombre": "FILTRO AIRE CB1 VINI",
       "marca": "VINI",
@@ -19677,6 +20076,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1006361.png",
       "imagen_size": 51137,
+      "activo": true
+    },
+    {
+      "sku": "741540189687",
+      "nombre": "FILTRO AIRE CR1 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 5,
+        "distribuidor": 4.5
+      },
+      "stock": 20,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189687.png",
+      "imagen_size": 99641,
       "activo": true
     },
     {
@@ -20048,8 +20468,8 @@
         "taller": 6,
         "distribuidor": 4.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 9,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -20076,6 +20496,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/17210-KVT-D00.jpg",
       "imagen_size": 426239,
+      "activo": true
+    },
+    {
+      "sku": "741540189965",
+      "nombre": "FILTRO AIRE NAVI110 VINI",
+      "marca": "VINI",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8.5,
+        "taller": 7,
+        "distribuidor": 6
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189965.jpg",
+      "imagen_size": 9380,
       "activo": true
     },
     {
@@ -20300,7 +20741,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -20804,8 +21245,8 @@
         "taller": 2,
         "distribuidor": 1.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21066,6 +21507,27 @@
       "activo": true
     },
     {
+      "sku": "741540100376",
+      "nombre": "FRICCION CG125 TITAN VINI(FL)",
+      "marca": "VINI",
+      "categoria": "FRICCION",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 4,
+        "distribuidor": 3.5
+      },
+      "stock": 12,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100376.png",
+      "imagen_size": 132076,
+      "activo": true
+    },
+    {
       "sku": "741540100375",
       "nombre": "FRICCION CGL125 VINI",
       "marca": "VINI",
@@ -21140,8 +21602,8 @@
         "taller": 6.5,
         "distribuidor": 6
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 11,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21161,7 +21623,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 39,
+      "stock": 79,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21990,6 +22452,27 @@
       "activo": true
     },
     {
+      "sku": "741540140574",
+      "nombre": "HERRAMIENTA CORTADOR CADENA VINI",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 18,
+        "taller": 16,
+        "distribuidor": 13.5
+      },
+      "stock": 6,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540140574.png",
+      "imagen_size": 61522,
+      "activo": true
+    },
+    {
       "sku": "741540189817",
       "nombre": "HERRAMIENTA CUBO BOMBA AK125",
       "marca": "VINI",
@@ -22400,13 +22883,34 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189789.png",
       "imagen_size": 48627,
+      "activo": true
+    },
+    {
+      "sku": "741540189822",
+      "nombre": "HERRAMIENTA EXTRACTOR PIÑON",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 22.5,
+        "taller": 18.5,
+        "distribuidor": 15.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189822.png",
+      "imagen_size": 87791,
       "activo": true
     },
     {
@@ -22547,7 +23051,7 @@
         "taller": 21,
         "distribuidor": 18
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22694,7 +23198,7 @@
         "taller": 8,
         "distribuidor": 2.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23058,6 +23562,27 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
+      "activo": true
+    },
+    {
+      "sku": "741540190178",
+      "nombre": "HERRAMIENTA VINI KIT EXTRACTOR DE BALERO",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 144,
+        "taller": 118,
+        "distribuidor": 100.25
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190178.png",
+      "imagen_size": 160455,
       "activo": true
     },
     {
@@ -23460,6 +23985,27 @@
       "activo": true
     },
     {
+      "sku": "741540189791",
+      "nombre": "HERRAMIENTA VOLANTE PULSAR 200NS",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 12,
+        "taller": 9.75,
+        "distribuidor": 8.25
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189791.png",
+      "imagen_size": 48664,
+      "activo": true
+    },
+    {
       "sku": "1005952",
       "nombre": "HULE MASA CATARINA RKS 150",
       "marca": "MEK",
@@ -23597,7 +24143,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 14,
+      "stock": 29,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -23639,7 +24185,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 25,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24101,7 +24647,7 @@
         "taller": 15,
         "distribuidor": 12.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24290,7 +24836,7 @@
         "taller": 12,
         "distribuidor": 9
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25172,8 +25718,8 @@
         "taller": 6,
         "distribuidor": 4.75
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -25340,8 +25886,8 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 11,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -25424,7 +25970,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25557,6 +26103,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190413.png",
       "imagen_size": 115211,
+      "activo": true
+    },
+    {
+      "sku": "741540190979",
+      "nombre": "KIT DISTRIBUCION DE TIEMPO NAVI110",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 23,
+        "taller": 19,
+        "distribuidor": 16
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190979.png",
+      "imagen_size": 94238,
       "activo": true
     },
     {
@@ -25865,7 +26432,7 @@
         "taller": 8,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -27461,8 +28028,8 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 17,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28049,8 +28616,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 12,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29225,7 +29792,7 @@
         "taller": 10.75,
         "distribuidor": 9.25
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29372,8 +29939,8 @@
         "taller": 4.75,
         "distribuidor": 4
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -29477,7 +30044,7 @@
         "taller": 23,
         "distribuidor": 21
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29855,7 +30422,7 @@
         "taller": 30.5,
         "distribuidor": 28.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30212,7 +30779,7 @@
         "taller": 4.5,
         "distribuidor": 4
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30506,7 +31073,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 1,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30576,6 +31143,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1001990.png",
       "imagen_size": 30564,
+      "activo": true
+    },
+    {
+      "sku": "741540163304",
+      "nombre": "MANECILLA CLUTCH COMPLETA LH CGL125/YARA 200 VINI (FL)",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9.5,
+        "taller": 5.75,
+        "distribuidor": 4.75
+      },
+      "stock": 50,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540163304.png",
+      "imagen_size": 81882,
       "activo": true
     },
     {
@@ -30926,7 +31514,7 @@
         "taller": 5.75,
         "distribuidor": 5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30947,7 +31535,7 @@
         "taller": 5.25,
         "distribuidor": 4.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31136,7 +31724,7 @@
         "taller": 4,
         "distribuidor": 3.25
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31241,7 +31829,7 @@
         "taller": 5.25,
         "distribuidor": 4.5
       },
-      "stock": 2,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31409,7 +31997,7 @@
         "taller": 79,
         "distribuidor": 72
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31881,6 +32469,27 @@
       "activo": true
     },
     {
+      "sku": "741540190256",
+      "nombre": "MOTOR ARRANQUE FZ 2.00",
+      "marca": "MOTUL",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 36.75,
+        "taller": 30.25,
+        "distribuidor": 25.75
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190256.png",
+      "imagen_size": 113680,
+      "activo": true
+    },
+    {
       "sku": "SM023",
       "nombre": "MOTOR ARRANQUE FZ16 / FZ3.0-2.0 / SZ150D VOLT",
       "marca": "NRP",
@@ -32270,8 +32879,8 @@
         "taller": 3.5,
         "distribuidor": 3.5
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 1,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -32291,7 +32900,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32690,7 +33299,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 9,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32753,7 +33362,7 @@
         "taller": 5.25,
         "distribuidor": 4.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -32816,7 +33425,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 39,
+      "stock": 64,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33078,6 +33687,27 @@
       "activo": true
     },
     {
+      "sku": "741540188990",
+      "nombre": "PASTILLA FRENO HUNCK 150- ZMR230 / UNICOR (DELANTERAS)",
+      "marca": "VINI",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7,
+        "taller": 3.5,
+        "distribuidor": 2.75
+      },
+      "stock": 15,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188990.png",
+      "imagen_size": 138143,
+      "activo": true
+    },
+    {
       "sku": "741540188999",
       "nombre": "PASTILLA FRENO JH125-16/DR200P/NITROX 150",
       "marca": "VINI",
@@ -33089,7 +33719,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 10,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33383,7 +34013,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33530,8 +34160,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 5,
-      "stock_status": "low_stock",
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -33876,6 +34506,27 @@
       "activo": true
     },
     {
+      "sku": "741540100753",
+      "nombre": "PATA ARRANQUE RECTA LF150-11 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "REPUESTOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 16,
+        "taller": 8.75,
+        "distribuidor": 7.5
+      },
+      "stock": 3,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100753.png",
+      "imagen_size": 42667,
+      "activo": true
+    },
+    {
       "sku": "741540181422",
       "nombre": "PATA ARRANQUE RENEGADO VINI",
       "marca": "VINI",
@@ -33887,7 +34538,7 @@
         "taller": 8,
         "distribuidor": 6.75
       },
-      "stock": 1,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34370,7 +35021,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 2,
+      "stock": 5,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34412,7 +35063,7 @@
         "taller": 5.75,
         "distribuidor": 5
       },
-      "stock": 3,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34580,7 +35231,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34776,6 +35427,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100413.png",
       "imagen_size": 87497,
+      "activo": true
+    },
+    {
+      "sku": "741540100071",
+      "nombre": "PIDE VIA RF-218 SET VINI LED LARGA (FL)",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11,
+        "taller": 9,
+        "distribuidor": 8
+      },
+      "stock": 12,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100071.png",
+      "imagen_size": 87569,
       "activo": true
     },
     {
@@ -35630,7 +36302,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 12,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35987,8 +36659,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36008,8 +36680,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 11,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36197,7 +36869,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36512,7 +37184,7 @@
         "taller": 15,
         "distribuidor": 13.5
       },
-      "stock": 15,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36771,6 +37443,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188147.png",
       "imagen_size": 144444,
+      "activo": true
+    },
+    {
+      "sku": "741540188148",
+      "nombre": "PLANTA GY6 / NOVA 150 / F15 (8 BOBINAS, AUTOMATICA 2 HOYOS ) VINI(FL)",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 26.75,
+        "taller": 22,
+        "distribuidor": 18.5
+      },
+      "stock": 2,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188148.png",
+      "imagen_size": 133534,
       "activo": true
     },
     {
@@ -37856,7 +38549,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 15,
+      "stock": 18,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37877,7 +38570,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 27,
+      "stock": 30,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37947,27 +38640,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189177.png",
       "imagen_size": 133644,
-      "activo": true
-    },
-    {
-      "sku": "741540190257",
-      "nombre": "RECTIFICADOR CORRIENTE FZ 2.00",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 12,
-        "taller": 9.75,
-        "distribuidor": 8.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190257.png",
-      "imagen_size": 81458,
       "activo": true
     },
     {
@@ -39221,7 +39893,7 @@
         "taller": 5.5,
         "distribuidor": 4.75
       },
-      "stock": 25,
+      "stock": 23,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -39270,6 +39942,27 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190478.png",
       "imagen_size": 131845,
+      "activo": true
+    },
+    {
+      "sku": "741540188614",
+      "nombre": "RELOJ ASPIROMETRO FREEDOM FIRE",
+      "marca": "VINI",
+      "categoria": "MISELANEA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 30,
+        "taller": 24.5,
+        "distribuidor": 21
+      },
+      "stock": 1,
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188614.png",
+      "imagen_size": 109517,
       "activo": true
     },
     {
@@ -40260,6 +40953,27 @@
       "activo": true
     },
     {
+      "sku": "741540100797",
+      "nombre": "RETENEDOR BARRA 31X43X10.5 INDIVIDUAL (VINI)",
+      "marca": "VINI",
+      "categoria": "SELLO BARRA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5,
+        "taller": 2.5,
+        "distribuidor": 2
+      },
+      "stock": 30,
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100797.png",
+      "imagen_size": 59734,
+      "activo": true
+    },
+    {
       "sku": "741540187959",
       "nombre": "RETENEDOR BARRA 32X44X10.5 (UNIDAD) VINI",
       "marca": "VINI",
@@ -40397,7 +41111,7 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 6,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42476,7 +43190,7 @@
         "taller": 7.75,
         "distribuidor": 6.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -42539,8 +43253,8 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 2,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -42560,7 +43274,7 @@
         "taller": 4.75,
         "distribuidor": 4
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43232,7 +43946,7 @@
         "taller": 13.75,
         "distribuidor": 11.75
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43463,7 +44177,7 @@
         "taller": 10.75,
         "distribuidor": 9.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -43820,7 +44534,7 @@
         "taller": 6.75,
         "distribuidor": 5.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -45143,7 +45857,7 @@
         "taller": 7,
         "distribuidor": 5.5
       },
-      "stock": 1,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -93404,28 +94118,6 @@
       "fuente": "VINI",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540190256",
-      "nombre": "MOTOR ARRANQUE FZ 2.00 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null,
-        "taller": null,
-        "distribuidor": null
-      },
-      "stock": 0,
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "fuente": "VINI",
-      "imagen": "imagenes/741540190256.png",
-      "imagen_size": 113680,
       "activo": true
     },
     {
