@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T21:39:13.304Z",
-  "count": 5729,
+  "generated_at": "2026-11-18T21:17:31.162Z",
+  "count": 5725,
   "productos": [
     {
       "sku": "104105",
@@ -77,7 +77,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 51,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -140,7 +140,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 96,
+      "stock": 78,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -245,7 +245,7 @@
         "taller": 15,
         "distribuidor": 13
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -1190,7 +1190,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2471,7 +2471,7 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2513,8 +2513,8 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 4,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3689,7 +3689,7 @@
         "taller": 9.5,
         "distribuidor": 8
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -5705,7 +5705,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7784,8 +7784,8 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7826,7 +7826,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 25,
+      "stock": 24,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7847,7 +7847,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 70,
+      "stock": 68,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7889,7 +7889,7 @@
         "taller": 33,
         "distribuidor": 29
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8477,7 +8477,7 @@
         "taller": 7.75,
         "distribuidor": 6.5
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -8988,27 +8988,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190679.png",
       "imagen_size": 110973,
-      "activo": true
-    },
-    {
-      "sku": "741540190676",
-      "nombre": "CALIPER FRENO RASERO HUNK160-190R",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 31,
-        "taller": 25.5,
-        "distribuidor": 21.5
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190676.png",
-      "imagen_size": 140470,
       "activo": true
     },
     {
@@ -10430,7 +10409,7 @@
         "taller": 8.5,
         "distribuidor": 7.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10472,7 +10451,7 @@
         "taller": 10.25,
         "distribuidor": 8.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -10535,8 +10514,8 @@
         "taller": 8.75,
         "distribuidor": 7.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -10619,7 +10598,7 @@
         "taller": 11.75,
         "distribuidor": 10
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11994,27 +11973,6 @@
       "activo": true
     },
     {
-      "sku": "1006505",
-      "nombre": "CATARINA 520H 40T HUNK160",
-      "marca": "MEK",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10.5,
-        "taller": 8.5,
-        "distribuidor": 7.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "1004062",
       "nombre": "CATARINA 520H 42T AKT150TT / XY200GY",
       "marca": "MEK",
@@ -12047,7 +12005,7 @@
         "taller": 8.5,
         "distribuidor": 7.5
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12068,7 +12026,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12173,7 +12131,7 @@
         "taller": 10,
         "distribuidor": 8.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12383,7 +12341,7 @@
         "taller": 8,
         "distribuidor": 7
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12404,7 +12362,7 @@
         "taller": 8,
         "distribuidor": 7.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -12488,7 +12446,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18805,7 +18763,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 6,
+        "publico": 9,
         "taller": 5,
         "distribuidor": 4.25
       },
@@ -19964,7 +19922,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21623,7 +21581,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 79,
+      "stock": 78,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24143,7 +24101,7 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 29,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24248,7 +24206,7 @@
         "taller": 5.75,
         "distribuidor": 5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -24647,7 +24605,7 @@
         "taller": 15,
         "distribuidor": 12.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -25571,7 +25529,7 @@
         "taller": 7.75,
         "distribuidor": 6.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -26376,27 +26334,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100771.jpg",
       "imagen_size": 7162,
-      "activo": true
-    },
-    {
-      "sku": "1004418",
-      "nombre": "KIT EMPAQUE CG200 63.5MM BALANCEADO YARA200",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 5,
-        "distribuidor": 4.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1004418.png",
-      "imagen_size": 36739,
       "activo": true
     },
     {
@@ -27650,8 +27587,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -31157,7 +31094,7 @@
         "taller": 5.75,
         "distribuidor": 4.75
       },
-      "stock": 50,
+      "stock": 49,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -31220,7 +31157,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 17,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33425,7 +33362,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 64,
+      "stock": 42,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -34853,7 +34790,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -35693,8 +35630,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35903,7 +35840,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36218,7 +36155,7 @@
         "taller": 3.75,
         "distribuidor": 3
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36365,7 +36302,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36428,7 +36365,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 9,
+      "stock": 8,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36512,8 +36449,8 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36554,7 +36491,7 @@
         "taller": 3.25,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36575,7 +36512,7 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -36680,7 +36617,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 11,
+      "stock": 10,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -37352,7 +37289,7 @@
         "taller": 29.75,
         "distribuidor": 25.25
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40964,7 +40901,7 @@
         "taller": 2.5,
         "distribuidor": 2
       },
-      "stock": 30,
+      "stock": 28,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -41111,8 +41048,8 @@
         "taller": 2,
         "distribuidor": 1.5
       },
-      "stock": 8,
-      "stock_status": "in_stock",
+      "stock": 2,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -41573,7 +41510,7 @@
         "taller": 1.25,
         "distribuidor": 1
       },
-      "stock": 12,
+      "stock": 11,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -44877,27 +44814,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189316.png",
       "imagen_size": 90725,
-      "activo": true
-    },
-    {
-      "sku": "1002583",
-      "nombre": "TAPON DRENAJE ACEITE CRZ250",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 1,
-        "taller": 1,
-        "distribuidor": 0.75
-      },
-      "stock": 5,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
