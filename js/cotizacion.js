@@ -104,51 +104,34 @@ function renderCart() {
 }
 
 // ═══════════════════════════════════════════
-// PDF GENERATION (jsPDF + AutoTable)
+// SERVER-SIDE COTIZACIÓN (H5 complete)
+//
+// El PDF se arma en el cliente, pero el NÚMERO y los PRECIOS salen del
+// servidor. Flujo:
+//   1. validateClienteFromForm() → extrae y valida datos del form
+//   2. fetchServerCotizacion()   → POST /api/cotizacion → devuelve
+//      { numero, items resueltos, totales }
+//   3. buildPdf()                → genera el PDF con la data del server
+// Si alguien altera el PDF, el admin busca el número en /admin y ve lo
+// que el server realmente emitió.
 // ═══════════════════════════════════════════
-function generarNumeroCotizacion() {
-  const d = new Date();
-  const yy = d.getFullYear().toString().slice(-2);
-  const mm = String(d.getMonth() + 1).padStart(2, '0');
-  const dd = String(d.getDate()).padStart(2, '0');
-  const rand = Math.floor(Math.random() * 9000 + 1000);
-  return `${yy}${mm}${dd}-${rand}`;
-}
 
-function buildPdf() {
-  const items = Carrito.items;
-  if (items.length === 0) {
-    alert('Tu carrito está vacío. Agregá productos desde el catálogo.');
-    return null;
-  }
-
+function validateClienteFromForm() {
   const cliente = {
     nombre: ($('#clienteNombre').value || '').trim(),
-    tel: ($('#clienteTel').value || '').trim(),
-    email: ($('#clienteEmail').value || '').trim(),
-    tipo: ($('#tipoComprobante').value || '').trim(),
-    nit: ($('#clienteNIT')?.value || '').trim(),
-    nrc: ($('#clienteNRC')?.value || '').trim(),
-    giro: ($('#clienteGiro')?.value || '').trim(),
-    dir: ($('#clienteDir')?.value || '').trim(),
-    fecha: $('#cotFecha').value || new Date().toISOString().slice(0, 10),
-    notas: ($('#cotNotas').value || '').trim(),
+    tel:    ($('#clienteTel').value    || '').trim(),
+    email:  ($('#clienteEmail').value  || '').trim(),
+    tipo:   ($('#tipoComprobante').value || '').trim(),
+    nit:    ($('#clienteNIT')?.value   || '').trim(),
+    nrc:    ($('#clienteNRC')?.value   || '').trim(),
+    giro:   ($('#clienteGiro')?.value  || '').trim(),
+    dir:    ($('#clienteDir')?.value   || '').trim(),
+    fecha:  $('#cotFecha').value || new Date().toISOString().slice(0, 10),
+    notas:  ($('#cotNotas').value || '').trim(),
   };
-  if (!cliente.nombre) {
-    alert('Por favor ingresá el nombre del cliente o empresa.');
-    $('#clienteNombre').focus();
-    return null;
-  }
-  if (!cliente.tel) {
-    alert('El teléfono es obligatorio.');
-    $('#clienteTel').focus();
-    return null;
-  }
-  if (!cliente.tipo) {
-    alert('Seleccioná el tipo de comprobante (Consumidor Final o Crédito Fiscal).');
-    $('#tipoComprobante').focus();
-    return null;
-  }
+  if (!cliente.nombre) { alert('Por favor ingresá el nombre del cliente o empresa.'); $('#clienteNombre').focus(); return null; }
+  if (!cliente.tel)    { alert('El teléfono es obligatorio.'); $('#clienteTel').focus(); return null; }
+  if (!cliente.tipo)   { alert('Seleccioná el tipo de comprobante.'); $('#tipoComprobante').focus(); return null; }
   if (cliente.tipo === 'Crédito Fiscal') {
     const faltan = [];
     if (!cliente.nit)   faltan.push('NIT');
@@ -158,20 +141,54 @@ function buildPdf() {
     if (!cliente.email) faltan.push('Email');
     if (faltan.length) {
       alert(`Para Crédito Fiscal falta: ${faltan.join(', ')}.`);
-      // Foco en el primer campo vacío
       const firstEmpty = { NIT: '#clienteNIT', NRC: '#clienteNRC', Giro: '#clienteGiro', 'Dirección fiscal': '#clienteDir', Email: '#clienteEmail' }[faltan[0]];
       if (firstEmpty) $(firstEmpty).focus();
       return null;
     }
-    // Validación básica formato email
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(cliente.email)) {
-      alert('El email no tiene formato válido.');
-      $('#clienteEmail').focus();
-      return null;
+      alert('El email no tiene formato válido.'); $('#clienteEmail').focus(); return null;
     }
   }
+  return cliente;
+}
 
-  const numero = generarNumeroCotizacion();
+async function fetchServerCotizacion(cliente, items) {
+  const payload = {
+    cliente: {
+      nombre: cliente.nombre, tel: cliente.tel, email: cliente.email || null,
+      tipo: cliente.tipo,
+      nit: cliente.nit || null, nrc: cliente.nrc || null,
+      giro: cliente.giro || null, dir: cliente.dir || null,
+    },
+    notas: cliente.notas || null,
+    items: items.map(i => ({ sku: i.sku, qty: i.qty })),
+  };
+  const r = await fetch('/api/cotizacion', {
+    method: 'POST',
+    credentials: 'include',
+    headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+    body: JSON.stringify(payload),
+  });
+  const data = await r.json().catch(() => ({ ok: false, error: 'Respuesta inválida del servidor' }));
+  if (!r.ok || !data.ok) {
+    const msg = data.error || `HTTP ${r.status}`;
+    const skipped = Array.isArray(data.errores) && data.errores.length
+      ? '\n\nItems rechazados por el servidor:\n' + data.errores.map(e => `• ${e.sku || '(sin SKU)'}: ${e.error}`).join('\n')
+      : '';
+    throw new Error(msg + skipped);
+  }
+  return data;
+}
+
+// ═══════════════════════════════════════════
+// PDF GENERATION (jsPDF + AutoTable)
+// ═══════════════════════════════════════════
+
+function buildPdf({ cliente, numero, items, totales }) {
+  if (!items || items.length === 0) {
+    alert('No hay items para generar la cotización.');
+    return null;
+  }
   const { jsPDF } = window.jspdf;
   const doc = new jsPDF({ unit: 'pt', format: 'letter' });
   const pageW = doc.internal.pageSize.getWidth();
@@ -274,14 +291,15 @@ function buildPdf() {
   // Consumidor Final: sin datos fiscales (email no va al header por decisión del diseño)
 
   // ═══ TABLA DE PRODUCTOS ═══
+  // items: resueltos por el server con { sku, nombre, marca, qty, precio_unit, subtotal }
   y += 10;
   const tableRows = items.map((it, i) => [
     String(i + 1),
     it.sku,
     it.nombre + (it.marca ? ` (${it.marca})` : ''),
     String(it.qty),
-    fmt(it.precio),
-    fmt(it.precio * it.qty),
+    fmt(it.precio_unit),
+    fmt(it.subtotal),
   ]);
   doc.autoTable({
     startY: y,
@@ -331,12 +349,10 @@ function buildPdf() {
 
   // ═══ TOTALES ═══
   // Precios en el catálogo están con IVA incluido (retail).
-  // Para Crédito Fiscal: desglosamos Subtotal (sin IVA) + IVA 13%.
-  // Para Consumidor Final: solo Total.
-  const totalConIva = Carrito.total();
-  const IVA_RATE = 0.13;
-  const subtotalSinIva = totalConIva / (1 + IVA_RATE);
-  const ivaMonto = totalConIva - subtotalSinIva;
+  // Totales emitidos por el servidor — NO se recomputan en el cliente.
+  const totalConIva    = totales.total_con_iva;
+  const subtotalSinIva = totales.subtotal_sin_iva;
+  const ivaMonto       = totales.iva;
 
   const finalY = doc.lastAutoTable.finalY + 14;
   const totX = pageW - marginX;
@@ -393,7 +409,7 @@ function buildPdf() {
   }
 
   // ═══ TÉRMINOS ═══
-  ty = Math.max(ty, pageH - 80);
+  ty = Math.max(ty, pageH - 90);
   doc.setDrawColor(220, 220, 220);
   doc.line(marginX, ty, pageW - marginX, ty);
   ty += 12;
@@ -401,8 +417,9 @@ function buildPdf() {
   doc.setFontSize(8);
   doc.setTextColor(120, 120, 120);
   doc.text(
-    'Documento referencial, sujeto a confirmación. Precios en USD. Esta cotización NO es definitiva hasta ' +
-    'ser validada por La Central del Repuesto. Precios y disponibilidad sujetos a verificación interna.',
+    `Documento referencial, sujeto a confirmación. Precios en USD. Cotización emitida por el sistema ` +
+    `de La Central del Repuesto con N° ${numero}. Verificable contactando a ventas (7030-1941) con ese ` +
+    `número. Precios y disponibilidad sujetos a verificación interna al momento de concretar la venta.`,
     marginX, ty, { maxWidth: pageW - 2 * marginX }
   );
 
@@ -417,27 +434,66 @@ function formatFecha(iso) {
 // ═══════════════════════════════════════════
 // ACCIONES
 // ═══════════════════════════════════════════
-function descargarPDF() {
-  const r = buildPdf();
+
+// Pide al servidor que emita la cotización (resuelve precios y guarda en D1)
+// y luego arma el PDF con el resultado. Devuelve { doc, numero, cliente, server } o null.
+async function emitirCotizacion(button) {
+  const cliente = validateClienteFromForm();
+  if (!cliente) return null;
+  const items = Carrito.items;
+  if (items.length === 0) {
+    alert('Tu carrito está vacío. Agregá productos desde el catálogo.');
+    return null;
+  }
+
+  let server;
+  const origText = button?.textContent;
+  try {
+    if (button) { button.disabled = true; button.textContent = 'Emitiendo…'; }
+    server = await fetchServerCotizacion(cliente, items);
+  } catch (e) {
+    alert('No se pudo emitir la cotización en el servidor:\n\n' + e.message +
+          '\n\nVolvé a intentarlo en un momento. Si persiste, contactá a ventas (7030-1941).');
+    return null;
+  } finally {
+    if (button) { button.disabled = false; button.textContent = origText; }
+  }
+
+  const r = buildPdf({
+    cliente,
+    numero: server.numero,
+    items: server.items,
+    totales: {
+      total_con_iva:    server.total_con_iva,
+      subtotal_sin_iva: server.subtotal_sin_iva,
+      iva:              server.iva,
+    },
+  });
+  if (!r) return null;
+  r.server = server;
+  return r;
+}
+
+async function descargarPDF() {
+  const r = await emitirCotizacion($('#btnGenerar'));
   if (!r) return;
   const filename = `cotizacion_${r.numero}_${r.cliente.nombre.replace(/[^\w\-]+/g, '-').slice(0, 30)}.pdf`;
   r.doc.save(filename);
 }
 
-function enviarWhatsApp() {
-  const r = buildPdf();
+async function enviarWhatsApp() {
+  const r = await emitirCotizacion($('#btnWhatsApp'));
   if (!r) return;
-  // Descargar el PDF primero para que el usuario lo pueda adjuntar
   const filename = `cotizacion_${r.numero}.pdf`;
   r.doc.save(filename);
 
   const c = r.cliente;
-  const items = Carrito.items;
+  const items = r.server.items;
 
-  // ── Saludo inicial (solo nombre, sin tel — la línea de contacto va al final) ──
+  // ── Saludo inicial ──
   const saludo = `Hola, soy ${c.nombre}. Quiero realizar el siguiente pedido.`;
 
-  // ── Encabezado cliente ──
+  // ── Encabezado ──
   const header = [
     saludo,
     '',
@@ -457,23 +513,19 @@ function enviarWhatsApp() {
     );
   }
 
-  // ── Lista de productos ──
-  const lineas = items.map(i => `• ${i.qty}× ${i.nombre} (${i.sku}) — ${fmt(i.precio * i.qty)}`);
+  // ── Lista de productos (desde el server) ──
+  const lineas = items.map(i => `• ${i.qty}× ${i.nombre} (${i.sku}) — ${fmt(i.subtotal)}`);
 
-  // ── Totales ──
-  const totalConIva = Carrito.total();
+  // ── Totales (desde el server) ──
   const totales = [];
   if (c.tipo === 'Crédito Fiscal') {
-    const IVA_RATE = 0.13;
-    const subtotalSinIva = totalConIva / (1 + IVA_RATE);
-    const ivaMonto = totalConIva - subtotalSinIva;
     totales.push(
-      `Subtotal (sin IVA): ${fmt(subtotalSinIva)}`,
-      `IVA 13%: ${fmt(ivaMonto)}`,
-      `*Total: ${fmt(totalConIva)}*`,
+      `Subtotal (sin IVA): ${fmt(r.server.subtotal_sin_iva)}`,
+      `IVA 13%: ${fmt(r.server.iva)}`,
+      `*Total: ${fmt(r.server.total_con_iva)}*`,
     );
   } else {
-    totales.push(`*Total: ${fmt(totalConIva)}*`);
+    totales.push(`*Total: ${fmt(r.server.total_con_iva)}*`);
   }
 
   // ── Armado final ──

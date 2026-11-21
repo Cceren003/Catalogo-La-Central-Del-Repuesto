@@ -165,6 +165,7 @@
 
   <div class="tabs">
     <button class="tab active" data-section="users">Usuarios</button>
+    <button class="tab" data-section="cotizaciones">Cotizaciones</button>
     <button class="tab" data-section="log">Access log</button>
   </div>
 
@@ -176,6 +177,28 @@
     </div>
     <div id="usersTableWrap">
       <div class="empty">Cargando usuarios…</div>
+    </div>
+  </section>
+
+  <!-- ─── SECCIÓN COTIZACIONES ─── -->
+  <section class="section" id="section-cotizaciones">
+    <div class="section-head">
+      <h2>Cotizaciones emitidas</h2>
+    </div>
+    <div class="filter-row">
+      <input type="text" id="cotSearch" placeholder="Buscar por N° (ej. 261121-ABCD), nombre o código de cliente"
+             autocapitalize="characters" spellcheck="false" style="min-width:300px;">
+      <select id="cotNivel">
+        <option value="">Todos los niveles</option>
+        <option value="publico">Público (sin login)</option>
+        <option value="taller">Taller</option>
+        <option value="distribuidor">Distribuidor</option>
+        <option value="admin">Admin</option>
+      </select>
+      <button class="btn btn-outline btn-xs" id="cotRefreshBtn">Refrescar</button>
+    </div>
+    <div id="cotTableWrap">
+      <div class="empty">Cargando…</div>
     </div>
   </section>
 
@@ -225,9 +248,17 @@
   </div>
 </div>
 
+<!-- Modal detalle de cotización -->
+<div class="modal-overlay" id="cotDetailModal">
+  <div class="modal admin-modal-body" style="max-width:720px;max-height:85vh;overflow-y:auto;">
+    <button class="modal-close" id="cotDetailClose" aria-label="Cerrar">×</button>
+    <div id="cotDetailBody">Cargando…</div>
+  </div>
+</div>
+
 <!-- Scripts -->
 <script src="js/auth.js?v=38"></script>
-<script src="js/admin.js?v=1"></script>
+<script src="js/admin.js?v=2"></script>
 
 </body>
 </html>

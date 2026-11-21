@@ -56,3 +56,38 @@ CREATE TABLE IF NOT EXISTS login_attempts (
 );
 
 CREATE INDEX IF NOT EXISTS idx_login_attempts_ip_ts ON login_attempts(ip, ts);
+
+-- Cotizaciones emitidas por el servidor (H5).
+-- El PDF que se genera en el cliente lleva el `numero` de esta tabla, así que
+-- si un cliente trae un PDF, el admin puede buscarlo por número y confirmar
+-- qué precios resolvió el servidor (no los del PDF).
+-- items_json guarda el array completo de items resueltos:
+--   [{sku, nombre, marca, qty, precio_unit, subtotal}]
+CREATE TABLE IF NOT EXISTS cotizaciones (
+  id              INTEGER PRIMARY KEY AUTOINCREMENT,
+  numero          TEXT    NOT NULL UNIQUE,  -- ej. 261121-ABCD
+  session_user_id INTEGER REFERENCES users(id) ON DELETE SET NULL,
+  session_codigo  TEXT,                     -- NULL si fue guest (sin login)
+  session_nivel   TEXT    NOT NULL,         -- 'publico' | 'taller' | 'distribuidor' | 'admin'
+  cliente_nombre  TEXT    NOT NULL,
+  cliente_tel     TEXT,
+  cliente_email   TEXT,
+  cliente_tipo    TEXT    NOT NULL,         -- 'Consumidor Final' | 'Crédito Fiscal'
+  cliente_nit     TEXT,
+  cliente_nrc     TEXT,
+  cliente_giro    TEXT,
+  cliente_dir     TEXT,
+  notas           TEXT,
+  items_json      TEXT    NOT NULL,         -- JSON array resuelto por el server
+  subtotal_sin_iva REAL   NOT NULL,
+  iva             REAL    NOT NULL,
+  total_con_iva   REAL    NOT NULL,
+  ip              TEXT,
+  user_agent      TEXT,
+  ts              INTEGER NOT NULL DEFAULT (unixepoch())
+);
+
+CREATE INDEX IF NOT EXISTS idx_cotizaciones_numero       ON cotizaciones(numero);
+CREATE INDEX IF NOT EXISTS idx_cotizaciones_ts           ON cotizaciones(ts);
+CREATE INDEX IF NOT EXISTS idx_cotizaciones_cliente_nom  ON cotizaciones(cliente_nombre);
+CREATE INDEX IF NOT EXISTS idx_cotizaciones_session_cod  ON cotizaciones(session_codigo);

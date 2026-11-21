@@ -21,7 +21,7 @@ function fmtTs(ts) {
 // Estado + boot
 // ═══════════════════════════════════════════
 
-const state = { users: [], log: [] };
+const state = { users: [], log: [], cotizaciones: [] };
 
 async function boot() {
   await Auth.ready;
@@ -96,8 +96,19 @@ function wirePanel() {
       document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
       $(`#section-${t.dataset.section}`).classList.add('active');
       if (t.dataset.section === 'log') loadLog();
+      if (t.dataset.section === 'cotizaciones') loadCotizaciones();
     };
   });
+
+  // Cotizaciones filter wiring
+  $('#cotSearch').addEventListener('input', debounce(() => loadCotizaciones(), 400));
+  $('#cotNivel').addEventListener('change', () => loadCotizaciones());
+  $('#cotRefreshBtn').onclick = () => loadCotizaciones();
+
+  // Modal detalle cotización
+  const cotModal = $('#cotDetailModal');
+  $('#cotDetailClose').onclick = () => cotModal.classList.remove('active');
+  cotModal.onclick = e => { if (e.target === cotModal) cotModal.classList.remove('active'); };
 
   // Logout
   $('#logoutBtn').onclick = async () => {
@@ -359,6 +370,171 @@ function renderLog() {
         `).join('')}
       </tbody>
     </table>
+  `;
+}
+
+// ═══════════════════════════════════════════
+// Cotizaciones
+// ═══════════════════════════════════════════
+
+function fmtMoney(n) {
+  if (n == null || isNaN(n)) return '—';
+  return '$' + (+n).toFixed(2);
+}
+
+async function loadCotizaciones() {
+  const wrap = $('#cotTableWrap');
+  wrap.innerHTML = '<div class="empty">Cargando…</div>';
+  const search = $('#cotSearch').value.trim();
+  const nivel = $('#cotNivel').value;
+  const params = new URLSearchParams();
+  params.set('limit', '200');
+  if (search) params.set('search', search);
+  if (nivel)  params.set('nivel', nivel);
+  try {
+    const r = await fetch(`/api/admin/cotizaciones?${params}`, { credentials: 'include' });
+    const data = await r.json();
+    if (!r.ok || !data.ok) throw new Error(data.error || `HTTP ${r.status}`);
+    state.cotizaciones = data.cotizaciones || [];
+    renderCotizaciones();
+  } catch (e) {
+    wrap.innerHTML = `<div class="empty">Error: ${esc(e.message)}</div>`;
+  }
+}
+
+function renderCotizaciones() {
+  const wrap = $('#cotTableWrap');
+  if (state.cotizaciones.length === 0) {
+    wrap.innerHTML = '<div class="empty">Sin cotizaciones en el rango (últimos 30 días).</div>';
+    return;
+  }
+  wrap.innerHTML = `
+    <table class="data">
+      <thead>
+        <tr>
+          <th>N°</th>
+          <th>Fecha</th>
+          <th>Cliente</th>
+          <th class="hide-mobile">Tel</th>
+          <th>Nivel</th>
+          <th class="hide-mobile">Tipo</th>
+          <th style="text-align:right;">Total</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        ${state.cotizaciones.map(c => `
+          <tr data-numero="${esc(c.numero)}">
+            <td><span class="codigo">${esc(c.numero)}</span></td>
+            <td style="white-space:nowrap;">${fmtTs(c.ts)}</td>
+            <td>${esc(c.cliente_nombre)}</td>
+            <td class="hide-mobile">${esc(c.cliente_tel || '—')}</td>
+            <td>
+              ${c.session_codigo
+                ? `<span class="badge badge-nivel-${c.session_nivel}">${esc(c.session_nivel)}</span> <span style="color:var(--lcr-muted);font-size:11px;">${esc(c.session_codigo)}</span>`
+                : `<span class="badge badge-inactive">público</span>`}
+            </td>
+            <td class="hide-mobile" style="font-size:11px;">${esc(c.cliente_tipo)}</td>
+            <td style="text-align:right;font-weight:700;">${fmtMoney(c.total_con_iva)}</td>
+            <td style="text-align:right;">
+              <button class="btn-xs" data-action="detail">Ver</button>
+            </td>
+          </tr>
+        `).join('')}
+      </tbody>
+    </table>
+  `;
+
+  wrap.querySelectorAll('tr[data-numero]').forEach(tr => {
+    const numero = tr.dataset.numero;
+    tr.querySelector('[data-action="detail"]').onclick = () => openCotizacionDetail(numero);
+  });
+}
+
+async function openCotizacionDetail(numero) {
+  const modal = $('#cotDetailModal');
+  const body = $('#cotDetailBody');
+  body.innerHTML = '<div class="empty">Cargando…</div>';
+  modal.classList.add('active');
+  try {
+    const r = await fetch(`/api/admin/cotizaciones/${encodeURIComponent(numero)}`, { credentials: 'include' });
+    const data = await r.json();
+    if (!r.ok || !data.ok) throw new Error(data.error || `HTTP ${r.status}`);
+    renderCotizacionDetail(data);
+  } catch (e) {
+    body.innerHTML = `<div class="empty">Error: ${esc(e.message)}</div>`;
+  }
+}
+
+function renderCotizacionDetail(c) {
+  const body = $('#cotDetailBody');
+  const cliente = c.cliente || {};
+  const items = c.items || [];
+  const nivelBadge = c.session_codigo
+    ? `<span class="badge badge-nivel-${c.nivel}">${esc(c.nivel)}</span> · ${esc(c.session_codigo)}`
+    : `<span class="badge badge-inactive">público (sin login)</span>`;
+
+  body.innerHTML = `
+    <h2 style="margin:0 0 6px;">Cotización <span class="codigo" style="color:var(--lcr-red);">${esc(c.numero)}</span></h2>
+    <div style="color:var(--lcr-muted);font-size:12px;margin-bottom:16px;">
+      Emitida el ${fmtTs(c.emitida_en)} · Sesión: ${nivelBadge}
+    </div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;">
+      <div>
+        <div style="font-size:11px;color:var(--lcr-muted);text-transform:uppercase;letter-spacing:0.5px;">Cliente</div>
+        <div style="font-weight:700;font-size:14px;margin-top:4px;">${esc(cliente.nombre)}</div>
+        <div style="font-size:12px;color:var(--lcr-muted);">Tel: ${esc(cliente.tel || '—')}</div>
+        ${cliente.email ? `<div style="font-size:12px;color:var(--lcr-muted);">Email: ${esc(cliente.email)}</div>` : ''}
+      </div>
+      <div>
+        <div style="font-size:11px;color:var(--lcr-muted);text-transform:uppercase;letter-spacing:0.5px;">Comprobante</div>
+        <div style="font-weight:700;font-size:14px;margin-top:4px;">${esc(cliente.tipo)}</div>
+        ${cliente.tipo === 'Crédito Fiscal' ? `
+          <div style="font-size:12px;color:var(--lcr-muted);">NIT: ${esc(cliente.nit)} · NRC: ${esc(cliente.nrc)}</div>
+          <div style="font-size:12px;color:var(--lcr-muted);">Giro: ${esc(cliente.giro)}</div>
+          <div style="font-size:12px;color:var(--lcr-muted);">${esc(cliente.dir)}</div>
+        ` : ''}
+      </div>
+    </div>
+
+    ${c.notas ? `
+      <div style="padding:10px;background:var(--lcr-black);border-radius:6px;margin-bottom:16px;font-size:13px;">
+        <strong style="color:var(--lcr-muted);font-size:11px;text-transform:uppercase;">Notas del cliente:</strong><br>${esc(c.notas)}
+      </div>` : ''}
+
+    <table class="data" style="margin-bottom:16px;">
+      <thead><tr><th>SKU</th><th>Descripción</th><th style="text-align:center;">Cant.</th><th style="text-align:right;">P. Unit.</th><th style="text-align:right;">Subtotal</th></tr></thead>
+      <tbody>
+        ${items.map(i => `
+          <tr>
+            <td><span class="codigo">${esc(i.sku)}</span></td>
+            <td>${esc(i.nombre)}${i.marca ? ` <span style="color:var(--lcr-muted);font-size:11px;">(${esc(i.marca)})</span>` : ''}</td>
+            <td style="text-align:center;">${esc(i.qty)}</td>
+            <td style="text-align:right;">${fmtMoney(i.precio_unit)}</td>
+            <td style="text-align:right;font-weight:700;">${fmtMoney(i.subtotal)}</td>
+          </tr>
+        `).join('')}
+      </tbody>
+    </table>
+
+    <div style="background:var(--lcr-black);padding:14px;border-radius:8px;border:1px solid var(--admin-border);">
+      <div style="display:flex;justify-content:space-between;font-size:13px;color:var(--lcr-muted);margin-bottom:6px;">
+        <span>Subtotal (sin IVA)</span><span>${fmtMoney(c.totales.subtotal_sin_iva)}</span>
+      </div>
+      <div style="display:flex;justify-content:space-between;font-size:13px;color:var(--lcr-muted);margin-bottom:10px;">
+        <span>IVA 13%</span><span>${fmtMoney(c.totales.iva)}</span>
+      </div>
+      <div style="display:flex;justify-content:space-between;font-size:18px;font-weight:700;padding-top:10px;border-top:1px solid var(--admin-border);">
+        <span>TOTAL</span><span style="color:var(--lcr-red);">${fmtMoney(c.totales.total_con_iva)}</span>
+      </div>
+    </div>
+
+    <div style="margin-top:20px;font-size:11px;color:var(--lcr-muted);background:var(--lcr-black);padding:10px;border-radius:6px;">
+      <strong>Verificación:</strong> Si el cliente llega con un PDF con este número, los valores DE ARRIBA son los que el sistema emitió. No confíes en montos del PDF — confía en estos.
+      ${c.metadata?.ip ? `<br><br>IP: ${esc(c.metadata.ip)}` : ''}
+      ${c.metadata?.user_agent ? `<br>User-Agent: ${esc(c.metadata.user_agent.slice(0, 120))}${c.metadata.user_agent.length > 120 ? '…' : ''}` : ''}
+    </div>
   `;
 }
 
