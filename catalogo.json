@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T20:59:36.072Z",
-  "count": 5722,
+  "generated_at": "2026-11-21T02:04:10.547Z",
+  "count": 5719,
   "productos": [
     {
       "sku": "104105",
@@ -98,8 +98,8 @@
         "taller": 18,
         "distribuidor": 17.25
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 16,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -140,7 +140,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 60,
+      "stock": 54,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -3699,27 +3699,6 @@
       "activo": true
     },
     {
-      "sku": "1000291",
-      "nombre": "BOMBA DE FRENO TRACERA TT200 MEK",
-      "marca": "MEK",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 18,
-        "taller": 9.5,
-        "distribuidor": 8
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000291.jpg",
-      "imagen_size": 46697,
-      "activo": true
-    },
-    {
       "sku": "741540190667",
       "nombre": "BOMBA FRENO AK TTR180 / TTX180",
       "marca": "VINI",
@@ -7259,7 +7238,7 @@
         "taller": 8,
         "distribuidor": 7.25
       },
-      "stock": 100,
+      "stock": 98,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7910,7 +7889,7 @@
         "taller": 7,
         "distribuidor": 6.25
       },
-      "stock": 74,
+      "stock": 72,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -11438,7 +11417,7 @@
         "taller": 9,
         "distribuidor": 7.75
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -19880,7 +19859,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -22302,27 +22281,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189786.png",
       "imagen_size": 39393,
-      "activo": true
-    },
-    {
-      "sku": "741540189784",
-      "nombre": "HERRAMIENTA BOMBA ACEITERA",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.5,
-        "taller": 10,
-        "distribuidor": 4
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189784.png",
-      "imagen_size": 41144,
       "activo": true
     },
     {
@@ -27944,7 +27902,7 @@
         "taller": 3.75,
         "distribuidor": 3.25
       },
-      "stock": 17,
+      "stock": 15,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -33456,27 +33414,6 @@
       "activo": true
     },
     {
-      "sku": "BP007",
-      "nombre": "PASTILLA FRENO DISCOVER125-135-150/PULSAR125-135-150-160-180/PULSAR200-200NS/PULSAR220/FZ16",
-      "marca": "NRP",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 3.5,
-        "distribuidor": 3
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/BP007.jpg",
-      "imagen_size": 3401,
-      "activo": true
-    },
-    {
       "sku": "741540100369",
       "nombre": "PASTILLA FRENO DR DEL VINI (FL)",
       "marca": "VINI",
@@ -36092,8 +36029,8 @@
         "taller": 3,
         "distribuidor": 2.5
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -36281,7 +36218,7 @@
         "taller": 3.5,
         "distribuidor": 2.75
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38444,7 +38381,7 @@
         "taller": 6,
         "distribuidor": 5
       },
-      "stock": 18,
+      "stock": 16,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38465,7 +38402,7 @@
         "taller": 6,
         "distribuidor": 5.25
       },
-      "stock": 27,
+      "stock": 25,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
