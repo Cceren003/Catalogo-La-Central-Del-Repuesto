@@ -1,6 +1,21 @@
 # Cloudflare Pages: headers custom
 # Más info: https://developers.cloudflare.com/pages/configuration/headers/
 
+# ═══════════════════════════════════════════
+# HARDENING GLOBAL — H7 del informe de seguridad
+# ═══════════════════════════════════════════
+/*
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' https://cloudflareinsights.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+
+# ═══════════════════════════════════════════
+# CACHE POR TIPO DE ARCHIVO
+# ═══════════════════════════════════════════
+
 # Imágenes: cache 1 año (el cache-busting por ?v=<size> invalida al cambiar)
 /imagenes/*
   Cache-Control: public, max-age=31536000, immutable
@@ -9,12 +24,15 @@
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 
-# JSON del catálogo: cache corto para que se actualice rápido
+# JSON del catálogo: cache corto para que se actualice rápido.
+# CORS limitado al propio dominio (antes era * = cualquier origen).
 /catalogo.json
   Cache-Control: public, max-age=300, must-revalidate
+  Access-Control-Allow-Origin: https://lacentraldelrepuesto.com
 
 /data/enriquecidos.json
   Cache-Control: public, max-age=300, must-revalidate
+  Access-Control-Allow-Origin: https://lacentraldelrepuesto.com
 
 # JS y CSS: cache alto (ya tienen version bumping manual con ?v=)
 /js/*

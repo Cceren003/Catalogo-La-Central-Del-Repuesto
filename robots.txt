@@ -3,7 +3,3 @@ Allow: /
 
 # Sitemap dinámico con todos los productos del catálogo
 Sitemap: https://lacentraldelrepuesto.com/sitemap.xml
-
-# No indexar JSONs de datos (son contenido del catálogo ya indexado vía HTML)
-Disallow: /catalogo.json
-Disallow: /data/

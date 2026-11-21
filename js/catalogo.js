@@ -450,14 +450,15 @@ function showDetail(sku) {
     </div>` : '';
 
   // Precios y carrito: solo para productos en stock inmediato.
+  // Nota: por seguridad, el catálogo público solo expone el precio al público.
+  // Precios de taller y distribuidor se atienden por WhatsApp hasta que
+  // vuelva el login validado en servidor.
   const pricesBlock = isPedido ? '' : `
     <div class="detail-prices">
       <div class="detail-price-row">
         <span class="detail-price-label">Precio público</span>
         <span class="detail-price-value">${fmtPrice(p.precios?.publico)}</span>
       </div>
-      ${(role === 'taller' || role === 'distribuidor') ? detailPriceRow('Precio taller', p.precios?.taller, role === 'taller') : ''}
-      ${role === 'distribuidor' ? detailPriceRow('Precio distribuidor', p.precios?.distribuidor, true) : ''}
     </div>
     <div class="detail-qty-row" style="display:flex;align-items:center;gap:12px;">
       <div class="detail-qty">
@@ -839,51 +840,17 @@ function wireCart() {
 
 // ─── AUTH UI ───
 function wireAuth() {
+  // Login mayorista TEMPORALMENTE DESHABILITADO (ver js/auth.js).
+  // Hasta que vuelva con validación de servidor, el botón abre un modal
+  // informativo que redirige a WhatsApp. Se oculta el botón para no
+  // confundir al cliente final.
   const loginBtn = document.getElementById('loginBtn');
   const loginModal = document.getElementById('loginModal');
-  const loginForm = document.getElementById('loginForm');
-  const loginPass = document.getElementById('loginPass');
-  const loginError = document.getElementById('loginError');
-  const loginClose = document.getElementById('loginClose');
-
-  Auth.subscribe(session => {
-    if (session) {
-      loginBtn.textContent = `${session.label.toUpperCase()} ✕`;
-      loginBtn.title = 'Cerrar sesión';
-    } else {
-      loginBtn.textContent = 'INICIAR SESIÓN';
-      loginBtn.title = '';
-    }
-    // Re-render para actualizar precios segun rol
-    if (state.all.length) { applyFilters(); }
-  });
-
-  loginBtn.onclick = () => {
-    if (Auth.currentRole) { Auth.logout(); return; }
-    loginError.textContent = '';
-    loginPass.value = '';
-    loginModal.classList.add('active');
-    setTimeout(() => loginPass.focus(), 50);
-  };
-  loginClose.onclick = () => loginModal.classList.remove('active');
-  loginModal.addEventListener('click', e => { if (e.target === loginModal) loginModal.classList.remove('active'); });
-
-  loginForm.onsubmit = e => {
-    e.preventDefault();
-    const r = Auth.login(loginPass.value);
-    if (r.ok) loginModal.classList.remove('active');
-    else loginError.textContent = r.error;
-  };
-
-  // Toggle ojito: mostrar / ocultar contraseña
-  const passToggle = document.getElementById('loginPassToggle');
-  if (passToggle) {
-    passToggle.onclick = () => {
-      const showing = loginPass.type === 'password';
-      loginPass.type = showing ? 'text' : 'password';
-      passToggle.classList.toggle('visible', showing);
-      passToggle.setAttribute('aria-label', showing ? 'Ocultar contraseña' : 'Mostrar contraseña');
-      loginPass.focus();
-    };
+  if (loginBtn) {
+    loginBtn.style.display = 'none';
+  }
+  if (loginModal) {
+    loginModal.classList.remove('active');
+    loginModal.style.display = 'none';
   }
 }

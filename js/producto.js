@@ -221,14 +221,14 @@ function renderProduct(p) {
       </a>
     </div>` : '';
 
+  // Nota: por seguridad, el catálogo público solo expone el precio al público.
+  // Precios mayoristas se atienden por WhatsApp hasta que vuelva el login con backend.
   const pricesBlock = isPedido ? '' : `
     <div class="detail-prices">
       <div class="detail-price-row">
         <span class="detail-price-label">Precio público</span>
         <span class="detail-price-value">${fmtPrice(p.precios?.publico)}</span>
       </div>
-      ${(role === 'taller' || role === 'distribuidor') ? detailPriceRow('Precio taller', p.precios?.taller, role === 'taller') : ''}
-      ${role === 'distribuidor' ? detailPriceRow('Precio distribuidor', p.precios?.distribuidor, true) : ''}
     </div>
     <div class="detail-qty-row" style="display:flex;align-items:center;gap:12px;">
       <div class="detail-qty">

@@ -1,6 +1,9 @@
 // ═══════════════════════════════════════════
-// Auth — login + role level (publico / taller / distribuidor)
-// Passwords hardcoded v1 (no backend). Session in localStorage.
+// Auth — DESHABILITADO temporalmente por motivos de seguridad.
+// El sistema de acceso con contraseña hardcoded fue retirado (passwords
+// quedaron expuestas). Mientras se implementa auth real con servidor
+// (Cloudflare Pages Functions), el nivel de precio siempre es 'publico'.
+// Los precios mayoristas se atienden exclusivamente por WhatsApp.
 // API: window.Auth.{currentLevel, currentRole, login, logout, subscribe}
 // ═══════════════════════════════════════════
 
@@ -8,46 +11,33 @@
   const KEY = 'lcr_auth_v1';
   const listeners = new Set();
 
-  // Tabla password → rol. Cambiar en config centralizada cuando haya backend.
-  const PASSWORDS = {
-    'CKDM2022': { level: 'taller',       label: 'Taller'       },
-    'IRES1989': { level: 'distribuidor', label: 'Distribuidor' },
-  };
+  // Al cargar, limpiamos cualquier sesión vieja en localStorage.
+  // Los visitantes que tenían sesión activa quedan como 'publico' hasta
+  // que vuelva el login con backend.
+  try { localStorage.removeItem(KEY); } catch {}
 
-  function load() {
-    try { return JSON.parse(localStorage.getItem(KEY)); }
-    catch { return null; }
-  }
-  function save(session) {
-    if (session) localStorage.setItem(KEY, JSON.stringify(session));
-    else localStorage.removeItem(KEY);
-    listeners.forEach(fn => fn(session));
-  }
-
-  let session = load();
-
-  function login(password) {
-    const entry = PASSWORDS[(password || '').trim()];
-    if (!entry) return { ok: false, error: 'Contraseña inválida' };
-    session = { level: entry.level, label: entry.label, at: Date.now() };
-    save(session);
-    return { ok: true, session };
+  function login() {
+    return {
+      ok: false,
+      error: 'Acceso mayorista temporalmente deshabilitado por mantenimiento. ' +
+             'Los precios de taller y distribuidor se atienden por WhatsApp: ' +
+             '7030-1941 (ventas).',
+    };
   }
 
   function logout() {
-    session = null;
-    save(null);
+    listeners.forEach(fn => fn(null));
   }
 
   function subscribe(fn) {
     listeners.add(fn);
-    fn(session);
+    fn(null);
     return () => listeners.delete(fn);
   }
 
   window.Auth = {
-    get currentLevel() { return session ? session.level : 'publico'; },
-    get currentRole() { return session; },
+    get currentLevel() { return 'publico'; },
+    get currentRole() { return null; },
     login, logout, subscribe,
   };
 })();

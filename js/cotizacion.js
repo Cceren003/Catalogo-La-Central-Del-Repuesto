@@ -401,8 +401,9 @@ function buildPdf() {
   doc.setFontSize(8);
   doc.setTextColor(120, 120, 120);
   doc.text(
-    'Cotización válida por 15 días. Precios en USD. Sujeto a disponibilidad de inventario.',
-    marginX, ty
+    'Documento referencial, sujeto a confirmación. Precios en USD. Esta cotización NO es definitiva hasta ' +
+    'ser validada por La Central del Repuesto. Precios y disponibilidad sujetos a verificación interna.',
+    marginX, ty, { maxWidth: pageW - 2 * marginX }
   );
 
   return { doc, numero, cliente };

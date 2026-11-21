@@ -653,6 +653,59 @@ function buildCatalog(productos) {
   };
 }
 
+// ═══════════════════════════════════════════
+// _sync/providers.json — estado INTERNO del sync (NO servido al público)
+//
+// Guarda el mapping { SKU → proveedor } para que el rescue en GH Actions
+// sepa qué SKUs son de proveedor sin necesidad de leer el campo `fuente`
+// de catalogo.json (que ya no viaja al público por seguridad).
+//
+// Bloqueado al público por functions/_sync/[[path]].js (devuelve 404).
+// ═══════════════════════════════════════════
+const SYNC_STATE_DIR  = path.join(__dirname, '..', '_sync');
+const PROVIDERS_STATE = path.join(SYNC_STATE_DIR, 'providers.json');
+
+function loadProvidersMap() {
+  try {
+    const raw = JSON.parse(fs.readFileSync(PROVIDERS_STATE, 'utf8'));
+    const m = new Map();
+    for (const [sku, fuente] of Object.entries(raw.providers || {})) m.set(sku, fuente);
+    return m;
+  } catch {
+    return new Map();
+  }
+}
+
+function saveProvidersMap(productos) {
+  const providers = {};
+  for (const p of productos) if (p.fuente) providers[p.sku] = p.fuente;
+  fs.mkdirSync(SYNC_STATE_DIR, { recursive: true });
+  fs.writeFileSync(PROVIDERS_STATE, JSON.stringify({
+    generated_at: new Date().toISOString(),
+    note: 'Mapping SKU→proveedor. Archivo INTERNO del sync. Bloqueado al público por functions/_sync/[[path]].js.',
+    count: Object.keys(providers).length,
+    providers,
+  }, null, 2), 'utf8');
+  console.log(`✓ _sync/providers.json actualizado (${Object.keys(providers).length} SKUs de proveedor)`);
+}
+
+// Sanea el catálogo antes de escribirlo al archivo público catalogo.json.
+// Remueve: precios.taller, precios.distribuidor, fuente, stock exacto.
+// Mantiene: precios.publico, stock_status, disponibilidad, bodega_central, etc.
+// Esta función implementa la corrección del hallazgo H2 del informe de seguridad.
+function sanitizeForPublic(catalog) {
+  const sanitized = catalog.productos.map(p => {
+    const clean = { ...p };
+    delete clean.fuente;
+    delete clean.stock;  // stock exacto — se mantiene stock_status
+    if (clean.precios && typeof clean.precios === 'object') {
+      clean.precios = { publico: clean.precios.publico ?? null };
+    }
+    return clean;
+  });
+  return { ...catalog, productos: sanitized };
+}
+
 async function main() {
   const cfg = SIN_LCR ? { output: '../catalogo.json' } : loadConfig();
   const modo = SIN_LCR ? ' (sin LCR — solo proveedores)' : '';
@@ -661,15 +714,16 @@ async function main() {
   let localProductos;
   if (SIN_LCR) {
     // Modo "--sin-lcr": no hace login. Reutiliza los productos LCR del
-    // catálogo previo (los que NO tienen campo `fuente`).
+    // catálogo previo (los que NO están en el mapping de proveedores).
     const prevPath = path.resolve(__dirname, cfg.output || '../catalogo.json');
     if (!fs.existsSync(prevPath)) {
       console.error(`✗ --sin-lcr requiere un catálogo previo en ${prevPath}`);
       process.exit(1);
     }
     const prev = JSON.parse(fs.readFileSync(prevPath, 'utf8'));
-    localProductos = (prev.productos || []).filter(p => !p.fuente);
-    console.log(`→ Usando ${localProductos.length} productos LCR del catálogo previo`);
+    const providersMap = loadProvidersMap();
+    localProductos = (prev.productos || []).filter(p => !providersMap.has(p.sku));
+    console.log(`→ Usando ${localProductos.length} productos LCR del catálogo previo (${providersMap.size} SKUs de proveedor excluidos)`);
   } else {
     const { client } = await makeClient(cfg.baseUrl);
     await login(client, cfg.username, cfg.password);
@@ -698,23 +752,29 @@ async function main() {
 
   // Si NO hay datos de proveedores (típico en GitHub Actions donde los archivos
   // de proveedor no están disponibles), rescatamos los productos de proveedor
-  // del catálogo previo para no perderlos.
+  // del catálogo previo. Usamos _sync/providers.json (NO el campo `fuente`
+  // que ya no viaja en catalogo.json) para saber qué SKUs son de proveedor.
   if (totalProvider === 0) {
     const prevPath = path.resolve(__dirname, cfg.output || '../catalogo.json');
-    if (fs.existsSync(prevPath)) {
+    const providersMap = loadProvidersMap();
+    if (providersMap.size === 0) {
+      console.warn('⚠ _sync/providers.json vacío o inexistente: no se puede rescatar proveedores');
+    } else if (!fs.existsSync(prevPath)) {
+      console.warn('⚠ Sin archivos de proveedores y sin catálogo previo: solo LCR');
+    } else {
       try {
         const prev = JSON.parse(fs.readFileSync(prevPath, 'utf8'));
         const localSkus = new Set(localProductos.map(p => p.sku));
-        const rescued = (prev.productos || []).filter(p => p.fuente && !localSkus.has(p.sku));
+        const rescued = (prev.productos || [])
+          .filter(p => providersMap.has(p.sku) && !localSkus.has(p.sku))
+          .map(p => ({ ...p, fuente: providersMap.get(p.sku) })); // re-inyectar fuente
         if (rescued.length > 0) {
           providerLists = [rescued];
-          console.log(`→ Proveedores no disponibles: rescatando ${rescued.length} productos del catálogo previo`);
+          console.log(`→ Proveedores no disponibles: rescatados ${rescued.length} productos (via _sync/providers.json)`);
         }
       } catch (e) {
         console.warn(`⚠ No se pudo leer catálogo previo para rescatar proveedores: ${e.message}`);
       }
-    } else {
-      console.warn('⚠ Sin archivos de proveedores y sin catálogo previo: el catálogo tendrá solo productos de LCR');
     }
   }
 
@@ -731,8 +791,17 @@ async function main() {
     return;
   }
 
-  fs.writeFileSync(outPath, JSON.stringify(catalog, null, 2), 'utf8');
-  console.log(`✓ Escrito ${outPath} (${productos.length} productos)`);
+  // 1. Guardar estado INTERNO de proveedores (NO público). Esto permite que
+  //    el próximo sync (ej. en GH Actions) sepa qué SKUs son de proveedor
+  //    sin exponer el campo `fuente` en el catálogo público.
+  saveProvidersMap(productos);
+
+  // 2. Sanear el catálogo antes de escribirlo al archivo público.
+  //    Remueve: precios.taller, precios.distribuidor, fuente, stock exacto.
+  //    (Corrección del hallazgo H2 del informe de seguridad)
+  const publicCatalog = sanitizeForPublic(catalog);
+  fs.writeFileSync(outPath, JSON.stringify(publicCatalog, null, 2), 'utf8');
+  console.log(`✓ Escrito ${outPath} (${productos.length} productos, saneado para público)`);
 }
 
 // Export parsers para testing (solo corre main si este archivo es el entry point).
