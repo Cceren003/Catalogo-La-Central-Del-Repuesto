@@ -1,0 +1,19 @@
+# Cloudflare Pages — bindings para Pages Functions
+# Más info: https://developers.cloudflare.com/pages/functions/bindings/
+
+name = "lacentraldelrepuesto"
+compatibility_date = "2026-11-21"
+pages_build_output_dir = "."
+
+# ═══════════════════════════════════════════
+# D1 — base de datos SQLite para auth + access log
+# ═══════════════════════════════════════════
+#
+# PENDIENTE: después de correr `wrangler d1 create lcr-auth`,
+# descomentá el bloque de abajo y pegá el database_id que devolvió.
+# Ver sync/SETUP-BACKEND.md para los pasos completos.
+#
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "lcr-auth"
+# database_id = "PEGAR_AQUÍ_EL_UUID_QUE_DEVOLVIÓ_WRANGLER"

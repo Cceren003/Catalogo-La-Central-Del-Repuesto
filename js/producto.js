@@ -221,14 +221,16 @@ function renderProduct(p) {
       </a>
     </div>` : '';
 
-  // Nota: por seguridad, el catálogo público solo expone el precio al público.
-  // Precios mayoristas se atienden por WhatsApp hasta que vuelva el login con backend.
+  // Público ve solo `publico`. Taller/distribuidor logueados reciben su precio
+  // vía /api/catalogo/mayorista (inyectado en p.precios al login).
   const pricesBlock = isPedido ? '' : `
     <div class="detail-prices">
       <div class="detail-price-row">
         <span class="detail-price-label">Precio público</span>
         <span class="detail-price-value">${fmtPrice(p.precios?.publico)}</span>
       </div>
+      ${(role === 'taller' || role === 'distribuidor' || role === 'admin') ? detailPriceRow('Precio taller', p.precios?.taller, role === 'taller') : ''}
+      ${(role === 'distribuidor' || role === 'admin') ? detailPriceRow('Precio distribuidor', p.precios?.distribuidor, role === 'distribuidor') : ''}
     </div>
     <div class="detail-qty-row" style="display:flex;align-items:center;gap:12px;">
       <div class="detail-qty">
@@ -386,8 +388,18 @@ async function loadAndRender() {
     const raw = Array.isArray(data) ? data : (data.productos || []);
     state.all = raw;
 
-    // Migra items legacy del carrito al formato nuevo (con `precios` completo)
-    // para que cambien al hacer login/logout en cualquier página.
+    // Si el visitante llega con sesión activa, pedir precios mayoristas
+    // ANTES del primer render para no mostrar un flash de precio público.
+    try {
+      if (window.Auth) {
+        await Auth.ready;
+        if (Auth.currentSession) {
+          await fetchAndInjectMayorista();
+        }
+      }
+    } catch (e) { console.warn('Auth check en loadAndRender falló:', e.message); }
+
+    // Migra items legacy del carrito al formato nuevo + mergea mayorista.
     if (window.Carrito && typeof Carrito.refreshFromCatalog === 'function') {
       Carrito.refreshFromCatalog(sku => state.all.find(p => p.sku === sku));
     }
@@ -417,7 +429,124 @@ async function loadAndRender() {
   }
 }
 
+// ─── Mayorista inject / strip (idéntico a catalogo.js) ───────────────
+async function fetchAndInjectMayorista() {
+  try {
+    const r = await fetch('/api/catalogo/mayorista', {
+      method: 'GET',
+      credentials: 'include',
+      headers: { 'Accept': 'application/json' },
+    });
+    if (!r.ok) return false;
+    const data = await r.json();
+    if (!data?.ok || !data.precios) return false;
+    const map = data.precios;
+    for (const p of state.all) {
+      const m = map[p.sku];
+      if (!m) continue;
+      p.precios = p.precios || {};
+      if (m.taller != null)       p.precios.taller       = m.taller;
+      if (m.distribuidor != null) p.precios.distribuidor = m.distribuidor;
+    }
+    return true;
+  } catch (e) {
+    console.warn('fetchAndInjectMayorista() falló:', e.message);
+    return false;
+  }
+}
+
+function stripMayoristaFromState() {
+  for (const p of state.all) {
+    if (p.precios) {
+      delete p.precios.taller;
+      delete p.precios.distribuidor;
+    }
+  }
+}
+
+// ─── AUTH UI — modal + re-render en cambio de sesión ─────────────────
+function wireAuth() {
+  const loginBtn    = document.getElementById('loginBtn');
+  const loginModal  = document.getElementById('loginModal');
+  const loginForm   = document.getElementById('loginForm');
+  const loginCodigo = document.getElementById('loginCodigo');
+  const loginPass   = document.getElementById('loginPass');
+  const loginError  = document.getElementById('loginError');
+  const loginClose  = document.getElementById('loginClose');
+  if (!loginBtn) return;
+
+  let lastCodigo = null;
+  Auth.subscribe(async session => {
+    const codigo = session?.codigo || null;
+    const transitioned = codigo !== lastCodigo;
+    lastCodigo = codigo;
+
+    if (session) {
+      loginBtn.textContent = `${session.nivel.toUpperCase()} ✕`;
+      loginBtn.title = `Logueado como ${session.codigo}`;
+    } else {
+      loginBtn.textContent = 'Iniciar sesión';
+      loginBtn.title = '';
+    }
+
+    if (state.product && transitioned) {
+      if (session) await fetchAndInjectMayorista();
+      else stripMayoristaFromState();
+      if (window.Carrito?.refreshFromCatalog) {
+        Carrito.refreshFromCatalog(sku => state.all.find(p => p.sku === sku));
+      }
+      // Re-render del producto actual con los precios actualizados
+      const p = state.all.find(x => String(x.sku) === String(state.product.sku));
+      if (p) { state.product = p; renderProduct(p); }
+    }
+  });
+
+  loginBtn.onclick = () => {
+    if (Auth.currentSession) {
+      if (confirm(`¿Cerrar sesión de ${Auth.currentSession.codigo}?`)) Auth.logout();
+      return;
+    }
+    loginError.textContent = '';
+    loginCodigo.value = '';
+    loginPass.value = '';
+    loginModal.classList.add('active');
+    setTimeout(() => loginCodigo.focus(), 50);
+  };
+
+  loginClose.onclick = () => loginModal.classList.remove('active');
+  loginModal.addEventListener('click', e => {
+    if (e.target === loginModal) loginModal.classList.remove('active');
+  });
+
+  loginForm.onsubmit = async e => {
+    e.preventDefault();
+    const submitBtn = loginForm.querySelector('button[type="submit"]');
+    const origText = submitBtn?.textContent;
+    if (submitBtn) { submitBtn.disabled = true; submitBtn.textContent = 'Verificando…'; }
+    loginError.textContent = '';
+    try {
+      const r = await Auth.login(loginCodigo.value, loginPass.value);
+      if (r.ok) loginModal.classList.remove('active');
+      else loginError.textContent = r.error || 'No se pudo iniciar sesión.';
+    } finally {
+      if (submitBtn) { submitBtn.disabled = false; submitBtn.textContent = origText || 'Entrar'; }
+    }
+  };
+
+  const passToggle = document.getElementById('loginPassToggle');
+  if (passToggle) {
+    passToggle.onclick = () => {
+      const showing = loginPass.type === 'password';
+      loginPass.type = showing ? 'text' : 'password';
+      passToggle.classList.toggle('visible', showing);
+      passToggle.setAttribute('aria-label', showing ? 'Ocultar contraseña' : 'Mostrar contraseña');
+      loginPass.focus();
+    };
+  }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   wireSearch();
+  wireAuth();
   loadAndRender();
 });

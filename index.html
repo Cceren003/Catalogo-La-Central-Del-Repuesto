@@ -161,8 +161,14 @@
     <button class="modal-close" id="loginClose" aria-label="Cerrar">×</button>
     <img src="assets/logo-dark.png?v=2" alt="La Central del Repuesto" class="logo-global lg"
          onerror="this.style.display='none'">
-    <h2>ACCESO</h2>
+    <h2>ACCESO MAYORISTA</h2>
+    <p style="text-align:center;margin:-8px 0 16px;font-size:12px;color:var(--lcr-muted);">
+      Taller y distribuidor. Precios al público sin login.
+    </p>
     <form id="loginForm">
+      <input class="input-field" id="loginCodigo" type="text" placeholder="Código de cliente"
+             autocomplete="username" autocapitalize="characters" spellcheck="false" required
+             style="margin-bottom:10px;">
       <div class="pw-wrap">
         <input class="input-field" id="loginPass" type="password" placeholder="Contraseña" autocomplete="current-password" required>
         <button type="button" class="pw-toggle" id="loginPassToggle" aria-label="Mostrar contraseña">
@@ -195,9 +201,9 @@
 </button>
 
 <!-- Scripts (v3 — cache bust) -->
-<script src="js/auth.js?v=37"></script>
-<script src="js/carrito.js?v=36"></script>
-<script src="js/catalogo.js?v=53"></script>
+<script src="js/auth.js?v=38"></script>
+<script src="js/carrito.js?v=37"></script>
+<script src="js/catalogo.js?v=54"></script>
 
 </body>
 </html>

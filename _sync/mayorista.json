@@ -1,0 +1,8827 @@
+{
+  "generated_at": "2026-11-21T20:42:38.822Z",
+  "note": "Precios mayoristas. Archivo INTERNO del sync. Servido SOLO por /api/catalogo/mayorista tras validar sesión. Bloqueado al público directo por functions/_sync/[[path]].js.",
+  "count": 2205,
+  "precios": {
+    "20705": {
+      "taller": 16,
+      "distribuidor": 15
+    },
+    "66201": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "67627": {
+      "taller": 17,
+      "distribuidor": 15
+    },
+    "99560": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "104105": {
+      "taller": 0,
+      "distribuidor": 0
+    },
+    "160845": {
+      "taller": 102,
+      "distribuidor": 95.5
+    },
+    "168474": {
+      "taller": 127.75,
+      "distribuidor": 119.5
+    },
+    "1000003": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1000005": {
+      "taller": 18,
+      "distribuidor": 15.25
+    },
+    "1000059": {
+      "taller": 0.35,
+      "distribuidor": 0.27
+    },
+    "1000066": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "1000079": {
+      "taller": 50.5,
+      "distribuidor": 43
+    },
+    "1000084": {
+      "taller": 7.25,
+      "distribuidor": 6.25
+    },
+    "1000087": {
+      "taller": 9,
+      "distribuidor": 7.25
+    },
+    "1000129": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1000133": {
+      "taller": 2.75,
+      "distribuidor": 2.25
+    },
+    "1000175": {
+      "taller": 17,
+      "distribuidor": 14.5
+    },
+    "1000176": {
+      "taller": 0,
+      "distribuidor": 0
+    },
+    "1000181": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "1000184": {
+      "taller": 19.75,
+      "distribuidor": 16.75
+    },
+    "1000190": {
+      "taller": 10,
+      "distribuidor": 8
+    },
+    "1000214": {
+      "taller": 15.75,
+      "distribuidor": 13.5
+    },
+    "1000226": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1000246": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "1000280": {
+      "taller": 13.75,
+      "distribuidor": 11.75
+    },
+    "1000325": {
+      "taller": 3,
+      "distribuidor": 2.25
+    },
+    "1000347": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1000352": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "1000354": {
+      "taller": 18.25,
+      "distribuidor": 15.5
+    },
+    "1000364": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "1000381": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1000382": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "1000424": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1000426": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1000434": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "1000438": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "1000457": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "1000536": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "1000537": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "1000539": {
+      "taller": 4.5,
+      "distribuidor": 3.5
+    },
+    "1000541": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "1000547": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "1000548": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1000551": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "1000567": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "1000574": {
+      "taller": 4.5,
+      "distribuidor": 4
+    },
+    "1000576": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "1000578": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1000580": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1000585": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "1000593": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1000604": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1000605": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1000606": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "1000762": {
+      "taller": 32.5,
+      "distribuidor": 27.75
+    },
+    "1000785": {
+      "taller": 66,
+      "distribuidor": 56
+    },
+    "1000806": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1000816": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "1000856": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "1000866": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1000867": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "1000875": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "1000905": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1000998": {
+      "taller": 4.75,
+      "distribuidor": 4
+    },
+    "1000999": {
+      "taller": 4.25,
+      "distribuidor": 3.5
+    },
+    "1001004": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "1001005": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "1001007": {
+      "taller": 7.75,
+      "distribuidor": 6.75
+    },
+    "1001014": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "1001022": {
+      "taller": 2.75,
+      "distribuidor": 2
+    },
+    "1001034": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1001042": {
+      "taller": 2.25,
+      "distribuidor": 1.75
+    },
+    "1001062": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1001064": {
+      "taller": 2.5,
+      "distribuidor": 2.25
+    },
+    "1001065": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1001076": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "1001083": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1001105": {
+      "taller": 2.25,
+      "distribuidor": 1.75
+    },
+    "1001138": {
+      "taller": 5,
+      "distribuidor": 4
+    },
+    "1001147": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "1001148": {
+      "taller": 17.5,
+      "distribuidor": 15
+    },
+    "1001158": {
+      "taller": 16.5,
+      "distribuidor": 14
+    },
+    "1001187": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "1001190": {
+      "taller": 6,
+      "distribuidor": 4.5
+    },
+    "1001191": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "1001200": {
+      "taller": 4.75,
+      "distribuidor": 4
+    },
+    "1001205": {
+      "taller": 8,
+      "distribuidor": 6.5
+    },
+    "1001233": {
+      "taller": 17,
+      "distribuidor": 14.5
+    },
+    "1001246": {
+      "taller": 10.5,
+      "distribuidor": 8.75
+    },
+    "1001247": {
+      "taller": 5,
+      "distribuidor": 3
+    },
+    "1001250": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1001273": {
+      "taller": 14.75,
+      "distribuidor": 14
+    },
+    "1001281": {
+      "taller": 34.75,
+      "distribuidor": 29.75
+    },
+    "1001283": {
+      "taller": 29,
+      "distribuidor": 24.75
+    },
+    "1001286": {
+      "taller": 19.75,
+      "distribuidor": 16.75
+    },
+    "1001304": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1001319": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1001360": {
+      "taller": 29,
+      "distribuidor": 24.75
+    },
+    "1001362": {
+      "taller": 38.5,
+      "distribuidor": 32.75
+    },
+    "1001401": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1001442": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1001443": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1001453": {
+      "taller": 7,
+      "distribuidor": 5.5
+    },
+    "1001477": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1001479": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1001515": {
+      "taller": 4.5,
+      "distribuidor": 4
+    },
+    "1001519": {
+      "taller": 6.75,
+      "distribuidor": 5.5
+    },
+    "1001520": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "1001539": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1001540": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "1001566": {
+      "taller": 0.75,
+      "distribuidor": 0.35
+    },
+    "1001572": {
+      "taller": 24,
+      "distribuidor": 20.5
+    },
+    "1001579": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "1001582": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1001584": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "1001598": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "1001602": {
+      "taller": 0.5,
+      "distribuidor": 0.35
+    },
+    "1001605": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "1001625": {
+      "taller": 76.25,
+      "distribuidor": 64.75
+    },
+    "1001628": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "1001640": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "1001645": {
+      "taller": 0.25,
+      "distribuidor": 0.25
+    },
+    "1001668": {
+      "taller": 78,
+      "distribuidor": 69
+    },
+    "1001677": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "1001679": {
+      "taller": 5.5,
+      "distribuidor": 4.75
+    },
+    "1001681": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "1001682": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "1001701": {
+      "taller": 28.75,
+      "distribuidor": 24.25
+    },
+    "1001710": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "1001712": {
+      "taller": 3,
+      "distribuidor": 3
+    },
+    "1001729": {
+      "taller": 7,
+      "distribuidor": 5.5
+    },
+    "1001918": {
+      "taller": 6.75,
+      "distribuidor": 5.5
+    },
+    "1001990": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "1002075": {
+      "taller": 14.5,
+      "distribuidor": 12.25
+    },
+    "1002081": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "1002121": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "1002204": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "1002228": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1002244": {
+      "taller": 3,
+      "distribuidor": 2.25
+    },
+    "1002249": {
+      "taller": 12,
+      "distribuidor": 10
+    },
+    "1002325": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "1002363": {
+      "taller": 37.25,
+      "distribuidor": 31.5
+    },
+    "1002393": {
+      "taller": 5.5,
+      "distribuidor": 4.75
+    },
+    "1002412": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "1002418": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "1002423": {
+      "taller": 7,
+      "distribuidor": 5.75
+    },
+    "1002431": {
+      "taller": 75.75,
+      "distribuidor": 64.5
+    },
+    "1002432": {
+      "taller": 55,
+      "distribuidor": 46.75
+    },
+    "1002438": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1002473": {
+      "taller": 15.25,
+      "distribuidor": 12.75
+    },
+    "1002475": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "1002505": {
+      "taller": 19,
+      "distribuidor": 16.5
+    },
+    "1002573": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "1002577": {
+      "taller": 0.25,
+      "distribuidor": 0.15
+    },
+    "1002588": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1002590": {
+      "taller": 31.25,
+      "distribuidor": 28
+    },
+    "1002629": {
+      "taller": 1,
+      "distribuidor": 0.75
+    },
+    "1002633": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "1002636": {
+      "taller": 6.25,
+      "distribuidor": 5.5
+    },
+    "1002638": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1002640": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1002641": {
+      "taller": 7.75,
+      "distribuidor": 6.75
+    },
+    "1002642": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "1002645": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "1002652": {
+      "taller": 0,
+      "distribuidor": 0
+    },
+    "1002653": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "1002677": {
+      "taller": 22.25,
+      "distribuidor": 19
+    },
+    "1002691": {
+      "taller": 4.5,
+      "distribuidor": 4.25
+    },
+    "1002709": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "1002721": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "1002727": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "1002746": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1002766": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "1002769": {
+      "taller": 2.25,
+      "distribuidor": 1.75
+    },
+    "1002804": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "1002805": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "1002808": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1002809": {
+      "taller": 3.5,
+      "distribuidor": 3.5
+    },
+    "1002811": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "1002814": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1002817": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1002821": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1002828": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1002861": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "1002863": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1002864": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1002869": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1002909": {
+      "taller": 12.25,
+      "distribuidor": 10.5
+    },
+    "1002917": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1002942": {
+      "taller": 0.5,
+      "distribuidor": 0.3
+    },
+    "1002943": {
+      "taller": 0.75,
+      "distribuidor": 0.4
+    },
+    "1003034": {
+      "taller": 32,
+      "distribuidor": 27
+    },
+    "1003036": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "1003041": {
+      "taller": 9.25,
+      "distribuidor": 8
+    },
+    "1003042": {
+      "taller": 2,
+      "distribuidor": 1.5
+    },
+    "1003051": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "1003089": {
+      "taller": 29,
+      "distribuidor": 24.75
+    },
+    "1003097": {
+      "taller": 7.5,
+      "distribuidor": 6.25
+    },
+    "1003111": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "1003140": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1003146": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "1003151": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1003173": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "1003180": {
+      "taller": 2.75,
+      "distribuidor": 2.25
+    },
+    "1003190": {
+      "taller": 8.75,
+      "distribuidor": 7.25
+    },
+    "1003204": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1003221": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1003226": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "1003235": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1003263": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1003265": {
+      "taller": 2,
+      "distribuidor": 1.5
+    },
+    "1003266": {
+      "taller": 2.25,
+      "distribuidor": 1.75
+    },
+    "1003267": {
+      "taller": 2.5,
+      "distribuidor": 2.25
+    },
+    "1003268": {
+      "taller": 1.75,
+      "distribuidor": 1.5
+    },
+    "1003270": {
+      "taller": 2,
+      "distribuidor": 1.5
+    },
+    "1003271": {
+      "taller": 0.75,
+      "distribuidor": 0.75
+    },
+    "1003274": {
+      "taller": 2,
+      "distribuidor": 1.5
+    },
+    "1003299": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "1003329": {
+      "taller": 0.5,
+      "distribuidor": 0.35
+    },
+    "1003335": {
+      "taller": 3.5,
+      "distribuidor": 1
+    },
+    "1003382": {
+      "taller": 17.25,
+      "distribuidor": 14.5
+    },
+    "1003391": {
+      "taller": 7,
+      "distribuidor": 5.75
+    },
+    "1003401": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1003402": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1003403": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1003407": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "1003416": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "1003419": {
+      "taller": 3.5,
+      "distribuidor": 2.5
+    },
+    "1003503": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "1003508": {
+      "taller": 3,
+      "distribuidor": 2.25
+    },
+    "1003514": {
+      "taller": 12.75,
+      "distribuidor": 10.75
+    },
+    "1003516": {
+      "taller": 17,
+      "distribuidor": 14.5
+    },
+    "1003519": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1003554": {
+      "taller": 8,
+      "distribuidor": 6.5
+    },
+    "1003560": {
+      "taller": 5,
+      "distribuidor": 3
+    },
+    "1003562": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "1003567": {
+      "taller": 18.75,
+      "distribuidor": 16
+    },
+    "1003568": {
+      "taller": 1.25,
+      "distribuidor": 1.25
+    },
+    "1003573": {
+      "taller": 16,
+      "distribuidor": 14
+    },
+    "1003575": {
+      "taller": 31.5,
+      "distribuidor": 26.75
+    },
+    "1003577": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1003578": {
+      "taller": 2.25,
+      "distribuidor": 2
+    },
+    "1003586": {
+      "taller": 1,
+      "distribuidor": 1
+    },
+    "1003587": {
+      "taller": 0.75,
+      "distribuidor": 0.75
+    },
+    "1003616": {
+      "taller": 9.25,
+      "distribuidor": 7.75
+    },
+    "1003661": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "1003700": {
+      "taller": 2.5,
+      "distribuidor": 1.75
+    },
+    "1003716": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1003737": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1003764": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "1003769": {
+      "taller": 8,
+      "distribuidor": 7.25
+    },
+    "1003838": {
+      "taller": 15,
+      "distribuidor": 13.5
+    },
+    "1004021": {
+      "taller": 20,
+      "distribuidor": 18
+    },
+    "1004050": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1004051": {
+      "taller": 8,
+      "distribuidor": 6.5
+    },
+    "1004062": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "1004097": {
+      "taller": 5.5,
+      "distribuidor": 4.75
+    },
+    "1004103": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "1004125": {
+      "taller": 5,
+      "distribuidor": 3.75
+    },
+    "1004167": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "1004221": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "1004227": {
+      "taller": 14,
+      "distribuidor": 12
+    },
+    "1004231": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "1004233": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1004265": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1004302": {
+      "taller": 25,
+      "distribuidor": 23
+    },
+    "1004369": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "1004419": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "1004421": {
+      "taller": 40,
+      "distribuidor": 32
+    },
+    "1004454": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "1004480": {
+      "taller": 1.25,
+      "distribuidor": 0.5
+    },
+    "1004512": {
+      "taller": 29,
+      "distribuidor": 24.75
+    },
+    "1004607": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1004618": {
+      "taller": 3,
+      "distribuidor": 2.75
+    },
+    "1004622": {
+      "taller": 7,
+      "distribuidor": 5
+    },
+    "1004627": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1004701": {
+      "taller": 20.5,
+      "distribuidor": 17.5
+    },
+    "1004761": {
+      "taller": 1,
+      "distribuidor": 0.75
+    },
+    "1004762": {
+      "taller": 1,
+      "distribuidor": 0.75
+    },
+    "1004766": {
+      "taller": 0.75,
+      "distribuidor": 0.75
+    },
+    "1004817": {
+      "taller": 6.5,
+      "distribuidor": 5.25
+    },
+    "1004818": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "1004819": {
+      "taller": 5.75,
+      "distribuidor": 5
+    },
+    "1004857": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "1004860": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "1004892": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1004916": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "1004924": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "1004929": {
+      "taller": 0.75,
+      "distribuidor": 0.5
+    },
+    "1004930": {
+      "taller": 51.75,
+      "distribuidor": 44
+    },
+    "1005033": {
+      "taller": 35.25,
+      "distribuidor": 30
+    },
+    "1005129": {
+      "taller": 2.75,
+      "distribuidor": 2.25
+    },
+    "1005134": {
+      "taller": 8,
+      "distribuidor": 6.5
+    },
+    "1005137": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "1005162": {
+      "taller": 0,
+      "distribuidor": 0
+    },
+    "1005180": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "1005197": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "1005199": {
+      "taller": 16.75,
+      "distribuidor": 14.25
+    },
+    "1005201": {
+      "taller": 15,
+      "distribuidor": 12.75
+    },
+    "1005258": {
+      "taller": 44.75,
+      "distribuidor": 38
+    },
+    "1005263": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "1005272": {
+      "taller": 0.75,
+      "distribuidor": 0.4
+    },
+    "1005273": {
+      "taller": 1.35,
+      "distribuidor": 1.15
+    },
+    "1005274": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "1005281": {
+      "taller": 2.25,
+      "distribuidor": 1.75
+    },
+    "1005327": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "1005330": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "1005494": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "1005495": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1005496": {
+      "taller": 6,
+      "distribuidor": 4.75
+    },
+    "1005519": {
+      "taller": 15,
+      "distribuidor": 12.75
+    },
+    "1005520": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "1005522": {
+      "taller": 15,
+      "distribuidor": 13
+    },
+    "1005609": {
+      "taller": 21,
+      "distribuidor": 18
+    },
+    "1005613": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1005654": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "1005656": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1005705": {
+      "taller": 2.25,
+      "distribuidor": 2
+    },
+    "1005707": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1005824": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1005829": {
+      "taller": 0.75,
+      "distribuidor": 0.5
+    },
+    "1005850": {
+      "taller": 17,
+      "distribuidor": 15
+    },
+    "1005917": {
+      "taller": 17,
+      "distribuidor": 14.5
+    },
+    "1005923": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "1005933": {
+      "taller": 22.75,
+      "distribuidor": 19.5
+    },
+    "1005946": {
+      "taller": 19,
+      "distribuidor": 17
+    },
+    "1005952": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1005954": {
+      "taller": 5,
+      "distribuidor": 4
+    },
+    "1005956": {
+      "taller": 116,
+      "distribuidor": 98.75
+    },
+    "1005961": {
+      "taller": 38.25,
+      "distribuidor": 32.5
+    },
+    "1005966": {
+      "taller": 7.25,
+      "distribuidor": 6
+    },
+    "1005971": {
+      "taller": 18,
+      "distribuidor": 16
+    },
+    "1005987": {
+      "taller": 1.75,
+      "distribuidor": 1.5
+    },
+    "1005991": {
+      "taller": 62.5,
+      "distribuidor": 53.25
+    },
+    "1005994": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "1005997": {
+      "taller": 49,
+      "distribuidor": 40
+    },
+    "1006011": {
+      "taller": 1.25,
+      "distribuidor": 1.25
+    },
+    "1006015": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1006021": {
+      "taller": 15,
+      "distribuidor": 12.75
+    },
+    "1006025": {
+      "taller": 5.5,
+      "distribuidor": 4.75
+    },
+    "1006032": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "1006041": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1006042": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "1006049": {
+      "taller": 31,
+      "distribuidor": 26.25
+    },
+    "1006052": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "1006054": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1006055": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1006057": {
+      "taller": 6.75,
+      "distribuidor": 5.5
+    },
+    "1006065": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "1006071": {
+      "taller": 16,
+      "distribuidor": 13.5
+    },
+    "1006072": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "1006074": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1006095": {
+      "taller": 12.25,
+      "distribuidor": 10.5
+    },
+    "1006096": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "1006110": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1006113": {
+      "taller": 3,
+      "distribuidor": 2.25
+    },
+    "1006116": {
+      "taller": 17.25,
+      "distribuidor": 14.5
+    },
+    "1006118": {
+      "taller": 16.75,
+      "distribuidor": 14.25
+    },
+    "1006122": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "1006136": {
+      "taller": 8.25,
+      "distribuidor": 7.25
+    },
+    "1006146": {
+      "taller": 1,
+      "distribuidor": 0.75
+    },
+    "1006148": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1006149": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1006153": {
+      "taller": 55,
+      "distribuidor": 45
+    },
+    "1006290": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "1006292": {
+      "taller": 81.25,
+      "distribuidor": 69
+    },
+    "1006293": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "1006294": {
+      "taller": 15,
+      "distribuidor": 11
+    },
+    "1006295": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "1006301": {
+      "taller": 8,
+      "distribuidor": 7
+    },
+    "1006315": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "1006319": {
+      "taller": 3.5,
+      "distribuidor": 2.5
+    },
+    "1006320": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1006325": {
+      "taller": 21.5,
+      "distribuidor": 19
+    },
+    "1006327": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "1006332": {
+      "taller": 6.75,
+      "distribuidor": 5.5
+    },
+    "1006336": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "1006360": {
+      "taller": 3.75,
+      "distribuidor": 3
+    },
+    "1006361": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1006363": {
+      "taller": 0,
+      "distribuidor": 0
+    },
+    "1006370": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1006373": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1006383": {
+      "taller": 15.5,
+      "distribuidor": 13
+    },
+    "1006388": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "1006441": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "1006444": {
+      "taller": 2,
+      "distribuidor": 1.5
+    },
+    "1006450": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "1006451": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "1006455": {
+      "taller": 5,
+      "distribuidor": 4.5
+    },
+    "1006456": {
+      "taller": 5,
+      "distribuidor": 4.5
+    },
+    "1006457": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "1006483": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "1006489": {
+      "taller": 14.25,
+      "distribuidor": 12
+    },
+    "1006496": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "1006500": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "1006507": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "1006510": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "1006512": {
+      "taller": 8.5,
+      "distribuidor": 7.5
+    },
+    "1006530": {
+      "taller": 13,
+      "distribuidor": 12.25
+    },
+    "1006531": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "1006548": {
+      "taller": 0.6,
+      "distribuidor": 0.4
+    },
+    "1006565": {
+      "taller": 30.25,
+      "distribuidor": 25.75
+    },
+    "1006566": {
+      "taller": 27.25,
+      "distribuidor": 23.25
+    },
+    "1006590": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "1006599": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "1006604": {
+      "taller": 17.5,
+      "distribuidor": 14.75
+    },
+    "1006626": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "1006627": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "1006628": {
+      "taller": 15,
+      "distribuidor": 12.75
+    },
+    "1006639": {
+      "taller": 18,
+      "distribuidor": 15.25
+    },
+    "1006641": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "1006642": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "1006643": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "1006644": {
+      "taller": 4.5,
+      "distribuidor": 4
+    },
+    "1006645": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "1009008": {
+      "taller": 5,
+      "distribuidor": 4
+    },
+    "1009046": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "2000006": {
+      "taller": 19,
+      "distribuidor": 17
+    },
+    "2000009": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "2000012": {
+      "taller": 65,
+      "distribuidor": 55
+    },
+    "2000016": {
+      "taller": 70,
+      "distribuidor": 59.5
+    },
+    "2000018": {
+      "taller": 65,
+      "distribuidor": 55
+    },
+    "2000019": {
+      "taller": 66.5,
+      "distribuidor": 56.5
+    },
+    "2000027": {
+      "taller": 6.25,
+      "distribuidor": 5.5
+    },
+    "2000031": {
+      "taller": 18,
+      "distribuidor": 15
+    },
+    "2000032": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "2000034": {
+      "taller": 0,
+      "distribuidor": 0
+    },
+    "2000036": {
+      "taller": 5.75,
+      "distribuidor": 5
+    },
+    "2000039": {
+      "taller": 17,
+      "distribuidor": 14.25
+    },
+    "2000040": {
+      "taller": 24,
+      "distribuidor": 20.25
+    },
+    "2000041": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "2000043": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "LM120106": {
+      "taller": 10,
+      "distribuidor": 9.92
+    },
+    "LM120202": {
+      "taller": 9.75,
+      "distribuidor": 9.25
+    },
+    "LM120103": {
+      "taller": 10,
+      "distribuidor": 9.92
+    },
+    "LM120108": {
+      "taller": 18,
+      "distribuidor": 17.25
+    },
+    "LM120104": {
+      "taller": 18,
+      "distribuidor": 17.08
+    },
+    "LM120101": {
+      "taller": 7.75,
+      "distribuidor": 7.5
+    },
+    "10W40-FULL-1L": {
+      "taller": 15,
+      "distribuidor": 13
+    },
+    "10W40-FULL-1.2L": {
+      "taller": 18,
+      "distribuidor": 15.5
+    },
+    "20W50-FULL-1L": {
+      "taller": 15,
+      "distribuidor": 13
+    },
+    "20W50-FULL-1.2L": {
+      "taller": 18,
+      "distribuidor": 15.5
+    },
+    "20W50-SEMI-1.2L": {
+      "taller": 15,
+      "distribuidor": 13
+    },
+    "1005809-3": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540190663": {
+      "taller": 53.75,
+      "distribuidor": 45.75
+    },
+    "741540100308": {
+      "taller": 40.25,
+      "distribuidor": 34.25
+    },
+    "741540100400": {
+      "taller": 39.5,
+      "distribuidor": 33.75
+    },
+    "741540187983": {
+      "taller": 51.25,
+      "distribuidor": 43.5
+    },
+    "741540100398": {
+      "taller": 36,
+      "distribuidor": 30.5
+    },
+    "RSAMO-ZI1630A": {
+      "taller": 45.5,
+      "distribuidor": 38.75
+    },
+    "RESEN-FEJ39-891": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "RE070400001": {
+      "taller": 0.75,
+      "distribuidor": 0.65
+    },
+    "RE070400000": {
+      "taller": 0.75,
+      "distribuidor": 0.65
+    },
+    "741540100703": {
+      "taller": 21.5,
+      "distribuidor": 18.25
+    },
+    "741540100133": {
+      "taller": 28,
+      "distribuidor": 23.75
+    },
+    "741540100406": {
+      "taller": 30,
+      "distribuidor": 25.5
+    },
+    "741540100132": {
+      "taller": 32.25,
+      "distribuidor": 27.5
+    },
+    "741540190832": {
+      "taller": 36.25,
+      "distribuidor": 31
+    },
+    "741540100136": {
+      "taller": 26.5,
+      "distribuidor": 22.5
+    },
+    "741540100325": {
+      "taller": 12.25,
+      "distribuidor": 10.5
+    },
+    "6000-2RS": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "6001-2RS": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "6002-2RS": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "6003-2RS": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "6006-2RS": {
+      "taller": 5.5,
+      "distribuidor": 4.75
+    },
+    "6200-2RS": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "6201-2RS": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "6202-2RS": {
+      "taller": 4,
+      "distribuidor": 3
+    },
+    "6203-2RS": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "6204-2RS": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540100141": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "6205-2RS": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "6300-2RS": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100142": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "6303-2RS": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "6304-2RS": {
+      "taller": 5.5,
+      "distribuidor": 4.5
+    },
+    "6305-2RS": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540100140": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540189580": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540189581": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "HK1212": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "HK1512": {
+      "taller": 3.75,
+      "distribuidor": 3
+    },
+    "HK1514": {
+      "taller": 8,
+      "distribuidor": 6
+    },
+    "741540100743": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540189674": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189639": {
+      "taller": 11.5,
+      "distribuidor": 10
+    },
+    "741540189838": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "741540189453": {
+      "taller": 14.25,
+      "distribuidor": 12
+    },
+    "741540189583": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540189559": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "RBBAL-380630007-0001": {
+      "taller": 2,
+      "distribuidor": 1.5
+    },
+    "741540100386": {
+      "taller": 2.75,
+      "distribuidor": 2.25
+    },
+    "741540100387": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "741540100389": {
+      "taller": 2.25,
+      "distribuidor": 2
+    },
+    "741540100392": {
+      "taller": 2.75,
+      "distribuidor": 2.25
+    },
+    "741540100391": {
+      "taller": 2.25,
+      "distribuidor": 1.75
+    },
+    "741540100388": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "741540188596": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100393": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189739": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540188103": {
+      "taller": 2.25,
+      "distribuidor": 1.75
+    },
+    "741540188598": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540100395": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540100139": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "741540100394": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540190046": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540190075": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540100225": {
+      "taller": 20.25,
+      "distribuidor": 17.25
+    },
+    "741540189270": {
+      "taller": 22,
+      "distribuidor": 18.75
+    },
+    "741540188710": {
+      "taller": 22.5,
+      "distribuidor": 19
+    },
+    "RC060060000": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "TS12N5-3B": {
+      "taller": 18,
+      "distribuidor": 16.5
+    },
+    "TS12N7-3B": {
+      "taller": 23,
+      "distribuidor": 21.5
+    },
+    "TS12N7-4A": {
+      "taller": 22,
+      "distribuidor": 20
+    },
+    "TS12N7A-3A": {
+      "taller": 21,
+      "distribuidor": 19.5
+    },
+    "TS12N7A-4A": {
+      "taller": 22.25,
+      "distribuidor": 21
+    },
+    "TS12N9-4B-1": {
+      "taller": 26,
+      "distribuidor": 24
+    },
+    "TSLB6.5L-BS": {
+      "taller": 19,
+      "distribuidor": 18
+    },
+    "TSYTX4L-BS": {
+      "taller": 15,
+      "distribuidor": 14
+    },
+    "TSYTX5L-BS": {
+      "taller": 18,
+      "distribuidor": 16
+    },
+    "TSYTX7A-BS": {
+      "taller": 21.5,
+      "distribuidor": 19.5
+    },
+    "TSYTX7L-BS": {
+      "taller": 19.75,
+      "distribuidor": 18.5
+    },
+    "TSYTX9-BS": {
+      "taller": 26.5,
+      "distribuidor": 25
+    },
+    "741540100116": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540189326": {
+      "taller": 18.25,
+      "distribuidor": 15.5
+    },
+    "741540187513": {
+      "taller": 7.25,
+      "distribuidor": 6
+    },
+    "IC029": {
+      "taller": 15.5,
+      "distribuidor": 13.25
+    },
+    "741540190335": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "IC018": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540189636": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540187505": {
+      "taller": 5,
+      "distribuidor": 4
+    },
+    "741540189630": {
+      "taller": 15.75,
+      "distribuidor": 13.5
+    },
+    "IC016": {
+      "taller": 11.25,
+      "distribuidor": 9.5
+    },
+    "IC021": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "IC022": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "IC026": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540189481": {
+      "taller": 19.75,
+      "distribuidor": 16.75
+    },
+    "741540100117": {
+      "taller": 6.5,
+      "distribuidor": 5.25
+    },
+    "741540191339": {
+      "taller": 13.5,
+      "distribuidor": 11.5
+    },
+    "741540188644": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "741540188289": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540189338": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "IC003": {
+      "taller": 23.25,
+      "distribuidor": 19.75
+    },
+    "741540190087": {
+      "taller": 10.75,
+      "distribuidor": 9.25
+    },
+    "741540190086": {
+      "taller": 10.25,
+      "distribuidor": 8.5
+    },
+    "741540190044": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540190043": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "IC012": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540188551": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "741540190471": {
+      "taller": 13.75,
+      "distribuidor": 11.75
+    },
+    "741540190355": {
+      "taller": 10,
+      "distribuidor": 8
+    },
+    "741540190583": {
+      "taller": 13.75,
+      "distribuidor": 11.75
+    },
+    "741540100213": {
+      "taller": 27.5,
+      "distribuidor": 23.5
+    },
+    "741540189914": {
+      "taller": 12.25,
+      "distribuidor": 10.5
+    },
+    "741540189890": {
+      "taller": 12,
+      "distribuidor": 11.25
+    },
+    "741540191155": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "741540189585": {
+      "taller": 7.25,
+      "distribuidor": 6.25
+    },
+    "741540190889": {
+      "taller": 10,
+      "distribuidor": 8
+    },
+    "741540190579": {
+      "taller": 7.5,
+      "distribuidor": 6.25
+    },
+    "741540190261": {
+      "taller": 13.5,
+      "distribuidor": 11.5
+    },
+    "741540188181": {
+      "taller": 14,
+      "distribuidor": 12
+    },
+    "741540189837": {
+      "taller": 12.75,
+      "distribuidor": 11
+    },
+    "741540188182": {
+      "taller": 13.5,
+      "distribuidor": 11.5
+    },
+    "741540190909": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540190472": {
+      "taller": 11.75,
+      "distribuidor": 10
+    },
+    "741540190076": {
+      "taller": 11.75,
+      "distribuidor": 10
+    },
+    "741540190582": {
+      "taller": 21.25,
+      "distribuidor": 18
+    },
+    "741540190356": {
+      "taller": 19.5,
+      "distribuidor": 16.5
+    },
+    "741540118008": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "741540190890": {
+      "taller": 10,
+      "distribuidor": 8
+    },
+    "741540190357": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540190667": {
+      "taller": 19.75,
+      "distribuidor": 17
+    },
+    "741540190823": {
+      "taller": 24.75,
+      "distribuidor": 21
+    },
+    "741540188670": {
+      "taller": 13,
+      "distribuidor": 12
+    },
+    "741540177001": {
+      "taller": 7.5,
+      "distribuidor": 7
+    },
+    "741540191131": {
+      "taller": 21.25,
+      "distribuidor": 18.25
+    },
+    "741540177002": {
+      "taller": 13.75,
+      "distribuidor": 12
+    },
+    "741540190666": {
+      "taller": 15,
+      "distribuidor": 12.75
+    },
+    "741540190689": {
+      "taller": 18,
+      "distribuidor": 15.5
+    },
+    "741540100129": {
+      "taller": 2.5,
+      "distribuidor": 2.15
+    },
+    "741540100126": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "741540161501": {
+      "taller": 2.75,
+      "distribuidor": 2.25
+    },
+    "741540187915": {
+      "taller": 1.75,
+      "distribuidor": 1.25
+    },
+    "741540188324": {
+      "taller": 0.5,
+      "distribuidor": 0.35
+    },
+    "741540188326": {
+      "taller": 0.25,
+      "distribuidor": 0.15
+    },
+    "741540100127": {
+      "taller": 0.3,
+      "distribuidor": 0.2
+    },
+    "741540189182": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "BA020430": {
+      "taller": 4,
+      "distribuidor": 3.75
+    },
+    "BA020404": {
+      "taller": 2.75,
+      "distribuidor": 2.4
+    },
+    "BA020410": {
+      "taller": 2.75,
+      "distribuidor": 2.4
+    },
+    "BA020405": {
+      "taller": 9.5,
+      "distribuidor": 9
+    },
+    "BA020506": {
+      "taller": 10.75,
+      "distribuidor": 9.5
+    },
+    "BA020411": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "LKR6D-10E-K": {
+      "taller": 3.5,
+      "distribuidor": 3.5
+    },
+    "741540188819": {
+      "taller": 2.1,
+      "distribuidor": 1.85
+    },
+    "741540188544": {
+      "taller": 7.5,
+      "distribuidor": 6.25
+    },
+    "THC018": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "741540100266": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "THC039": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540188482": {
+      "taller": 2.5,
+      "distribuidor": 2.25
+    },
+    "THC006": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540189678": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188011": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100268": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "THC042": {
+      "taller": 2.75,
+      "distribuidor": 2.25
+    },
+    "741540188055": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540189193": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540188013": {
+      "taller": 3.75,
+      "distribuidor": 2.75
+    },
+    "THC037": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "THC046": {
+      "taller": 4.75,
+      "distribuidor": 4.25
+    },
+    "THC043": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540100273": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "THC016": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540100597": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540188712": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540188012": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "THC031": {
+      "taller": 7.25,
+      "distribuidor": 6.25
+    },
+    "741540189192": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540190587": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540189200": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189948": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "741540100275": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540189541": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100274": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100480": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100276": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540188015": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "THC011": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "THC035": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "741540191020": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "741540100659": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540187994": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "THC012": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540191029": {
+      "taller": 2.75,
+      "distribuidor": 2.25
+    },
+    "741540100269": {
+      "taller": 3,
+      "distribuidor": 2.25
+    },
+    "741540189943": {
+      "taller": 5.5,
+      "distribuidor": 4.75
+    },
+    "741540100271": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189195": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100600": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "THC024": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "THC025": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "CLC039": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "741540191287": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "CLC005": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "741540190618": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "CLC006": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540188481": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540189679": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540100281": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "CLC008": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "CLC020": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540189196": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "CLC014": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540188004": {
+      "taller": 3,
+      "distribuidor": 2.75
+    },
+    "741540100286": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540188007": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100279": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100283": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540189198": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540188506": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540190616": {
+      "taller": 2.5,
+      "distribuidor": 2.25
+    },
+    "741540100288": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540189540": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100481": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540100289": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188008": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540188406": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540100660": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540188060": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540100282": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540189956": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540189194": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100285": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "CLC029": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "CLC030": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540191028": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "RTCAB-281710018-0001": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188016": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540190654": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "741540100293": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540191150": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "741540189947": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "45450K74N01": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540188714": {
+      "taller": 4.5,
+      "distribuidor": 3.5
+    },
+    "43450K7474N01": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540100296": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100099": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "741540189681": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540189199": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540189201": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540189945": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100551": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540188010": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "741540100425": {
+      "taller": 5,
+      "distribuidor": 4
+    },
+    "741540189191": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540100759": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100760": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188009": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540100475": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540100514": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100599": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540188713": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100423": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540189197": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "741540189946": {
+      "taller": 2.75,
+      "distribuidor": 2.25
+    },
+    "SPC011": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "741540191014": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540100424": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188058": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "SPC014": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "741540189881": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "SPC023": {
+      "taller": 3.75,
+      "distribuidor": 3
+    },
+    "741540106801": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189998": {
+      "taller": 16.25,
+      "distribuidor": 14
+    },
+    "741540188461": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540188472": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540189648": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540100506": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189647": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540100427": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540189114": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "741540100119": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "741540100470": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540188631": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540188486": {
+      "taller": 10,
+      "distribuidor": 8
+    },
+    "741540190166": {
+      "taller": 14,
+      "distribuidor": 11.75
+    },
+    "741540189898": {
+      "taller": 7.25,
+      "distribuidor": 6.25
+    },
+    "741540189892": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189552": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540100198": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540190035": {
+      "taller": 16.75,
+      "distribuidor": 14.25
+    },
+    "741540190036": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540100205": {
+      "taller": 12.25,
+      "distribuidor": 10.5
+    },
+    "741540100215": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540100454": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189119": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "741540100508": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540100397": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540188952": {
+      "taller": 30,
+      "distribuidor": 28
+    },
+    "741540100252": {
+      "taller": 9.5,
+      "distribuidor": 8.75
+    },
+    "741540178441": {
+      "taller": 8.5,
+      "distribuidor": 7.5
+    },
+    "741540178459": {
+      "taller": 7,
+      "distribuidor": 6.25
+    },
+    "741540190186": {
+      "taller": 33,
+      "distribuidor": 29
+    },
+    "741540100121": {
+      "taller": 15.5,
+      "distribuidor": 14
+    },
+    "741540189013": {
+      "taller": 18,
+      "distribuidor": 16.75
+    },
+    "741540100812": {
+      "taller": 25,
+      "distribuidor": 21.25
+    },
+    "741540100813": {
+      "taller": 22.25,
+      "distribuidor": 18.75
+    },
+    "RMCAD-D4-2": {
+      "taller": 14,
+      "distribuidor": 0
+    },
+    "741540188463": {
+      "taller": 88.5,
+      "distribuidor": 75.25
+    },
+    "741540100493": {
+      "taller": 50,
+      "distribuidor": 42.5
+    },
+    "741540190797": {
+      "taller": 104.25,
+      "distribuidor": 88.5
+    },
+    "741540188467": {
+      "taller": 43,
+      "distribuidor": 36.5
+    },
+    "741540112501": {
+      "taller": 49,
+      "distribuidor": 45
+    },
+    "741540100056": {
+      "taller": 72.25,
+      "distribuidor": 61.5
+    },
+    "741540190289": {
+      "taller": 91.25,
+      "distribuidor": 77.5
+    },
+    "741540189346": {
+      "taller": 83.5,
+      "distribuidor": 71
+    },
+    "741540100742": {
+      "taller": 65.5,
+      "distribuidor": 55.75
+    },
+    "741540100768": {
+      "taller": 62.25,
+      "distribuidor": 53
+    },
+    "741540100396": {
+      "taller": 124,
+      "distribuidor": 105.5
+    },
+    "741540190099": {
+      "taller": 101.25,
+      "distribuidor": 86.25
+    },
+    "741540190749": {
+      "taller": 16,
+      "distribuidor": 13.5
+    },
+    "741540189292": {
+      "taller": 12.5,
+      "distribuidor": 10.5
+    },
+    "741540188542": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540189294": {
+      "taller": 7.5,
+      "distribuidor": 6.25
+    },
+    "741540190627": {
+      "taller": 18.75,
+      "distribuidor": 15.75
+    },
+    "741540187987": {
+      "taller": 7.75,
+      "distribuidor": 6.5
+    },
+    "741540190983": {
+      "taller": 15.25,
+      "distribuidor": 13
+    },
+    "741540187988": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540188503": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "741540189293": {
+      "taller": 14,
+      "distribuidor": 12
+    },
+    "741540188422": {
+      "taller": 27.25,
+      "distribuidor": 23.25
+    },
+    "741540190685": {
+      "taller": 38.5,
+      "distribuidor": 32.75
+    },
+    "741540190677": {
+      "taller": 38.75,
+      "distribuidor": 33
+    },
+    "741540189968": {
+      "taller": 27.75,
+      "distribuidor": 23.5
+    },
+    "741540188423": {
+      "taller": 28.5,
+      "distribuidor": 24.25
+    },
+    "741540190526": {
+      "taller": 24,
+      "distribuidor": 20.5
+    },
+    "741540190571": {
+      "taller": 28.5,
+      "distribuidor": 24.25
+    },
+    "741540190539": {
+      "taller": 30.25,
+      "distribuidor": 25.75
+    },
+    "741540189223": {
+      "taller": 25.25,
+      "distribuidor": 21.5
+    },
+    "741540188505": {
+      "taller": 26.5,
+      "distribuidor": 22.5
+    },
+    "741540188085": {
+      "taller": 25.5,
+      "distribuidor": 21.75
+    },
+    "741540190678": {
+      "taller": 31.5,
+      "distribuidor": 26.75
+    },
+    "741540190679": {
+      "taller": 50,
+      "distribuidor": 42.5
+    },
+    "741540188424": {
+      "taller": 29,
+      "distribuidor": 25.5
+    },
+    "741540188345": {
+      "taller": 1.75,
+      "distribuidor": 1.25
+    },
+    "741540188346": {
+      "taller": 1.75,
+      "distribuidor": 1.35
+    },
+    "741540188290": {
+      "taller": 1.75,
+      "distribuidor": 1.25
+    },
+    "741540188510": {
+      "taller": 42.75,
+      "distribuidor": 36.5
+    },
+    "741540188137": {
+      "taller": 47,
+      "distribuidor": 40
+    },
+    "741540100239": {
+      "taller": 27.25,
+      "distribuidor": 23.25
+    },
+    "741540190788": {
+      "taller": 75.75,
+      "distribuidor": 64.5
+    },
+    "741540188240": {
+      "taller": 30.25,
+      "distribuidor": 25.75
+    },
+    "741540189026": {
+      "taller": 56,
+      "distribuidor": 47.5
+    },
+    "741540189028": {
+      "taller": 54.5,
+      "distribuidor": 46.25
+    },
+    "741540189362": {
+      "taller": 71.5,
+      "distribuidor": 60.75
+    },
+    "741540189960": {
+      "taller": 84,
+      "distribuidor": 71.5
+    },
+    "741540188242": {
+      "taller": 45.25,
+      "distribuidor": 38.5
+    },
+    "CRB014": {
+      "taller": 49.5,
+      "distribuidor": 42
+    },
+    "741540188633": {
+      "taller": 23,
+      "distribuidor": 19.75
+    },
+    "741540190866": {
+      "taller": 47,
+      "distribuidor": 40
+    },
+    "741540190683": {
+      "taller": 79.25,
+      "distribuidor": 67.25
+    },
+    "741540188136": {
+      "taller": 46.75,
+      "distribuidor": 39.75
+    },
+    "741540160009": {
+      "taller": 19,
+      "distribuidor": 17.5
+    },
+    "741540160027": {
+      "taller": 20,
+      "distribuidor": 18
+    },
+    "741540100314": {
+      "taller": 36,
+      "distribuidor": 30.75
+    },
+    "741540188247": {
+      "taller": 21,
+      "distribuidor": 19
+    },
+    "741540100264": {
+      "taller": 54.75,
+      "distribuidor": 46.5
+    },
+    "RFF207RGL": {
+      "taller": 55.75,
+      "distribuidor": 52.25
+    },
+    "RO-511-SOLID": {
+      "taller": 56,
+      "distribuidor": 52.5
+    },
+    "HRO-3480-DOT": {
+      "taller": 69,
+      "distribuidor": 64.75
+    },
+    "HRO-514-DV-EVO": {
+      "taller": 62.75,
+      "distribuidor": 58.75
+    },
+    "RS077": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "RS086": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "RS060": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "RS078": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "RS002": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "RS003": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "RS102": {
+      "taller": 11,
+      "distribuidor": 9.25
+    },
+    "RS004": {
+      "taller": 10,
+      "distribuidor": 8
+    },
+    "RS079": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "RS088": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "RS010": {
+      "taller": 11,
+      "distribuidor": 9.25
+    },
+    "RS011": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "RS009": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "RS080": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "RS006": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "RS016": {
+      "taller": 9.5,
+      "distribuidor": 8.25
+    },
+    "RS094": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "RS081": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "RS013": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "RS015": {
+      "taller": 10.75,
+      "distribuidor": 9
+    },
+    "RS014": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "RS012": {
+      "taller": 10.5,
+      "distribuidor": 8.75
+    },
+    "RS098": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "RS017": {
+      "taller": 10,
+      "distribuidor": 7.5
+    },
+    "RS111": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "RS067": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "RS061": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "RS018": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "RS082": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "RS089": {
+      "taller": 5.75,
+      "distribuidor": 5.25
+    },
+    "RS104": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "RS105": {
+      "taller": 9.25,
+      "distribuidor": 7.75
+    },
+    "RS034": {
+      "taller": 11.75,
+      "distribuidor": 10
+    },
+    "RS059": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "RS062": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "RS058": {
+      "taller": 10.75,
+      "distribuidor": 9
+    },
+    "RS112": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "RS019": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "RS021": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "RS026": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "RS024": {
+      "taller": 9.25,
+      "distribuidor": 7.75
+    },
+    "RS069": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "RS020": {
+      "taller": 7.25,
+      "distribuidor": 6.25
+    },
+    "RS063": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "RS025": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "RS076": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "RS091": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "RS031": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "RS029": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "RS097": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "RS064": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "RS028": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "RS030": {
+      "taller": 7.75,
+      "distribuidor": 6.5
+    },
+    "RS027": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "RS054": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "RS074": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "RS101": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "RS065": {
+      "taller": 9.25,
+      "distribuidor": 8
+    },
+    "RS083": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "RS035": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "RS100": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "RS033": {
+      "taller": 8.5,
+      "distribuidor": 8
+    },
+    "RS005": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "RS072": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "RS042": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "RS070": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "RS038": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "RS023": {
+      "taller": 10.5,
+      "distribuidor": 8.75
+    },
+    "RS041": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "RS039": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "RS037": {
+      "taller": 10,
+      "distribuidor": 8
+    },
+    "RS008": {
+      "taller": 7.25,
+      "distribuidor": 6.25
+    },
+    "RS075": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "RS084": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "RS107": {
+      "taller": 8.75,
+      "distribuidor": 7.25
+    },
+    "RS110": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "RS092": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "RS095": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "RS099": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "RS044": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "RS043": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "RS068": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "RS106": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "RS045": {
+      "taller": 7.75,
+      "distribuidor": 6.5
+    },
+    "RS108": {
+      "taller": 9.25,
+      "distribuidor": 7.75
+    },
+    "RS085": {
+      "taller": 14,
+      "distribuidor": 12
+    },
+    "RS049": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "RS073": {
+      "taller": 17.5,
+      "distribuidor": 14.75
+    },
+    "RS051": {
+      "taller": 14,
+      "distribuidor": 12
+    },
+    "741540190917": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540190294": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "741540190251": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540100419": {
+      "taller": 10.5,
+      "distribuidor": 8.5
+    },
+    "741540178106": {
+      "taller": 13.5,
+      "distribuidor": 11.25
+    },
+    "741540188301": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "741540190295": {
+      "taller": 13.25,
+      "distribuidor": 11.25
+    },
+    "741540188793": {
+      "taller": 8,
+      "distribuidor": 7
+    },
+    "741540100421": {
+      "taller": 8,
+      "distribuidor": 7.5
+    },
+    "741540188302": {
+      "taller": 9.5,
+      "distribuidor": 8.25
+    },
+    "741540191082": {
+      "taller": 19.75,
+      "distribuidor": 16.75
+    },
+    "741540189461": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540190231": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540178101": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "741540178102": {
+      "taller": 9.25,
+      "distribuidor": 8
+    },
+    "741540178103": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540178105": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540190922": {
+      "taller": 8.5,
+      "distribuidor": 7.5
+    },
+    "741540100585": {
+      "taller": 10.75,
+      "distribuidor": 10
+    },
+    "741540191111": {
+      "taller": 11.25,
+      "distribuidor": 10.75
+    },
+    "741540100697": {
+      "taller": 10,
+      "distribuidor": 9.25
+    },
+    "741540100696": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540100588": {
+      "taller": 10,
+      "distribuidor": 9.25
+    },
+    "741540100586": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540100584": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540189278": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "741540178108": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540178109": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "741540189399": {
+      "taller": 20.25,
+      "distribuidor": 17
+    },
+    "741540190500": {
+      "taller": 9,
+      "distribuidor": 8.25
+    },
+    "741540187018": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540189049": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "CDI007": {
+      "taller": 19.75,
+      "distribuidor": 16.75
+    },
+    "741540188458": {
+      "taller": 18.75,
+      "distribuidor": 16
+    },
+    "CDI014": {
+      "taller": 18.5,
+      "distribuidor": 15.75
+    },
+    "741540188353": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540187003": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540188351": {
+      "taller": 14.75,
+      "distribuidor": 12.5
+    },
+    "741540189905": {
+      "taller": 25.5,
+      "distribuidor": 21.75
+    },
+    "741540100829": {
+      "taller": 25.75,
+      "distribuidor": 22
+    },
+    "741540100824": {
+      "taller": 25.75,
+      "distribuidor": 22
+    },
+    "741540100429": {
+      "taller": 31.5,
+      "distribuidor": 26.75
+    },
+    "741540100430": {
+      "taller": 24,
+      "distribuidor": 20.5
+    },
+    "741540191266": {
+      "taller": 23,
+      "distribuidor": 19.5
+    },
+    "741540189665": {
+      "taller": 21.5,
+      "distribuidor": 18.25
+    },
+    "741540188349": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540188350": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540189115": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540189901": {
+      "taller": 22.75,
+      "distribuidor": 19.25
+    },
+    "741540100831": {
+      "taller": 25.25,
+      "distribuidor": 21.5
+    },
+    "741540100828": {
+      "taller": 21.5,
+      "distribuidor": 18.25
+    },
+    "741540100832": {
+      "taller": 17.5,
+      "distribuidor": 15
+    },
+    "741540100833": {
+      "taller": 18.5,
+      "distribuidor": 15.75
+    },
+    "741540190094": {
+      "taller": 24.5,
+      "distribuidor": 21
+    },
+    "741540187929": {
+      "taller": 21.5,
+      "distribuidor": 18.25
+    },
+    "741540100830": {
+      "taller": 21.5,
+      "distribuidor": 18.25
+    },
+    "741540188525": {
+      "taller": 29.25,
+      "distribuidor": 24.75
+    },
+    "CDI016": {
+      "taller": 15.75,
+      "distribuidor": 13.5
+    },
+    "741540191117": {
+      "taller": 20.5,
+      "distribuidor": 17.5
+    },
+    "741540100309": {
+      "taller": 18.75,
+      "distribuidor": 16
+    },
+    "741540190374": {
+      "taller": 74.5,
+      "distribuidor": 63.5
+    },
+    "741540189912": {
+      "taller": 22,
+      "distribuidor": 18.75
+    },
+    "741540188280": {
+      "taller": 22,
+      "distribuidor": 18.5
+    },
+    "741540188282": {
+      "taller": 26.75,
+      "distribuidor": 22.75
+    },
+    "741540190427": {
+      "taller": 19.25,
+      "distribuidor": 16.5
+    },
+    "741540189600": {
+      "taller": 27.75,
+      "distribuidor": 23.5
+    },
+    "741540188281": {
+      "taller": 24.25,
+      "distribuidor": 20.75
+    },
+    "741540189906": {
+      "taller": 21.75,
+      "distribuidor": 18.5
+    },
+    "741540188283": {
+      "taller": 24,
+      "distribuidor": 21
+    },
+    "741540189170": {
+      "taller": 24.5,
+      "distribuidor": 21
+    },
+    "741540188284": {
+      "taller": 42,
+      "distribuidor": 35
+    },
+    "741540190376": {
+      "taller": 25.5,
+      "distribuidor": 21.75
+    },
+    "741540188286": {
+      "taller": 25.5,
+      "distribuidor": 21.75
+    },
+    "741540189406": {
+      "taller": 94,
+      "distribuidor": 80
+    },
+    "741540100525": {
+      "taller": 80,
+      "distribuidor": 73
+    },
+    "741540189349": {
+      "taller": 112,
+      "distribuidor": 95.25
+    },
+    "741540187992": {
+      "taller": 69.25,
+      "distribuidor": 59
+    },
+    "741540100523": {
+      "taller": 75,
+      "distribuidor": 63.75
+    },
+    "741540100524": {
+      "taller": 88.5,
+      "distribuidor": 75.25
+    },
+    "741540100526": {
+      "taller": 105.75,
+      "distribuidor": 90
+    },
+    "741540189407": {
+      "taller": 88,
+      "distribuidor": 74.75
+    },
+    "741540189348": {
+      "taller": 126.5,
+      "distribuidor": 107.5
+    },
+    "741540189060": {
+      "taller": 55,
+      "distribuidor": 50
+    },
+    "741540189058": {
+      "taller": 74.75,
+      "distribuidor": 63.5
+    },
+    "741540100202": {
+      "taller": 88,
+      "distribuidor": 75
+    },
+    "741540187931": {
+      "taller": 56.75,
+      "distribuidor": 48.25
+    },
+    "741540190433": {
+      "taller": 66,
+      "distribuidor": 56.25
+    },
+    "741540189056": {
+      "taller": 76.25,
+      "distribuidor": 65
+    },
+    "741540100530": {
+      "taller": 77.25,
+      "distribuidor": 65.75
+    },
+    "741540189055": {
+      "taller": 77.5,
+      "distribuidor": 66
+    },
+    "741540188475": {
+      "taller": 62.75,
+      "distribuidor": 53.5
+    },
+    "741540100043": {
+      "taller": 76.25,
+      "distribuidor": 65
+    },
+    "741540100505": {
+      "taller": 94.5,
+      "distribuidor": 80.5
+    },
+    "741540189134": {
+      "taller": 78.25,
+      "distribuidor": 66.5
+    },
+    "741540189598": {
+      "taller": 68,
+      "distribuidor": 57.75
+    },
+    "741540100315": {
+      "taller": 101.25,
+      "distribuidor": 86
+    },
+    "741540189426": {
+      "taller": 94.5,
+      "distribuidor": 80.25
+    },
+    "741540100101": {
+      "taller": 83,
+      "distribuidor": 70.5
+    },
+    "741540100794": {
+      "taller": 76.75,
+      "distribuidor": 65.25
+    },
+    "741540188202": {
+      "taller": 104.25,
+      "distribuidor": 88.75
+    },
+    "741540190804": {
+      "taller": 123.5,
+      "distribuidor": 105.25
+    },
+    "741540188951": {
+      "taller": 78.75,
+      "distribuidor": 67
+    },
+    "741540189475": {
+      "taller": 112,
+      "distribuidor": 95.25
+    },
+    "741540190194": {
+      "taller": 72.75,
+      "distribuidor": 61.75
+    },
+    "741540100240": {
+      "taller": 53.5,
+      "distribuidor": 45.5
+    },
+    "741540100018": {
+      "taller": 51.75,
+      "distribuidor": 44
+    },
+    "741540100019": {
+      "taller": 53.25,
+      "distribuidor": 45.25
+    },
+    "741540139051": {
+      "taller": 143.75,
+      "distribuidor": 122.25
+    },
+    "741540190436": {
+      "taller": 85,
+      "distribuidor": 72.25
+    },
+    "741540188029": {
+      "taller": 50.75,
+      "distribuidor": 43.25
+    },
+    "741540140567": {
+      "taller": 67,
+      "distribuidor": 57
+    },
+    "741540189343": {
+      "taller": 83.5,
+      "distribuidor": 71
+    },
+    "741540188912": {
+      "taller": 75.5,
+      "distribuidor": 64.25
+    },
+    "741540190084": {
+      "taller": 90.5,
+      "distribuidor": 77
+    },
+    "741540100024": {
+      "taller": 60.25,
+      "distribuidor": 51.25
+    },
+    "741540189706": {
+      "taller": 88.5,
+      "distribuidor": 75.25
+    },
+    "741540100023": {
+      "taller": 77,
+      "distribuidor": 65.5
+    },
+    "741540188854": {
+      "taller": 91.75,
+      "distribuidor": 78
+    },
+    "741540190047": {
+      "taller": 90,
+      "distribuidor": 76.5
+    },
+    "741540139001": {
+      "taller": 60,
+      "distribuidor": 51
+    },
+    "741540139002": {
+      "taller": 35,
+      "distribuidor": 29.75
+    },
+    "741540189061": {
+      "taller": 51.5,
+      "distribuidor": 43.75
+    },
+    "741540139036": {
+      "taller": 45,
+      "distribuidor": 40
+    },
+    "741540100458": {
+      "taller": 77.75,
+      "distribuidor": 66
+    },
+    "741540100542": {
+      "taller": 0,
+      "distribuidor": 0
+    },
+    "741540190536": {
+      "taller": 88,
+      "distribuidor": 74.75
+    },
+    "741540189519": {
+      "taller": 84.25,
+      "distribuidor": 71.75
+    },
+    "741540189331": {
+      "taller": 79.75,
+      "distribuidor": 67.75
+    },
+    "741540100317": {
+      "taller": 67.5,
+      "distribuidor": 57.25
+    },
+    "741540125001": {
+      "taller": 20.5,
+      "distribuidor": 17.5
+    },
+    "741540125301": {
+      "taller": 58,
+      "distribuidor": 49.25
+    },
+    "741540189900": {
+      "taller": 71.5,
+      "distribuidor": 60.75
+    },
+    "741540189839": {
+      "taller": 79,
+      "distribuidor": 66
+    },
+    "741540111510": {
+      "taller": 46,
+      "distribuidor": 39.25
+    },
+    "741540188546": {
+      "taller": 41,
+      "distribuidor": 34.75
+    },
+    "741540190484": {
+      "taller": 109.25,
+      "distribuidor": 92.75
+    },
+    "741540190485": {
+      "taller": 113.25,
+      "distribuidor": 96.25
+    },
+    "741540189204": {
+      "taller": 105,
+      "distribuidor": 95
+    },
+    "741540190267": {
+      "taller": 81,
+      "distribuidor": 68.75
+    },
+    "741540190570": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540190102": {
+      "taller": 115.25,
+      "distribuidor": 98
+    },
+    "RBCUN-31400031660": {
+      "taller": 8,
+      "distribuidor": 6
+    },
+    "741540188225": {
+      "taller": 14,
+      "distribuidor": 11.5
+    },
+    "741540189831": {
+      "taller": 47.25,
+      "distribuidor": 40.25
+    },
+    "741540188660": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540122805": {
+      "taller": 25,
+      "distribuidor": 20
+    },
+    "741540188226": {
+      "taller": 13.5,
+      "distribuidor": 11.5
+    },
+    "741540100702": {
+      "taller": 14,
+      "distribuidor": 12.5
+    },
+    "741540188102": {
+      "taller": 21.25,
+      "distribuidor": 18
+    },
+    "741540188199": {
+      "taller": 26,
+      "distribuidor": 22
+    },
+    "741540188101": {
+      "taller": 28.5,
+      "distribuidor": 24.25
+    },
+    "741540189826": {
+      "taller": 22.5,
+      "distribuidor": 19.25
+    },
+    "741540188198": {
+      "taller": 30,
+      "distribuidor": 25.5
+    },
+    "741540190082": {
+      "taller": 28.5,
+      "distribuidor": 24.25
+    },
+    "741540189137": {
+      "taller": 15,
+      "distribuidor": 12.75
+    },
+    "741540128820": {
+      "taller": 35.5,
+      "distribuidor": 30.25
+    },
+    "741540100451": {
+      "taller": 25,
+      "distribuidor": 21.25
+    },
+    "741540188661": {
+      "taller": 17,
+      "distribuidor": 14.5
+    },
+    "741540190431": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540188270": {
+      "taller": 15,
+      "distribuidor": 12.75
+    },
+    "741540188341": {
+      "taller": 14,
+      "distribuidor": 12
+    },
+    "741540190481": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540188273": {
+      "taller": 12,
+      "distribuidor": 10.5
+    },
+    "741540188464": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540190372": {
+      "taller": 12,
+      "distribuidor": 10
+    },
+    "741540189911": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540188268": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540189532": {
+      "taller": 16.25,
+      "distribuidor": 14
+    },
+    "741540188945": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540189145": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "741540188185": {
+      "taller": 9.5,
+      "distribuidor": 8.25
+    },
+    "741540189140": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540188186": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540189549": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540100719": {
+      "taller": 21,
+      "distribuidor": 17.75
+    },
+    "741540110114": {
+      "taller": 5,
+      "distribuidor": 4
+    },
+    "741540110311": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "741540110342": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540110324": {
+      "taller": 12.75,
+      "distribuidor": 10.75
+    },
+    "741540110323": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540110340": {
+      "taller": 11.25,
+      "distribuidor": 9.5
+    },
+    "741540100489": {
+      "taller": 18,
+      "distribuidor": 15.5
+    },
+    "741540110325": {
+      "taller": 18.25,
+      "distribuidor": 15.5
+    },
+    "741540190271": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540189517": {
+      "taller": 19,
+      "distribuidor": 16.25
+    },
+    "741540189206": {
+      "taller": 20,
+      "distribuidor": 18
+    },
+    "741540189215": {
+      "taller": 18.5,
+      "distribuidor": 15.75
+    },
+    "741540189217": {
+      "taller": 23,
+      "distribuidor": 19.5
+    },
+    "741540190247": {
+      "taller": 18,
+      "distribuidor": 15.5
+    },
+    "741540190249": {
+      "taller": 33.75,
+      "distribuidor": 28.75
+    },
+    "741540190709": {
+      "taller": 27.5,
+      "distribuidor": 23.25
+    },
+    "741540190000": {
+      "taller": 38.75,
+      "distribuidor": 33
+    },
+    "BD034": {
+      "taller": 28,
+      "distribuidor": 23.75
+    },
+    "BD012": {
+      "taller": 31.75,
+      "distribuidor": 27
+    },
+    "BD020": {
+      "taller": 36.5,
+      "distribuidor": 31
+    },
+    "741540188251": {
+      "taller": 21,
+      "distribuidor": 17.75
+    },
+    "741540190254": {
+      "taller": 37.25,
+      "distribuidor": 31.5
+    },
+    "741540189207": {
+      "taller": 27.5,
+      "distribuidor": 23.25
+    },
+    "741540189211": {
+      "taller": 27.5,
+      "distribuidor": 23.5
+    },
+    "741540188842": {
+      "taller": 30,
+      "distribuidor": 25.5
+    },
+    "741540190845": {
+      "taller": 21.5,
+      "distribuidor": 18.25
+    },
+    "741540189214": {
+      "taller": 28.75,
+      "distribuidor": 24.5
+    },
+    "741540189218": {
+      "taller": 29,
+      "distribuidor": 24.5
+    },
+    "741540191124": {
+      "taller": 23.5,
+      "distribuidor": 20
+    },
+    "741540191123": {
+      "taller": 23.75,
+      "distribuidor": 20.25
+    },
+    "741540190847": {
+      "taller": 23,
+      "distribuidor": 19.5
+    },
+    "741540190826": {
+      "taller": 23.5,
+      "distribuidor": 20
+    },
+    "BD021": {
+      "taller": 28.5,
+      "distribuidor": 24.25
+    },
+    "741540190711": {
+      "taller": 31.5,
+      "distribuidor": 26.75
+    },
+    "741540190857": {
+      "taller": 21.5,
+      "distribuidor": 18.25
+    },
+    "BD019": {
+      "taller": 31.75,
+      "distribuidor": 27
+    },
+    "741540189213": {
+      "taller": 28.25,
+      "distribuidor": 24
+    },
+    "741540189587": {
+      "taller": 33.5,
+      "distribuidor": 28.5
+    },
+    "741540189209": {
+      "taller": 32.75,
+      "distribuidor": 28
+    },
+    "741540189208": {
+      "taller": 23,
+      "distribuidor": 19.75
+    },
+    "741540190713": {
+      "taller": 31.5,
+      "distribuidor": 26.75
+    },
+    "741540188257": {
+      "taller": 23.5,
+      "distribuidor": 20
+    },
+    "RREJE-0902005-0023": {
+      "taller": 8,
+      "distribuidor": 7
+    },
+    "741540190928": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540189305": {
+      "taller": 3,
+      "distribuidor": 0
+    },
+    "741540190597": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540190801": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540190596": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540188591": {
+      "taller": 12.25,
+      "distribuidor": 10.5
+    },
+    "741540189909": {
+      "taller": 17.25,
+      "distribuidor": 14.75
+    },
+    "741540189646": {
+      "taller": 20.5,
+      "distribuidor": 17.5
+    },
+    "741540189645": {
+      "taller": 19.25,
+      "distribuidor": 16.25
+    },
+    "741540100261": {
+      "taller": 17.5,
+      "distribuidor": 14.75
+    },
+    "741540100262": {
+      "taller": 18,
+      "distribuidor": 15.25
+    },
+    "741540100428": {
+      "taller": 25.75,
+      "distribuidor": 22
+    },
+    "741540190409": {
+      "taller": 26.75,
+      "distribuidor": 22.75
+    },
+    "741540188208": {
+      "taller": 17,
+      "distribuidor": 14.5
+    },
+    "741540188641": {
+      "taller": 15,
+      "distribuidor": 12
+    },
+    "741540189096": {
+      "taller": 19.5,
+      "distribuidor": 16.5
+    },
+    "741540189551": {
+      "taller": 22,
+      "distribuidor": 18.75
+    },
+    "741540190088": {
+      "taller": 19.25,
+      "distribuidor": 16.5
+    },
+    "741540108056": {
+      "taller": 24.25,
+      "distribuidor": 20.75
+    },
+    "741540190139": {
+      "taller": 22,
+      "distribuidor": 18.75
+    },
+    "741540190408": {
+      "taller": 25.25,
+      "distribuidor": 21.5
+    },
+    "741540189329": {
+      "taller": 19.75,
+      "distribuidor": 16.75
+    },
+    "741540189202": {
+      "taller": 15.5,
+      "distribuidor": 13
+    },
+    "741540188545": {
+      "taller": 13.25,
+      "distribuidor": 11.25
+    },
+    "741540189117": {
+      "taller": 18.5,
+      "distribuidor": 15.75
+    },
+    "741540189304": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "741540190930": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540190659": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "741540190656": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540190658": {
+      "taller": 3.5,
+      "distribuidor": 3.25
+    },
+    "741540190745": {
+      "taller": 4.75,
+      "distribuidor": 0
+    },
+    "741540190657": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540190655": {
+      "taller": 7.25,
+      "distribuidor": 6
+    },
+    "741540189308": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540189307": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540191148": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "741540189351": {
+      "taller": 15.25,
+      "distribuidor": 13
+    },
+    "741540188601": {
+      "taller": 8.25,
+      "distribuidor": 7.25
+    },
+    "741540189341": {
+      "taller": 10.75,
+      "distribuidor": 9
+    },
+    "741540189116": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "741540189354": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "RMEMP-110620018-0001": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "RMEMP-D14-2": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "RMEMP-110100075": {
+      "taller": 25.25,
+      "distribuidor": 21.5
+    },
+    "741540189427": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "RMEMP-110420001-0001": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189036": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "RMEMP-FEL01-501010/02": {
+      "taller": 13,
+      "distribuidor": 10
+    },
+    "RMEMP-E-1-4/6": {
+      "taller": 10.75,
+      "distribuidor": 9
+    },
+    "RMEMP-1712012312": {
+      "taller": 13.5,
+      "distribuidor": 11
+    },
+    "741540100432": {
+      "taller": 14,
+      "distribuidor": 12
+    },
+    "741540188675": {
+      "taller": 42.5,
+      "distribuidor": 36
+    },
+    "741540165229": {
+      "taller": 6,
+      "distribuidor": 4.25
+    },
+    "741540165227": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540100356": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "741540100336": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540100700": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540188827": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "741540189180": {
+      "taller": 5.5,
+      "distribuidor": 4.75
+    },
+    "741540165207": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540100769": {
+      "taller": 9.25,
+      "distribuidor": 8
+    },
+    "1004910-1": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "741540190957": {
+      "taller": 6,
+      "distribuidor": 4.5
+    },
+    "741540190253": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "741540100699": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "SC006": {
+      "taller": 29.25,
+      "distribuidor": 24.75
+    },
+    "741540188709": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540188647": {
+      "taller": 15.25,
+      "distribuidor": 13
+    },
+    "741540189721": {
+      "taller": 38.75,
+      "distribuidor": 33
+    },
+    "741540100218": {
+      "taller": 4.75,
+      "distribuidor": 4.25
+    },
+    "741540100219": {
+      "taller": 15,
+      "distribuidor": 13
+    },
+    "741540100550": {
+      "taller": 7.75,
+      "distribuidor": 6.5
+    },
+    "741540189314": {
+      "taller": 14,
+      "distribuidor": 12
+    },
+    "RCEST-0531000-0012": {
+      "taller": 13.75,
+      "distribuidor": 11.75
+    },
+    "RCEST-32450001441/46": {
+      "taller": 17,
+      "distribuidor": 14.5
+    },
+    "RCEST-312230009-0001": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "741540189018": {
+      "taller": 13.25,
+      "distribuidor": 11.25
+    },
+    "741540100026": {
+      "taller": 11,
+      "distribuidor": 9.25
+    },
+    "741540100025": {
+      "taller": 13.5,
+      "distribuidor": 11.5
+    },
+    "741540188342": {
+      "taller": 21,
+      "distribuidor": 18
+    },
+    "741540188906": {
+      "taller": 13,
+      "distribuidor": 11.25
+    },
+    "741540189602": {
+      "taller": 13.75,
+      "distribuidor": 11.5
+    },
+    "741540190278": {
+      "taller": 13.5,
+      "distribuidor": 11.5
+    },
+    "741540100383": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540188941": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100384": {
+      "taller": 3,
+      "distribuidor": 2.25
+    },
+    "FC060132": {
+      "taller": 1.5,
+      "distribuidor": 1.35
+    },
+    "741540100385": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "OF004": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100249": {
+      "taller": 5.75,
+      "distribuidor": 5
+    },
+    "741540190641": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540100148": {
+      "taller": 1.75,
+      "distribuidor": 1.35
+    },
+    "741540188509": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540188849": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540189556": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540190913": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540190626": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "AF004": {
+      "taller": 2.75,
+      "distribuidor": 2.25
+    },
+    "741540189342": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "741540188480": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540188483": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "990560288119": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540189185": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "741540189687": {
+      "taller": 5,
+      "distribuidor": 4.5
+    },
+    "995602802433": {
+      "taller": 4.5,
+      "distribuidor": 4
+    },
+    "741540100478": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540190282": {
+      "taller": 8,
+      "distribuidor": 7.25
+    },
+    "AF070": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540190244": {
+      "taller": 7.5,
+      "distribuidor": 6.25
+    },
+    "741540190235": {
+      "taller": 8,
+      "distribuidor": 7
+    },
+    "741540190246": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540188942": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "AF031": {
+      "taller": 9.25,
+      "distribuidor": 7.75
+    },
+    "741540100382": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "M1040700": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "741540189188": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "741540189942": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540190291": {
+      "taller": 6,
+      "distribuidor": 4.75
+    },
+    "17210-KVT-D00": {
+      "taller": 7,
+      "distribuidor": 5.75
+    },
+    "741540189965": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "RMFIL-170100-0003": {
+      "taller": 11.75,
+      "distribuidor": 10
+    },
+    "741540189539": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540189435": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "AF080": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540188848": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100381": {
+      "taller": 6.75,
+      "distribuidor": 6.25
+    },
+    "AF057": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189184": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540190286": {
+      "taller": 8,
+      "distribuidor": 7.25
+    },
+    "741540188850": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "741540190918": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540188556": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "AF055": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540190621": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "AF079": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540188557": {
+      "taller": 6.5,
+      "distribuidor": 5.75
+    },
+    "AF073": {
+      "taller": 8.75,
+      "distribuidor": 7.25
+    },
+    "741540189255": {
+      "taller": 12.25,
+      "distribuidor": 10.5
+    },
+    "AF011": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "741540100327": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "AF062": {
+      "taller": 10.5,
+      "distribuidor": 8.75
+    },
+    "AF020": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540190328": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "741540188617": {
+      "taller": 1,
+      "distribuidor": 0.85
+    },
+    "UFF001": {
+      "taller": 0.75,
+      "distribuidor": 0.5
+    },
+    "741540189671": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "741540187901": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "741540190422": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "FL001": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "RE070200300": {
+      "taller": 0.5,
+      "distribuidor": 0.35
+    },
+    "RE070200408": {
+      "taller": 0.25,
+      "distribuidor": 0.25
+    },
+    "741540100373": {
+      "taller": 3.5,
+      "distribuidor": 3.25
+    },
+    "741540189696": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540100376": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540100375": {
+      "taller": 4.5,
+      "distribuidor": 4.25
+    },
+    "741540187958": {
+      "taller": 6.5,
+      "distribuidor": 6
+    },
+    "741540188919": {
+      "taller": 5,
+      "distribuidor": 4.5
+    },
+    "741540100371": {
+      "taller": 5,
+      "distribuidor": 4.5
+    },
+    "741540188917": {
+      "taller": 4.75,
+      "distribuidor": 4.25
+    },
+    "741540100374": {
+      "taller": 4.5,
+      "distribuidor": 4
+    },
+    "741540100372": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "RE070250002": {
+      "taller": 0.25,
+      "distribuidor": 0.2
+    },
+    "RE070250003": {
+      "taller": 0.5,
+      "distribuidor": 0.25
+    },
+    "741540188580": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "RMGUI-FEL01-514-13": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540188558": {
+      "taller": 12.5,
+      "distribuidor": 10.75
+    },
+    "741540190016": {
+      "taller": 14,
+      "distribuidor": 12
+    },
+    "741540189643": {
+      "taller": 8.75,
+      "distribuidor": 7.25
+    },
+    "741540100263": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "741540188948": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540190383": {
+      "taller": 7.25,
+      "distribuidor": 6.25
+    },
+    "741540100819": {
+      "taller": 20.75,
+      "distribuidor": 17.5
+    },
+    "741540189644": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540190489": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "741540189027": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189555": {
+      "taller": 11,
+      "distribuidor": 9.25
+    },
+    "741540190049": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540189513": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540190490": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "741540190891": {
+      "taller": 5.5,
+      "distribuidor": 4.75
+    },
+    "741540188891": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540190417": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "RTGUI-D12-3": {
+      "taller": 10,
+      "distribuidor": 0
+    },
+    "741540189771": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540189786": {
+      "taller": 2.5,
+      "distribuidor": 2.25
+    },
+    "741540189807": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "741540189808": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "741540189787": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "741540140574": {
+      "taller": 16,
+      "distribuidor": 13.5
+    },
+    "741540189817": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "741540189819": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540189816": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540189767": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "741540189768": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540189769": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540189766": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540189770": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "741540189755": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189756": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "741540189798": {
+      "taller": 4.5,
+      "distribuidor": 3.25
+    },
+    "741540189801": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540189759": {
+      "taller": 4.25,
+      "distribuidor": 3.5
+    },
+    "741540189760": {
+      "taller": 4.25,
+      "distribuidor": 3.5
+    },
+    "741540189762": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540189761": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540189763": {
+      "taller": 5.5,
+      "distribuidor": 4.75
+    },
+    "741540189764": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540189750": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540189789": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189822": {
+      "taller": 18.5,
+      "distribuidor": 15.75
+    },
+    "741540189793": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "741540189795": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540189815": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540189792": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540189790": {
+      "taller": 9.5,
+      "distribuidor": 8.25
+    },
+    "741540189794": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540189788": {
+      "taller": 21,
+      "distribuidor": 18
+    },
+    "741540189809": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "741540189805": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540189773": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540189810": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "741540189797": {
+      "taller": 4.25,
+      "distribuidor": 3.5
+    },
+    "741540189772": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540189811": {
+      "taller": 8,
+      "distribuidor": 6
+    },
+    "741540190926": {
+      "taller": 12.5,
+      "distribuidor": 10.5
+    },
+    "741540190943": {
+      "taller": 11.75,
+      "distribuidor": 10
+    },
+    "741540190944": {
+      "taller": 11.75,
+      "distribuidor": 10
+    },
+    "741540190945": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540190946": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "741540190948": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540190934": {
+      "taller": 14.5,
+      "distribuidor": 12.25
+    },
+    "741540190949": {
+      "taller": 14.25,
+      "distribuidor": 12.25
+    },
+    "741540190950": {
+      "taller": 12.75,
+      "distribuidor": 10.75
+    },
+    "741540190935": {
+      "taller": 13.75,
+      "distribuidor": 11.75
+    },
+    "741540190936": {
+      "taller": 14,
+      "distribuidor": 12
+    },
+    "741540190951": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540189799": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540189800": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189783": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540191004": {
+      "taller": 32,
+      "distribuidor": 27.25
+    },
+    "741540190939": {
+      "taller": 34,
+      "distribuidor": 29
+    },
+    "741540190178": {
+      "taller": 118,
+      "distribuidor": 100.25
+    },
+    "741540189806": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189804": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540189813": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540189782": {
+      "taller": 12.25,
+      "distribuidor": 10.5
+    },
+    "741540189814": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540189775": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540189776": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540189777": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "741540189778": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "741540189781": {
+      "taller": 12,
+      "distribuidor": 10
+    },
+    "741540189774": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "741540189746": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189747": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540189748": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "741540189752": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540189749": {
+      "taller": 4.25,
+      "distribuidor": 3.5
+    },
+    "741540189751": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540189803": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "741540189820": {
+      "taller": 7.75,
+      "distribuidor": 6.5
+    },
+    "741540189791": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "741540188229": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "741540190785": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "RCTUE-ZJ062711": {
+      "taller": 5,
+      "distribuidor": 4
+    },
+    "741540190642": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100779": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189271": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100778": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "WD004": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "WD010": {
+      "taller": 7.5,
+      "distribuidor": 6.25
+    },
+    "WD012": {
+      "taller": 5.75,
+      "distribuidor": 5
+    },
+    "WD011": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "WD014": {
+      "taller": 6,
+      "distribuidor": 4.75
+    },
+    "WD013": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "WD008": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540189908": {
+      "taller": 17,
+      "distribuidor": 14.5
+    },
+    "741540188459": {
+      "taller": 22.5,
+      "distribuidor": 19.25
+    },
+    "741540188473": {
+      "taller": 16.25,
+      "distribuidor": 13.75
+    },
+    "741540188658": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "741540188278": {
+      "taller": 25,
+      "distribuidor": 21.5
+    },
+    "741540188218": {
+      "taller": 40.75,
+      "distribuidor": 34.75
+    },
+    "741540189631": {
+      "taller": 25,
+      "distribuidor": 21.25
+    },
+    "741540100426": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540100241": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "741540188215": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189824": {
+      "taller": 18,
+      "distribuidor": 15.5
+    },
+    "741540189896": {
+      "taller": 18.5,
+      "distribuidor": 15.75
+    },
+    "741540189628": {
+      "taller": 21.25,
+      "distribuidor": 18
+    },
+    "741540189097": {
+      "taller": 15,
+      "distribuidor": 12.75
+    },
+    "741540189899": {
+      "taller": 22,
+      "distribuidor": 18
+    },
+    "741540188469": {
+      "taller": 14.5,
+      "distribuidor": 12.25
+    },
+    "741540190098": {
+      "taller": 25.25,
+      "distribuidor": 21.5
+    },
+    "741540100720": {
+      "taller": 18.75,
+      "distribuidor": 16
+    },
+    "741540189553": {
+      "taller": 21,
+      "distribuidor": 17.75
+    },
+    "741540188802": {
+      "taller": 20.25,
+      "distribuidor": 17.25
+    },
+    "741540107603": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540107411": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540100455": {
+      "taller": 12,
+      "distribuidor": 9
+    },
+    "741540190411": {
+      "taller": 25,
+      "distribuidor": 22
+    },
+    "741540188659": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189537": {
+      "taller": 25.5,
+      "distribuidor": 21.75
+    },
+    "741540149003": {
+      "taller": 7,
+      "distribuidor": 5.75
+    },
+    "CK008": {
+      "taller": 63.5,
+      "distribuidor": 54
+    },
+    "CK011": {
+      "taller": 62,
+      "distribuidor": 52.75
+    },
+    "CK007": {
+      "taller": 87,
+      "distribuidor": 74
+    },
+    "CK034": {
+      "taller": 60.5,
+      "distribuidor": 51.5
+    },
+    "CK032": {
+      "taller": 67.5,
+      "distribuidor": 57.5
+    },
+    "CK044": {
+      "taller": 76.75,
+      "distribuidor": 65.25
+    },
+    "CK014": {
+      "taller": 48,
+      "distribuidor": 40.75
+    },
+    "CK015": {
+      "taller": 64.5,
+      "distribuidor": 54.75
+    },
+    "CK036": {
+      "taller": 75.25,
+      "distribuidor": 64
+    },
+    "CK027": {
+      "taller": 50.5,
+      "distribuidor": 42.75
+    },
+    "741540189437": {
+      "taller": 50.25,
+      "distribuidor": 42.75
+    },
+    "BRB022": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189063": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540188932": {
+      "taller": 7.75,
+      "distribuidor": 6.25
+    },
+    "BRB020": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "741540188319": {
+      "taller": 7.75,
+      "distribuidor": 6.5
+    },
+    "741540140566": {
+      "taller": 6,
+      "distribuidor": 4.5
+    },
+    "741540189922": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540190984": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "BRB005": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "741540190877": {
+      "taller": 8,
+      "distribuidor": 6.5
+    },
+    "BRB011": {
+      "taller": 7,
+      "distribuidor": 5.75
+    },
+    "741540100250": {
+      "taller": 6,
+      "distribuidor": 4.75
+    },
+    "741540100596": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540188726": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "BRB016": {
+      "taller": 10,
+      "distribuidor": 8
+    },
+    "741540100735": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540100738": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "BRB021": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "741540140565": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540188543": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "741540188504": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "BRB007": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "BRB012": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "741540188322": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540100110": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "CK019": {
+      "taller": 57.5,
+      "distribuidor": 48.75
+    },
+    "CK045": {
+      "taller": 52.75,
+      "distribuidor": 45
+    },
+    "CK001": {
+      "taller": 56.5,
+      "distribuidor": 48
+    },
+    "CK050": {
+      "taller": 67.5,
+      "distribuidor": 57.25
+    },
+    "741540190413": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540190979": {
+      "taller": 19,
+      "distribuidor": 16
+    },
+    "741540190975": {
+      "taller": 21.5,
+      "distribuidor": 18.25
+    },
+    "741540190969": {
+      "taller": 14.25,
+      "distribuidor": 12.25
+    },
+    "741540190971": {
+      "taller": 18,
+      "distribuidor": 15.25
+    },
+    "741540190974": {
+      "taller": 20.75,
+      "distribuidor": 17.75
+    },
+    "741540188611": {
+      "taller": 7.75,
+      "distribuidor": 6.5
+    },
+    "741540188602": {
+      "taller": 7.75,
+      "distribuidor": 6.5
+    },
+    "741540188606": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "741540188607": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540189918": {
+      "taller": 9.25,
+      "distribuidor": 7.75
+    },
+    "741540188610": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540100771": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "741540100772": {
+      "taller": 8,
+      "distribuidor": 6.5
+    },
+    "RM004000005": {
+      "taller": 12.5,
+      "distribuidor": 10.5
+    },
+    "RM004000027": {
+      "taller": 14.75,
+      "distribuidor": 12.5
+    },
+    "RM004000004": {
+      "taller": 16.5,
+      "distribuidor": 14.75
+    },
+    "RM004000006": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "RM004000008": {
+      "taller": 11.75,
+      "distribuidor": 10
+    },
+    "RM004000000": {
+      "taller": 14.5,
+      "distribuidor": 12
+    },
+    "RM004000007": {
+      "taller": 17,
+      "distribuidor": 15
+    },
+    "741540190081": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "RM004000028": {
+      "taller": 19,
+      "distribuidor": 16
+    },
+    "741540188375": {
+      "taller": 10,
+      "distribuidor": 8
+    },
+    "741540188589": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "741540100816": {
+      "taller": 7.75,
+      "distribuidor": 6.5
+    },
+    "741540188373": {
+      "taller": 8,
+      "distribuidor": 6
+    },
+    "741540189741": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540188367": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540189740": {
+      "taller": 10,
+      "distribuidor": 8.75
+    },
+    "741540188604": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540188370": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540188609": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540188371": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540100815": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "741540188369": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540188372": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540189823": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "741540188374": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540190120": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540189757": {
+      "taller": 19.5,
+      "distribuidor": 16.5
+    },
+    "741540190778": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540190776": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540190775": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540188796": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540190773": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540190612": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540190774": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540191142": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540100821": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189312": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540100822": {
+      "taller": 4.5,
+      "distribuidor": 4
+    },
+    "741540188017": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540100820": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189146": {
+      "taller": 17,
+      "distribuidor": 15.5
+    },
+    "741540189095": {
+      "taller": 18.75,
+      "distribuidor": 15.75
+    },
+    "741540188626": {
+      "taller": 14.5,
+      "distribuidor": 12.5
+    },
+    "741540188175": {
+      "taller": 18,
+      "distribuidor": 15.5
+    },
+    "741540100552": {
+      "taller": 16,
+      "distribuidor": 14
+    },
+    "FOS013": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "741540190633": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "FOS007": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540188582": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "FOS011": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "FOS002": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "FOS005": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "FOS010": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "FOS009": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "741540189879": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "741540190366": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "741540189629": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540190367": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "741540190466": {
+      "taller": 7,
+      "distribuidor": 5.5
+    },
+    "741540190365": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "741540190464": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "741540190368": {
+      "taller": 9,
+      "distribuidor": 7
+    },
+    "741540190467": {
+      "taller": 5,
+      "distribuidor": 3.5
+    },
+    "741540188191": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540190491": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540188490": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "1004617-1": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540190769": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "741540190768": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540190927": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540190610": {
+      "taller": 15,
+      "distribuidor": 13
+    },
+    "741540189730": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540190607": {
+      "taller": 15,
+      "distribuidor": 13
+    },
+    "741540190606": {
+      "taller": 10.75,
+      "distribuidor": 9
+    },
+    "741540190605": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540188378": {
+      "taller": 10.75,
+      "distribuidor": 9.25
+    },
+    "741540188377": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540190604": {
+      "taller": 18,
+      "distribuidor": 16
+    },
+    "741540189865": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540189039": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540190763": {
+      "taller": 22,
+      "distribuidor": 18.75
+    },
+    "741540190601": {
+      "taller": 19,
+      "distribuidor": 17
+    },
+    "741540189040": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540190600": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540188379": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540188380": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540100310": {
+      "taller": 12,
+      "distribuidor": 10
+    },
+    "741540188205": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540190018": {
+      "taller": 24.25,
+      "distribuidor": 20.75
+    },
+    "741540100544": {
+      "taller": 14,
+      "distribuidor": 12
+    },
+    "741540188460": {
+      "taller": 11.75,
+      "distribuidor": 10
+    },
+    "741540105044": {
+      "taller": 13.25,
+      "distribuidor": 11.25
+    },
+    "741540189633": {
+      "taller": 14.25,
+      "distribuidor": 12.25
+    },
+    "741540188207": {
+      "taller": 11.75,
+      "distribuidor": 10.25
+    },
+    "741540188950": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540105066": {
+      "taller": 11.25,
+      "distribuidor": 9.5
+    },
+    "741540191272": {
+      "taller": 12,
+      "distribuidor": 10
+    },
+    "741540190420": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540105023": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540100471": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540100472": {
+      "taller": 10.75,
+      "distribuidor": 9.25
+    },
+    "741540189897": {
+      "taller": 15.25,
+      "distribuidor": 13
+    },
+    "741540191273": {
+      "taller": 11.25,
+      "distribuidor": 9.5
+    },
+    "741540189422": {
+      "taller": 11.25,
+      "distribuidor": 9.5
+    },
+    "741540189098": {
+      "taller": 12.5,
+      "distribuidor": 10.75
+    },
+    "741540105054": {
+      "taller": 21,
+      "distribuidor": 17.75
+    },
+    "741540189554": {
+      "taller": 25.75,
+      "distribuidor": 21.75
+    },
+    "741540100197": {
+      "taller": 12.25,
+      "distribuidor": 10.5
+    },
+    "741540190803": {
+      "taller": 11.75,
+      "distribuidor": 10
+    },
+    "741540100311": {
+      "taller": 13,
+      "distribuidor": 10.75
+    },
+    "741540100647": {
+      "taller": 12.5,
+      "distribuidor": 10.5
+    },
+    "741540100543": {
+      "taller": 26,
+      "distribuidor": 22
+    },
+    "741540190802": {
+      "taller": 17,
+      "distribuidor": 14.75
+    },
+    "741540100203": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540100214": {
+      "taller": 14.5,
+      "distribuidor": 12.5
+    },
+    "741540100449": {
+      "taller": 13.5,
+      "distribuidor": 11.5
+    },
+    "741540190265": {
+      "taller": 13.75,
+      "distribuidor": 11.75
+    },
+    "741540189514": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540189675": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "741540100507": {
+      "taller": 10.75,
+      "distribuidor": 9.25
+    },
+    "RMVAL-14039003": {
+      "taller": 28.5,
+      "distribuidor": 24.25
+    },
+    "741540100030": {
+      "taller": 4.75,
+      "distribuidor": 4
+    },
+    "741540100031": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "LA1A-2807-22": {
+      "taller": 32,
+      "distribuidor": 30
+    },
+    "1208016KT191L": {
+      "taller": 37.25,
+      "distribuidor": 34.75
+    },
+    "LA1C-3401-22": {
+      "taller": 23,
+      "distribuidor": 21
+    },
+    "LA1A-4101-22": {
+      "taller": 39,
+      "distribuidor": 36.5
+    },
+    "LA1A-1201-22": {
+      "taller": 32,
+      "distribuidor": 30
+    },
+    "LA1A-3502-22": {
+      "taller": 32,
+      "distribuidor": 30
+    },
+    "LA1A-3703-22": {
+      "taller": 37.5,
+      "distribuidor": 35.25
+    },
+    "LA1A-2808-22": {
+      "taller": 34.75,
+      "distribuidor": 32.75
+    },
+    "LA1A-2811-22": {
+      "taller": 29.25,
+      "distribuidor": 27.5
+    },
+    "LA1A-0601-22": {
+      "taller": 39,
+      "distribuidor": 37
+    },
+    "LA1C-3101-22": {
+      "taller": 21,
+      "distribuidor": 19.75
+    },
+    "LA1A-3503-22": {
+      "taller": 45.25,
+      "distribuidor": 42.25
+    },
+    "LA1A-1332-22": {
+      "taller": 32,
+      "distribuidor": 30
+    },
+    "LA1C-3301-22": {
+      "taller": 33,
+      "distribuidor": 30.75
+    },
+    "LA1A-3507-22": {
+      "taller": 43.25,
+      "distribuidor": 40.5
+    },
+    "LA1A-3801-22": {
+      "taller": 42,
+      "distribuidor": 39.25
+    },
+    "LA1A-3506-22": {
+      "taller": 40.75,
+      "distribuidor": 38.25
+    },
+    "LA1A-3504-22": {
+      "taller": 49.5,
+      "distribuidor": 0
+    },
+    "LA1A-1105-22": {
+      "taller": 25,
+      "distribuidor": 23.5
+    },
+    "LA1A-0703-22": {
+      "taller": 30.5,
+      "distribuidor": 28.5
+    },
+    "LA1A-0902-22": {
+      "taller": 31.75,
+      "distribuidor": 29.75
+    },
+    "LA1A-2809-22": {
+      "taller": 33,
+      "distribuidor": 31
+    },
+    "LA1A-3602-22": {
+      "taller": 37.25,
+      "distribuidor": 35
+    },
+    "LA1A-3705-22": {
+      "taller": 33,
+      "distribuidor": 31
+    },
+    "LA1A-0701-22": {
+      "taller": 33.75,
+      "distribuidor": 31.5
+    },
+    "LA1A-2810-22": {
+      "taller": 27.5,
+      "distribuidor": 25.75
+    },
+    "LA1A-0702-22": {
+      "taller": 31,
+      "distribuidor": 29
+    },
+    "741540189924": {
+      "taller": 38.5,
+      "distribuidor": 36
+    },
+    "741540190534": {
+      "taller": 39.25,
+      "distribuidor": 36.75
+    },
+    "741540189936": {
+      "taller": 34,
+      "distribuidor": 32
+    },
+    "741540189931": {
+      "taller": 52,
+      "distribuidor": 50
+    },
+    "741540189929": {
+      "taller": 27.25,
+      "distribuidor": 25.5
+    },
+    "741540189937": {
+      "taller": 24.25,
+      "distribuidor": 22.5
+    },
+    "741540190181": {
+      "taller": 24,
+      "distribuidor": 22.5
+    },
+    "741540190997": {
+      "taller": 30.75,
+      "distribuidor": 28.75
+    },
+    "741540189935": {
+      "taller": 32,
+      "distribuidor": 30
+    },
+    "741540100669": {
+      "taller": 23.5,
+      "distribuidor": 20
+    },
+    "741540100682": {
+      "taller": 22,
+      "distribuidor": 18.75
+    },
+    "741540188107": {
+      "taller": 9,
+      "distribuidor": 7.5
+    },
+    "741540189676": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540190456": {
+      "taller": 23.25,
+      "distribuidor": 19.75
+    },
+    "741540190455": {
+      "taller": 39,
+      "distribuidor": 34
+    },
+    "741540163304": {
+      "taller": 5.75,
+      "distribuidor": 4.75
+    },
+    "741540100402": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "741540188786": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540163204": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "741540188309": {
+      "taller": 2.75,
+      "distribuidor": 2.25
+    },
+    "741540189649": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540188062": {
+      "taller": 5.75,
+      "distribuidor": 5
+    },
+    "741540100403": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540187985": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189650": {
+      "taller": 5.5,
+      "distribuidor": 4.75
+    },
+    "741540100718": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540100801": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540190706": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540190705": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "741540190700": {
+      "taller": 15.75,
+      "distribuidor": 13.25
+    },
+    "741540190329": {
+      "taller": 21.25,
+      "distribuidor": 18
+    },
+    "741540160301": {
+      "taller": 6,
+      "distribuidor": 4.5
+    },
+    "741540188706": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540188708": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540190360": {
+      "taller": 6.25,
+      "distribuidor": 5.5
+    },
+    "741540189667": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "741540190167": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540188677": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540188676": {
+      "taller": 7.5,
+      "distribuidor": 6.25
+    },
+    "741540190361": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540160303": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "741540189857": {
+      "taller": 7,
+      "distribuidor": 5.5
+    },
+    "741540191159": {
+      "taller": 9.5,
+      "distribuidor": 7.75
+    },
+    "741540190290": {
+      "taller": 83.5,
+      "distribuidor": 71
+    },
+    "741540190786": {
+      "taller": 8,
+      "distribuidor": 7.25
+    },
+    "741540189100": {
+      "taller": 79,
+      "distribuidor": 72
+    },
+    "741540189682": {
+      "taller": 93.25,
+      "distribuidor": 79.25
+    },
+    "741540185015": {
+      "taller": 83,
+      "distribuidor": 70.5
+    },
+    "741540189221": {
+      "taller": 97.75,
+      "distribuidor": 83
+    },
+    "741540188613": {
+      "taller": 85,
+      "distribuidor": 75
+    },
+    "741540190748": {
+      "taller": 93,
+      "distribuidor": 79.25
+    },
+    "741540189159": {
+      "taller": 84,
+      "distribuidor": 71.5
+    },
+    "741540100001": {
+      "taller": 104.25,
+      "distribuidor": 88.5
+    },
+    "RSAMO-540300-G036": {
+      "taller": 95.25,
+      "distribuidor": 81
+    },
+    "741540100401": {
+      "taller": 77.75,
+      "distribuidor": 66
+    },
+    "741540190237": {
+      "taller": 107.5,
+      "distribuidor": 91.25
+    },
+    "741540100641": {
+      "taller": 52,
+      "distribuidor": 44.25
+    },
+    "741540189916": {
+      "taller": 38,
+      "distribuidor": 32.25
+    },
+    "SM011": {
+      "taller": 29.75,
+      "distribuidor": 25.25
+    },
+    "741540189902": {
+      "taller": 30.75,
+      "distribuidor": 26.25
+    },
+    "SM005": {
+      "taller": 28.25,
+      "distribuidor": 24
+    },
+    "SM006": {
+      "taller": 32,
+      "distribuidor": 28.5
+    },
+    "741540189658": {
+      "taller": 49,
+      "distribuidor": 43.25
+    },
+    "SM028": {
+      "taller": 29.5,
+      "distribuidor": 25
+    },
+    "741540190256": {
+      "taller": 30.25,
+      "distribuidor": 25.75
+    },
+    "SM023": {
+      "taller": 22.25,
+      "distribuidor": 18.75
+    },
+    "741540188192": {
+      "taller": 47.5,
+      "distribuidor": 40.5
+    },
+    "741540100412": {
+      "taller": 30.5,
+      "distribuidor": 26
+    },
+    "741540100242": {
+      "taller": 38.5,
+      "distribuidor": 32.75
+    },
+    "741540189825": {
+      "taller": 38.25,
+      "distribuidor": 32.5
+    },
+    "741540188193": {
+      "taller": 39.75,
+      "distribuidor": 33.75
+    },
+    "SM029": {
+      "taller": 29,
+      "distribuidor": 24.75
+    },
+    "SM012": {
+      "taller": 24.5,
+      "distribuidor": 20.75
+    },
+    "SM002": {
+      "taller": 27.75,
+      "distribuidor": 23.75
+    },
+    "741540100644": {
+      "taller": 52.75,
+      "distribuidor": 44.75
+    },
+    "741540100640": {
+      "taller": 42.25,
+      "distribuidor": 36
+    },
+    "741540190080": {
+      "taller": 37.75,
+      "distribuidor": 32
+    },
+    "741540124003": {
+      "taller": 35,
+      "distribuidor": 32
+    },
+    "SM010": {
+      "taller": 56,
+      "distribuidor": 47.5
+    },
+    "741540100452": {
+      "taller": 60.75,
+      "distribuidor": 51.5
+    },
+    "741540100643": {
+      "taller": 41,
+      "distribuidor": 34.75
+    },
+    "LB1A-0040-10": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "LB1A-0030-10": {
+      "taller": 3.5,
+      "distribuidor": 3.5
+    },
+    "LB1A-0001-10": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "LB1A-0012-10": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "LB1A-0013-10": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "LB1A-0014-10": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "LB1A-0019-10": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "LB1A-0041-10": {
+      "taller": 4.5,
+      "distribuidor": 4.25
+    },
+    "741540188667": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540190480": {
+      "taller": 7.25,
+      "distribuidor": 6.25
+    },
+    "741540190363": {
+      "taller": 7,
+      "distribuidor": 5.5
+    },
+    "741540188988": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "741540188775": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540188260": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188984": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "BP034": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "741540188258": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540188997": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540188799": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540188926": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540188488": {
+      "taller": 3,
+      "distribuidor": 2.75
+    },
+    "741540100366": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100370": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100367": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100369": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540190538": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540188994": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540188981": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188990": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188999": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "BP041": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540188983": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "BP039": {
+      "taller": 3.75,
+      "distribuidor": 3
+    },
+    "BP032": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "BP033": {
+      "taller": 3.75,
+      "distribuidor": 3
+    },
+    "741540188800": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540188985": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188262": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188996": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188259": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188986": {
+      "taller": 3.75,
+      "distribuidor": 2.75
+    },
+    "741540188798": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540190537": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540100890": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "DB1A-0014-10": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540100658": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540100636": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100637": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100656": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100639": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188998": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540188263": {
+      "taller": 3,
+      "distribuidor": 2.75
+    },
+    "741540100368": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188995": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "BP038": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "BP031": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "BP002": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "BP040": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540189877": {
+      "taller": 13.25,
+      "distribuidor": 11.25
+    },
+    "741540188781": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540189128": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "741540100753": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540181422": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540181424": {
+      "taller": 9.25,
+      "distribuidor": 8
+    },
+    "741540181423": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "741540189129": {
+      "taller": 15.25,
+      "distribuidor": 13
+    },
+    "741540190136": {
+      "taller": 19,
+      "distribuidor": 14.5
+    },
+    "741540189125": {
+      "taller": 12.75,
+      "distribuidor": 10.75
+    },
+    "741540188655": {
+      "taller": 7.75,
+      "distribuidor": 6.75
+    },
+    "741540188783": {
+      "taller": 0,
+      "distribuidor": 0
+    },
+    "RCPAT-530100-G001": {
+      "taller": 14.25,
+      "distribuidor": 12.25
+    },
+    "741540189167": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "741540188651": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540188650": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540188649": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540189127": {
+      "taller": 12.25,
+      "distribuidor": 10.5
+    },
+    "741540189123": {
+      "taller": 8,
+      "distribuidor": 6.5
+    },
+    "741540190730": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "741540100408": {
+      "taller": 8,
+      "distribuidor": 6.5
+    },
+    "741540181708": {
+      "taller": 5,
+      "distribuidor": 4
+    },
+    "741540181720": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540181717": {
+      "taller": 5.75,
+      "distribuidor": 5
+    },
+    "741540181709": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540181704": {
+      "taller": 6,
+      "distribuidor": 4.5
+    },
+    "741540191102": {
+      "taller": 5.75,
+      "distribuidor": 5
+    },
+    "1005415-1": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540100066": {
+      "taller": 8,
+      "distribuidor": 7
+    },
+    "741540100061": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540100060": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "741540100062": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540100063": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540100064": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540100065": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540100067": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540100070": {
+      "taller": 4.75,
+      "distribuidor": 4
+    },
+    "741540100413": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540100071": {
+      "taller": 9,
+      "distribuidor": 8
+    },
+    "741540190227": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540189364": {
+      "taller": 5.75,
+      "distribuidor": 0
+    },
+    "741540189560": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540187955": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "741540189434": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540100330": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540189017": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "741540188109": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "FS039": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "FS006": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "FS003": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "FS002": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS015": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS011": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS046": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS033": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "FS009": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS036": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS007": {
+      "taller": 3.75,
+      "distribuidor": 3
+    },
+    "FS008": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS040": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "FS012": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS017": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "FS018": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "FS038": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS043": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS023": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS022": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "FS045": {
+      "taller": 4,
+      "distribuidor": 3
+    },
+    "FS010": {
+      "taller": 4.25,
+      "distribuidor": 3.25
+    },
+    "FS041": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS029": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS035": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS020": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS004": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "FS026": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "FS031": {
+      "taller": 3.75,
+      "distribuidor": 3
+    },
+    "FS032": {
+      "taller": 4.5,
+      "distribuidor": 3.5
+    },
+    "FS027": {
+      "taller": 4.25,
+      "distribuidor": 3.25
+    },
+    "741540189263": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188304": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188305": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540190914": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540188306": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540189962": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540178006": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540188489": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100765": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540100414": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540100415": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540188308": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540189861": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540191083": {
+      "taller": 17,
+      "distribuidor": 14.25
+    },
+    "741540178001": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540178002": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540178003": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540178004": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540190915": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540178007": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "741540178008": {
+      "taller": 3.5,
+      "distribuidor": 2.75
+    },
+    "HN012V": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540100404": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "REBOB-1102014855": {
+      "taller": 53.25,
+      "distribuidor": 45.25
+    },
+    "741540189051": {
+      "taller": 32.75,
+      "distribuidor": 27.75
+    },
+    "741540190334": {
+      "taller": 41.75,
+      "distribuidor": 35.5
+    },
+    "741540188560": {
+      "taller": 29,
+      "distribuidor": 24.75
+    },
+    "SC021": {
+      "taller": 30.75,
+      "distribuidor": 26.25
+    },
+    "741540189915": {
+      "taller": 28,
+      "distribuidor": 26
+    },
+    "SC018": {
+      "taller": 28.25,
+      "distribuidor": 24
+    },
+    "741540189827": {
+      "taller": 32.5,
+      "distribuidor": 27.75
+    },
+    "741540190255": {
+      "taller": 37.75,
+      "distribuidor": 32
+    },
+    "SC008": {
+      "taller": 27,
+      "distribuidor": 23
+    },
+    "741540189635": {
+      "taller": 38.5,
+      "distribuidor": 32.75
+    },
+    "741540188662": {
+      "taller": 22,
+      "distribuidor": 18.75
+    },
+    "741540100326": {
+      "taller": 21.5,
+      "distribuidor": 18.25
+    },
+    "741540189632": {
+      "taller": 28.25,
+      "distribuidor": 24
+    },
+    "741540122211": {
+      "taller": 15,
+      "distribuidor": 13.5
+    },
+    "741540189112": {
+      "taller": 21.5,
+      "distribuidor": 18.25
+    },
+    "SC012": {
+      "taller": 35.75,
+      "distribuidor": 30.5
+    },
+    "SC007": {
+      "taller": 28.25,
+      "distribuidor": 24
+    },
+    "741540189626": {
+      "taller": 31.25,
+      "distribuidor": 26.5
+    },
+    "741540188808": {
+      "taller": 28.25,
+      "distribuidor": 24
+    },
+    "741540189685": {
+      "taller": 25.75,
+      "distribuidor": 22
+    },
+    "741540190147": {
+      "taller": 28,
+      "distribuidor": 23.75
+    },
+    "SC026": {
+      "taller": 29.75,
+      "distribuidor": 25.25
+    },
+    "741540189121": {
+      "taller": 32,
+      "distribuidor": 29
+    },
+    "741540189573": {
+      "taller": 35,
+      "distribuidor": 29.75
+    },
+    "741540100431": {
+      "taller": 23,
+      "distribuidor": 19.5
+    },
+    "741540188147": {
+      "taller": 22.25,
+      "distribuidor": 18.75
+    },
+    "741540188148": {
+      "taller": 22,
+      "distribuidor": 18.5
+    },
+    "741540188266": {
+      "taller": 25.25,
+      "distribuidor": 21.5
+    },
+    "741540189448": {
+      "taller": 25.75,
+      "distribuidor": 21.75
+    },
+    "741540191105": {
+      "taller": 38,
+      "distribuidor": 34
+    },
+    "SC010": {
+      "taller": 27,
+      "distribuidor": 23
+    },
+    "741540189627": {
+      "taller": 36,
+      "distribuidor": 30.75
+    },
+    "741540190077": {
+      "taller": 29.75,
+      "distribuidor": 25.25
+    },
+    "741540188150": {
+      "taller": 32.5,
+      "distribuidor": 27.5
+    },
+    "741540189548": {
+      "taller": 27,
+      "distribuidor": 23
+    },
+    "741540188036": {
+      "taller": 30,
+      "distribuidor": 28
+    },
+    "741540189141": {
+      "taller": 34.75,
+      "distribuidor": 29.5
+    },
+    "741540189707": {
+      "taller": 31.75,
+      "distribuidor": 27
+    },
+    "741540189436": {
+      "taller": 33,
+      "distribuidor": 28
+    },
+    "741540189684": {
+      "taller": 31.5,
+      "distribuidor": 26.75
+    },
+    "SC033": {
+      "taller": 28,
+      "distribuidor": 23.75
+    },
+    "741540189974": {
+      "taller": 35.75,
+      "distribuidor": 30.5
+    },
+    "741540101376": {
+      "taller": 24,
+      "distribuidor": 20.5
+    },
+    "741540188524": {
+      "taller": 27.25,
+      "distribuidor": 23.25
+    },
+    "SC009": {
+      "taller": 20.5,
+      "distribuidor": 17.25
+    },
+    "741540189641": {
+      "taller": 26.75,
+      "distribuidor": 22.75
+    },
+    "741540188063": {
+      "taller": 25.75,
+      "distribuidor": 22
+    },
+    "SC013": {
+      "taller": 26.25,
+      "distribuidor": 22.25
+    },
+    "SC016": {
+      "taller": 29.5,
+      "distribuidor": 27
+    },
+    "741540122269": {
+      "taller": 23.75,
+      "distribuidor": 20.5
+    },
+    "SC035": {
+      "taller": 23,
+      "distribuidor": 19.5
+    },
+    "741540190274": {
+      "taller": 32.5,
+      "distribuidor": 27.5
+    },
+    "741540188935": {
+      "taller": 18,
+      "distribuidor": 17
+    },
+    "RE070352001": {
+      "taller": 1.85,
+      "distribuidor": 1.5
+    },
+    "RE070352000": {
+      "taller": 1.75,
+      "distribuidor": 1.5
+    },
+    "741540100130": {
+      "taller": 0.5,
+      "distribuidor": 0.3
+    },
+    "741540191225": {
+      "taller": 45,
+      "distribuidor": 39
+    },
+    "741540189052": {
+      "taller": 9.25,
+      "distribuidor": 7.75
+    },
+    "741540189716": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540187323": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540100028": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "741540189828": {
+      "taller": 10,
+      "distribuidor": 8
+    },
+    "741540100834": {
+      "taller": 18,
+      "distribuidor": 16.5
+    },
+    "741540189177": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540100726": {
+      "taller": 16,
+      "distribuidor": 13.75
+    },
+    "741540188230": {
+      "taller": 12,
+      "distribuidor": 10
+    },
+    "741540188064": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "741540188044": {
+      "taller": 20,
+      "distribuidor": 17
+    },
+    "741540188288": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540100835": {
+      "taller": 19.5,
+      "distribuidor": 16.5
+    },
+    "741540189579": {
+      "taller": 16.75,
+      "distribuidor": 14.25
+    },
+    "741540189578": {
+      "taller": 16.5,
+      "distribuidor": 15.25
+    },
+    "741540190342": {
+      "taller": 18,
+      "distribuidor": 15.5
+    },
+    "741540188035": {
+      "taller": 19,
+      "distribuidor": 16.25
+    },
+    "741540189053": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540188343": {
+      "taller": 13.75,
+      "distribuidor": 11.75
+    },
+    "741540190270": {
+      "taller": 19.25,
+      "distribuidor": 16.5
+    },
+    "741540189132": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540100727": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "741540191119": {
+      "taller": 49.75,
+      "distribuidor": 42.25
+    },
+    "741540191118": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540191120": {
+      "taller": 14,
+      "distribuidor": 11
+    },
+    "741540191230": {
+      "taller": 13.5,
+      "distribuidor": 11.5
+    },
+    "741540191121": {
+      "taller": 15,
+      "distribuidor": 12.5
+    },
+    "741540190863": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "RTRCAD-0523200-0050": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "VR033": {
+      "taller": 17.25,
+      "distribuidor": 14.5
+    },
+    "VR019": {
+      "taller": 17.5,
+      "distribuidor": 14.75
+    },
+    "VR020": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "VR004": {
+      "taller": 17.75,
+      "distribuidor": 15.25
+    },
+    "VR008": {
+      "taller": 17.5,
+      "distribuidor": 14.75
+    },
+    "VR010": {
+      "taller": 9.25,
+      "distribuidor": 8
+    },
+    "VR018": {
+      "taller": 18,
+      "distribuidor": 15.5
+    },
+    "VR003": {
+      "taller": 19,
+      "distribuidor": 16.25
+    },
+    "VR012": {
+      "taller": 17.25,
+      "distribuidor": 14.5
+    },
+    "VR025": {
+      "taller": 8.5,
+      "distribuidor": 7.25
+    },
+    "VR011": {
+      "taller": 9.75,
+      "distribuidor": 8.25
+    },
+    "VR021": {
+      "taller": 12,
+      "distribuidor": 9
+    },
+    "VR024": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "SR009": {
+      "taller": 6,
+      "distribuidor": 4.75
+    },
+    "SR005": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "SR010": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "SR012": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "741540190387": {
+      "taller": 6.5,
+      "distribuidor": 5.25
+    },
+    "741540188776": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540190492": {
+      "taller": 0,
+      "distribuidor": 0
+    },
+    "741540190388": {
+      "taller": 8.75,
+      "distribuidor": 7.5
+    },
+    "741540188801": {
+      "taller": 11,
+      "distribuidor": 9.25
+    },
+    "741540100029": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540191179": {
+      "taller": 12.5,
+      "distribuidor": 10.75
+    },
+    "741540187831": {
+      "taller": 5.5,
+      "distribuidor": 4.75
+    },
+    "741540189131": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540190478": {
+      "taller": 49.75,
+      "distribuidor": 42.25
+    },
+    "741540188766": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188755": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188742": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188750": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "741540188752": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188737": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188761": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "741540188751": {
+      "taller": 1.25,
+      "distribuidor": 0.9
+    },
+    "741540188769": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188760": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188741": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188749": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "741540188745": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540187980": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "741540187924": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188774": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188764": {
+      "taller": 2,
+      "distribuidor": 1.25
+    },
+    "741540188753": {
+      "taller": 2,
+      "distribuidor": 1.5
+    },
+    "741540188771": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188756": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188740": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188743": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188747": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "741540188746": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540187981": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "741540188767": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188763": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "741540187925": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188758": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188757": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188768": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188765": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "741540188748": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "741540188759": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "741540188762": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "741540188744": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "741540188772": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "741540188770": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540188773": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "FOS014": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "FOS001": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "741540188739": {
+      "taller": 2.25,
+      "distribuidor": 1.75
+    },
+    "FOS003": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "FOS006": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540100797": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "741540187959": {
+      "taller": 2.25,
+      "distribuidor": 2
+    },
+    "FOS004": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "FOS015": {
+      "taller": 4,
+      "distribuidor": 3
+    },
+    "FOS012": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "FOS017": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "741540100798": {
+      "taller": 2,
+      "distribuidor": 1.5
+    },
+    "FOS016": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "741540189712": {
+      "taller": 2.25,
+      "distribuidor": 2
+    },
+    "741540188738": {
+      "taller": 3.25,
+      "distribuidor": 2.75
+    },
+    "741540189511": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540191158": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "741540189711": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189889": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "741540189921": {
+      "taller": 2,
+      "distribuidor": 1.5
+    },
+    "741540190012": {
+      "taller": 3,
+      "distribuidor": 2
+    },
+    "RMSEL-403845": {
+      "taller": 6,
+      "distribuidor": 4.25
+    },
+    "741540189997": {
+      "taller": 2.5,
+      "distribuidor": 1.75
+    },
+    "741540188794": {
+      "taller": 0.5,
+      "distribuidor": 0.5
+    },
+    "RC041250001": {
+      "taller": 0.75,
+      "distribuidor": 0.75
+    },
+    "RC041250000": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "RC041250004": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "RC041250006": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "RC041250009": {
+      "taller": 1,
+      "distribuidor": 0.75
+    },
+    "RC041250002": {
+      "taller": 1.25,
+      "distribuidor": 0.9
+    },
+    "RC041250011": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "RC041250008": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "RC041250003": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "RC041250010": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "RC041250005": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "RC041250007": {
+      "taller": 1,
+      "distribuidor": 0.75
+    },
+    "741540100535": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540100785": {
+      "taller": 0.9,
+      "distribuidor": 0.75
+    },
+    "741540189907": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "741540189045": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "741540100473": {
+      "taller": 1.5,
+      "distribuidor": 1
+    },
+    "741540189046": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540191191": {
+      "taller": 2.25,
+      "distribuidor": 1.75
+    },
+    "741540190078": {
+      "taller": 1.75,
+      "distribuidor": 1.5
+    },
+    "741540190040": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540187937": {
+      "taller": 1.25,
+      "distribuidor": 1.25
+    },
+    "741540190419": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "741540100150": {
+      "taller": 1.75,
+      "distribuidor": 1.5
+    },
+    "VOS002": {
+      "taller": 2.75,
+      "distribuidor": 2.5
+    },
+    "741540100149": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "WB102": {
+      "taller": 10,
+      "distribuidor": 7.5
+    },
+    "WB002": {
+      "taller": 8.25,
+      "distribuidor": 6.75
+    },
+    "WB001": {
+      "taller": 4.75,
+      "distribuidor": 4
+    },
+    "741540100546": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "741540100545": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540100466": {
+      "taller": 48,
+      "distribuidor": 44
+    },
+    "RC041200502": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540188274": {
+      "taller": 14,
+      "distribuidor": 11.75
+    },
+    "1004949-2": {
+      "taller": 3.75,
+      "distribuidor": 3.25
+    },
+    "741540100817": {
+      "taller": 12,
+      "distribuidor": 10.25
+    },
+    "741540100128": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540189105": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540100409": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540100377": {
+      "taller": 8.5,
+      "distribuidor": 7
+    },
+    "741540100378": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540100380": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540100379": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540190941": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "9934-EP": {
+      "taller": 3.5,
+      "distribuidor": 3
+    },
+    "741540189267": {
+      "taller": 42,
+      "distribuidor": 35.5
+    },
+    "RE070225003": {
+      "taller": 1.25,
+      "distribuidor": 1
+    },
+    "RE070225000": {
+      "taller": 1.5,
+      "distribuidor": 1.25
+    },
+    "741540100098": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540100094": {
+      "taller": 3,
+      "distribuidor": 2.5
+    },
+    "741540100516": {
+      "taller": 4.25,
+      "distribuidor": 3.75
+    },
+    "741540100709": {
+      "taller": 14.25,
+      "distribuidor": 12
+    },
+    "741540100328": {
+      "taller": 11.25,
+      "distribuidor": 9.5
+    },
+    "35150K38": {
+      "taller": 6,
+      "distribuidor": 4.5
+    },
+    "741540188040": {
+      "taller": 7.75,
+      "distribuidor": 6.5
+    },
+    "35150K74": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "741540162806": {
+      "taller": 7,
+      "distribuidor": 6
+    },
+    "1003309-1": {
+      "taller": 5.25,
+      "distribuidor": 4.5
+    },
+    "741540189588": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540162805": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540188042": {
+      "taller": 12.25,
+      "distribuidor": 10.5
+    },
+    "741540190964": {
+      "taller": 6.5,
+      "distribuidor": 5.5
+    },
+    "741540188087": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "N9161940": {
+      "taller": 8,
+      "distribuidor": 6.5
+    },
+    "35131K": {
+      "taller": 6,
+      "distribuidor": 4.5
+    },
+    "741540100238": {
+      "taller": 1,
+      "distribuidor": 0.75
+    },
+    "741540189042": {
+      "taller": 10.75,
+      "distribuidor": 9
+    },
+    "741540188128": {
+      "taller": 15,
+      "distribuidor": 12.75
+    },
+    "741540190929": {
+      "taller": 26.75,
+      "distribuidor": 22.75
+    },
+    "741540190855": {
+      "taller": 13.25,
+      "distribuidor": 11.25
+    },
+    "741540190723": {
+      "taller": 15.25,
+      "distribuidor": 13
+    },
+    "741540188359": {
+      "taller": 16,
+      "distribuidor": 13.75
+    },
+    "741540100260": {
+      "taller": 7.5,
+      "distribuidor": 6.5
+    },
+    "741540100626": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "741540164205": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "741540189041": {
+      "taller": 12.75,
+      "distribuidor": 10.75
+    },
+    "741540188129": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "741540189090": {
+      "taller": 14,
+      "distribuidor": 11.75
+    },
+    "741540188052": {
+      "taller": 15.5,
+      "distribuidor": 13.25
+    },
+    "741540190721": {
+      "taller": 18.25,
+      "distribuidor": 15.5
+    },
+    "741540191115": {
+      "taller": 17,
+      "distribuidor": 14.25
+    },
+    "741540191116": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540188669": {
+      "taller": 14.25,
+      "distribuidor": 12.25
+    },
+    "741540189089": {
+      "taller": 13.75,
+      "distribuidor": 11.75
+    },
+    "741540100628": {
+      "taller": 13.75,
+      "distribuidor": 11.75
+    },
+    "741540188051": {
+      "taller": 16.5,
+      "distribuidor": 14.75
+    },
+    "741540188053": {
+      "taller": 7.5,
+      "distribuidor": 6.25
+    },
+    "741540100438": {
+      "taller": 6.25,
+      "distribuidor": 4.75
+    },
+    "741540190720": {
+      "taller": 17.25,
+      "distribuidor": 14.5
+    },
+    "741540190719": {
+      "taller": 12.75,
+      "distribuidor": 11
+    },
+    "741540189088": {
+      "taller": 10.5,
+      "distribuidor": 9
+    },
+    "741540100259": {
+      "taller": 10.75,
+      "distribuidor": 9
+    },
+    "RESWI-37410001660": {
+      "taller": 22,
+      "distribuidor": 19
+    },
+    "741540191030": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "741540188041": {
+      "taller": 10.75,
+      "distribuidor": 9.25
+    },
+    "741540191212": {
+      "taller": 14.75,
+      "distribuidor": 12.5
+    },
+    "741540162606": {
+      "taller": 7.5,
+      "distribuidor": 6.75
+    },
+    "741540162605": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "741540100758-LH": {
+      "taller": 7.5,
+      "distribuidor": 6.25
+    },
+    "741540191216": {
+      "taller": 12.5,
+      "distribuidor": 10.75
+    },
+    "741540190630": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "741540188088": {
+      "taller": 8,
+      "distribuidor": 6.75
+    },
+    "35200K": {
+      "taller": 12.75,
+      "distribuidor": 11
+    },
+    "B69H39": {
+      "taller": 9.25,
+      "distribuidor": 8
+    },
+    "1001603-1": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "35200K74N21": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "35201K": {
+      "taller": 11,
+      "distribuidor": 9.25
+    },
+    "741540191207": {
+      "taller": 8.25,
+      "distribuidor": 7
+    },
+    "741540191032": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "9956028029039": {
+      "taller": 4.5,
+      "distribuidor": 3.75
+    },
+    "741540190753": {
+      "taller": 0,
+      "distribuidor": 0
+    },
+    "741540187947": {
+      "taller": 41,
+      "distribuidor": 34.75
+    },
+    "741540189316": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "741540100122": {
+      "taller": 2.5,
+      "distribuidor": 2
+    },
+    "741540189605": {
+      "taller": 19,
+      "distribuidor": 16.25
+    },
+    "741540100631": {
+      "taller": 18.75,
+      "distribuidor": 15
+    },
+    "56JL0401": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540189604": {
+      "taller": 24.25,
+      "distribuidor": 20.75
+    },
+    "741540191256": {
+      "taller": 16.25,
+      "distribuidor": 13.75
+    },
+    "741540100761": {
+      "taller": 19.25,
+      "distribuidor": 15.25
+    },
+    "741540188054": {
+      "taller": 10.5,
+      "distribuidor": 8.75
+    },
+    "741540187932": {
+      "taller": 13,
+      "distribuidor": 11
+    },
+    "741540189910": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540189642": {
+      "taller": 9.25,
+      "distribuidor": 8
+    },
+    "741540100477": {
+      "taller": 14,
+      "distribuidor": 11.75
+    },
+    "741540190263": {
+      "taller": 10.25,
+      "distribuidor": 8.75
+    },
+    "741540189575": {
+      "taller": 6,
+      "distribuidor": 5
+    },
+    "741540189572": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540191217": {
+      "taller": 7.75,
+      "distribuidor": 6.75
+    },
+    "741540188220": {
+      "taller": 12,
+      "distribuidor": 10.5
+    },
+    "RMTEN-140750033": {
+      "taller": 10.75,
+      "distribuidor": 9
+    },
+    "741540190443": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540100485": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "741540100509": {
+      "taller": 7.25,
+      "distribuidor": 6
+    },
+    "741540109905": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540100457": {
+      "taller": 10,
+      "distribuidor": 8.5
+    },
+    "741540190629": {
+      "taller": 4,
+      "distribuidor": 3.25
+    },
+    "741540189697": {
+      "taller": 11,
+      "distribuidor": 9.25
+    },
+    "741540100782": {
+      "taller": 11.75,
+      "distribuidor": 10
+    },
+    "741540100783": {
+      "taller": 12.75,
+      "distribuidor": 10.75
+    },
+    "741540100784": {
+      "taller": 10,
+      "distribuidor": 8.25
+    },
+    "741540100781": {
+      "taller": 11,
+      "distribuidor": 9.5
+    },
+    "741540188387": {
+      "taller": 4,
+      "distribuidor": 3.75
+    },
+    "RC040050005": {
+      "taller": 5,
+      "distribuidor": 4.75
+    },
+    "741540188656": {
+      "taller": 6.25,
+      "distribuidor": 5.25
+    },
+    "741540190594": {
+      "taller": 6.75,
+      "distribuidor": 5.75
+    },
+    "741540188814": {
+      "taller": 7,
+      "distribuidor": 5.5
+    },
+    "741540100111": {
+      "taller": 5.5,
+      "distribuidor": 4.25
+    },
+    "741540189651": {
+      "taller": 4,
+      "distribuidor": 3.5
+    },
+    "741540189961": {
+      "taller": 9.5,
+      "distribuidor": 8
+    },
+    "741540188355": {
+      "taller": 6,
+      "distribuidor": 5.25
+    },
+    "741540188356": {
+      "taller": 4.75,
+      "distribuidor": 4.25
+    },
+    "741540100114": {
+      "taller": 5,
+      "distribuidor": 4.25
+    },
+    "741540190592": {
+      "taller": 9,
+      "distribuidor": 7.75
+    },
+    "741540190280": {
+      "taller": 7.5,
+      "distribuidor": 6.25
+    },
+    "1005322-2": {
+      "taller": 1,
+      "distribuidor": 0.75
+    },
+    "TV001": {
+      "taller": 1.75,
+      "distribuidor": 1.5
+    },
+    "RL040000000": {
+      "taller": 2,
+      "distribuidor": 1.75
+    },
+    "741540188789": {
+      "taller": 3,
+      "distribuidor": 3
+    },
+    "REVEL-0422000-0030": {
+      "taller": 18,
+      "distribuidor": 0
+    },
+    "HRO-VISOR-3480-SM": {
+      "taller": 11.5,
+      "distribuidor": 9.75
+    },
+    "HRO-VISOR-511": {
+      "taller": 8,
+      "distribuidor": 7.25
+    },
+    "BS006": {
+      "taller": 5,
+      "distribuidor": 4.75
+    }
+  }
+}

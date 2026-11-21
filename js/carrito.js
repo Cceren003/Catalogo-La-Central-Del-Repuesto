@@ -107,23 +107,40 @@
     return () => listeners.delete(fn);
   }
 
-  // Migra items legacy (con `precio:N` snapshot) al formato nuevo
-  // (con objeto `precios` completo) usando la data del catálogo.
-  // Lo llama catalogo.js / producto.js después de cargar `catalogo.json`.
-  // Si no se llama, los items legacy siguen mostrando su precio estático
-  // como fallback — no se rompe nada, solo no cambian con login/logout.
+  // Re-sincroniza los precios de los items del carrito con el estado actual
+  // del catálogo. Lo llama catalogo.js / producto.js:
+  //   - después de cargar catalogo.json (migra items legacy con `precio:N`)
+  //   - después de inyectar mayorista (merge de taller/distribuidor)
+  //   - después de logout (remueve taller/distribuidor del snapshot)
   function refreshFromCatalog(getProduct) {
     if (typeof getProduct !== 'function') return;
     let changed = false;
     for (const it of items) {
-      if (it.precios) continue; // ya migrado
       const p = getProduct(it.sku);
       if (!p || !p.precios) continue;
-      it.precios = { ...p.precios };
-      delete it.precio;
-      changed = true;
+      if (!it.precios) {
+        // Caso legacy: no tiene precios, copiamos todos
+        it.precios = { ...p.precios };
+        delete it.precio;
+        changed = true;
+      } else {
+        // Caso normal: merge fields que cambiaron, remueve los que ya no están
+        for (const key of Object.keys(p.precios)) {
+          if (it.precios[key] !== p.precios[key]) {
+            it.precios[key] = p.precios[key];
+            changed = true;
+          }
+        }
+        for (const key of Object.keys(it.precios)) {
+          if (!(key in p.precios)) {
+            delete it.precios[key];
+            changed = true;
+          }
+        }
+      }
     }
     if (changed) save();
+    else notify(); // aún sin cambios de almacenamiento, notificar para re-render con nuevo rol
   }
 
   // Re-renderiza el carrito cuando cambia el rol del usuario (login/logout).

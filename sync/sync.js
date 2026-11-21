@@ -664,6 +664,7 @@ function buildCatalog(productos) {
 // ═══════════════════════════════════════════
 const SYNC_STATE_DIR  = path.join(__dirname, '..', '_sync');
 const PROVIDERS_STATE = path.join(SYNC_STATE_DIR, 'providers.json');
+const MAYORISTA_FILE  = path.join(SYNC_STATE_DIR, 'mayorista.json');
 
 function loadProvidersMap() {
   try {
@@ -687,6 +688,30 @@ function saveProvidersMap(productos) {
     providers,
   }, null, 2), 'utf8');
   console.log(`✓ _sync/providers.json actualizado (${Object.keys(providers).length} SKUs de proveedor)`);
+}
+
+// Guarda los precios mayoristas (taller + distribuidor) en un archivo
+// INTERNO que solo las Pages Functions pueden leer (via env.ASSETS).
+// Esta es la ÚNICA fuente de precios mayoristas desde que se removieron
+// del catálogo público. Lo consume /api/catalogo/mayorista tras validar sesión.
+function saveMayoristaPrices(productos) {
+  const precios = {};
+  for (const p of productos) {
+    const t = p?.precios?.taller;
+    const d = p?.precios?.distribuidor;
+    if (t == null && d == null) continue;
+    precios[p.sku] = {};
+    if (t != null) precios[p.sku].taller = t;
+    if (d != null) precios[p.sku].distribuidor = d;
+  }
+  fs.mkdirSync(SYNC_STATE_DIR, { recursive: true });
+  fs.writeFileSync(MAYORISTA_FILE, JSON.stringify({
+    generated_at: new Date().toISOString(),
+    note: 'Precios mayoristas. Archivo INTERNO del sync. Servido SOLO por /api/catalogo/mayorista tras validar sesión. Bloqueado al público directo por functions/_sync/[[path]].js.',
+    count: Object.keys(precios).length,
+    precios,
+  }, null, 2), 'utf8');
+  console.log(`✓ _sync/mayorista.json actualizado (${Object.keys(precios).length} SKUs con precio mayorista)`);
 }
 
 // Sanea el catálogo antes de escribirlo al archivo público catalogo.json.
@@ -796,7 +821,11 @@ async function main() {
   //    sin exponer el campo `fuente` en el catálogo público.
   saveProvidersMap(productos);
 
-  // 2. Sanear el catálogo antes de escribirlo al archivo público.
+  // 2. Guardar precios mayoristas en archivo INTERNO.
+  //    Solo accesible via /api/catalogo/mayorista (Pages Function + sesión).
+  saveMayoristaPrices(productos);
+
+  // 3. Sanear el catálogo antes de escribirlo al archivo público.
   //    Remueve: precios.taller, precios.distribuidor, fuente, stock exacto.
   //    (Corrección del hallazgo H2 del informe de seguridad)
   const publicCatalog = sanitizeForPublic(catalog);
