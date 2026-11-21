@@ -47,7 +47,9 @@ function esc(s) {
 // Node NO usa Web Crypto por default: usamos node:crypto con pbkdf2Sync.
 async function hashPassword(password) {
   if (!password || password.length < 8) throw new Error('password muy corta');
-  const ITERS = 210000;
+  // 100000 es el hard cap de CF Workers en PBKDF2 — debe coincidir con
+  // functions/_lib/password.js para que los hashes sean verificables ahí.
+  const ITERS = 100000;
   const SALT_LEN = 16;
   const HASH_LEN = 32;
   const { pbkdf2Sync } = require('crypto');

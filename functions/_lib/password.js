@@ -1,13 +1,18 @@
 // ═══════════════════════════════════════════
-// Hash de contraseñas — PBKDF2-SHA256 con 210k iteraciones.
+// Hash de contraseñas — PBKDF2-SHA256 con 100k iteraciones.
 // Formato guardado: pbkdf2$<iters>$<salt_b64>$<hash_b64>
 // Native crypto.subtle (sin dependencias externas).
-// Recomendación OWASP 2023: PBKDF2-SHA256 ≥ 600k iter, o scrypt/argon2id si disponibles.
-// CF Workers no soporta scrypt nativo, por eso usamos PBKDF2 con 210k
-// (compromiso entre seguridad y latencia en Workers free tier).
+//
+// Nota: Cloudflare Workers tiene un hard cap de 100k iteraciones en
+// PBKDF2 (no se puede subir más, lo rechaza con NotSupportedError).
+// Debajo de la recomendación OWASP 2023 (600k), pero es el techo que
+// el runtime nos permite. Compensamos con rate-limit agresivo y
+// contraseñas random fuertes generadas por el CLI/panel admin.
+// Si hace falta más fuerza, habría que migrar a Workers con bindings
+// a un backend externo (overkill para este volumen).
 // ═══════════════════════════════════════════
 
-const ITERATIONS  = 210000;
+const ITERATIONS  = 100000;
 const HASH_LENGTH = 32; // bytes (SHA-256 = 32 bytes)
 const SALT_LENGTH = 16; // bytes
 
