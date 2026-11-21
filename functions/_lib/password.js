@@ -55,6 +55,16 @@ export async function hashPassword(password) {
   return `pbkdf2$${ITERATIONS}$${bufToB64(salt.buffer)}$${bufToB64(key)}`;
 }
 
+// Genera una contraseña random fuerte sin caracteres ambiguos.
+// 12 chars de un alfabeto de 32 (base32 safe) → ~60 bits de entropía.
+export function generateRandomPassword() {
+  const abc = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789'; // sin 0/O/1/I/L
+  const bytes = crypto.getRandomValues(new Uint8Array(12));
+  let s = '';
+  for (let i = 0; i < 12; i++) s += abc[bytes[i] % abc.length];
+  return `${s.slice(0, 4)}-${s.slice(4, 8)}-${s.slice(8, 12)}`;
+}
+
 export async function verifyPassword(password, stored) {
   if (!password || !stored) return false;
   const parts = stored.split('$');

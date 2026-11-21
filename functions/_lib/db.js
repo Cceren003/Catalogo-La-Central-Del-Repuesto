@@ -70,3 +70,28 @@ export async function updateUserPassword(db, id, newHash) {
     'UPDATE users SET password_hash = ?, actualizado_en = unixepoch() WHERE id = ?'
   ).bind(newHash, id).run();
 }
+
+export async function updateUserFields(db, id, { nombre, telefono, notas }) {
+  return db.prepare(
+    'UPDATE users SET nombre = ?, telefono = ?, notas = ?, actualizado_en = unixepoch() WHERE id = ?'
+  ).bind(nombre ?? null, telefono ?? null, notas ?? null, id).run();
+}
+
+export async function getUserById(db, id) {
+  return db.prepare(
+    'SELECT id, codigo, nivel, activo, nombre, telefono, notas, creado_en, actualizado_en, ultimo_acceso FROM users WHERE id = ?'
+  ).bind(id).first();
+}
+
+export async function recentAccessLog(db, { codigo, limit = 100 } = {}) {
+  if (codigo) {
+    const { results } = await db.prepare(
+      'SELECT id, user_id, codigo, ip, user_agent, accion, ok, detalle, ts FROM access_log WHERE codigo = ? ORDER BY ts DESC LIMIT ?'
+    ).bind(codigo, limit).all();
+    return results || [];
+  }
+  const { results } = await db.prepare(
+    'SELECT id, user_id, codigo, ip, user_agent, accion, ok, detalle, ts FROM access_log ORDER BY ts DESC LIMIT ?'
+  ).bind(limit).all();
+  return results || [];
+}

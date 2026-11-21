@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin · La Central del Repuesto</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="assets/logos/logo-pill.png" type="image/png">
+<link rel="stylesheet" href="css/base.css?v=34">
+<link rel="stylesheet" href="css/components.css?v=47">
+<style>
+  :root { --admin-border: #2a2a2a; }
+  body { background: var(--lcr-black); color: var(--lcr-white); }
+
+  .admin-shell { max-width: 1200px; margin: 0 auto; padding: 24px 20px 80px; }
+
+  .admin-top {
+    display: flex; justify-content: space-between; align-items: center;
+    padding-bottom: 14px; border-bottom: 1px solid var(--admin-border); margin-bottom: 20px;
+  }
+  .admin-top h1 { font-size: 20px; margin: 0; letter-spacing: 0.5px; }
+  .admin-top .user-chip {
+    display: flex; gap: 10px; align-items: center; font-size: 13px; color: var(--lcr-muted);
+  }
+  .admin-top .user-chip strong { color: var(--lcr-white); }
+
+  .tabs { display: flex; gap: 2px; border-bottom: 1px solid var(--admin-border); margin-bottom: 20px; }
+  .tab {
+    padding: 10px 18px; background: transparent; border: none; cursor: pointer;
+    color: var(--lcr-muted); font-size: 13px; font-weight: 600; letter-spacing: 0.4px;
+    text-transform: uppercase; border-bottom: 2px solid transparent;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .tab:hover { color: var(--lcr-white); }
+  .tab.active { color: var(--lcr-white); border-bottom-color: var(--lcr-red); }
+
+  .section { display: none; }
+  .section.active { display: block; }
+
+  .section-head {
+    display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px;
+    gap: 10px; flex-wrap: wrap;
+  }
+  .section-head h2 { margin: 0; font-size: 15px; letter-spacing: 0.4px; }
+
+  table.data {
+    width: 100%; border-collapse: collapse; font-size: 13px; background: var(--lcr-gray);
+    border: 1px solid var(--admin-border);
+  }
+  table.data th {
+    text-align: left; padding: 10px 12px; background: var(--lcr-gray2);
+    border-bottom: 1px solid var(--admin-border); font-weight: 600; font-size: 11px;
+    text-transform: uppercase; letter-spacing: 0.5px; color: var(--lcr-muted);
+  }
+  table.data td {
+    padding: 10px 12px; border-bottom: 1px solid var(--admin-border);
+    vertical-align: middle;
+  }
+  table.data tr:last-child td { border-bottom: none; }
+  table.data tr:hover td { background: rgba(255,255,255,0.02); }
+  table.data .codigo { font-family: ui-monospace, 'SF Mono', Consolas, monospace; font-weight: 700; color: var(--lcr-white); }
+  table.data .badge {
+    display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 10px;
+    font-weight: 700; letter-spacing: 0.4px; text-transform: uppercase;
+  }
+  table.data .badge-nivel-taller       { background: #1e3a5f; color: #8fc8ff; }
+  table.data .badge-nivel-distribuidor { background: #3d1e5f; color: #c8a1ff; }
+  table.data .badge-nivel-admin        { background: #5f1e1e; color: #ff8f8f; }
+  table.data .badge-ok                 { background: #1e3b2e; color: #7ee3a4; }
+  table.data .badge-fail               { background: #4a1e1e; color: #ff8f8f; }
+  table.data .badge-inactive           { background: var(--lcr-gray2); color: var(--lcr-muted); }
+
+  table.data .row-actions { display: flex; gap: 6px; justify-content: flex-end; }
+  table.data .btn-xs {
+    padding: 4px 10px; font-size: 11px; background: var(--lcr-gray2);
+    border: 1px solid var(--admin-border); color: var(--lcr-white); border-radius: 4px;
+    cursor: pointer; font-weight: 600;
+  }
+  table.data .btn-xs:hover { background: var(--lcr-gray3); }
+  table.data .btn-xs.danger { color: #ff8f8f; }
+  table.data .btn-xs.warn   { color: #ffcf6f; }
+
+  .filter-row { display: flex; gap: 10px; margin-bottom: 14px; flex-wrap: wrap; }
+  .filter-row input, .filter-row select {
+    padding: 8px 12px; background: var(--lcr-gray); border: 1px solid var(--admin-border);
+    color: var(--lcr-white); font-size: 13px; border-radius: 6px; min-width: 180px;
+  }
+
+  .empty { text-align: center; padding: 40px 20px; color: var(--lcr-muted); font-size: 14px; }
+
+  /* Modal creación de usuario */
+  .admin-modal-body { max-width: 440px; }
+  .admin-modal-body label { display: block; margin-top: 12px; font-size: 12px; color: var(--lcr-muted); margin-bottom: 4px; }
+  .admin-modal-body input, .admin-modal-body select, .admin-modal-body textarea {
+    width: 100%; padding: 10px 12px; background: var(--lcr-black);
+    border: 1px solid var(--admin-border); color: var(--lcr-white); border-radius: 6px;
+    font-size: 14px; font-family: inherit;
+  }
+  .admin-modal-body textarea { min-height: 60px; resize: vertical; }
+
+  .result-box {
+    margin-top: 16px; padding: 14px; background: #1e3b2e; border: 1px solid #2d5a44;
+    border-radius: 8px; font-size: 13px;
+  }
+  .result-box h4 { margin: 0 0 8px; color: #7ee3a4; }
+  .result-box .pwd {
+    font-family: ui-monospace, Consolas, monospace; font-size: 18px; font-weight: 700;
+    background: var(--lcr-black); padding: 10px 14px; border-radius: 6px; margin: 8px 0;
+    letter-spacing: 1px; color: #7ee3a4; word-break: break-all; cursor: pointer;
+  }
+  .result-box small { color: var(--lcr-muted); }
+
+  .form-error { color: #ff8f8f; font-size: 13px; margin-top: 10px; min-height: 18px; }
+
+  /* Pantalla de login */
+  .login-screen {
+    max-width: 420px; margin: 80px auto; padding: 32px; text-align: center;
+    background: var(--lcr-gray); border-radius: 12px; border: 1px solid var(--admin-border);
+  }
+  .login-screen img { width: 140px; margin-bottom: 16px; }
+  .login-screen h2 { margin: 0 0 16px; font-size: 16px; letter-spacing: 1px; }
+  .login-screen input {
+    width: 100%; padding: 12px 14px; background: var(--lcr-black);
+    border: 1px solid var(--admin-border); color: var(--lcr-white); border-radius: 6px;
+    font-size: 14px; margin-bottom: 10px;
+  }
+  .login-screen .btn-primary { width: 100%; }
+
+  @media (max-width: 720px) {
+    table.data { font-size: 12px; }
+    table.data th, table.data td { padding: 8px 6px; }
+    table.data .hide-mobile { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════
+     LOGIN SCREEN (si no hay sesión admin)
+     ═══════════════════════════════════════════ -->
+<div class="login-screen" id="loginScreen" style="display:none;">
+  <img src="assets/logos/logo-dark.png" alt="La Central del Repuesto" onerror="this.style.display='none'">
+  <h2>ADMIN</h2>
+  <form id="loginForm">
+    <input type="text" id="loginCodigo" placeholder="Código de admin"
+           autocomplete="username" autocapitalize="characters" spellcheck="false" required>
+    <input type="password" id="loginPass" placeholder="Contraseña"
+           autocomplete="current-password" required>
+    <button type="submit" class="btn btn-primary">Entrar</button>
+    <div class="form-error" id="loginError"></div>
+  </form>
+</div>
+
+<!-- ═══════════════════════════════════════════
+     PANEL (solo visible con sesión admin)
+     ═══════════════════════════════════════════ -->
+<div class="admin-shell" id="adminShell" style="display:none;">
+  <div class="admin-top">
+    <h1>ADMIN · La Central del Repuesto</h1>
+    <div class="user-chip">
+      <span>Logueado: <strong id="whoami">—</strong></span>
+      <button class="btn-xs" id="logoutBtn">Cerrar sesión</button>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" data-section="users">Usuarios</button>
+    <button class="tab" data-section="log">Access log</button>
+  </div>
+
+  <!-- ─── SECCIÓN USUARIOS ─── -->
+  <section class="section active" id="section-users">
+    <div class="section-head">
+      <h2>Usuarios</h2>
+      <button class="btn btn-primary" id="newUserBtn">+ Nuevo usuario</button>
+    </div>
+    <div id="usersTableWrap">
+      <div class="empty">Cargando usuarios…</div>
+    </div>
+  </section>
+
+  <!-- ─── SECCIÓN LOG ─── -->
+  <section class="section" id="section-log">
+    <div class="section-head">
+      <h2>Access log</h2>
+    </div>
+    <div class="filter-row">
+      <input type="text" id="logFilter" placeholder="Filtrar por código (ej. TAL-DURAN)"
+             autocapitalize="characters" spellcheck="false">
+      <button class="btn btn-outline btn-xs" id="logRefreshBtn">Refrescar</button>
+    </div>
+    <div id="logTableWrap">
+      <div class="empty">Cargando…</div>
+    </div>
+  </section>
+</div>
+
+<!-- ═══════════════════════════════════════════
+     MODAL CREAR USUARIO
+     ═══════════════════════════════════════════ -->
+<div class="modal-overlay" id="newUserModal">
+  <div class="modal admin-modal-body">
+    <button class="modal-close" id="newUserClose" aria-label="Cerrar">×</button>
+    <h2>NUEVO USUARIO</h2>
+    <form id="newUserForm">
+      <label>Código <span style="color:var(--lcr-red);">*</span></label>
+      <input type="text" id="newCodigo" required autocapitalize="characters" spellcheck="false"
+             placeholder="Ej. TAL-DURAN, DIS-MOTOCO-001" pattern="[A-Za-z0-9][-A-Za-z0-9_]{1,30}">
+      <label>Nivel <span style="color:var(--lcr-red);">*</span></label>
+      <select id="newNivel" required>
+        <option value="taller">Taller</option>
+        <option value="distribuidor">Distribuidor</option>
+        <option value="admin">Admin</option>
+      </select>
+      <label>Nombre</label>
+      <input type="text" id="newNombre" placeholder="Ej. Duran Motos SV">
+      <label>Teléfono</label>
+      <input type="text" id="newTelefono" placeholder="Ej. 70301941">
+      <label>Notas</label>
+      <textarea id="newNotas" placeholder="Opcional"></textarea>
+      <div class="form-error" id="newUserError"></div>
+      <button type="submit" class="btn btn-primary block" style="margin-top:16px;">Crear</button>
+    </form>
+    <div id="newUserResult"></div>
+  </div>
+</div>
+
+<!-- Scripts -->
+<script src="js/auth.js?v=38"></script>
+<script src="js/admin.js?v=1"></script>
+
+</body>
+</html>
