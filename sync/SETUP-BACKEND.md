@@ -41,7 +41,9 @@ Copiá el valor de `database_id` y pegálo en `wrangler.toml` del repo (reemplaz
 wrangler d1 execute lcr-auth --remote --file=sync/schema.sql
 ```
 
-Crea las 3 tablas: `users`, `access_log`, `login_attempts`.
+Crea 4 tablas: `users`, `access_log`, `login_attempts`, `cotizaciones`.
+Todas usan `CREATE TABLE IF NOT EXISTS`, así que podés re-correr este
+comando cada vez que agreguemos funcionalidad sin perder datos.
 
 Verificar:
 
