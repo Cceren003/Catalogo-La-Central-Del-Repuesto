@@ -8,12 +8,10 @@ pages_build_output_dir = "."
 # ═══════════════════════════════════════════
 # D1 — base de datos SQLite para auth + access log
 # ═══════════════════════════════════════════
-#
-# PENDIENTE: después de correr `wrangler d1 create lcr-auth`,
-# descomentá el bloque de abajo y pegá el database_id que devolvió.
-# Ver sync/SETUP-BACKEND.md para los pasos completos.
-#
-# [[d1_databases]]
-# binding = "DB"
-# database_name = "lcr-auth"
-# database_id = "PEGAR_AQUÍ_EL_UUID_QUE_DEVOLVIÓ_WRANGLER"
+# Creada el 2026-11-21 con `wrangler d1 create lcr-auth`.
+# Binding name "DB" coincide con env.DB usado en functions/_lib/db.js.
+
+[[d1_databases]]
+binding = "DB"
+database_name = "lcr-auth"
+database_id = "8ae0f364-3e8c-45c5-bcd9-359c0de692e9"
