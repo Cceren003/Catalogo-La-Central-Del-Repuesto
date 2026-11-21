@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T02:04:10.547Z",
-  "count": 5719,
+  "generated_at": "2026-11-21T20:00:42.636Z",
+  "count": 5713,
   "productos": [
     {
       "sku": "104105",
@@ -35,7 +35,7 @@
         "taller": 10,
         "distribuidor": 9.92
       },
-      "stock": 8,
+      "stock": 7,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -140,7 +140,7 @@
         "taller": 7.75,
         "distribuidor": 7.5
       },
-      "stock": 54,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2366,8 +2366,8 @@
         "taller": 22,
         "distribuidor": 20
       },
-      "stock": 3,
-      "stock_status": "low_stock",
+      "stock": 8,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2450,8 +2450,8 @@
         "taller": 19,
         "distribuidor": 18
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2471,8 +2471,8 @@
         "taller": 15,
         "distribuidor": 14
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 7,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2492,8 +2492,8 @@
         "taller": 18,
         "distribuidor": 16
       },
-      "stock": 1,
-      "stock_status": "low_stock",
+      "stock": 10,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2513,7 +2513,7 @@
         "taller": 21.5,
         "distribuidor": 19.5
       },
-      "stock": 5,
+      "stock": 4,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -2534,8 +2534,8 @@
         "taller": 19.75,
         "distribuidor": 18.5
       },
-      "stock": 4,
-      "stock_status": "low_stock",
+      "stock": 6,
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -4193,7 +4193,7 @@
         "taller": 2.75,
         "distribuidor": 2.4
       },
-      "stock": 64,
+      "stock": 53,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -7847,7 +7847,7 @@
         "taller": 9.5,
         "distribuidor": 8.75
       },
-      "stock": 23,
+      "stock": 22,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -9019,9 +9019,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 29.75,
-        "taller": 24.25,
-        "distribuidor": 20.75
+        "publico": 39,
+        "taller": 29,
+        "distribuidor": 25.5
       },
       "stock": 3,
       "stock_status": "low_stock",
@@ -13202,7 +13202,7 @@
         "taller": 7,
         "distribuidor": 6
       },
-      "stock": 4,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -13664,7 +13664,7 @@
         "taller": 27.75,
         "distribuidor": 23.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -14364,27 +14364,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100794.png",
       "imagen_size": 85711,
-      "activo": true
-    },
-    {
-      "sku": "741540189423",
-      "nombre": "CILINDRO COMPLETO FREEDON FIRE125 / CG125",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 62,
-        "taller": 50.75,
-        "distribuidor": 43.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189423.png",
-      "imagen_size": 91150,
       "activo": true
     },
     {
@@ -15204,27 +15183,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189204.png",
       "imagen_size": 113264,
-      "activo": true
-    },
-    {
-      "sku": "741540191170",
-      "nombre": "CLUTCH COMPLETO XBLADE 160 CBF160",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 62,
-        "taller": 50.75,
-        "distribuidor": 43.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540191170.jpg",
-      "imagen_size": 13142,
       "activo": true
     },
     {
@@ -16163,7 +16121,7 @@
         "taller": 5,
         "distribuidor": 4
       },
-      "stock": 50,
+      "stock": 48,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -16982,7 +16940,7 @@
         "taller": 23.5,
         "distribuidor": 20
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -18882,27 +18840,6 @@
       "activo": true
     },
     {
-      "sku": "1005526",
-      "nombre": "ESPEJO SET RETROVISORES CR1",
-      "marca": "MEK",
-      "categoria": "ESPEJOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8,
-        "taller": 6.75,
-        "distribuidor": 5.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1005526.png",
-      "imagen_size": 17095,
-      "activo": true
-    },
-    {
       "sku": "1004860",
       "nombre": "ESPEJO SET RETROVISORES FORZA UNIVERSAL DE MOTOS",
       "marca": "MEK",
@@ -19691,7 +19628,7 @@
         "taller": 5,
         "distribuidor": 4.25
       },
-      "stock": 3,
+      "stock": 2,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -21539,7 +21476,7 @@
         "taller": 5,
         "distribuidor": 4.5
       },
-      "stock": 78,
+      "stock": 77,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
@@ -29960,7 +29897,7 @@
         "taller": 32,
         "distribuidor": 30
       },
-      "stock": 4,
+      "stock": 3,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -30177,27 +30114,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-3507-22.png",
       "imagen_size": 76331,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-3505-22",
-      "nombre": "LLANTA AXUS 140-60-17 LISA AX30F 6PR RADIAL FZ16 TRASERA",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 52.75,
-        "taller": 48.25,
-        "distribuidor": 45.25
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
       "activo": true
     },
     {
@@ -30422,7 +30338,7 @@
         "taller": 27.5,
         "distribuidor": 25.75
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -38927,8 +38843,8 @@
         "taller": 3.5,
         "distribuidor": 3
       },
-      "stock": 6,
-      "stock_status": "in_stock",
+      "stock": 5,
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -39774,27 +39690,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190478.png",
       "imagen_size": 131845,
-      "activo": true
-    },
-    {
-      "sku": "741540188614",
-      "nombre": "RELOJ ASPIROMETRO FREEDOM FIRE",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30,
-        "taller": 24.5,
-        "distribuidor": 21
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188614.png",
-      "imagen_size": 109517,
       "activo": true
     },
     {
@@ -40838,7 +40733,7 @@
         "taller": 4,
         "distribuidor": 3.5
       },
-      "stock": 2,
+      "stock": 1,
       "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
@@ -40901,34 +40796,13 @@
         "taller": 2.75,
         "distribuidor": 2.5
       },
-      "stock": 8,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
       "imagen": "imagenes/FOS017.jpg",
       "imagen_size": 5737,
-      "activo": true
-    },
-    {
-      "sku": "FOS008",
-      "nombre": "RETENEDOR BARRA 37X50X11",
-      "marca": "NRP",
-      "categoria": "SELLO BARRA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7,
-        "taller": 3.5,
-        "distribuidor": 2.75
-      },
-      "stock": 1,
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/FOS008.jpg",
-      "imagen_size": 9666,
       "activo": true
     },
     {
@@ -42266,7 +42140,7 @@
         "taller": 14,
         "distribuidor": 11.75
       },
-      "stock": 7,
+      "stock": 6,
       "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
