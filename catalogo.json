@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T20:00:42.636Z",
-  "count": 5713,
+  "generated_at": "2026-11-22T01:07:15.287Z",
+  "count": 5711,
   "productos": [
     {
       "sku": "104105",
@@ -3348,24 +3348,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190689.png",
       "imagen_size": 77892,
-      "activo": true
-    },
-    {
-      "sku": "741540100129",
-      "nombre": "BOMBILLO AD-H4 12V 35W VINI (FL)",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4.25
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100129.png",
-      "imagen_size": 86629,
       "activo": true
     },
     {
@@ -9630,24 +9612,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/RS074.jpg",
       "imagen_size": 9909,
-      "activo": true
-    },
-    {
-      "sku": "RS101",
-      "nombre": "CATARINA 44T IGNITOR 125",
-      "marca": "NRP",
-      "categoria": "CATARINAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 10.25
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/RS101.jpg",
-      "imagen_size": 9737,
       "activo": true
     },
     {
@@ -29136,7 +29100,7 @@
       "precios": {
         "publico": 6
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",

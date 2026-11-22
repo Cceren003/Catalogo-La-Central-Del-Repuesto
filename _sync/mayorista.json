@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T20:42:38.822Z",
+  "generated_at": "2026-11-22T01:07:15.298Z",
   "note": "Precios mayoristas. Archivo INTERNO del sync. Servido SOLO por /api/catalogo/mayorista tras validar sesión. Bloqueado al público directo por functions/_sync/[[path]].js.",
-  "count": 2205,
+  "count": 2203,
   "precios": {
     "20705": {
       "taller": 16,
@@ -2319,10 +2319,6 @@
       "taller": 18,
       "distribuidor": 15.5
     },
-    "741540100129": {
-      "taller": 2.5,
-      "distribuidor": 2.15
-    },
     "741540100126": {
       "taller": 2.5,
       "distribuidor": 2
@@ -3470,10 +3466,6 @@
     "RS074": {
       "taller": 9,
       "distribuidor": 7.5
-    },
-    "RS101": {
-      "taller": 8.5,
-      "distribuidor": 7.25
     },
     "RS065": {
       "taller": 9.25,
