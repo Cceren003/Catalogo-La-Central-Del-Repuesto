@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:15:42.966Z",
+  "generated_at": "2026-11-23T01:30:03.142Z",
   "note": "Precios mayoristas. Archivo INTERNO del sync. Servido SOLO por /api/catalogo/mayorista tras validar sesión. Bloqueado al público directo por functions/_sync/[[path]].js.",
   "count": 2203,
   "precios": {
