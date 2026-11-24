@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T00:41:52.015Z",
+  "generated_at": "2026-11-24T22:58:22.047Z",
   "note": "Precios mayoristas. Archivo INTERNO del sync. Servido SOLO por /api/catalogo/mayorista tras validar sesión. Bloqueado al público directo por functions/_sync/[[path]].js.",
-  "count": 2195,
+  "count": 2184,
   "precios": {
     "20705": {
       "taller": 16,
@@ -174,10 +174,6 @@
     "1000548": {
       "taller": 6,
       "distribuidor": 5
-    },
-    "1000551": {
-      "taller": 5.75,
-      "distribuidor": 4.75
     },
     "1000567": {
       "taller": 6,
@@ -3003,10 +2999,6 @@
       "taller": 83.5,
       "distribuidor": 71
     },
-    "741540100742": {
-      "taller": 65.5,
-      "distribuidor": 55.75
-    },
     "741540100768": {
       "taller": 62.25,
       "distribuidor": 53
@@ -4051,10 +4043,6 @@
       "taller": 60,
       "distribuidor": 51
     },
-    "741540139002": {
-      "taller": 35,
-      "distribuidor": 29.75
-    },
     "741540189061": {
       "taller": 51.5,
       "distribuidor": 43.75
@@ -4154,10 +4142,6 @@
     "741540122805": {
       "taller": 25,
       "distribuidor": 20
-    },
-    "741540188226": {
-      "taller": 13.5,
-      "distribuidor": 11.5
     },
     "741540100702": {
       "taller": 14,
@@ -4859,10 +4843,6 @@
       "taller": 5,
       "distribuidor": 4.5
     },
-    "995602802433": {
-      "taller": 4.5,
-      "distribuidor": 4
-    },
     "741540100478": {
       "taller": 6.5,
       "distribuidor": 5.5
@@ -4878,10 +4858,6 @@
     "741540190244": {
       "taller": 7.5,
       "distribuidor": 6.25
-    },
-    "741540190235": {
-      "taller": 8,
-      "distribuidor": 7
     },
     "741540190246": {
       "taller": 7.5,
@@ -5219,14 +5195,6 @@
       "taller": 6.5,
       "distribuidor": 5.5
     },
-    "741540189766": {
-      "taller": 6,
-      "distribuidor": 5
-    },
-    "741540189770": {
-      "taller": 6.25,
-      "distribuidor": 5.25
-    },
     "741540189755": {
       "taller": 10,
       "distribuidor": 8.5
@@ -5272,8 +5240,8 @@
       "distribuidor": 4.25
     },
     "741540189789": {
-      "taller": 10,
-      "distribuidor": 8.5
+      "taller": 114,
+      "distribuidor": 11
     },
     "741540189822": {
       "taller": 18.5,
@@ -6539,10 +6507,6 @@
       "taller": 6,
       "distribuidor": 5.25
     },
-    "741540188309": {
-      "taller": 2.75,
-      "distribuidor": 2.25
-    },
     "741540189649": {
       "taller": 5,
       "distribuidor": 4.25
@@ -6874,10 +6838,6 @@
     "741540100366": {
       "taller": 3.5,
       "distribuidor": 3
-    },
-    "741540100370": {
-      "taller": 3.5,
-      "distribuidor": 2.75
     },
     "741540100367": {
       "taller": 3.5,
@@ -8192,8 +8152,8 @@
       "distribuidor": 1.75
     },
     "741540189045": {
-      "taller": 1.5,
-      "distribuidor": 1
+      "taller": 2,
+      "distribuidor": 1.5
     },
     "741540100473": {
       "taller": 1.5,
@@ -8710,10 +8670,6 @@
     "741540188656": {
       "taller": 6.25,
       "distribuidor": 5.25
-    },
-    "741540190594": {
-      "taller": 6.75,
-      "distribuidor": 5.75
     },
     "741540188814": {
       "taller": 7,

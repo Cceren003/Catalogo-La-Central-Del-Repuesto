@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T00:41:52.008Z",
-  "count": 5703,
+  "generated_at": "2026-11-24T22:58:22.040Z",
+  "count": 5692,
   "productos": [
     {
       "sku": "104105",
@@ -3180,7 +3180,7 @@
       "precios": {
         "publico": 18
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7038,24 +7038,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189346.png",
       "imagen_size": 91353,
-      "activo": true
-    },
-    {
-      "sku": "741540100742",
-      "nombre": "CAJA TRANSMISION YBR125 VINI (RC) ABJ",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 80
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100742.png",
-      "imagen_size": 82130,
       "activo": true
     },
     {
@@ -12603,24 +12585,6 @@
       "activo": true
     },
     {
-      "sku": "741540139002",
-      "nombre": "CILINDRO COMPLETO VARILLA PIN 15 SANLG SL150-(9) VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 42.75
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540139002.png",
-      "imagen_size": 74852,
-      "activo": true
-    },
-    {
       "sku": "741540189061",
       "nombre": "CILINDRO COMPLETO VARILLA PIN13 EVO AK125/TTR 125 CGR VINI(FL)",
       "marca": "VINI",
@@ -13176,24 +13140,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540122805.png",
       "imagen_size": 113959,
-      "activo": true
-    },
-    {
-      "sku": "741540188226",
-      "nombre": "DISCO ARRANQUE FZ16",
-      "marca": "VINI",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 16.25
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188226.png",
-      "imagen_size": 127558,
       "activo": true
     },
     {
@@ -16995,24 +16941,6 @@
       "activo": true
     },
     {
-      "sku": "995602802433",
-      "nombre": "FILTRO AIRE CRUX110",
-      "marca": "MEK",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.25
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/995602802433.jpg",
-      "imagen_size": 475306,
-      "activo": true
-    },
-    {
       "sku": "741540100478",
       "nombre": "FILTRO AIRE DISCOVER 125 ST VINI(FL)",
       "marca": "VINI",
@@ -17118,24 +17046,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190244.png",
       "imagen_size": 114370,
-      "activo": true
-    },
-    {
-      "sku": "741540190235",
-      "nombre": "FILTRO AIRE FZ3.00",
-      "marca": "VINI",
-      "categoria": "FILTROS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 11
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190235.png",
-      "imagen_size": 76893,
       "activo": true
     },
     {
@@ -18984,7 +18894,7 @@
       "precios": {
         "publico": 18
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -19098,42 +19008,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189769.png",
       "imagen_size": 65110,
-      "activo": true
-    },
-    {
-      "sku": "741540189766",
-      "nombre": "HERRAMIENTA CUBO IMPACTO 8MM",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189766.png",
-      "imagen_size": 80760,
-      "activo": true
-    },
-    {
-      "sku": "741540189770",
-      "nombre": "HERRAMIENTA CUBO TALADRO 14MM",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.5
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189770.png",
-      "imagen_size": 71014,
       "activo": true
     },
     {
@@ -19342,7 +19216,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 12
+        "publico": 18
       },
       "stock_status": "low_stock",
       "disponible": true,
@@ -26427,24 +26301,6 @@
       "activo": true
     },
     {
-      "sku": "741540188309",
-      "nombre": "MANECILLA FRENO DISCO DAKAR 200 BOMBAS METALICAS MOTO CHINA VINI",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 4.5
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188309.png",
-      "imagen_size": 43974,
-      "activo": true
-    },
-    {
       "sku": "741540189649",
       "nombre": "MANECILLA FRENO PULSAR 160NS",
       "marca": "VINI",
@@ -28368,24 +28224,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100366.png",
       "imagen_size": 110322,
-      "activo": true
-    },
-    {
-      "sku": "741540100370",
-      "nombre": "PASTILLA FRENO DEL PULSAR 180,   DISCOVERY 125",
-      "marca": "VINI",
-      "categoria": "PASTILLA DE FRENO",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.5
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100370.png",
-      "imagen_size": 125314,
       "activo": true
     },
     {
@@ -37470,7 +37308,7 @@
       "precios": {
         "publico": 16
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -38106,24 +37944,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000547.jpg",
       "imagen_size": 251143,
-      "activo": true
-    },
-    {
-      "sku": "1000551",
-      "nombre": "TAPON TANQUE COMBUSTIBLE CG125/150",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000551.jpg",
-      "imagen_size": 501074,
       "activo": true
     },
     {
@@ -38829,24 +38649,6 @@
       "activo": true
     },
     {
-      "sku": "741540190594",
-      "nombre": "VALVULA GAS AK 200SM/180XM",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "741540188814",
       "nombre": "VALVULA GAS BOXER BM150",
       "marca": "VINI",
@@ -39216,7 +39018,7 @@
       "precios": {
         "publico": 2
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
