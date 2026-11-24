@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T01:30:03.142Z",
+  "generated_at": "2026-11-24T00:41:52.015Z",
   "note": "Precios mayoristas. Archivo INTERNO del sync. Servido SOLO por /api/catalogo/mayorista tras validar sesión. Bloqueado al público directo por functions/_sync/[[path]].js.",
-  "count": 2203,
+  "count": 2195,
   "precios": {
     "20705": {
       "taller": 16,
@@ -786,10 +786,6 @@
     "1003051": {
       "taller": 12,
       "distribuidor": 10.25
-    },
-    "1003089": {
-      "taller": 29,
-      "distribuidor": 24.75
     },
     "1003097": {
       "taller": 7.5,
@@ -1675,10 +1671,6 @@
       "taller": 19,
       "distribuidor": 17
     },
-    "2000009": {
-      "taller": 8,
-      "distribuidor": 6.75
-    },
     "2000012": {
       "taller": 65,
       "distribuidor": 55
@@ -1686,10 +1678,6 @@
     "2000016": {
       "taller": 70,
       "distribuidor": 59.5
-    },
-    "2000018": {
-      "taller": 65,
-      "distribuidor": 55
     },
     "2000019": {
       "taller": 66.5,
@@ -1822,14 +1810,6 @@
     "741540100133": {
       "taller": 28,
       "distribuidor": 23.75
-    },
-    "741540100406": {
-      "taller": 30,
-      "distribuidor": 25.5
-    },
-    "741540100132": {
-      "taller": 32.25,
-      "distribuidor": 27.5
     },
     "741540190832": {
       "taller": 36.25,
@@ -2319,6 +2299,10 @@
       "taller": 18,
       "distribuidor": 15.5
     },
+    "741540100129": {
+      "taller": 2.5,
+      "distribuidor": 2.15
+    },
     "741540100126": {
       "taller": 2.5,
       "distribuidor": 2
@@ -2456,8 +2440,8 @@
       "distribuidor": 2.75
     },
     "741540188712": {
-      "taller": 3.5,
-      "distribuidor": 3
+      "taller": 4,
+      "distribuidor": 3.25
     },
     "741540188012": {
       "taller": 3.5,
@@ -2994,10 +2978,6 @@
     "741540188463": {
       "taller": 88.5,
       "distribuidor": 75.25
-    },
-    "741540100493": {
-      "taller": 50,
-      "distribuidor": 42.5
     },
     "741540190797": {
       "taller": 104.25,
@@ -3922,10 +3902,6 @@
     "741540189348": {
       "taller": 126.5,
       "distribuidor": 107.5
-    },
-    "741540189060": {
-      "taller": 55,
-      "distribuidor": 50
     },
     "741540189058": {
       "taller": 74.75,
@@ -5147,10 +5123,6 @@
       "taller": 13,
       "distribuidor": 11
     },
-    "741540190383": {
-      "taller": 7.25,
-      "distribuidor": 6.25
-    },
     "741540100819": {
       "taller": 20.75,
       "distribuidor": 17.5
@@ -5695,10 +5667,6 @@
       "taller": 60.5,
       "distribuidor": 51.5
     },
-    "CK032": {
-      "taller": 67.5,
-      "distribuidor": 57.5
-    },
     "CK044": {
       "taller": 76.75,
       "distribuidor": 65.25
@@ -5992,8 +5960,8 @@
       "distribuidor": 7
     },
     "741540188374": {
-      "taller": 6.75,
-      "distribuidor": 5.75
+      "taller": 10,
+      "distribuidor": 8
     },
     "741540190120": {
       "taller": 8,

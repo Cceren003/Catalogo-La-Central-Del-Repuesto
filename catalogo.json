@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T01:30:03.134Z",
-  "count": 5711,
+  "generated_at": "2026-11-24T00:41:52.008Z",
+  "count": 5703,
   "productos": [
     {
       "sku": "104105",
@@ -630,42 +630,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100133.png",
       "imagen_size": 65434,
-      "activo": true
-    },
-    {
-      "sku": "741540100406",
-      "nombre": "ARO 1.60*19",
-      "marca": "VINI",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 36.75
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100406.png",
-      "imagen_size": 82723,
-      "activo": true
-    },
-    {
-      "sku": "741540100132",
-      "nombre": "ARO 1.85*17",
-      "marca": "VINI",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 39.25
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100132.png",
-      "imagen_size": 81418,
       "activo": true
     },
     {
@@ -2028,7 +1992,7 @@
       "precios": {
         "publico": 28
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2100,7 +2064,7 @@
       "precios": {
         "publico": 28
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3351,6 +3315,24 @@
       "activo": true
     },
     {
+      "sku": "741540100129",
+      "nombre": "BOMBILLO AD-H4 12V 35W VINI (FL)",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 4.25
+      },
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100129.png",
+      "imagen_size": 86629,
+      "activo": true
+    },
+    {
       "sku": "741540100126",
       "nombre": "BOMBILLO SILVIN 12V35W (SUPER WHITE) VINI (FL)",
       "marca": "VINI",
@@ -4150,9 +4132,9 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 4.25
+        "publico": 9
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -6948,24 +6930,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188463.png",
       "imagen_size": 105391,
-      "activo": true
-    },
-    {
-      "sku": "741540100493",
-      "nombre": "CAJA TRANSMISION CG200 (DSR200)-ASPID CONTRAPESA VINI (FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 61
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100493.png",
-      "imagen_size": 87586,
       "activo": true
     },
     {
@@ -11973,24 +11937,6 @@
       "activo": true
     },
     {
-      "sku": "741540189060",
-      "nombre": "CILINDRO COMPLETO AK150-TTR150-FORZA150-CG150 VARILLA PIN13 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 90
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189060.png",
-      "imagen_size": 101597,
-      "activo": true
-    },
-    {
       "sku": "741540189058",
       "nombre": "CILINDRO COMPLETO AK200SM-SPITZER VARILLA PIN 15 200CC VINI(FL)",
       "marca": "VINI",
@@ -13032,24 +12978,6 @@
       "disponibilidad": "inmediato",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "1003089",
-      "nombre": "CLUTCH TRASERO COMPLETO GY6",
-      "marca": "MEK",
-      "categoria": "REPUESTOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 35.5
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1003089.jpg",
-      "imagen_size": 317169,
       "activo": true
     },
     {
@@ -16626,7 +16554,7 @@
       "precios": {
         "publico": 3
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18048,7 +17976,7 @@
       "precios": {
         "publico": 4
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18702,24 +18630,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188948.png",
       "imagen_size": 41274,
-      "activo": true
-    },
-    {
-      "sku": "741540190383",
-      "nombre": "GUIA CADENA TIEMPO SET GN125H",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8.75
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190383.png",
-      "imagen_size": 73181,
       "activo": true
     },
     {
@@ -21477,24 +21387,6 @@
       "activo": true
     },
     {
-      "sku": "CK032",
-      "nombre": "KIT CILINDRO COMPLETO MOTOR 167FML, 198CC, VARILLA PIN16",
-      "marca": "NRP",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 82.5
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
       "sku": "CK044",
       "nombre": "KIT CILINDRO COMPLETO MOTOR CRF230 166MM, 223CC CADENILLA PIN 15 TORNADO 250",
       "marca": "NRP",
@@ -23032,7 +22924,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 9.5
+        "publico": 13
       },
       "stock_status": "low_stock",
       "disponible": true,
@@ -24354,24 +24246,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1004617-1.png",
       "imagen_size": 45182,
-      "activo": true
-    },
-    {
-      "sku": "2000009",
-      "nombre": "KIT TAPADERA LATERAL GN150 NEGRO",
-      "marca": "MEK",
-      "categoria": "ACCESORIOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 14
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/2000009.png",
-      "imagen_size": 37193,
       "activo": true
     },
     {
@@ -30298,7 +30172,7 @@
     },
     {
       "sku": "FS039",
-      "nombre": "PIÑON 13T AK 200 / MOTO CHINA 200",
+      "nombre": "PIÑON 13T AK 200 / DY-250R MOTO CHINA 200 PASO 520",
       "marca": "NRP",
       "categoria": "PIÑONES",
       "presentacion": "UNIDAD",
@@ -32790,7 +32664,7 @@
       "precios": {
         "publico": 11
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -35118,24 +34992,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190012.png",
       "imagen_size": 108139,
-      "activo": true
-    },
-    {
-      "sku": "2000018",
-      "nombre": "RIN DELANTERO GN150  1.60X18/FIRE125/ MOTO  CHINA 125-150",
-      "marca": "MEK",
-      "categoria": "MISELANEA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 90
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/2000018.jpg",
-      "imagen_size": 245920,
       "activo": true
     },
     {
