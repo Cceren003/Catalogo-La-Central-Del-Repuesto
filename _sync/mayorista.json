@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T22:58:22.047Z",
+  "generated_at": "2026-11-25T22:19:56.458Z",
   "note": "Precios mayoristas. Archivo INTERNO del sync. Servido SOLO por /api/catalogo/mayorista tras validar sesión. Bloqueado al público directo por functions/_sync/[[path]].js.",
-  "count": 2184,
+  "count": 2180,
   "precios": {
     "20705": {
       "taller": 16,
@@ -390,10 +390,6 @@
     "1001360": {
       "taller": 29,
       "distribuidor": 24.75
-    },
-    "1001362": {
-      "taller": 38.5,
-      "distribuidor": 32.75
     },
     "1001401": {
       "taller": 6,
@@ -2396,8 +2392,8 @@
       "distribuidor": 2.5
     },
     "THC042": {
-      "taller": 2.75,
-      "distribuidor": 2.25
+      "taller": 3.5,
+      "distribuidor": 3
     },
     "741540188055": {
       "taller": 3,
@@ -6695,10 +6691,6 @@
       "taller": 47.5,
       "distribuidor": 40.5
     },
-    "741540100412": {
-      "taller": 30.5,
-      "distribuidor": 26
-    },
     "741540100242": {
       "taller": 38.5,
       "distribuidor": 32.75
@@ -7467,10 +7459,6 @@
       "taller": 25.75,
       "distribuidor": 22
     },
-    "741540190147": {
-      "taller": 28,
-      "distribuidor": 23.75
-    },
     "SC026": {
       "taller": 29.75,
       "distribuidor": 25.25
@@ -7774,10 +7762,6 @@
     "VR011": {
       "taller": 9.75,
       "distribuidor": 8.25
-    },
-    "VR021": {
-      "taller": 12,
-      "distribuidor": 9
     },
     "VR024": {
       "taller": 5.25,

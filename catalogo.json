@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T22:58:22.040Z",
-  "count": 5692,
+  "generated_at": "2026-11-25T22:19:56.453Z",
+  "count": 5688,
   "productos": [
     {
       "sku": "104105",
@@ -30,7 +30,7 @@
       "precios": {
         "publico": 12
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -2136,7 +2136,7 @@
       "precios": {
         "publico": 28
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -3916,7 +3916,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 3.25
+        "publico": 8
       },
       "stock_status": "low_stock",
       "disponible": true,
@@ -4962,7 +4962,7 @@
       "precios": {
         "publico": 3.75
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -13386,7 +13386,7 @@
       "precios": {
         "publico": 27
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -16734,7 +16734,7 @@
       "precios": {
         "publico": 5
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -16824,7 +16824,7 @@
       "precios": {
         "publico": 7
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -21168,24 +21168,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/1000762.jpg",
       "imagen_size": 264554,
-      "activo": true
-    },
-    {
-      "sku": "1001362",
-      "nombre": "KIT CILINDRO COMPLETO CG200 196CC VARILLA PIN 15",
-      "marca": "MEK",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 47
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001362.jpg",
-      "imagen_size": 102629,
       "activo": true
     },
     {
@@ -27417,24 +27399,6 @@
       "activo": true
     },
     {
-      "sku": "741540100412",
-      "nombre": "MOTOR ARRANQUE GN125H",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 37.25
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540100412.png",
-      "imagen_size": 71797,
-      "activo": true
-    },
-    {
       "sku": "741540100242",
       "nombre": "MOTOR ARRANQUE GY200/CG200/AK200SM-11 DIENTES",
       "marca": "VINI",
@@ -31467,24 +31431,6 @@
       "activo": true
     },
     {
-      "sku": "741540190147",
-      "nombre": "PLANTA FXR200 VINI",
-      "marca": "VINI",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 34.25
-      },
-      "stock_status": "in_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190147.png",
-      "imagen_size": 164552,
-      "activo": true
-    },
-    {
       "sku": "SC026",
       "nombre": "PLANTA FZ 3.0-2.0 / FZ25 / SZ 150D",
       "marca": "NRP",
@@ -33383,24 +33329,6 @@
       "empaque": "1*1",
       "precios": {
         "publico": 11.75
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "",
-      "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "VR021",
-      "nombre": "REGULADOR VOLTAJE XTZ 125 / YBR 125",
-      "marca": "NRP",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 20
       },
       "stock_status": "low_stock",
       "disponible": true,
@@ -35778,7 +35706,7 @@
       "precios": {
         "publico": 22
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
