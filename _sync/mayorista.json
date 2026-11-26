@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T22:19:56.458Z",
+  "generated_at": "2026-11-26T22:13:20.899Z",
   "note": "Precios mayoristas. Archivo INTERNO del sync. Servido SOLO por /api/catalogo/mayorista tras validar sesión. Bloqueado al público directo por functions/_sync/[[path]].js.",
-  "count": 2180,
+  "count": 2175,
   "precios": {
     "20705": {
       "taller": 16,
@@ -2951,10 +2951,6 @@
       "taller": 15.5,
       "distribuidor": 14
     },
-    "741540189013": {
-      "taller": 18,
-      "distribuidor": 16.75
-    },
     "741540100812": {
       "taller": 25,
       "distribuidor": 21.25
@@ -4375,10 +4371,6 @@
       "taller": 23,
       "distribuidor": 19.5
     },
-    "741540190826": {
-      "taller": 23.5,
-      "distribuidor": 20
-    },
     "BD021": {
       "taller": 28.5,
       "distribuidor": 24.25
@@ -5231,10 +5223,6 @@
       "taller": 6,
       "distribuidor": 5
     },
-    "741540189750": {
-      "taller": 5,
-      "distribuidor": 4.25
-    },
     "741540189789": {
       "taller": 114,
       "distribuidor": 11
@@ -5378,10 +5366,6 @@
     "741540189804": {
       "taller": 3,
       "distribuidor": 2.5
-    },
-    "741540189813": {
-      "taller": 5,
-      "distribuidor": 4.25
     },
     "741540189782": {
       "taller": 12.25,
@@ -6350,10 +6334,6 @@
     "LA1A-2808-22": {
       "taller": 34.75,
       "distribuidor": 32.75
-    },
-    "LA1A-2811-22": {
-      "taller": 29.25,
-      "distribuidor": 27.5
     },
     "LA1A-0601-22": {
       "taller": 39,

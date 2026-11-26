@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T22:19:56.453Z",
-  "count": 5688,
+  "generated_at": "2026-11-26T22:13:20.893Z",
+  "count": 5683,
   "productos": [
     {
       "sku": "104105",
@@ -6768,24 +6768,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100121.png",
       "imagen_size": 113973,
-      "activo": true
-    },
-    {
-      "sku": "741540189013",
-      "nombre": "CADENA TRACCION 520HX120 GOLDEN VINI(FL)",
-      "marca": "VINI",
-      "categoria": "CADENAS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 29
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189013.png",
-      "imagen_size": 163491,
       "activo": true
     },
     {
@@ -14349,24 +14331,6 @@
       "activo": true
     },
     {
-      "sku": "741540190826",
-      "nombre": "DISCO FRENO TRAS. XPULSE200-HUNK160-HORNET160",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 28.75
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190826.png",
-      "imagen_size": 88798,
-      "activo": true
-    },
-    {
       "sku": "BD021",
       "nombre": "DISCO FRENO TRASERO APACHE RTR 160-180",
       "marca": "NRP",
@@ -19191,24 +19155,6 @@
       "activo": true
     },
     {
-      "sku": "741540189750",
-      "nombre": "HERRAMIENTA EXTENSION T 8MM VINI",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189750.png",
-      "imagen_size": 36522,
-      "activo": true
-    },
-    {
       "sku": "741540189789",
       "nombre": "HERRAMIENTA EXTRACTOR GXT200-TWISTER-GN / CRUXX 110 REV / FZ 2.0",
       "marca": "VINI",
@@ -19854,24 +19800,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189804.png",
       "imagen_size": 41469,
-      "activo": true
-    },
-    {
-      "sku": "741540189813",
-      "nombre": "HERRAMIENTA VINI LLAVE COMBINADA VT120001",
-      "marca": "VINI",
-      "categoria": "HERRAMIENTA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189813.png",
-      "imagen_size": 36629,
       "activo": true
     },
     {
@@ -23862,7 +23790,7 @@
       "precios": {
         "publico": 7
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -25380,24 +25308,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/LA1A-2808-22.png",
       "imagen_size": 112693,
-      "activo": true
-    },
-    {
-      "sku": "LA1A-2811-22",
-      "nombre": "LLANTA AXUS 110-90-18 DOBLE  PROPOSITO AX923 6PR TL  TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 32
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-2811-22.png",
-      "imagen_size": 111744,
       "activo": true
     },
     {
