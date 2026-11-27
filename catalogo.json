@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T22:13:20.893Z",
-  "count": 5683,
+  "generated_at": "2026-11-27T21:53:40.187Z",
+  "count": 5690,
   "productos": [
     {
       "sku": "104105",
@@ -2584,7 +2584,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.75
+        "publico": 15
       },
       "stock_status": "low_stock",
       "disponible": true,
@@ -2602,7 +2602,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 10.75
+        "publico": 15
       },
       "stock_status": "low_stock",
       "disponible": true,
@@ -7527,6 +7527,24 @@
       "activo": true
     },
     {
+      "sku": "741540190673",
+      "nombre": "CALIPER FRENO DELANTERO HUNK160R-150/IGNITOR125/GLAMOUR VINI",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 45
+      },
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190673.png",
+      "imagen_size": 136403,
+      "activo": true
+    },
+    {
       "sku": "741540190539",
       "nombre": "CALIPER FRENO DELANTERO XR150L-190L",
       "marca": "VINI",
@@ -7632,6 +7650,24 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190679.png",
       "imagen_size": 110973,
+      "activo": true
+    },
+    {
+      "sku": "741540190676",
+      "nombre": "CALIPER FRENO RASERO HUNK160-190R",
+      "marca": "VINI",
+      "categoria": "FRENOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 31
+      },
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190676.png",
+      "imagen_size": 140470,
       "activo": true
     },
     {
@@ -10389,6 +10425,24 @@
       "activo": true
     },
     {
+      "sku": "741540190297",
+      "nombre": "CATARINA DRACO R250",
+      "marca": "VINI",
+      "categoria": "CATARINAS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 16
+      },
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190297.png",
+      "imagen_size": 103521,
+      "activo": true
+    },
+    {
       "sku": "741540178106",
       "nombre": "CATARINA DT 47T 4H VINI(FL)",
       "marca": "VINI",
@@ -10666,7 +10720,7 @@
       "presentacion": "UNIDAD",
       "empaque": "1*1",
       "precios": {
-        "publico": 11.75
+        "publico": 18
       },
       "stock_status": "low_stock",
       "disponible": true,
@@ -10866,7 +10920,7 @@
       "precios": {
         "publico": 13.5
       },
-      "stock_status": "low_stock",
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -12330,6 +12384,24 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100019.png",
       "imagen_size": 95440,
+      "activo": true
+    },
+    {
+      "sku": "741540189054",
+      "nombre": "CILINDRO COMPLETO HERO HUNK 150 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 95
+      },
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189054.png",
+      "imagen_size": 79560,
       "activo": true
     },
     {
@@ -13881,24 +13953,6 @@
       "activo": true
     },
     {
-      "sku": "741540190249",
-      "nombre": "DISCO FRENO DELANT CBF160F HORNET-HUNK200-XPULSE",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 41.25
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540190249.png",
-      "imagen_size": 100341,
-      "activo": true
-    },
-    {
       "sku": "741540190709",
       "nombre": "DISCO FRENO DELANT. XPULSE200-HUNK160-HORNET160",
       "marca": "VINI",
@@ -14166,24 +14220,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190254.png",
       "imagen_size": 117933,
-      "activo": true
-    },
-    {
-      "sku": "741540189207",
-      "nombre": "DISCO FRENO HUNK DELANTERO VINI(FL)",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 33.5
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540189207.png",
-      "imagen_size": 145001,
       "activo": true
     },
     {
@@ -14742,6 +14778,24 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189646.png",
       "imagen_size": 70640,
+      "activo": true
+    },
+    {
+      "sku": "741540188277",
+      "nombre": "EJE LEVAS CG125/CG150/CG200 VINI HOT PARTS",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 55
+      },
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188277.png",
+      "imagen_size": 108115,
       "activo": true
     },
     {
@@ -17013,6 +17067,24 @@
       "activo": true
     },
     {
+      "sku": "741540190235",
+      "nombre": "FILTRO AIRE FZ3.00",
+      "marca": "VINI",
+      "categoria": "FILTROS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 11
+      },
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190235.png",
+      "imagen_size": 76893,
+      "activo": true
+    },
+    {
       "sku": "741540190246",
       "nombre": "FILTRO AIRE FZN250 / FZ25",
       "marca": "VINI",
@@ -17130,7 +17202,7 @@
       "precios": {
         "publico": 9
       },
-      "stock_status": "low_stock",
+      "stock_status": "in_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -18615,6 +18687,24 @@
       "activo": true
     },
     {
+      "sku": "741540188485",
+      "nombre": "GUIA CADENA TIEMPO SET XR150L-HUNK150-CBF150 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 13.5
+      },
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188485.png",
+      "imagen_size": 77968,
+      "activo": true
+    },
+    {
       "sku": "741540189513",
       "nombre": "GUIA CADENA TIEMPO SET XTZ125",
       "marca": "VINI",
@@ -19659,6 +19749,24 @@
       "activo": true
     },
     {
+      "sku": "741540189758",
+      "nombre": "HERRAMIENTA VINI DESTORNI- IMPACTO UNIVERSAL",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 26.25
+      },
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189758.png",
+      "imagen_size": 93888,
+      "activo": true
+    },
+    {
       "sku": "741540189799",
       "nombre": "HERRAMIENTA VINI DESTORNILLADOR 6*150-",
       "marca": "VINI",
@@ -20088,6 +20196,24 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189820.png",
       "imagen_size": 87230,
+      "activo": true
+    },
+    {
+      "sku": "741540189821",
+      "nombre": "HERRAMIENTA VINI UÑA AJUSTE MONOSHOK 45-50MM",
+      "marca": "VINI",
+      "categoria": "HERRAMIENTA",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5.5
+      },
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189821.png",
+      "imagen_size": 41690,
       "activo": true
     },
     {
@@ -20610,6 +20736,24 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189824.png",
       "imagen_size": 93443,
+      "activo": true
+    },
+    {
+      "sku": "741540188216",
+      "nombre": "KIT BALANCIN HUNK/XR150L / BENELLI 150 / DY200",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 26
+      },
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188216.png",
+      "imagen_size": 96798,
       "activo": true
     },
     {
@@ -22464,6 +22608,24 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188367.png",
       "imagen_size": 98899,
+      "activo": true
+    },
+    {
+      "sku": "741540188368",
+      "nombre": "KIT EMPAQUE GY150 VINI(FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 8.5
+      },
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188368.png",
+      "imagen_size": 91872,
       "activo": true
     },
     {
@@ -26553,6 +26715,24 @@
       "activo": true
     },
     {
+      "sku": "741540188705",
+      "nombre": "MANIFUL CG125/150 FIRE125 VINI (FL)",
+      "marca": "VINI",
+      "categoria": "MOTOR",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7
+      },
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540188705.png",
+      "imagen_size": 81303,
+      "activo": true
+    },
+    {
       "sku": "1001062",
       "nombre": "MANIFUL CHINO TODO TERRENO",
       "marca": "MEK",
@@ -28101,6 +28281,24 @@
       "activo": true
     },
     {
+      "sku": "741540100370",
+      "nombre": "PASTILLA FRENO DEL PULSAR 180,   DISCOVERY 125",
+      "marca": "VINI",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 5.5
+      },
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540100370.png",
+      "imagen_size": 125314,
+      "activo": true
+    },
+    {
       "sku": "741540100367",
       "nombre": "PASTILLA FRENO DEL YUMBO DK VINI (FL)",
       "marca": "VINI",
@@ -28236,7 +28434,7 @@
       "precios": {
         "publico": 7
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -28368,6 +28566,24 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540188800.png",
       "imagen_size": 119419,
+      "activo": true
+    },
+    {
+      "sku": "741540190173",
+      "nombre": "PASTILLA FRENO PULSAR 160 VINI",
+      "marca": "VINI",
+      "categoria": "PASTILLA DE FRENO",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 7
+      },
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540190173.png",
+      "imagen_size": 127268,
       "activo": true
     },
     {
@@ -30801,24 +31017,6 @@
       "activo": true
     },
     {
-      "sku": "741540178004",
-      "nombre": "PIÑON ATAQUE XL 16T VINI (FL)",
-      "marca": "VINI",
-      "categoria": "PIÑONES",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 6
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540178004.png",
-      "imagen_size": 88048,
-      "activo": true
-    },
-    {
       "sku": "741540190915",
       "nombre": "PIÑON ATAQUE XR150L / HUNK150 14T-428",
       "marca": "VINI",
@@ -30942,24 +31140,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100404.png",
       "imagen_size": 101850,
-      "activo": true
-    },
-    {
-      "sku": "1001582",
-      "nombre": "PITO PLATO PEQ 12V UNIVERSAL",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.5
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001582.png",
-      "imagen_size": 29883,
       "activo": true
     },
     {
@@ -31482,6 +31662,24 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189448.png",
       "imagen_size": 136255,
+      "activo": true
+    },
+    {
+      "sku": "741540189425",
+      "nombre": "PLANTA HUNK-INVICTA150-XR150 VINI",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 32.5
+      },
+      "stock_status": "low_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "imagenes/741540189425.png",
+      "imagen_size": 140669,
       "activo": true
     },
     {
@@ -32112,24 +32310,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540100130.png",
       "imagen_size": 33366,
-      "activo": true
-    },
-    {
-      "sku": "1001283",
-      "nombre": "PRENSA CLUTCH COMPLETA  4T5D CG125-CG150 73 DIENTES",
-      "marca": "MEK",
-      "categoria": "EMBRAGUE",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 45
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001283.jpg",
-      "imagen_size": 489856,
       "activo": true
     },
     {
@@ -33426,6 +33606,24 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540190388.png",
       "imagen_size": 88998,
+      "activo": true
+    },
+    {
+      "sku": "741540191178",
+      "nombre": "RELAY START NAVI110",
+      "marca": "VINI",
+      "categoria": "ELECTRICOS",
+      "presentacion": "UNIDAD",
+      "empaque": "1*1",
+      "precios": {
+        "publico": 9
+      },
+      "stock_status": "in_stock",
+      "disponible": true,
+      "bodega_central": false,
+      "disponibilidad": "inmediato",
+      "imagen": "",
+      "imagen_size": 0,
       "activo": true
     },
     {
@@ -36324,24 +36522,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540162806.png",
       "imagen_size": 78800,
-      "activo": true
-    },
-    {
-      "sku": "1000998",
-      "nombre": "SWITCH ARRANQUE RH BROSS CHINA TODO TERRENO",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 5.75
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1000998.jpg",
-      "imagen_size": 156833,
       "activo": true
     },
     {
@@ -55101,24 +55281,6 @@
       "activo": true
     },
     {
-      "sku": "741540190673",
-      "nombre": "CALIPER FRENO DELANTERO HUNK160R/IGNITOR125/GLAMOUR  VINI",
-      "marca": "VINI",
-      "categoria": "FRENOS",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null
-      },
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "imagen": "imagenes/741540190673.png",
-      "imagen_size": 136403,
-      "activo": true
-    },
-    {
       "sku": "741540190674",
       "nombre": "CALIPER FRENO DELANTERO XPULSE200/HUNK 190R/THRILLER 200R VINI",
       "marca": "VINI",
@@ -61056,24 +61218,6 @@
       "disponibilidad": "a_pedido",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540188277",
-      "nombre": "EJE LEVA CG125/CG150/CG200 VINI HOT PARTS",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null
-      },
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "imagen": "imagenes/741540188277.png",
-      "imagen_size": 108115,
       "activo": true
     },
     {
@@ -67590,24 +67734,6 @@
       "disponibilidad": "a_pedido",
       "imagen": "",
       "imagen_size": 0,
-      "activo": true
-    },
-    {
-      "sku": "741540188368",
-      "nombre": "KIT EMPAQUE GY150 VINI",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UND",
-      "empaque": "",
-      "precios": {
-        "publico": null
-      },
-      "stock_status": "out_of_stock",
-      "disponible": false,
-      "bodega_central": true,
-      "disponibilidad": "a_pedido",
-      "imagen": "imagenes/741540188368.png",
-      "imagen_size": 91872,
       "activo": true
     },
     {
