@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T21:53:40.187Z",
-  "count": 5690,
+  "generated_at": "2026-11-28T20:50:22.021Z",
+  "count": 5686,
   "productos": [
     {
       "sku": "104105",
@@ -2082,7 +2082,7 @@
       "precios": {
         "publico": 23
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -7734,7 +7734,7 @@
       "precios": {
         "publico": 3
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -22125,24 +22125,6 @@
       "activo": true
     },
     {
-      "sku": "741540188602",
-      "nombre": "KIT EMPAQUE APACHE RTR 160 VINI(FL)",
-      "marca": "VINI",
-      "categoria": "MOTOR",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 9.5
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/741540188602.png",
-      "imagen_size": 105509,
-      "activo": true
-    },
-    {
       "sku": "741540188606",
       "nombre": "KIT EMPAQUE APACHE RTR 180 VINI(FL)",
       "marca": "VINI",
@@ -25761,24 +25743,6 @@
       "activo": true
     },
     {
-      "sku": "LA1A-2810-22",
-      "nombre": "LLANTA AXUS 90-90-18 DOBLE  PROPOSITO AX923 6PR TL  TUBULAR",
-      "marca": "AXUS",
-      "categoria": "LLANTAS Y TUBOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 30
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/LA1A-2810-22.png",
-      "imagen_size": 112048,
-      "activo": true
-    },
-    {
       "sku": "LA1A-0702-22",
       "nombre": "LLANTA AXUS 90-90-18 LISA AX4418 DESPORTIVAS",
       "marca": "AXUS",
@@ -25956,24 +25920,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540189935.png",
       "imagen_size": 65414,
-      "activo": true
-    },
-    {
-      "sku": "1001515",
-      "nombre": "LLAVIN IGNICIO CG125 XL 125 GXT200",
-      "marca": "MEK",
-      "categoria": "ELECTRICOS",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 7.75
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/1001515.png",
-      "imagen_size": 38196,
       "activo": true
     },
     {
@@ -31134,7 +31080,7 @@
       "precios": {
         "publico": 8
       },
-      "stock_status": "in_stock",
+      "stock_status": "low_stock",
       "disponible": true,
       "bodega_central": false,
       "disponibilidad": "inmediato",
@@ -34614,24 +34560,6 @@
       "disponibilidad": "inmediato",
       "imagen": "imagenes/741540187959.png",
       "imagen_size": 65353,
-      "activo": true
-    },
-    {
-      "sku": "FOS004",
-      "nombre": "RETENEDOR BARRA 32X44X10.5 NRP",
-      "marca": "NRP",
-      "categoria": "SELLO BARRA",
-      "presentacion": "UNIDAD",
-      "empaque": "1*1",
-      "precios": {
-        "publico": 8
-      },
-      "stock_status": "low_stock",
-      "disponible": true,
-      "bodega_central": false,
-      "disponibilidad": "inmediato",
-      "imagen": "imagenes/FOS004.jpg",
-      "imagen_size": 9563,
       "activo": true
     },
     {

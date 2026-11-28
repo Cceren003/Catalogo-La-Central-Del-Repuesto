@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T21:53:40.194Z",
+  "generated_at": "2026-11-28T20:50:22.028Z",
   "note": "Precios mayoristas. Archivo INTERNO del sync. Servido SOLO por /api/catalogo/mayorista tras validar sesión. Bloqueado al público directo por functions/_sync/[[path]].js.",
-  "count": 2185,
+  "count": 2181,
   "precios": {
     "20705": {
       "taller": 16,
@@ -406,10 +406,6 @@
     "1001479": {
       "taller": 5,
       "distribuidor": 4.25
-    },
-    "1001515": {
-      "taller": 4.5,
-      "distribuidor": 4
     },
     "1001519": {
       "taller": 6.75,
@@ -5803,10 +5799,6 @@
       "taller": 7.75,
       "distribuidor": 6.5
     },
-    "741540188602": {
-      "taller": 7.75,
-      "distribuidor": 6.5
-    },
     "741540188606": {
       "taller": 9,
       "distribuidor": 7.5
@@ -6422,10 +6414,6 @@
     "LA1A-0701-22": {
       "taller": 33.75,
       "distribuidor": 31.5
-    },
-    "LA1A-2810-22": {
-      "taller": 27.5,
-      "distribuidor": 25.75
     },
     "LA1A-0702-22": {
       "taller": 31,
@@ -8026,10 +8014,6 @@
     "741540187959": {
       "taller": 2.25,
       "distribuidor": 2
-    },
-    "FOS004": {
-      "taller": 4,
-      "distribuidor": 3.5
     },
     "FOS015": {
       "taller": 4,
